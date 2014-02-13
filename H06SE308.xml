@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>特定物質の規制等によるオゾン層の保護に関する法律施行令</title>
+    <defined>平成六年九月二十六日政令第三百八号</defined>
+    <updated>平成二三年一二月九日政令第三八八号</updated>
+  </head>
+  <body>
+    <preamble><p>内閣は、特定物質の規制等によるオゾン層の保護に関する法律（昭和六十三年法律第五十三号）第二条第一項から第三項まで、第四条第一項第四号、第十八条、第十九条及び第三十四条の規定に基づき、この政令を制定する。</p></preamble>
+    <content>
+      <articles number="第一条">
+        <article_item number="第一条">
+          特定物質の規制等によるオゾン層の保護に関する法律（以下「法」という。）第二条第一項の特定物質は、別表の中欄に掲げるとおりとする。
+        </article_item>
+        <article_item number="２">
+          法第二条第二項の特定物質の種類は、別表の上欄に掲げるとおりとする。
+        </article_item>
+        <article_item number="３">
+          法第二条第三項の政令で定めるオゾン破壊係数は、別表の中欄に掲げる特定物質ごとにそれぞれ同表の下欄に掲げるとおりとする。
+        </article_item>
+      </articles>
+      <articles number="第二条">
+        <article_item number="第二条">
+          法第四条第一項第四号の政令で定める一定数量以下の特定物質は、オゾン層を破壊する物質に関するモントリオール議定書（以下「議定書」という。）附属書ＣのグループＩに属する特定物質の数量の合計が一規制年度につき一キログラム以下の当該種類に属する特定物質とする。 
+        </article_item>
+      </articles>
+      <articles number="第三条">
+        <article_item number="第三条">
+          法第十三条第一項の政令で定める特定物質は臭化メチルとし、同項の政令で定める用途は貨物の輸出入に際して行う検疫とする。
+        </article_item>
+      </articles>
+      <articles number="第四条">
+        <article_item number="第四条">
+          法第十三条第三項の政令で定める場合は、その製造する検疫用臭化メチルくん蒸剤について農薬取締法（昭和二十三年法律第八十二号）第二条第一項の登録を受けた臭化メチルの製造業者が、当該登録に係る検疫用臭化メチルくん蒸剤の容器に貨物の輸出入に際して行う検疫以外の用途に使用してはならない旨の表示をして、これを他の者に売り渡す場合とする。
+        </article_item>
+      </articles>
+      <articles number="第五条">
+        <article_item number="第五条">
+          法第二十八条の二第一項第一号の政令で定める特定物質は、臭化メチルとする。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

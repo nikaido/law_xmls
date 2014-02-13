@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>日本学術会議事務局組織規則</title>
+    <defined>平成十七年五月二十三日日本学術会議規則第一号</defined>
+  </head>
+  <body>
+    <preamble><p>日本学術会議法（昭和二十三年法律第百二十一号）第二十八条の規定に基づき、日本学術会議事務局組織規則を次のように定める。</p></preamble>
+    <content>
+      <articles number="第一条">
+        <article_item number="第一条">
+          日本学術会議の運営においては、事務局長を事務総長と称する。
+        </article_item>
+        <article_item number="２">
+          事務局長は、会長及び副会長の職務を助け、日本学術会議の運営に参画し、事務局の事務を統理する。
+        </article_item>
+        <article_item number="３">
+          事務局長は、会長及び副会長共に事故のあるとき又は共に欠けたときは、臨時に会長の職務を行う。
+        </article_item>
+        <article_item number="４">
+          事務局長は、総会及び幹事会において議長を補佐し、必要な場合には意見を述べることができる。
+        </article_item>
+        <article_item number="５">
+          事務局長は、部会、連合部会及び委員会に出席し意見を述べることができる。
+        </article_item>
+      </articles>
+      <articles number="第二条">
+        <article_item number="第二条">
+          事務局に、次長一人を置く。
+        </article_item>
+        <article_item number="２">
+          次長は、事務局長を助け、事務局の所掌事務に係る重要事項に関する事務を総括整理する。
+        </article_item>
+      </articles>
+      <articles number="第三条">
+        <article_item number="第三条">
+          事務局に、企画課、管理課及び参事官三人を置く。
+        </article_item>
+      </articles>
+      <articles number="第四条">
+        <article_item number="第四条">
+          企画課は、次に掲げる事務をつかさどる。
+          <go>
+            <go_item number="一">
+              事務局の所掌事務に関する総合調整に関すること。
+            </go_item>
+            <go_item number="二">
+              事務局の機構に関すること。
+            </go_item>
+            <go_item number="三">
+              法令案その他公文書類の審査及び進達に関すること。
+            </go_item>
+            <go_item number="四">
+              日本学術会議の保有する情報の公開に関すること。
+            </go_item>
+            <go_item number="五">
+              日本学術会議の保有する個人情報の保護に関すること。
+            </go_item>
+            <go_item number="六">
+              政府からの諮問及び政府への答申並びに勧告及び提言事項に関すること。
+            </go_item>
+            <go_item number="七">
+              政府に対し資料の提出、意見の開陳又は説明を求める事項に関すること。
+            </go_item>
+            <go_item number="八">
+              総会及び幹事会に関すること。
+            </go_item>
+            <go_item number="九">
+              科学に関する重要事項の調査及び企画に関すること。
+            </go_item>
+            <go_item number="十">
+              広報に関すること。
+            </go_item>
+            <go_item number="十一">
+              総合科学技術会議及び関係機関並びに学術研究団体等との連絡調整に関すること。
+            </go_item>
+            <go_item number="十二">
+              日本学術会議会員、日本学術会議連携会員及び委員会委員の選考に関すること。
+            </go_item>
+            <go_item number="十三">
+              第六号、第七号、第十号及び前号に規定する事務に係る委員会に関すること。
+            </go_item>
+            <go_item number="十四">
+              学術関係資料及び情報の収集、交換、整理及び利用に関すること。
+            </go_item>
+            <go_item number="十五">
+              国立国会図書館支部日本学術会議図書館に関すること。
+            </go_item>
+            <go_item number="十六">
+              職員の人事に関すること。
+            </go_item>
+            <go_item number="十七">
+              前各号に掲げるもののほか、事務局の所掌事務で他に属しないものに関すること。
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第五条">
+        <article_item number="第五条">
+          管理課は、次に掲げる事務をつかさどる。
+          <go>
+            <go_item number="一">
+              機密に関すること。
+            </go_item>
+            <go_item number="二">
+              官印及び公印に関すること。
+            </go_item>
+            <go_item number="三">
+              公文書類の接受、発送、編集及び保存に関すること。
+            </go_item>
+            <go_item number="四">
+              日本学術会議会員、日本学術会議連携会員及び委員会委員の人事に関すること（前条第十二号に掲げる事務を除く。）。
+            </go_item>
+            <go_item number="五">
+              職員の福利厚生に関すること。
+            </go_item>
+            <go_item number="六">
+              日本学術会議の所掌に係る経費及び収入の予算、決算及び会計並びに会計の監査に関すること。
+            </go_item>
+            <go_item number="七">
+              物品の管理、営繕及び契約に関すること。
+            </go_item>
+            <go_item number="八">
+              庁内の管理に関すること。
+            </go_item>
+            <go_item number="九">
+              第六号に規定する事務に係る委員会に関すること。
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第六条">
+        <article_item number="第六条">
+          参事官は、命を受けて、次に掲げる事務を分掌する。
+          <go>
+            <go_item number="一">
+              科学に関する重要事項の審議に関すること。
+            </go_item>
+            <go_item number="二">
+              部会、連合部会及び委員会に関すること（企画課及び管理課の所掌に係るものを除く。）。
+            </go_item>
+            <go_item number="三">
+              国際会議の開催、国際学術交流等国際業務に関すること。
+            </go_item>
+            <go_item number="四">
+              前三号に掲げるもののほか、特に命ぜられた事項に関すること。
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

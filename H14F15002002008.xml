@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>使用済自動車の再資源化等に関する法律施行令第一条第五号の特殊の用途に使用する自動車を定める省令</title>
+    <defined>平成十四年十二月二十日経済産業省・環境省令第八号</defined>
+    <updated>平成一六年九月三〇日経済産業省・環境省令第七号</updated>
+  </head>
+  <body>
+    <preamble><p>使用済自動車の再資源化等に関する法律施行令（平成十四年政令第三百八十九号）第一条第五号の規定に基づき、使用済自動車の再資源化等に関する法律施行令第一条第五号の特殊の用途に使用する自動車を定める省令を次のように定める。</p></preamble>
+    <content>
+      <articles>
+        <article_item>
+          使用済自動車の再資源化等に関する法律施行令第一条第五号の主務省令で定めるものは、次のとおりとする。
+          <go>
+            <go_item number="一">
+              ホイール式高所作業車
+            </go_item>
+            <go_item number="二">
+              無人搬送車
+            </go_item>
+            <go_item number="三">
+              構内けん引車
+            </go_item>
+            <go_item number="四">
+              走行台車（道路以外の場所のみにおいて用いるものであって、運搬の用に供するものに限る。）
+            </go_item>
+            <go_item number="五">
+              重ダンプトラック
+            </go_item>
+            <go_item number="六">
+              ドリルジャンボ（鑿岩機を支持するアームが二本以上のものに限る。）
+            </go_item>
+            <go_item number="七">
+              コンクリート吹付機
+            </go_item>
+            <go_item number="八">
+              非屈折式ロードヒータ
+            </go_item>
+            <go_item number="九">
+              ゴルフカー
+            </go_item>
+            <go_item number="十">
+              遊戯用自動車
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

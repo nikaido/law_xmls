@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>あへんの売渡価格を定める政令</title>
+    <defined>昭和二十九年十月十二日政令第二百八十一号</defined>
+    <updated>平成九年三月二四日政令第五七号</updated>
+  </head>
+  <body>
+    <preamble><p>内閣は、あへん法（昭和二十九年法律第七十一号）第三十五条第一項の規定に基き、この政令を制定する。</p></preamble>
+    <content>
+      <articles>
+        <article_item>
+          あへん法第三十五条第一項の売渡価格は、あへんに含まれるモルヒネ一キログラムにつき二十万二千五百円とする。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

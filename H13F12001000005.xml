@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>婦人補導院組織規則</title>
+    <defined>平成十三年一月六日法務省令第五号</defined>
+  </head>
+  <body>
+    <preamble><p>法務省設置法（平成十一年法律第九十三号）第十二条第三項の規定に基づき、及び同法を実施するため、婦人補導院組織規程の全部を改正する命令を次のように定める。</p></preamble>
+    <content>
+      <articles number="第一条">
+        <article_item number="第一条">
+          婦人補導院の名称及び位置は、別表のとおりとする。
+        </article_item>
+      </articles>
+      <articles number="第二条">
+        <article_item number="第二条">
+          婦人補導院に、院長を置く。
+        </article_item>
+        <article_item number="２">
+          院長は、婦人補導院の事務を掌理する。
+        </article_item>
+      </articles>
+      <articles number="第三条">
+        <article_item number="第三条">
+          婦人補導院に、補導課を置く。
+        </article_item>
+      </articles>
+      <articles number="第四条">
+        <article_item number="第四条">
+          補導課は、次に掲げる事務をつかさどる。
+          <go>
+            <go_item number="一">
+              公文書類の接受、発送、編集及び保存に関すること。
+            </go_item>
+            <go_item number="二">
+              人事に関すること。
+            </go_item>
+            <go_item number="三">
+              経理に関すること。
+            </go_item>
+            <go_item number="四">
+              統計に関すること。
+            </go_item>
+            <go_item number="五">
+              入院、退院及び仮退院に関すること。
+            </go_item>
+            <go_item number="六">
+              資質及び環境の調査並びに分類に関すること。
+            </go_item>
+            <go_item number="七">
+              処遇に関すること。
+            </go_item>
+            <go_item number="八">
+              補導に関すること。
+            </go_item>
+            <go_item number="九">
+              給養に関すること。
+            </go_item>
+            <go_item number="十">
+              保健、衛生、防疫、医療及び薬剤に関すること。
+            </go_item>
+            <go_item number="十一">
+              面会及び通信に関すること。
+            </go_item>
+            <go_item number="十二">
+              保安に関すること。
+            </go_item>
+            <go_item number="十三">
+              領置に関すること。
+            </go_item>
+            <go_item number="十四">
+              前各号に掲げるもののほか、婦人補導院の所掌に属するものに関すること。
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第五条">
+        <article_item number="第五条">
+          この省令に定めるもののほか、婦人補導院に関し必要な事項は、院長が定める。
+        </article_item>
+        <article_item number="２">
+          院長は、前項の規定に基づき、事務分掌その他組織の細目を定めようとするときは、法務大臣の承認を受けなければならない。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

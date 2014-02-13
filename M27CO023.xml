@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>明治二十七年勅令第二十三号（大婚二十五年祝典之章制定ノ件）</title>
+    <defined>明治二十七年三月六日勅令第二十三号</defined>
+  </head>
+  <body>
+    <content>
+      <articles number="第一条">
+        <article_item number="第一条">
+          大婚二十五年祝典之章ハ金銀ノ両種トス
+        </article_item>
+      </articles>
+      <articles number="第二条">
+        <article_item number="第二条">
+          祝典之章ハ大婚二十五年祝典ノ当日召ニ依リ参内シタル者ニ頒賜ス
+        </article_item>
+      </articles>
+      <articles number="第三条">
+        <article_item number="第三条">
+          祝典之章ノ図式左ノ如シ
+          　　　章　<DIVERG>円形径九分余金若クハ銀輪廓内表面ニ菊御紋ト雙鶴松ヲ銜ミ左右交架藤花ノ図、裏面ニ大婚二十五年祝典之章、大日本帝国、明治二十七年三月ノ二十三字ヲ識ス</DIVERG><br></br>
+          　　　環　円形金若クハ銀<br></br>
+          綬　紅色、中央ニ黄線一条ヲ交フ<br></br>
+        </article_item>
+      </articles>
+      <articles number="第四条">
+        <article_item number="第四条">
+          祝典之章ハ本人ニ限リ終身之ヲ佩用シ子孫之ヲ保存スルコトヲ許ス其ノ没収ニ関シテハ明治十四年第六十三号布告褒章条例ニ依ル
+          　　　　　祝典之章ノ図<br></br>
+          　　　　　佩用式<br></br>
+          　　一　綬ヲ用ヰテ左胸ニ佩フ但婦人ハ蝶結ヲ用ウ<br></br>
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

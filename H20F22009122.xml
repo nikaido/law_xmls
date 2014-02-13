@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>人事院規則九―一二二（専門スタッフ職調整手当） </title>
+    <defined>平成二十年二月一日人事院規則九―一二二</defined>
+    <updated>平成二二年一一月三〇日人事院規則九―一二二―一</updated>
+  </head>
+  <body>
+    <preamble><p>人事院は、一般職の職員の給与に関する法律（昭和二十五年法律第九十五号）に基づき、専門スタッフ職調整手当に関し次の人事院規則を制定する。</p></preamble>
+    <content>
+      <articles number="第一条">
+        <article_item number="第一条">
+          専門スタッフ職調整手当の支給については、別に定める場合を除き、この規則の定めるところによる。
+        </article_item>
+      </articles>
+      <articles number="第二条">
+        <article_item number="第二条">
+          給与法第十条の五第一項の人事院規則で定める業務は、次に掲げる業務その他の業務（人事院が定めるものに限る。）とする。
+          <go>
+            <go_item number="一">
+              行政の特定の分野における極めて高度の専門的な知識経験及び識見を活用して調査、研究、情報の分析等を行うことが必要とされる特に重要な政策の企画及び立案等を支援する業務で重要度及び困難度が特に高いもの
+            </go_item>
+            <go_item number="二">
+              行政の特定の分野における極めて高度の専門的な知識経験及び識見を活用して調査、研究、情報の分析等を行うことが必要とされる特に重要な他国又は国際機関との交渉等を支援する業務で重要度及び困難度が特に高いもの
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第三条">
+        <article_item number="第三条">
+          給与法第十条の五第二項の規定による専門スタッフ職調整手当の月額に一円未満の端数があるときは、その端数を切り捨てた額をもって当該専門スタッフ職調整手当の月額とする。
+        </article_item>
+      </articles>
+      <articles number="第四条">
+        <article_item number="第四条">
+          この規則に定めるもののほか、専門スタッフ職調整手当に関し必要な事項は、人事院が定める。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

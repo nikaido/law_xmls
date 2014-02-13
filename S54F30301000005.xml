@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>管区警察学校の各部の内部組織に関する規則</title>
+    <defined>昭和五十四年四月四日国家公安委員会規則第五号</defined>
+    <updated>平成二五年四月一日国家公安委員会規則第五号</updated>
+  </head>
+  <body>
+    <preamble><p>警察法施行規則（昭和二十九年総理府令第四十四号）第四十九条第六項の規定に基づき、管区警察学校の各部の内部組織に関する規則を次のように定める。</p></preamble>
+    <content>
+      <articles number="第一条">
+        <article_item number="第一条">
+          四国管区警察学校の教務部に、教務科及び実務教官室を置く。
+        </article_item>
+        <article_item number="２">
+          東北管区警察学校、中部管区警察学校、中国管区警察学校及び九州管区警察学校の教務部に、次の１科及び２教官室を置く。
+          　教務科<br></br>
+          　生活安全刑事教官室<br></br>
+          　交通警備教官室<br></br>
+        </article_item>
+        <article_item number="３">
+          近畿管区警察学校の教務部に、次の１科及び４教官室を置く。
+          　教務科<br></br>
+          　生活安全教官室<br></br>
+          　刑事教官室<br></br>
+          　交通教官室<br></br>
+          　警備教官室<br></br>
+        </article_item>
+        <article_item number="４">
+          関東管区警察学校の教務部に、次の２科及び５教官室を置く。
+          　教務科<br></br>
+          　初任幹部教養科<br></br>
+          　生活安全教官室<br></br>
+          　地域教官室<br></br>
+          　刑事教官室<br></br>
+          　交通教官室<br></br>
+          　警備教官室<br></br>
+        </article_item>
+      </articles>
+      <articles number="第二条">
+        <article_item number="第二条">
+          教務科においては、次に掲げる事務（関東管区警察学校の教務科にあつては、初任幹部教養科の所掌に属するものを除く。）をつかさどる。
+          <go>
+            <go_item number="一">
+              教育訓練計画の策定に関すること。
+            </go_item>
+            <go_item number="二">
+              教養効果測定の総括に関すること。
+            </go_item>
+            <go_item number="三">
+              学籍簿その他の記録に関すること。
+            </go_item>
+            <go_item number="四">
+              前各号に掲げるもののほか、部内の他の所掌に属しない事務に関すること。
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第二条の二">
+        <article_item number="第二条の二">
+          初任幹部教養科においては、国家公務員採用一般職試験（大卒程度試験）により採用した警察官の教育訓練に係る事務（部内の他の教官室の所掌に属するものを除く。）で次に掲げるものをつかさどる。 
+          <go>
+            <go_item number="一">
+              教育訓練計画の策定に関すること。
+            </go_item>
+            <go_item number="二">
+              教養効果測定の総括に関すること。
+            </go_item>
+            <go_item number="三">
+              学籍簿その他の教務の記録に関すること。
+            </go_item>
+            <go_item number="四">
+              教育訓練に関すること。
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第三条">
+        <article_item number="第三条">
+          実務教官室においては、次に掲げる事項に関する教育訓練を行う。
+          <go>
+            <go_item number="一">
+              犯罪、事故その他の事案に係る市民生活の安全と平穏、地域警察その他の警ら、犯罪の予防及び保安警察
+            </go_item>
+            <go_item number="二">
+              刑事警察、犯罪鑑識、犯罪統計、暴力団対策、薬物及び銃器に関する犯罪の取締り、組織犯罪の取締り（刑事局の所掌に係るものに限る。）、犯罪による収益の移転防止並びに国際捜査共助
+            </go_item>
+            <go_item number="三">
+              交通警察
+            </go_item>
+            <go_item number="四">
+              警備警察、警衛、警護及び警備実施（雑踏警備を除く。）
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第四条">
+        <article_item number="第四条">
+          生活安全刑事教官室においては、前条第一号及び第二号に掲げる事項に関する教育訓練を行う。
+        </article_item>
+      </articles>
+      <articles number="第五条">
+        <article_item number="第五条">
+          交通警備教官室においては、第三条第三号及び第四号に掲げる事項に関する教育訓練を行う。
+        </article_item>
+      </articles>
+      <articles number="第六条">
+        <article_item number="第六条">
+          近畿管区警察学校の生活安全教官室においては、第三条第一号に掲げる事項に関する教育訓練を行う。
+        </article_item>
+        <article_item number="２">
+          関東管区警察学校の生活安全教官室においては、犯罪、事故その他の事案に係る市民生活の安全と平穏、犯罪の予防及び保安警察に関する教育訓練を行う。
+        </article_item>
+      </articles>
+      <articles number="第七条">
+        <article_item number="第七条">
+          刑事教官室においては、第三条第二号に掲げる事項に関する教育訓練を行う。
+        </article_item>
+      </articles>
+      <articles number="第八条">
+        <article_item number="第八条">
+          交通教官室においては、第三条第三号に掲げる事項に関する教育訓練を行う。
+        </article_item>
+      </articles>
+      <articles number="第九条">
+        <article_item number="第九条">
+          警備教官室においては、第三条第四号に掲げる事項に関する教育訓練を行う。
+        </article_item>
+      </articles>
+      <articles number="第十条">
+        <article_item number="第十条">
+          地域教官室においては、地域警察その他の警らに関する教育訓練を行う。
+        </article_item>
+      </articles>
+      <articles number="第十一条">
+        <article_item number="第十一条">
+          東北管区警察学校、中部管区警察学校、中国管区警察学校、四国管区警察学校及び九州管区警察学校の指導部に、学生科及び警務術科教官室を置く。
+        </article_item>
+        <article_item number="２">
+          関東管区警察学校及び近畿管区警察学校の指導部に、次の１科及び２教官室を置く。
+          　学生科<br></br>
+          　警務教官室<br></br>
+          　術科教官室<br></br>
+        </article_item>
+      </articles>
+      <articles number="第十二条">
+        <article_item number="第十二条">
+          学生科においては、次に掲げる事務をつかさどる。
+          <go>
+            <go_item number="一">
+              学生の身上に関すること。
+            </go_item>
+            <go_item number="二">
+              学生の課外活動及び学生生活に関すること。
+            </go_item>
+            <go_item number="三">
+              学生寮の運営に関すること。
+            </go_item>
+            <go_item number="四">
+              前各号に掲げるもののほか、部内の他の所掌に属しない事務に関すること。
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第十三条">
+        <article_item number="第十三条">
+          警務術科教官室においては、警察職員としての服務及び監督指導並びに術科及び自動車操法に関する教育訓練を行う。
+        </article_item>
+      </articles>
+      <articles number="第十四条">
+        <article_item number="第十四条">
+          警務教官室においては、警察職員としての服務及び監督指導に関する教育訓練を行う。
+        </article_item>
+      </articles>
+      <articles number="第十五条">
+        <article_item number="第十五条">
+          術科教官室においては、術科及び自動車操法に関する教育訓練を行う。
+        </article_item>
+      </articles>
+      <articles number="第十六条">
+        <article_item number="第十六条">
+          科に科長を、教官室に教官室長を置き、教授をもつて充てる。
+        </article_item>
+        <article_item number="２">
+          科長又は教官室長は、命を受け、科又は教官室の事務を掌理する。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>帝都復興記念章令</title>
+    <defined>昭和五年八月十三日勅令第百四十八号</defined>
+  </head>
+  <body>
+    <content>
+      <articles number="第一条">
+        <article_item number="第一条">
+          帝都復興記念ノ表章トシテ特ニ記念章ヲ設ク
+        </article_item>
+      </articles>
+      <articles number="第二条">
+        <article_item number="第二条">
+          記念章ノ図式左ノ如シ
+          　　　章　銀円形、径三糎トス<br></br>
+          　　　　　表面ニハ輪廓内上部ニ菊御紋、中央ニ市街ト旭光ノ図、下部ニ桜ノ模様ヲ表シ裏面ニハ輪廓内中央ニ帝都復興記念章ノ文字、下部ニ昭和五年三月ノ文字ヲ識ス<br></br>
+          　　　環　銀円形トス<br></br>
+          綬　織地、幅三糎六粍トス<br></br>
+          　　　　　中央萌黄色、左右白色、両縁萌黄色トス<br></br>
+          　　記念章ハ綬ヲ用ヒテ左肋ニ佩ブ<br></br>
+        </article_item>
+      </articles>
+      <articles number="第三条">
+        <article_item number="第三条">
+          記念章ハ左ノ各号ノ一ニ該当スル者ニ之ヲ授与ス
+          <go>
+            <go_item number="一">
+              帝都復興ノ事業ニ直接関与シタル者
+            </go_item>
+            <go_item number="二">
+              帝都復興ノ事業ニ伴フ要務ニ関与シタル者
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第四条">
+        <article_item number="第四条">
+          左ノ各号ノ一ニ該当スル者ニハ記念章ヲ授与セズ但シ処刑、免官又ハ免職ノ後前条ニ該当スル者ニ付テハ此ノ限ニ在ラズ
+          <go>
+            <go_item number="一">
+              禁錮以上ノ刑ニ処セラレタル者
+            </go_item>
+            <go_item number="二">
+              懲戒ノ裁判又ハ処分ニ依リ免官又ハ免職セラレタル者
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第五条">
+        <article_item number="第五条">
+          記念章ヲ授与セラルベキ者ニ対シテハ其ノ授与前死亡シタルトキト雖モ仍之ヲ授与ス
+        </article_item>
+      </articles>
+      <articles number="第六条">
+        <article_item number="第六条">
+          記念章ハ本人ニ限リ終身之ヲ佩用シ遺族之ヲ保存スルコトヲ許ス
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

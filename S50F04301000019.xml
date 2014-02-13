@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>一斉開放弁の技術上の規格を定める省令</title>
+    <defined>昭和五十年九月二十六日自治省令第十九号</defined>
+    <updated>平成一二年九月一四日自治省令第四四号</updated>
+  </head>
+  <body>
+    <preamble><p>消防法（昭和二十三年法律第百八十六号）第二十一条の二第二項の規定に基づき、一斉開放弁の技術上の規格を定める省令を次のように定める。</p></preamble>
+    <content>
+      <articles number="第一条">
+        <article_item number="第一条">
+          この省令は、スプリンクラー設備、水噴霧消火設備又は泡消火設備に使用する一斉開放弁（配管との接続部の内径が三百ミリメートルを超えるものを除く。以下「一斉開放弁」という。）の技術上の規格を定めるものとする。
+        </article_item>
+      </articles>
+      <articles number="第二条">
+        <article_item number="第二条">
+          一斉開放弁の構造は、次に定めるところによらなければならない。
+          <go>
+            <go_item number="一">
+              弁体は、常時閉止の状態にあり、起動装置の作動により開放すること。
+            </go_item>
+            <go_item number="二">
+              弁体を開放した後に通水が中断した場合においても、再び通水できること。
+            </go_item>
+            <go_item number="三">
+              堆積物により機能に支障を生じないこと。
+            </go_item>
+            <go_item number="四">
+              管との接続部は、管と容易に接続できること。
+            </go_item>
+            <go_item number="五">
+              加圧水又は加圧泡水溶液（以下「加圧水等」という。）の通過する部分は、滑らかに仕上げられていること。
+            </go_item>
+            <go_item number="六">
+              本体及びその部品は、保守点検及び取替えが容易にできること。
+            </go_item>
+            <go_item number="七">
+              弁座面は、機能に有害な影響を及ぼすきずがないこと。
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第三条">
+        <article_item number="第三条">
+          一斉開放弁の材質は、次の各号に適合するものでなければならない。
+          <go>
+            <go_item number="一">
+              本体の主要部分はＪＩＳ（工業標準化法（昭和二十四年法律第百八十五号）第十七条第一項の日本工業規格をいう。以下同じ。）Ｇ五五〇一、ＪＩＳＧ五一五一、ＪＩＳＨ五一二〇若しくはＪＩＳＨ五一二一に適合するもの又はこれらと同等以上の強度及び耐食性を有するものであること。
+            </go_item>
+            <go_item number="二">
+              さびの発生するおそれのある部分は、有効な防錆処理を施したものであること。
+            </go_item>
+            <go_item number="三">
+              ゴム、合成樹脂等は、容易に変質しないものであること。
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第三条の二">
+        <article_item number="第三条の二">
+          一斉開放弁の一次側（本体への流入側をいう。以下同じ。）の最高使用圧力（使用圧力範囲（一斉開放弁の機能に支障を生じない圧力の範囲をいう。以下同じ。）の最大値をいう。以下同じ。）は、次の表の上欄に掲げる呼びの区分に応じて同表の下欄に掲げる圧力の範囲内でなければならない。
+          <table>
+            <tr>
+              <td>
+                呼び
+              </td>
+              <td>
+                圧力（メガパスカル）
+              </td>
+            </tr>
+            <tr>
+              <td>
+                十Ｋ
+              </td>
+              <td>
+                一・〇以上一・四以下
+              </td>
+            </tr>
+            <tr>
+              <td>
+                十六Ｋ
+              </td>
+              <td>
+                一・六以上二・二以下
+              </td>
+            </tr>
+            <tr>
+              <td>
+                二十Ｋ
+              </td>
+              <td>
+                二・〇以上二・八以下
+              </td>
+            </tr>
+          </table>
+        </article_item>
+      </articles>
+      <articles number="第四条">
+        <article_item number="第四条">
+          一斉開放弁の弁箱は、次の表の上欄に掲げる呼びの区分に応じて同表下欄に掲げる圧力を二分間加えた場合、漏水、変形、損傷又は破壊を生じないものでなければならない。
+          <table>
+            <tr>
+              <td>
+                呼び
+              </td>
+              <td>
+                圧力（メガパスカル）
+              </td>
+            </tr>
+            <tr>
+              <td>
+                十Ｋ
+              </td>
+              <td>
+                二・〇
+              </td>
+            </tr>
+            <tr>
+              <td>
+                十六Ｋ
+              </td>
+              <td>
+                三・二
+              </td>
+            </tr>
+            <tr>
+              <td>
+                二十Ｋ
+              </td>
+              <td>
+                四・〇
+              </td>
+            </tr>
+          </table>
+        </article_item>
+        <article_item number="２">
+          弁を開放するための動力（以下「制御動力」という。）に圧力を使用する弁開放用制御部は、前項の表の上欄に掲げる呼びの区分に応じて同表の下欄に掲げる圧力（一次側にかかる圧力と異なる圧力がかかる弁開放用制御部にあつては、当該弁開放用制御部の最高使用圧力の一・五倍の圧力）を二分間加えた場合、漏水、変形、損傷又は破壊を生じないものでなければならない。
+        </article_item>
+        <article_item number="３">
+          弁座は、弁を閉止した状態において、次に定めるところによらなければならない。
+          <go>
+            <go_item number="一">
+              第一項の表の上欄に掲げる呼びの区分に応じて同表の下欄に掲げる圧力を二分間加えた場合、変形、損傷又は破壊を生じないこと。
+            </go_item>
+            <go_item number="二">
+              次の表の上欄に掲げる呼びの区分に応じて同表の下欄に掲げる圧力を二分間加えた場合、漏水を生じないこと。
+              <table>
+                <tr>
+                  <td>
+                    呼び
+                  </td>
+                  <td>
+                    圧力（メガパスカル）
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    十Ｋ
+                  </td>
+                  <td>
+                    一・五
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    十六Ｋ
+                  </td>
+                  <td>
+                    二・四
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    二十Ｋ
+                  </td>
+                  <td>
+                    三・〇
+                  </td>
+                </tr>
+              </table>
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第五条">
+        <article_item number="第五条">
+          一斉開放弁は、起動装置を作動させた場合、十五秒（内径が二百ミリメートルを超えるものにあつては、六十秒）以内に開放するものでなければならない。
+        </article_item>
+        <article_item number="２">
+          一斉開放弁は、流速毎秒四・五メートル（内径が八十ミリメートル以下のものにあつては、毎秒六メートル）の加圧水等を三十分間通水した場合、機能に支障を生じないものでなければならない。
+        </article_item>
+      </articles>
+      <articles number="第六条">
+        <article_item number="第六条">
+          一斉開放弁には、次に掲げる事項をその見やすい箇所に容易に消えないように表示しなければならない。
+          <go>
+            <go_item number="一">
+              種別及び型式番号
+            </go_item>
+            <go_item number="二">
+              製造者名又は商標
+            </go_item>
+            <go_item number="三">
+              製造年
+            </go_item>
+            <go_item number="四">
+              製造番号
+            </go_item>
+            <go_item number="五">
+              内径、呼び及び一次側の使用圧力範囲
+            </go_item>
+            <go_item number="六">
+              直管に相当する長さで表した圧力損失値
+            </go_item>
+            <go_item number="七">
+              流水方向を示す矢印
+            </go_item>
+            <go_item number="八">
+              取付け方向
+            </go_item>
+            <go_item number="九">
+              弁開放用制御部の使用圧力範囲（制御動力に一次側の圧力と異なる圧力を使用するものに限る。）
+            </go_item>
+            <go_item number="十">
+              制御動力に用いる流体の種類（制御動力に加圧水等以外の流体の圧力を使用するものに限る。）
+            </go_item>
+            <go_item number="十一">
+              制御動力の種類（制御動力に圧力を使用しないものに限る。）
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第七条">
+        <article_item number="第七条">
+          新たな技術開発に係る一斉開放弁について、その形状、構造、材質及び性能から判断して、この省令の規定に適合するものと同等以上の性能があると総務大臣が認めた場合は、この省令の規定にかかわらず、総務大臣が定める技術上の規格によることができる。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

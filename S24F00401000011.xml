@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>確定日附簿及び日附印章調製規則</title>
+    <defined>昭和二十四年六月一日法務府令第十一号</defined>
+  </head>
+  <body>
+    <preamble><p>確定日附簿及び日附印章調製規則を次のように定める。</p></preamble>
+    <content>
+      <articles number="第一条">
+        <article_item number="第一条">
+          登記所及び公証人役場に備えるべき確定日附簿及び日附のある印章は、附録様式により調製しなければならない。
+        </article_item>
+      </articles>
+      <articles number="第二条">
+        <article_item number="第二条">
+          登記所に備えるべき確定日附簿には、法務局又は地方法務局の長において、その枚数を表紙の裏面に記載し、職氏名を署し、職印を押し、且つ、毎葉のつづり目に職印で契印をしなければならない。
+        </article_item>
+        <article_item number="２">
+          前項の規定は、公証人役場に備えるべき確定日附簿につき、当該公証人に準用する。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

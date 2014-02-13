@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>不当景品類及び不当表示防止法第十一条の規定による協定又は規約の認定の申請等に関する内閣府令</title>
+    <defined>昭和三十七年八月十五日公正取引委員会規則第四号</defined>
+    <updated>平成二一年九月二日内閣府令第六一号</updated>
+  </head>
+  <body>
+    <preamble><p>不当景品類及び不当表示防止法（昭和三十七年法律第百三十四号）第十条の規定による公正競争規約の認定の申請等に関する規則を次のとおり定める。</p></preamble>
+    <content>
+      <articles number="第一条">
+        <article_item number="第一条">
+          不当景品類及び不当表示防止法（以下「法」という。）第十一条第一項の規定により協定又は規約の認定を受けようとするものは、別記様式による協定又は規約認定申請書正本及び副本各一通並びに当該協定又は規約の写し二通を、公正取引委員会又は消費者庁長官のいずれかに提出しなければならない。
+        </article_item>
+      </articles>
+      <articles number="第二条">
+        <article_item number="第二条">
+          法第十一条第四項の規定による協定又は規約の認定の告示は、次に掲げる事項を官報に掲載してするものとする。
+          <go>
+            <go_item number="一">
+              認定があつた旨
+            </go_item>
+            <go_item number="二">
+              当該協定又は規約に係る事業の種類
+            </go_item>
+            <go_item number="三">
+              当該協定又は規約の内容
+            </go_item>
+            <go_item number="四">
+              認定の理由
+            </go_item>
+          </go>
+        </article_item>
+        <article_item number="２">
+          法第十一条第四項の規定による協定又は規約の認定の取消しの告示は、次に掲げる事項を官報に掲載してするものとする。
+          <go>
+            <go_item number="一">
+              取消しがあつた旨
+            </go_item>
+            <go_item number="二">
+              当該協定又は規約に係る事業の種類
+            </go_item>
+            <go_item number="三">
+              取消しの理由
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第三条">
+        <article_item number="第三条">
+          協定又は規約の認定を受けたものは、当該認定に係る事項について通知を受けるべき者の住所及び氏名を公正取引委員会又は消費者庁長官のいずれかに届け出なければならない。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

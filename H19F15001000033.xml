@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>特別会計に関する法律施行令第五十一条第四項第十二号に規定する経済産業省令で定める要件を定める省令</title>
+    <defined>平成十九年三月三十一日経済産業省令第三十三号</defined>
+  </head>
+  <body>
+    <preamble><p>特別会計に関する法律施行令（平成十九年政令第百二十四号）第五十一条第四項第十二号の規定に基づき、特別会計に関する法律施行令第五十一条第四項第十二号に規定する経済産業省令で定める要件を定める省令を次のように制定する。</p></preamble>
+    <content>
+      <articles>
+        <article_item>
+          特別会計に関する法律施行令第五十一条第四項第十二号に規定する経済産業省令で定める要件は、次のとおりとする。
+          <go>
+            <go_item number="一">
+              実用化が我が国の電気の安定供給の確保に資する見込みがあると認められること。
+            </go_item>
+            <go_item number="二">
+              新規性があると認められること。
+            </go_item>
+            <go_item number="三">
+              実用化のための開発に相当期間を要すること。
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

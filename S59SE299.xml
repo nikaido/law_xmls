@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>地力増進法施行令</title>
+    <defined>昭和五十九年十月一日政令第二百九十九号</defined>
+    <updated>平成八年一〇月二五日政令第三〇六号</updated>
+  </head>
+  <body>
+    <preamble><p>内閣は、地力増進法（昭和五十九年法律第三十四号）第十一条第一項の規定に基づき、この政令を制定する。</p></preamble>
+    <content>
+      <articles>
+        <article_item>
+          地力増進法第十一条第一項の政令で定める種類の土壌改良資材は、次に掲げる物とする。ただし、成分、性能その他の品質に関する事項について農林水産大臣が基準を定めた種類のものにあつては、当該基準に適合しないものを除く。
+          <go>
+            <go_item number="一">
+              泥炭
+            </go_item>
+            <go_item number="二">
+              バークたい肥
+            </go_item>
+            <go_item number="三">
+              腐植酸質資材（石炭又は亜炭を硝酸又は硝酸及び硫酸で分解し、カルシウム化合物又はマグネシウム化合物で中和した物をいう。）
+            </go_item>
+            <go_item number="四">
+              木炭（植物性の殻の炭を含む。）
+            </go_item>
+            <go_item number="五">
+              けいそう土焼成粒
+            </go_item>
+            <go_item number="六">
+              ゼオライト
+            </go_item>
+            <go_item number="七">
+              バーミキュライト
+            </go_item>
+            <go_item number="八">
+              パーライト
+            </go_item>
+            <go_item number="九">
+              ベントナイト
+            </go_item>
+            <go_item number="十">
+              ＶＡ菌根菌資材
+            </go_item>
+            <go_item number="十一">
+              ポリエチレンイミン系資材（アクリル酸・メタクリル酸ジメチルアミノエチル共重合物のマグネシウム塩とポリエチレンイミンとの複合体をいう。）
+            </go_item>
+            <go_item number="十二">
+              ポリビニルアルコール系資材（ポリ酢酸ビニルの一部をけん化した物をいう。）
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

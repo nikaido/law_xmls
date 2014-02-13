@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>海外の美術品等の我が国における公開の促進に関する法律施行規則</title>
+    <defined>平成二十三年九月十五日文部科学省令第三十三号</defined>
+    <updated>平成二五年五月一日文部科学省令第一六号</updated>
+  </head>
+  <body>
+    <preamble><p>海外の美術品等の我が国における公開の促進に関する法律（平成二十三年法律第十五号）第三条第四項及び第六項の規定に基づき、海外の美術品等の我が国における公開の促進に関する法律施行規則を次のように定める。</p></preamble>
+    <content>
+      <articles number="第一条">
+        <article_item number="第一条">
+          海外の美術品等の我が国における公開の促進に関する法律（以下「法」という。）第三条第二項の申請をしようとする者（以下この条において「申請者」という。）は、次に掲げる事項を記載した申請書を文部科学大臣に提出しなければならない。
+          <go>
+            <go_item number="一">
+              申請者の氏名又は名称及び住所並びに法人にあっては、その代表者の氏名
+            </go_item>
+            <go_item number="二">
+              法第三条第一項の指定（以下単に「指定」という。）を受けようとする海外の美術品等の所有者の氏名又は名称及び法人にあっては、その代表者の氏名
+            </go_item>
+            <go_item number="三">
+              前号の海外の美術品等の名称、員数及び種類
+            </go_item>
+            <go_item number="四">
+              第二号の海外の美術品等の寸法、重量、形状その他の特徴
+            </go_item>
+            <go_item number="五">
+              第二号の海外の美術品等の由来及び歴史上、芸術上又は学術上の価値
+            </go_item>
+            <go_item number="六">
+              第二号の海外の美術品等を借り受ける期間
+            </go_item>
+            <go_item number="七">
+              第二号の海外の美術品等を公開する目的
+            </go_item>
+            <go_item number="八">
+              第二号の海外の美術品等を公開する予定の施設の名称及び所在地並びに当該海外の美術品等を公開する予定の期間
+            </go_item>
+          </go>
+        </article_item>
+        <article_item number="２">
+          前項の申請書には、前項第二号の海外の美術品等に係る使用貸借又は賃貸借に関する契約書の写し、当該海外の美術品等の現状を示す明瞭な写真その他参考となるべき書類及び資料を添付しなければならない。
+        </article_item>
+      </articles>
+      <articles number="第二条">
+        <article_item number="第二条">
+          文部科学大臣は、指定をしたときは、次に掲げる事項を公示しなければならない。
+          <go>
+            <go_item number="一">
+              指定をした海外の美術品等（以下「指定美術品等」という。）の名称
+            </go_item>
+            <go_item number="二">
+              指定をした日及び指定の有効期間
+            </go_item>
+            <go_item number="三">
+              指定美術品等を公開しようとする者の氏名又は名称及び住所並びに法人にあっては、その代表者の氏名
+            </go_item>
+            <go_item number="四">
+              指定美術品等を公開する予定の施設の名称及び所在地並びに指定美術品等を公開する予定の期間
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第三条">
+        <article_item number="第三条">
+          文部科学大臣は、指定を取り消したときは、その旨を公示しなければならない。
+        </article_item>
+      </articles>
+      <articles number="第四条">
+        <article_item number="第四条">
+          第二条及び前条の規定による公示は、官報に掲載することによって行う。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

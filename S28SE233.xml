@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>クリーニング業法施行令</title>
+    <defined>昭和二十八年八月三十一日政令第二百三十三号</defined>
+    <updated>平成一二年六月七日政令第三〇九号</updated>
+  </head>
+  <body>
+    <preamble><p>内閣は、クリーニング業法（昭和二十五年法律第二百七号）第八条第二項の規定に基き、この政令を制定する。</p></preamble>
+    <content>
+      <articles number="第一条">
+        <article_item number="第一条">
+          都道府県知事は、クリーニング業法第六条の規定によりクリーニング師の免許を与えたときは、厚生労働省令で定める様式によるクリーニング師免許証を免許を受けた者に交付しなければならない。
+        </article_item>
+        <article_item number="２">
+          都道府県知事は、免許証の記載事項に変更を生じたクリーニング師から免許証の訂正の申請があつたときは、免許証を訂正して交付しなければならない。
+        </article_item>
+        <article_item number="３">
+          都道府県知事は、免許証を亡失し、又はき損したクリーニング師から免許証の再交付の申請があつたときは、免許証を交付しなければならない。
+        </article_item>
+      </articles>
+      <articles number="第二条">
+        <article_item number="第二条">
+          都道府県知事は、他の都道府県知事の免許を受けたクリーニング師について、免許の取消しを適当と認めるときは、理由を付して、免許を与えた都道府県知事に、その旨を通知しなければならない。
+        </article_item>
+      </articles>
+      <articles number="第三条">
+        <article_item number="第三条">
+          この政令に定めるもののほか、クリーニング師の免許、試験及び登録に関して必要な事項は、厚生労働省令で定める。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

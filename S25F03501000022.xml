@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>文部省映画及び幻灯画頒布規程</title>
+    <defined>昭和二十五年八月二十二日文部省令第二十二号</defined>
+  </head>
+  <body>
+    <preamble><p>文部省設置法（昭和二十四年法律第百四十六号）の規定を実施するため、この省令を次のように定める。</p></preamble>
+    <content>
+      <articles number="第一条">
+        <article_item number="第一条">
+          文部省が製作した映画又は幻灯画（以下「映画又は幻灯画」という。）の有償頒布については、この省令の定めるとこによる。
+        </article_item>
+      </articles>
+      <articles number="第二条">
+        <article_item number="第二条">
+          映画又は幻灯画の頒布を受けようとする者は、別記様式による申請書を文部大臣に提出するものとする。
+        </article_item>
+      </articles>
+      <articles number="第三条">
+        <article_item number="第三条">
+          映画又は幻灯画の頒布を受けようとする者は、その料金を前納するものとする。
+        </article_item>
+      </articles>
+      <articles number="第四条">
+        <article_item number="第四条">
+          頒布する映画又は幻灯画の題名、内容及び料金については、官報その他に公告するものとする。
+        </article_item>
+      </articles>
+      <articles number="第五条">
+        <article_item number="第五条">
+          第三条の頒布料金は、納入告知書により日本銀行（支店、代理店及び歳入代理店を含む。）に納入するものとする。
+        </article_item>
+      </articles>
+      <articles number="第六条">
+        <article_item number="第六条">
+          映画又は幻灯画の頒布を受けた者（頒布を受けた映画又は幻灯画の譲受人を含む。）は、その映画又は幻灯画について左に掲げる行為をしてはならない。
+          <go>
+            <go_item number="一">
+              内容を変えること
+            </go_item>
+            <go_item number="二">
+              全部又は一部を複製すること
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第七条">
+        <article_item number="第七条">
+          特別の事由により、この規程によりがたい場合は、文部大臣は適宜その取扱について定めるものとする。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

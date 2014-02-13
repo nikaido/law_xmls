@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>公衆浴場法施行規則</title>
+    <defined>昭和二十三年七月二十四日厚生省令第二十七号</defined>
+    <updated>平成一三年三月二七日厚生労働省令第四〇号</updated>
+  </head>
+  <body>
+    <preamble><p>公衆浴場法施行規則を次のように定める。</p></preamble>
+    <content>
+      <articles number="第一条">
+        <article_item number="第一条">
+          公衆浴場法（昭和二十三年法律第百三十九号。以下「法」という。）第二条第一項の規定により許可を受けようとする者は、次に掲げる事項を記載した申請書を、その公衆浴場所在地を管轄する都道府県知事（保健所を設置する市又は特別区にあつては、市長又は区長。以下同じ。）に提出しなければならない。
+          <go>
+            <go_item number="一">
+              申請者の住所、氏名及び生年月日（法人にあつては、その名称、事務所所在地、代表者の氏名及び定款又は寄附行為の写し）
+            </go_item>
+            <go_item number="二">
+              公衆浴場の名称及び所在地
+            </go_item>
+            <go_item number="三">
+              公衆浴場の種類（温泉の含有物質又は医薬品等を原料とした薬湯を使用する公衆浴場にあつては、その物質又は医薬品等の名称、成分、用法、用量及び効能を付記すること。）
+            </go_item>
+            <go_item number="四">
+              営業施設の構造設備
+            </go_item>
+            <go_item number="五">
+              その他都道府県知事が定める事項
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第二条">
+        <article_item number="第二条">
+          法第二条の二第二項の規定により相続による営業者の地位の承継の届出をしようとする者は、次に掲げる事項を記載した届書を、その公衆浴場所在地を管轄する都道府県知事に提出しなければならない。
+          <go>
+            <go_item number="一">
+              届出者の住所、氏名及び生年月日並びに被相続人との続柄
+            </go_item>
+            <go_item number="二">
+              被相続人の氏名及び住所
+            </go_item>
+            <go_item number="三">
+              相続開始の年月日
+            </go_item>
+            <go_item number="四">
+              公衆浴場の名称及び所在地
+            </go_item>
+          </go>
+        </article_item>
+        <article_item number="２">
+          前項の届書には、次に掲げる書類を添付しなければならない。
+          <go>
+            <go_item number="一">
+              戸籍謄本
+            </go_item>
+            <go_item number="二">
+              相続人が二人以上ある場合において、その全員の同意により営業者の地位を承継すべき相続人として選定された者にあつては、その全員の同意書
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第三条">
+        <article_item number="第三条">
+          法第二条の二第二項の規定により合併による営業者の地位の承継の届出をしようとする者は、次に掲げる事項を記載した届書を、その公衆浴場所在地を管轄する都道府県知事に提出しなければならない。
+          <go>
+            <go_item number="一">
+              届出者の名称、事務所所在地及び代表者の氏名
+            </go_item>
+            <go_item number="二">
+              合併により消滅した法人の名称、事務所所在地及び代表者の氏名
+            </go_item>
+            <go_item number="三">
+              合併の年月日
+            </go_item>
+            <go_item number="四">
+              公衆浴場の名称及び所在地
+            </go_item>
+          </go>
+        </article_item>
+        <article_item number="２">
+          前項の届書には、合併後存続する法人又は合併により設立される法人の定款又は寄附行為の写しを添付しなければならない。
+        </article_item>
+      </articles>
+      <articles number="第三条の二">
+        <article_item number="第三条の二">
+          法第二条の二第二項の規定により分割による営業者の地位の承継の届出をしようとする者は、次に掲げる事項を記載した届書を、その公衆浴場所在地を管轄する都道府県知事に提出しなければならない。
+          <go>
+            <go_item number="一">
+              届出者の名称、事務所所在地及び代表者の氏名
+            </go_item>
+            <go_item number="二">
+              分割前の法人の名称、事務所所在地及び代表者の氏名
+            </go_item>
+            <go_item number="三">
+              分割の年月日
+            </go_item>
+            <go_item number="四">
+              公衆浴場の名称及び所在地
+            </go_item>
+          </go>
+        </article_item>
+        <article_item number="２">
+          前項の届書には、分割により浴場業を承継する法人の定款又は寄附行為の写しを添付しなければならない。
+        </article_item>
+      </articles>
+      <articles number="第四条">
+        <article_item number="第四条">
+          浴場業を営む者は、第一条の申請書若しくは前三条の届書に記載した事項を変更したとき又は営業の全部若しくは一部を停止し若しくは廃止したときは、十日以内にその公衆浴場所在地を管轄する都道府県知事に、その旨を届け出なければならない。
+        </article_item>
+      </articles>
+      <articles number="第五条">
+        <article_item number="第五条">
+          次に掲げる場合は、法第四条ただし書の規定により都道府県知事の許可を受けて、同条に規定する患者（以下「患者」という。）を入浴させることができる。
+          <go>
+            <go_item number="一">
+              温泉を使用する公衆浴場で、その温泉が法第四条に規定する伝染性の疾病に対して療養効果があると認められ、かつ、患者用の入浴施設が別に設けられている場合
+            </go_item>
+            <go_item number="二">
+              潮湯又は薬湯を使用する公衆浴場で、患者用の入浴施設が別に設けられている場合
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第六条">
+        <article_item number="第六条">
+          法第六条第一項の職権を行う者を、環境衛生監視員と称し、同条第二項の規定によりその携帯する証票は、別に定める。
+        </article_item>
+      </articles>
+      <articles number="第七条">
+        <article_item number="第七条">
+          第四条に規定する届出の期限が地方自治法（昭和二十二年法律第六十七号）第四条の二第一項に規定する地方公共団体の休日に当たるときは、地方公共団体の休日の翌日をもつてその期限とみなす。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

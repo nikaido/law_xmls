@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>牧野法施行令</title>
+    <defined>昭和二十五年七月三十一日政令第二百四十四号</defined>
+    <updated>平成三年五月二一日政令第一七二号</updated>
+  </head>
+  <body>
+    <preamble><p>内閣は、牧野法（昭和二十五年法律第百九十四号）第三条第一項、第二十二条及び附則第一項に基き、この政令を制定する。</p></preamble>
+    <content>
+      <articles number="第一条">
+        <article_item number="第一条">
+          牧野法（以下「法」という。）中第三章の規定以外の規定の施行期日は、昭和二十五年八月一日とする。
+        </article_item>
+      </articles>
+      <articles number="第二条">
+        <article_item number="第二条">
+          法第三条第一項の牧野は、公用に供していない牧野であつて、次の各号のいずれかに該当するものとする。
+          <go>
+            <go_item number="一">
+              一団地の面積が北海道にあつては三十ヘクタール以上、都府県にあつては十ヘクタール以上のもの
+            </go_item>
+            <go_item number="二">
+              一団地の面積が北海道にあつては十五ヘクタール以上三十ヘクタール未満、都府県にあつては五ヘクタール以上十ヘクタール未満のものであつて、農林水産省令の定める手続に従い都道府県知事が指定するもの
+            </go_item>
+          </go>
+        </article_item>
+        <article_item number="２">
+          法第二十二条の規定により法第三条第一項の規定を準用する場合における同項の河川の敷地又は堤防は、公用に供していない河川の敷地又は堤防であつて、一団地の面積が一ヘクタール以上のものとする。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

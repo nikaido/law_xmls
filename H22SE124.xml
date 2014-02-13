@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>平成二十二年二月二十八日の津波による災害についての激甚災害及びこれに対し適用すべき措置の指定に関する政令</title>
+    <defined>平成二十二年四月二十三日政令第百二十四号</defined>
+  </head>
+  <body>
+    <preamble><p>内閣は、激甚災害に対処するための特別の財政援助等に関する法律（昭和三十七年法律第百五十号）第二条第一項及び第二項並びに第七条の規定に基づき、この政令を制定する。</p></preamble>
+    <content>
+      <articles number="第一条">
+        <article_item number="第一条">
+          次の表の上欄に掲げる災害を激甚災害に対処するための特別の財政援助等に関する法律（以下「法」という。）第二条第一項の激甚災害として指定し、当該激甚災害に対し適用すべき措置を同表の下欄に掲げるとおり指定する。
+          <table>
+            <tr>
+              <td>
+                激甚災害
+              </td>
+              <td>
+                適用すべき措置
+              </td>
+            </tr>
+            <tr>
+              <td>
+                平成二十二年二月二十八日の津波による災害
+              </td>
+              <td>
+                法第七条（第三号に係る部分に限る。）に規定する措置
+              </td>
+            </tr>
+          </table>
+        </article_item>
+      </articles>
+      <articles number="第二条">
+        <article_item number="第二条">
+          前条の激甚災害についての法第七条第三号の政令で定める養殖施設は、次に掲げるものであって当該激甚災害の発生の際に養殖の用に供されていたものとし、それぞれその災害復旧事業に係る同条の政令で定める率は、いずれも十分の九とする。
+          <go>
+            <go_item number="一">
+              かんぱち養殖施設
+            </go_item>
+            <go_item number="二">
+              しまあじ養殖施設
+            </go_item>
+            <go_item number="三">
+              まだい養殖施設
+            </go_item>
+            <go_item number="四">
+              くろまぐろ養殖施設
+            </go_item>
+            <go_item number="五">
+              ほたてがい養殖施設
+            </go_item>
+            <go_item number="六">
+              かき類養殖施設
+            </go_item>
+            <go_item number="七">
+              えぞいしかげがい養殖施設
+            </go_item>
+            <go_item number="八">
+              ほや類養殖施設
+            </go_item>
+            <go_item number="九">
+              こんぶ類養殖施設
+            </go_item>
+            <go_item number="十">
+              わかめ類養殖施設
+            </go_item>
+            <go_item number="十一">
+              のり類養殖施設
+            </go_item>
+            <go_item number="十二">
+              真珠養殖施設
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

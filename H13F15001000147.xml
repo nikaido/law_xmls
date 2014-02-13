@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>電気工事士法第七条第一項に規定する経済産業大臣が指定する者を定める省令</title>
+    <defined>平成十三年四月十九日経済産業省令第百四十七号</defined>
+  </head>
+  <body>
+    <preamble><p>電気工事士法（昭和三十五年法律第百三十九号）第四条の三及び第七条第二項の規定に基づき、並びに同法を実施するため、電気工事士法第四条の三に規定する経済産業大臣が指定する者等を定める省令を次のように定める。</p></preamble>
+    <content>
+      <articles>
+        <article_item>
+          電気工事士法（昭和三十五年法律第百三十九号）第七条第一項に規定する経済産業大臣が指定する者として次の者を指定する。
+          <table>
+            <tr>
+              <td>
+                名称
+              </td>
+              <td>
+                主たる事務所の所在地
+              </td>
+            </tr>
+            <tr>
+              <td>
+                一般財団電気工事士法人電気技術者試験センター
+              </td>
+              <td>
+                東京都中央区八丁堀二丁目九番一号
+              </td>
+            </tr>
+          </table>
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

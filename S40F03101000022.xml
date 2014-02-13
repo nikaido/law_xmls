@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>近畿圏整備法施行規則</title>
+    <defined>昭和四十年五月十五日総理府令第二十二号</defined>
+    <updated>平成一二年八月一四日総理府令第一〇三号</updated>
+  </head>
+  <body>
+    <preamble><p>近畿圏整備法第九条第三項及び第四項（同法第十条第二項において準用する場合を含む。）並びに第十一条第三項（同法第十二条第二項及び第十四条第二項において準用する場合を含む。）の規定に基づき、近畿圏整備法施行規則を次のように定める。</p></preamble>
+    <content>
+      <articles number="第一条">
+        <article_item number="第一条">
+          近畿圏整備法（昭和三十八年法律第百二十九号。以下「法」という。）第九条第三項（法第十条第二項において準用する場合を含む。）の規定による近畿圏整備計画又はその変更の公表は、その内容を官報に掲載して行なうものとする。
+        </article_item>
+      </articles>
+      <articles number="第二条">
+        <article_item number="第二条">
+          法第九条第四項（法第十条第二項において準用する場合を含む。）の規定により公表された近畿圏整備計画又はその変更に対して意見を申し出ようとする者は、次の各号に掲げる事項を記載した意見書を国土交通大臣に提出しなければならない。
+          <go>
+            <go_item number="一">
+              意見の提出者の住所及び氏名
+            </go_item>
+            <go_item number="二">
+              公表された近畿圏整備計画又はその変更と意見の提出者との利害関係
+            </go_item>
+            <go_item number="三">
+              意見の詳細
+            </go_item>
+            <go_item number="四">
+              その他参考となるべき事項
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第三条">
+        <article_item number="第三条">
+          法第十一条第三項（法第十二条第二項及び法第十四条第二項において準用する場合を含む。）の規定による近郊整備区域、都市開発区域又は保全区域の指定は、これらの区域を官報に告示することによつて行なうものとする。
+        </article_item>
+        <article_item number="２">
+          近畿圏整備法施行令（昭和四十年政令第百五十九号）別表に掲げる区域のうち国土交通大臣が定める区域は、官報に告示することによつて行うものとする。 
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

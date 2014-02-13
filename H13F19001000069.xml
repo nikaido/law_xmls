@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>労働安全衛生法第八十五条の二第一項に規定する指定登録機関の指定に関する省令</title>
+    <defined>平成十三年三月二十九日厚生労働省令第六十九号</defined>
+    <updated>平成二五年六月一二日厚生労働省令第七九号</updated>
+  </head>
+  <body>
+    <preamble><p>労働安全衛生法（昭和四十七年法律第五十七号）を実施するため、労働安全衛生法第八十五条の二第一項に規定する指定登録機関の指定に関する省令を次のように定める。</p></preamble>
+    <content>
+      <articles>
+        <article_item>
+          労働安全衛生法第八十五条の二第一項に規定する指定登録機関は、公益財団法人安全衛生技術試験協会とし、その者が行うことができる登録事務は、同項に規定する登録事務とする。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

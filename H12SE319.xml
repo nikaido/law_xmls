@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>財務省独立行政法人評価委員会令</title>
+    <defined>平成十二年六月七日政令第三百十九号</defined>
+    <updated>平成二〇年六月二七日政令第二一〇号</updated>
+  </head>
+  <body>
+    <preamble><p>内閣は、独立行政法人通則法（平成十一年法律第百三号）第十二条第三項の規定に基づき、この政令を制定する。</p></preamble>
+    <content>
+      <articles number="第一条">
+        <article_item number="第一条">
+          財務省の独立行政法人評価委員会（以下「委員会」という。）は、委員二十人以内で組織する。
+        </article_item>
+        <article_item number="２">
+          委員会に、特別の事項を調査審議させるため必要があるときは、臨時委員を置くことができる。
+        </article_item>
+        <article_item number="３">
+          委員会に、専門の事項を調査させるため必要があるときは、専門委員を置くことができる。
+        </article_item>
+      </articles>
+      <articles number="第二条">
+        <article_item number="第二条">
+          委員及び臨時委員は、学識経験のある者のうちから、財務大臣が任命する。
+        </article_item>
+        <article_item number="２">
+          専門委員は、当該専門の事項に関し学識経験のある者のうちから、財務大臣が任命する。
+        </article_item>
+      </articles>
+      <articles number="第三条">
+        <article_item number="第三条">
+          委員の任期は、二年とする。ただし、補欠の委員の任期は、前任者の残任期間とする。
+        </article_item>
+        <article_item number="２">
+          委員は、再任されることができる。
+        </article_item>
+        <article_item number="３">
+          臨時委員は、その者の任命に係る当該特別の事項に関する調査審議が終了したときは、解任されるものとする。
+        </article_item>
+        <article_item number="４">
+          専門委員は、その者の任命に係る当該専門の事項に関する調査が終了したときは、解任されるものとする。
+        </article_item>
+        <article_item number="５">
+          委員、臨時委員及び専門委員は、非常勤とする。
+        </article_item>
+      </articles>
+      <articles number="第四条">
+        <article_item number="第四条">
+          委員会に、委員長を置き、委員の互選により選任する。
+        </article_item>
+        <article_item number="２">
+          委員長は、会務を総理し、委員会を代表する。
+        </article_item>
+        <article_item number="３">
+          委員長に事故があるときは、あらかじめその指名する委員が、その職務を代理する。
+        </article_item>
+      </articles>
+      <articles number="第五条">
+        <article_item number="第五条">
+          委員会に、次の表の上欄に掲げる分科会を置き、これらの分科会の所掌事務は、独立行政法人通則法第十二条第二項の規定により委員会の権限に属させられた事項のうち、それぞれ同表の下欄に掲げる独立行政法人に係るものを処理することとする。
+          <table>
+            <tr>
+              <td>
+                名称
+              </td>
+              <td>
+                独立行政法人
+              </td>
+            </tr>
+            <tr>
+              <td>
+                農林漁業信用基金分科会
+              </td>
+              <td>
+                独立行政法人農林漁業信用基金
+              </td>
+            </tr>
+            <tr>
+              <td>
+                住宅金融支援機構分科会
+              </td>
+              <td>
+                独立行政法人住宅金融支援機構
+              </td>
+            </tr>
+            <tr>
+              <td>
+                造幣局分科会
+              </td>
+              <td>
+                独立行政法人造幣局
+              </td>
+            </tr>
+            <tr>
+              <td>
+                国立印刷局分科会
+              </td>
+              <td>
+                独立行政法人国立印刷局
+              </td>
+            </tr>
+            <tr>
+              <td>
+                日本万国博覧会記念機構分科会
+              </td>
+              <td>
+                独立行政法人日本万国博覧会記念機構
+              </td>
+            </tr>
+            <tr>
+              <td>
+                酒類総合研究所分科会
+              </td>
+              <td>
+                独立行政法人酒類総合研究所
+              </td>
+            </tr>
+            <tr>
+              <td>
+              </td>
+              <td>
+              </td>
+            </tr>
+          </table>
+        </article_item>
+        <article_item number="２">
+          前項の表の上欄に掲げる分科会に属すべき委員、臨時委員及び専門委員は、財務大臣が指名する。
+        </article_item>
+        <article_item number="３">
+          分科会に、分科会長を置き、当該分科会に属する委員の互選により選任する。
+        </article_item>
+        <article_item number="４">
+          分科会長は、当該分科会の事務を掌理する。
+        </article_item>
+        <article_item number="５">
+          分科会長に事故があるときは、当該分科会に属する委員のうちから分科会長があらかじめ指名する者が、その職務を代理する。
+        </article_item>
+        <article_item number="６">
+          委員会は、その定めるところにより、分科会の議決をもって委員会の議決とすることができる。
+        </article_item>
+      </articles>
+      <articles number="第六条">
+        <article_item number="第六条">
+          委員会及び分科会は、その定めるところにより、部会を置くことができる。
+        </article_item>
+        <article_item number="２">
+          部会に属すべき委員、臨時委員及び専門委員は、委員長（分科会に置かれる部会にあっては、分科会長）が指名する。
+        </article_item>
+        <article_item number="３">
+          部会に、部会長を置き、当該部会に属する委員の互選により選任する。
+        </article_item>
+        <article_item number="４">
+          部会長は、当該部会の事務を掌理する。
+        </article_item>
+        <article_item number="５">
+          部会長に事故があるときは、当該部会に属する委員のうちから部会長があらかじめ指名する者が、その職務を代理する。
+        </article_item>
+        <article_item number="６">
+          委員会（分科会に置かれる部会にあっては、分科会。以下この項において同じ。）は、その定めるところにより、部会の議決をもって委員会の議決とすることができる。
+        </article_item>
+      </articles>
+      <articles number="第七条">
+        <article_item number="第七条">
+          委員会は、委員及び議事に関係のある臨時委員の過半数が出席しなければ、会議を開き、議決することができない。
+        </article_item>
+        <article_item number="２">
+          委員会の議事は、委員及び議事に関係のある臨時委員で会議に出席したものの過半数で決し、可否同数のときは、委員長の決するところによる。
+        </article_item>
+        <article_item number="３">
+          前二項の規定は、分科会及び部会の議事について準用する。
+        </article_item>
+      </articles>
+      <articles number="第八条">
+        <article_item number="第八条">
+          委員会は、その所掌事務を遂行するため必要があると認めるときは、関係行政機関の長に対し、資料の提出、意見の開陳、説明その他必要な協力を求めることができる。
+        </article_item>
+      </articles>
+      <articles number="第九条">
+        <article_item number="第九条">
+          委員会の庶務は、財務省大臣官房文書課において総括し、及び処理する。ただし、農林漁業信用基金分科会及び住宅金融支援機構分科会に係るものについては大臣官房政策金融課において、造幣局分科会及び国立印刷局分科会に係るものについては理財局国庫課において、日本万国博覧会記念機構分科会に係るものについては理財局国有財産業務課において、酒類総合研究所分科会に係るものについては国税庁課税部において処理する。 
+        </article_item>
+      </articles>
+      <articles number="第十条">
+        <article_item number="第十条">
+          この政令に定めるもののほか、議事の手続その他委員会の運営に関し必要な事項は、委員長が委員会に諮って定める。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

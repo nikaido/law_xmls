@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>石油製品需給動態統計調査規則を廃止する省令</title>
+    <defined>平成二十年一月三十一日経済産業省・国土交通省令第一号</defined>
+  </head>
+  <body>
+    <preamble><p>統計法（昭和二十二年法律第十八号）第三条第二項の規定に基づき、石油製品需給動態統計調査規則を廃止する省令を次のように定める。</p></preamble>
+    <content>
+      <articles>
+        <article_item>
+          石油製品需給動態統計調査規則（昭和二十七年通商産業省・運輸省令第四号）は、廃止する。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

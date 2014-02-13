@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>地力増進法施行規則</title>
+    <defined>昭和五十九年八月三十一日農林水産省令第三十五号</defined>
+    <updated>平成一九年三月三〇日農林水産省令第二八号</updated>
+  </head>
+  <body>
+    <preamble><p>地力増進法（昭和五十九年法律第三十四号）第四条第一項第一号、第五条及び第八条の規定に基づき、地力増進法施行規則を次のように定める。</p></preamble>
+    <content>
+      <articles number="第一条">
+        <article_item number="第一条">
+          地力増進法（以下「法」という。）第四条第一項第一号の農林水産省令で定める農地の面積は、北海道にあつてはおおむね百ヘクタール、都府県にあつてはおおむね五十ヘクタールとする。
+        </article_item>
+      </articles>
+      <articles number="第二条">
+        <article_item number="第二条">
+          法第五条の対策調査は、次に掲げる調査とする。
+          <go>
+            <go_item number="一">
+              土壌の性質に関する細密な調査
+            </go_item>
+            <go_item number="二">
+              営農の状況に関する調査
+            </go_item>
+            <go_item number="三">
+              農業生産基盤の整備状況に関する調査
+            </go_item>
+            <go_item number="四">
+              農作物の生育状況に関する調査
+            </go_item>
+            <go_item number="五">
+              地力の増進を図るための対策を確立するための調査
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第三条">
+        <article_item number="第三条">
+          法第八条の農業者等からの請求に関して農林水産省令で定める基準は、次のとおりとする。
+          <go>
+            <go_item number="一">
+              請求に係る農地において農作物に生育障害が発生していること。
+            </go_item>
+            <go_item number="二">
+              前号の生育障害が土壌の性質に起因するものであると推定されること。
+            </go_item>
+            <go_item number="三">
+              請求に係る農地の面積が北海道にあつてはおおむね十ヘクタール、都府県にあつてはおおむね五ヘクタール以上であること。
+            </go_item>
+            <go_item number="四">
+              請求に係る農地について法第六条第一項の地力増進対策指針に即した営農が行われていると認められること。
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第四条">
+        <article_item number="第四条">
+          法第八条の改善状況調査は、次に掲げる調査とする。
+          <go>
+            <go_item number="一">
+              土壌の性質に関する調査
+            </go_item>
+            <go_item number="二">
+              営農の状況に関する調査
+            </go_item>
+            <go_item number="三">
+              農作物の生育状況に関する調査
+            </go_item>
+            <go_item number="四">
+              前三号の調査の結果からみて、地力の増進を図るための新たな対策を必要とする場合における当該対策を確立するための調査
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第五条">
+        <article_item number="第五条">
+          法第十六条第二項の職員の身分を示す証明書は、別記様式第一号によるものとする。
+        </article_item>
+        <article_item number="２">
+          法第十七条第四項において準用する法第十六条第二項の職員の身分を示す証明書は、別記様式第二号によるものとする。
+        </article_item>
+      </articles>
+      <articles number="第六条">
+        <article_item number="第六条">
+          法第十七条第三項の規定による報告は、遅滞なく、次に掲げる事項を記載した書面を提出してしなければならない。
+          <go>
+            <go_item number="一">
+              立入検査をした製造業者又は販売業者の名称及び所在地
+            </go_item>
+            <go_item number="二">
+              立入検査をした年月日
+            </go_item>
+            <go_item number="三">
+              立入検査の結果
+            </go_item>
+            <go_item number="四">
+              その他参考となる事項
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第七条">
+        <article_item number="第七条">
+          法第十二条第一項に規定する農林水産大臣の権限で、その主たる事務所並びに工場、事業場、店舗及び営業所が一の地方農政局の管轄区域内のみにある製造業者又は販売業者に関するものは、当該地方農政局長に委任する。ただし、農林水産大臣が自らその権限を行うことを妨げない。
+        </article_item>
+        <article_item number="２">
+          法第十六条第一項に規定する報告の徴収に関する農林水産大臣の権限は、製造業者又は販売業者の主たる事務所の所在地を管轄する地方農政局長に委任する。ただし、農林水産大臣が自らその権限を行うことを妨げない。
+        </article_item>
+        <article_item number="３">
+          法第十六条第一項に規定する立入検査に関する農林水産大臣の権限は、製造業者又は販売業者の工場、事業場、店舗、営業所、事務所又は倉庫の所在地を管轄する地方農政局長に委任する。ただし、農林水産大臣が自らその権限を行うことを妨げない。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

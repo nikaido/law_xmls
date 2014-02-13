@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>船舶安全法第三十二条の漁船の範囲を定める政令</title>
+    <defined>昭和四十九年七月一日政令第二百五十八号</defined>
+    <updated>昭和五三年六月二〇日政令第二四七号</updated>
+  </head>
+  <body>
+    <preamble><p>内閣は、船舶安全法（昭和八年法律第十一号）第三十二条の規定に基づき、この政令を制定する。</p></preamble>
+    <content>
+      <articles>
+        <article_item>
+          船舶安全法第三十二条の政令で定める総トン数二十トン未満の漁船は、専ら本邦の海岸から十二海里以内の海面又は内水面において従業する漁船とする。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

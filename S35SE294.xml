@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>航空機工業振興法施行令</title>
+    <defined>昭和三十五年十二月一日政令第二百九十四号</defined>
+    <updated>平成一九年一月四日政令第三号</updated>
+  </head>
+  <body>
+    <preamble><p>内閣は、航空機工業振興法（昭和三十三年法律第百五十号）第十一条の規定に基づき、この政令を制定する。</p></preamble>
+    <content>
+      <articles number="第一条">
+        <article_item number="第一条">
+          航空機工業振興法（以下「法」という。）第十一条の国有の試験研究施設は、次に掲げる機関の試験研究施設とする。
+          <go>
+            <go_item number="一">
+              防衛省技術研究本部航空装備研究所
+            </go_item>
+            <go_item number="二">
+              防衛省技術研究本部陸上装備研究所
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第二条">
+        <article_item number="第二条">
+          前条に規定する国有の試験研究施設は、航空機等（法第二条第一項に規定する航空機等をいう。以下同じ。）に関する試験研究であつて航空機工業の技術水準の向上に寄与する航空機等の開発を促進するため当該国有の試験研究施設を使用して行うことが特に必要であると経済産業大臣が認定をしたものについては、当該試験研究を行う者に対し、時価からその五割以内を減額した対価で使用させることができる。
+        </article_item>
+        <article_item number="２">
+          経済産業大臣は、前項の認定をしようとするときは、財務大臣に協議しなければならない。
+        </article_item>
+        <article_item number="３">
+          第一項の認定に関し必要な手続的事項は、経済産業省令で定める。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

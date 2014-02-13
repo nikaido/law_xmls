@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>ドイツ貨公債の発行等に関する省令</title>
+    <defined>昭和三十九年六月一日大蔵省令第三十二号</defined>
+    <updated>平成一二年八月二一日大蔵省令第六九号</updated>
+  </head>
+  <body>
+    <preamble><p>外貨公債の発行に関する法律第三条の規定に基づき、ドイツ貨公債の発行等に関する省令を次のように定める。</p></preamble>
+    <content>
+      <articles number="第一条">
+        <article_item number="第一条">
+          外貨公債の発行に関する法律（昭和三十八年法律第六十三号）第一条第一項の規定により発行する公債のうち、ドイツ連邦共和国通貨をもつて表示する公債（以下「ドイツ貨公債」という。）の発行等に関しては、別に定める場合を除き、この省令の定めるところによる。
+        </article_item>
+      </articles>
+      <articles number="第二条">
+        <article_item number="第二条">
+          ドイツ貨公債の発行、償還、利子支払及び証券に関する事務を日本銀行が取り扱う場合は、日本銀行を財務大臣の代理人とする。
+        </article_item>
+        <article_item number="２">
+          日本銀行は、財務大臣の指名する者をして、前項に規定する事務の取扱いを行なわせることができる。
+        </article_item>
+      </articles>
+      <articles number="第三条">
+        <article_item number="第三条">
+          ドイツ貨公債に対しては、利札（利札引換票を含む。以下第四条及び第六条において同じ。）付の無記名証券（以下「証券」という。）を発行する。
+        </article_item>
+        <article_item number="２">
+          前項に規定する証券を発行するまでの間ドイツ貨公債に対しては、発行総額を額面金額とする仮証券を発行することができる。
+        </article_item>
+      </articles>
+      <articles number="第四条">
+        <article_item number="第四条">
+          証券又は利札が汚染又はき損したときは、当該証券又は利札の債権者は、ドイツ連邦共和国の法令又は慣習に従い、その引換えを請求することができる。
+        </article_item>
+      </articles>
+      <articles number="第五条">
+        <article_item number="第五条">
+          証券又は利札引換票を滅失又は紛失したときは、当該証券又は利札引換票の債権者は、ドイツ連邦共和国の法令に従い、代証券又は代利札の交付を請求することができる。
+        </article_item>
+        <article_item number="２">
+          利札を滅失又は紛失したときは、当該利札の債権者は、ドイツ連邦共和国の法令に従い、当該利札に係る金額の支払を請求することができる。
+        </article_item>
+      </articles>
+      <articles number="第六条">
+        <article_item number="第六条">
+          ドイツ貨公債の元金を支払う場合において、当該証券に係る支払期日未到来の利札が欠けているときは、当該欠けている利札に相当する金額を支払うべき元金から控除する。
+        </article_item>
+        <article_item number="２">
+          前項に規定する利札の所持人は、当該利札の支払期日が到来しなければ、当該利札に係る金額の支払を請求することができない。
+        </article_item>
+      </articles>
+      <articles number="第七条">
+        <article_item number="第七条">
+          ドイツ貨公債の元金については、償還期日の到来した年の翌年から十年、利子については、支払期日の到来した年（前条第二項に規定する利札に係る金額については、当該利札の支払期日が到来した年）の翌年から四年を経過した後は、その償還又は支払の請求をすることができない。
+        </article_item>
+      </articles>
+      <articles number="第八条">
+        <article_item number="第八条">
+          この省令に定めるもののほか、この省令の実施に関し必要な事項は、別に財務大臣が定める。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

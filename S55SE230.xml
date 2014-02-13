@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>民事執行法施行令</title>
+    <defined>昭和五十五年八月三十日政令第二百三十号</defined>
+    <updated>平成一六年一二月二七日政令第四一九号</updated>
+  </head>
+  <body>
+    <preamble><p>内閣は、民事執行法（昭和五十四年法律第四号）第百三十一条第三号（同法第百七十七条第四項及び第百九十二条において準用する場合を含む。）及び第百五十二条第一項（同法第百七十八条第五項及び第百九十三条第二項において準用する場合を含む。）の規定に基づき、この政令を制定する。</p></preamble>
+    <content>
+      <articles number="第一条">
+        <article_item number="第一条">
+          民事執行法（以下「法」という。）第百三十一条第三号（法第百九十二条において準用する場合を含む。）の政令で定める額は、六十六万円とする。
+        </article_item>
+      </articles>
+      <articles number="第二条">
+        <article_item number="第二条">
+          法第百五十二条第一項各号に掲げる債権（次項の債権を除く。）に係る同条第一項（法第百六十七条の十四及び第百九十三条第二項において準用する場合を含む。以下同じ。）の政令で定める額は、次の各号に掲げる区分に応じ、それぞれ当該各号に定める額とする。
+          <go>
+            <go_item number="一">
+              支払期が毎月と定められている場合　三十三万円
+            </go_item>
+            <go_item number="二">
+              支払期が毎半月と定められている場合　十六万五千円
+            </go_item>
+            <go_item number="三">
+              支払期が毎旬と定められている場合　十一万円
+            </go_item>
+            <go_item number="四">
+              支払期が月の整数倍の期間ごとに定められている場合　三十三万円に当該倍数を乗じて得た金額に相当する額
+            </go_item>
+            <go_item number="五">
+              支払期が毎日と定められている場合　一万千円
+            </go_item>
+            <go_item number="六">
+              支払期がその他の期間をもつて定められている場合　一万千円に当該期間に係る日数を乗じて得た金額に相当する額
+            </go_item>
+          </go>
+        </article_item>
+        <article_item number="２">
+          賞与及びその性質を有する給与に係る債権に係る法第百五十二条第一項の政令で定める額は、三十三万円とする。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>人事院規則一〇―九（民間派遣研修）</title>
+    <defined>平成三年四月一日人事院規則一〇―九</defined>
+    <updated>平成一四年四月一日人事院規則一―三五</updated>
+  </head>
+  <body>
+    <preamble><p>人事院は、国家公務員法（昭和二十二年法律第百二十号）に基づき、民間派遣研修に関し次の人事院規則を制定する。</p></preamble>
+    <content>
+      <articles number="第一条">
+        <article_item number="第一条">
+          この規則は、民間派遣研修に関し、その適正かつ円滑な実施を図るために必要な事項を定めるものとする。
+        </article_item>
+      </articles>
+      <articles number="第二条">
+        <article_item number="第二条">
+          この規則において「民間派遣研修」とは、職員に株式会社その他の人事院が定める法人（以下「民間会社等」という。）の業務を体験させることにより、民間会社等の業務運営の手法等を理解させる目的で、各省各庁の長が職員を民間会社等に派遣して実施する研修をいう。
+        </article_item>
+      </articles>
+      <articles number="第三条">
+        <article_item number="第三条">
+          各省各庁の長は、民間派遣研修を実施する場合には、人事院の定めるところにより、民間派遣研修の実施に関する計画を定めなければならない。
+        </article_item>
+      </articles>
+      <articles number="第四条">
+        <article_item number="第四条">
+          各省各庁の長は、民間派遣研修の実施に関しては、次に掲げる事項を遵守しなければならない。
+          <go>
+            <go_item number="一">
+              民間派遣研修開始前の人事院が定める期間において職員が従事していた業務と密接な関係のある民間会社等への派遣は行わないこと。
+            </go_item>
+            <go_item number="二">
+              職員が在職している国の機関（会計検査院、内閣、人事院、内閣府、各省並びに宮内庁及び各外局をいう。）に対する許可の申請、契約の折衝等の業務の体験はさせないこと。
+            </go_item>
+            <go_item number="三">
+              民間派遣研修終了後の人事院が定める期間は、職員が派遣された民間会社等と密接な関係のある業務に就かせないこと。
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第五条">
+        <article_item number="第五条">
+          各省各庁の長は、民間派遣研修を実施するに当たっては、人事院の定めるところにより、研修日程、職員の服務等について、派遣先の民間会社等と書面を交換して確認するものとする。
+        </article_item>
+      </articles>
+      <articles number="第六条">
+        <article_item number="第六条">
+          各省各庁の長は、人事院の定める民間派遣研修を実施した場合には、その旨を人事院に報告しなければならない。
+        </article_item>
+      </articles>
+      <articles number="第七条">
+        <article_item number="第七条">
+          この規則に定めるもののほか、民間派遣研修の実施に関し必要な事項は、人事院が定める。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>
