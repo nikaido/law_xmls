@@ -27,7 +27,7 @@
 
                                                                                  S.Nakamura(@_nika)
                                                                              http://kuronekoya.info
-                                                                               mocha.neco@gmail.com
+                                                                              lr.nakamura@gmail.com
 
                                                            サイト「日本の法律」 http://law.2nx.info
 ---------------------------------------------------------------------------------------------------
