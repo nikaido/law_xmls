@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>モーターボート競走法施行令</title>
+    <defined>昭和二十八年八月三十一日政令第二百五十六号</defined>
+    <updated>平成一九年三月三一日政令第一一八号</updated>
+  </head>
+  <body>
+    <preamble><p>内閣は、モーターボート競走法（昭和二十六年法律第二百四十二号）第三条及び第二十六条の規定に基き、この政令を制定する。</p></preamble>
+    <content>
+      <articles>
+        <article_item>
+          モーターボート競走法第六十三条のモーターボート競走の実施に関する事務で地方公共団体が処理しなければならないものは、国土交通省令で定める事項を記載した競走の実施に関する規程の作成の事務とする。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

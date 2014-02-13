@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>化製場等に関する法律施行令</title>
+    <defined>昭和三十一年九月六日政令第二百八十五号</defined>
+    <updated>平成二年二月一七日政令第一五号</updated>
+  </head>
+  <body>
+    <preamble><p>内閣は、へい獣処理場等に関する法律（昭和二十三年法律第百四十号）第四条、第八条並びに第九条第一項、第五項及び第七項の規定に基き、この政令を制定する。</p></preamble>
+    <content>
+      <articles number="第一条" title="（法第九条第一項の政令で定める動物の種類）">
+        <article_item>
+          化製場等に関する法律（以下「法」という。）第九条第一項の政令で定める動物の種類は、次のとおりとする。
+          <go>
+            <go_item number="一">
+              牛
+            </go_item>
+            <go_item number="二">
+              馬
+            </go_item>
+            <go_item number="三">
+              豚
+            </go_item>
+            <go_item number="四">
+              めん羊
+            </go_item>
+            <go_item number="五">
+              やぎ
+            </go_item>
+            <go_item number="六">
+              犬
+            </go_item>
+            <go_item number="七">
+              鶏（三十日未満のひなを除く。）
+            </go_item>
+            <go_item number="八">
+              あひる（三十日未満のひなを除く。）
+            </go_item>
+            <go_item number="九">
+              その他その飼養又は収容に関して公衆衛生上の配慮が必要な動物として都道府県の条例で定める動物
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第二条" title="（法第九条第六項の政令で定める施設）">
+        <article_item>
+          法第九条第六項の政令で定める施設は、次のとおりとする。
+          <go>
+            <go_item number="一">
+              家畜取引法（昭和三十一年法律第百二十三号）に規定する家畜市場
+            </go_item>
+            <go_item number="二">
+              競馬法（昭和二十三年法律第百五十八号）に規定する競馬場
+            </go_item>
+            <go_item number="三">
+              家畜共進会、家畜博覧会その他臨時的に開催される催物に設けられる施設で前条各号に掲げる種類の動物を飼養し又は収容するもの
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

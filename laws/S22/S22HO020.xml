@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>恩赦法</title>
+    <defined>昭和二十二年三月二十八日法律第二十号</defined>
+    <updated>平成二五年六月一九日法律第四九号</updated>
+  </head>
+  <body>
+    <content>
+      <articles number="第一条">
+        <article_item>
+          大赦、特赦、減刑、刑の執行の免除及び復権については、この法律の定めるところによる。
+        </article_item>
+      </articles>
+      <articles number="第二条">
+        <article_item>
+          大赦は、政令で罪の種類を定めてこれを行う。
+        </article_item>
+      </articles>
+      <articles number="第三条">
+        <article_item>
+          大赦は、前条の政令に特別の定のある場合を除いては、大赦のあつた罪について、左の効力を有する。
+          <go>
+            <go_item number="一">
+              有罪の言渡を受けた者については、その言渡は、効力を失う。
+            </go_item>
+            <go_item number="二">
+              まだ有罪の言渡を受けない者については、公訴権は、消滅する。
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第四条">
+        <article_item>
+          特赦は、有罪の言渡を受けた特定の者に対してこれを行う。
+        </article_item>
+      </articles>
+      <articles number="第五条">
+        <article_item>
+          特赦は、有罪の言渡の効力を失わせる。
+        </article_item>
+      </articles>
+      <articles number="第六条">
+        <article_item>
+          減刑は、刑の言渡を受けた者に対して政令で罪若しくは刑の種類を定めてこれを行い、又は刑の言渡を受けた特定の者に対してこれを行う。
+        </article_item>
+      </articles>
+      <articles number="第七条">
+        <article_item>
+          政令による減刑は、その政令に特別の定のある場合を除いては、刑を減軽する。
+        </article_item>
+        <article_item number="○２">
+          特定の者に対する減刑は、刑を減軽し、又は刑の執行を減軽する。
+        </article_item>
+        <article_item number="○３">
+          刑の執行猶予の言渡を受けてまだ猶予の期間を経過しない者に対しては、前項の規定にかかわらず、刑を減軽する減刑のみを行うものとし、又、これとともに猶予の期間を短縮することができる。
+        </article_item>
+      </articles>
+      <articles number="第八条">
+        <article_item>
+          刑の執行の免除は、刑の言渡を受けた特定の者に対してこれを行う。但し、刑の執行猶予の言渡を受けてまだ猶予の期間を経過しない者に対しては、これを行わない。
+        </article_item>
+      </articles>
+      <articles number="第九条">
+        <article_item>
+          復権は、有罪の言渡を受けたため法令の定めるところにより資格を喪失し、又は停止された者に対して政令で要件を定めてこれを行い、又は特定の者に対してこれを行う。但し、刑の執行を終らない者又は執行の免除を得ない者に対しては、これを行わない。
+        </article_item>
+      </articles>
+      <articles number="第十条">
+        <article_item>
+          復権は、資格を回復する。
+        </article_item>
+        <article_item number="○２">
+          復権は、特定の資格についてこれを行うことができる。
+        </article_item>
+      </articles>
+      <articles number="第十一条">
+        <article_item>
+          有罪の言渡に基く既成の効果は、大赦、特赦、減刑、刑の執行の免除又は復権によつて変更されることはない。
+        </article_item>
+      </articles>
+      <articles number="第十二条">
+        <article_item>
+          特赦、特定の者に対する減刑、刑の執行の免除及び特定の者に対する復権は、中央更生保護審査会の申出があつた者に対してこれを行うものとする。
+        </article_item>
+      </articles>
+      <articles number="第十三条">
+        <article_item>
+          特赦、特定の者に対する減刑、刑の執行の免除又は特定の者に対する復権があつたときは、法務大臣は、特赦状、減刑状、刑の執行の免除状又は復権状を本人に下付しなければならない。
+        </article_item>
+      </articles>
+      <articles number="第十四条">
+        <article_item>
+          大赦、特赦、減刑、刑の執行の免除又は復権があつたときは、検察官は、判決の原本にその旨を附記しなければならない。
+        </article_item>
+      </articles>
+      <articles number="第十五条">
+        <article_item>
+          この法律の施行に関し必要な事項は、法務省令でこれを定める。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

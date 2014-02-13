@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>中心市街地の活性化に関する法律第十五条第三項の中心市街地活性化協議会の組織の公表に関する命令</title>
+    <defined>平成十八年八月十八日内閣府・経済産業省・国土交通省令第二号</defined>
+  </head>
+  <body>
+    <preamble><p>中心市街地の活性化に関する法律（平成十年法律第九十二号）第十五条第三項の規定に基づき、中心市街地の活性化に関する法律第十五条第三項の中心市街地活性化協議会の組織の公表に関する命令を次のように定める。</p></preamble>
+    <content>
+      <articles number="第一条" title="（公表する事項）">
+        <article_item>
+          中心市街地の活性化に関する法律（平成十年法律第九十二号。以下「法」という。）第十五条第三項の規定による公表は、次に掲げる事項について行わなければならない。
+          <go>
+            <go_item number="一">
+              中心市街地活性化協議会の構成員の氏名又は名称
+            </go_item>
+            <go_item number="二">
+              中心市街地活性化協議会の規約の内容
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第二条" title="（公表の方法）">
+        <article_item>
+          法第十五条第三項の規定による公表は、事務所又は事業所で公衆に閲覧させるとともに、インターネットの利用その他の適切な方法により行うものとする。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

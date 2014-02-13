@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>公正取引委員会事務総局組織規則</title>
+    <defined>昭和五十三年四月五日総理府令第十号</defined>
+    <updated>平成二五年九月三〇日内閣府令第六四号</updated>
+  </head>
+  <body>
+    <preamble><p>私的独占の禁止及び公正取引の確保に関する法律（昭和二十二年法律第五十四号）第八章の規定及び公正取引委員会事務局組織令（昭和二十七年政令第三百七十三号）を実施するため、公正取引委員会の事務局審査部第一審査長の下に考査室及び監査室を置く総理府令（昭和五十二年総理府令第四十五号）の全部を改正する総理府令を次のように定める。</p></preamble>
+    <content>
+      <sho title="第一章　内部部局">
+        <setsu title="第一節　官房">
+          <articles number="第一条" title="（会計室及び審決訟務室並びに企画官）">
+            <article_item>
+              総務課に、会計室及び審決訟務室並びに企画官一人を置く。
+            </article_item>
+            <article_item number="２">
+              会計室は、次に掲げる事務をつかさどる。
+              <go>
+                <go_item number="一">
+                  公正取引委員会の所掌に係る経費及び収入の予算、決算及び会計並びに会計の監査に関すること。
+                </go_item>
+                <go_item number="二">
+                  公正取引委員会所属の行政財産及び物品の管理に関すること。
+                </go_item>
+                <go_item number="三">
+                  公正取引委員会所属の建築物の営繕に関すること。
+                </go_item>
+              </go>
+            </article_item>
+            <article_item number="３">
+              会計室に、室長を置く。
+            </article_item>
+            <article_item number="４">
+              審決訟務室は、次に掲げる事務をつかさどる。
+              <go>
+                <go_item number="一">
+                  審判の事務（私的独占の禁止及び公正取引の確保に関する法律（昭和二十二年法律第五十四号。以下「独占禁止法」という。）第五十六条第一項の規定により、公正取引委員会が審判官を指定して行わせることとした事務を除く。）に関すること。
+                </go_item>
+                <go_item number="二">
+                  審決に関すること。
+                </go_item>
+                <go_item number="三">
+                  独占的状態に係る事件に関する審決の執行に関すること。
+                </go_item>
+                <go_item number="四">
+                  課徴金の徴収に関すること。
+                </go_item>
+                <go_item number="五">
+                  行政訴訟の事務に関すること。
+                </go_item>
+                <go_item number="六">
+                  独占禁止法の規定による侵害の停止又は予防に関する訴訟及び損害賠償に関する訴訟の事務に関すること。
+                </go_item>
+              </go>
+            </article_item>
+            <article_item number="５">
+              審決訟務室に、室長を置く。
+            </article_item>
+            <article_item number="６">
+              企画官は、命を受けて、総務課の所掌事務に関する特定事項についての企画及び立案並びに調整に関する事務に従事する。
+            </article_item>
+          </articles>
+          <articles number="第二条" title="（企画官）">
+            <article_item>
+              人事課に、企画官一人を置く。
+            </article_item>
+            <article_item number="２">
+              企画官は、命を受けて、人事課の所掌事務のうち、人事、教養及び訓練に関する特定事項についての企画及び立案並びに調整に関する事務に従事する。
+            </article_item>
+          </articles>
+          <articles number="第二条の二" title="（企画官）">
+            <article_item>
+              国際課に、企画官一人を置く。
+            </article_item>
+            <article_item number="２">
+              企画官は、命を受けて、国際課の所掌事務に関する特定事項についての企画及び立案並びに調整に関する事務に従事する。
+            </article_item>
+          </articles>
+        </setsu>
+        <setsu title="第二節　経済取引局">
+          <articles number="第三条" title="（企画室及び経済調査室）">
+            <article_item>
+              総務課に、企画室及び経済調査室を置く。
+            </article_item>
+            <article_item number="２">
+              企画室は、独占禁止政策に関する基本的事項の中長期的な観点に立った企画及び立案に関する事務をつかさどる。
+            </article_item>
+            <article_item number="３">
+              企画室に、室長を置く。
+            </article_item>
+            <article_item number="４">
+              経済調査室は、独占禁止政策に係る事業活動（独占的状態に係るものに限る。）及び経済実態（独占的状態に係るものを含む。）の調査に関する事務をつかさどる。
+            </article_item>
+            <article_item number="５">
+              経済調査室に、室長を置く。
+            </article_item>
+          </articles>
+          <articles number="第四条" title="（上席企業結合調査官）">
+            <article_item>
+              企業結合課に、上席企業結合調査官一人を置く。
+            </article_item>
+            <article_item number="２">
+              上席企業結合調査官は、命を受けて、企業結合課の所掌事務に関する特定事項について調査し、企画し、及び立案する事務に従事する。
+            </article_item>
+          </articles>
+          <articles number="第五条" title="（取引調査室及び相談指導室並びに上席転嫁対策調査官）">
+            <article_item>
+              取引部取引企画課に、取引調査室及び相談指導室並びに上席転嫁対策調査官一人を置く。
+            </article_item>
+            <article_item number="２">
+              取引調査室は、次に掲げる事務をつかさどる。
+              <go>
+                <go_item number="一">
+                  独占禁止政策に係る事業活動（独占的状態に係るものを除く。）の調査に関すること（企業取引課及び相談指導室の所掌に属するものを除く。）。
+                </go_item>
+                <go_item number="二">
+                  再販売価格に関する商品の届出の受理に関すること。
+                </go_item>
+                <go_item number="三">
+                  中小企業等協同組合法（昭和二十四年法律第百八十一号）の規定による協同組合の届出の受理に関すること。
+                </go_item>
+              </go>
+            </article_item>
+            <article_item number="３">
+              取引調査室に、室長を置く。
+            </article_item>
+            <article_item number="４">
+              相談指導室は、事業者及び事業者団体の活動に関する相談及び指導に関する事務（企業取引課の所掌に属するものを除く。）をつかさどる。
+            </article_item>
+            <article_item number="５">
+              相談指導室に、室長を置く。
+            </article_item>
+            <article_item number="６">
+              上席転嫁対策調査官は、命を受けて、消費税の円滑かつ適正な転嫁の確保のための消費税の転嫁を阻害する行為の是正等に関する特別措置法（平成二十五年法律第四十一号）第三条及び第八条の規定に違反する行為の防止及び是正に関する事務を行い、並びに当該事務を総括する。
+            </article_item>
+          </articles>
+          <articles number="第六条" title="（下請取引調査室及び上席下請取引検査官）">
+            <article_item>
+              取引部企業取引課に、下請取引調査室及び上席下請取引検査官二人を置く。
+            </article_item>
+            <article_item number="２">
+              下請取引調査室は、下請代金支払遅延等防止法（昭和三十一年法律第百二十号）の施行に関する事務のうち、報告及び検査、勧告並びに公表に関する事務をつかさどる。
+            </article_item>
+            <article_item number="３">
+              下請取引調査室に、室長を置く。
+            </article_item>
+            <article_item number="４">
+              上席下請取引検査官は、命を受けて、第二項の報告の受理並びに同項の検査、勧告及び公表を実施し、並びにそれらの実施に関する事務を整理する。
+            </article_item>
+          </articles>
+        </setsu>
+        <setsu title="第三節　審査局">
+          <articles number="第七条" title="（企画室、情報管理室及び公正競争監視室並びに審査企画官、課徴金減免管理官及び上席審査専門官）">
+            <article_item>
+              管理企画課に、企画室、情報管理室及び公正競争監視室並びに審査企画官一人、課徴金減免管理官一人及び上席審査専門官一人を置く。
+            </article_item>
+            <article_item number="２">
+              企画室は、次に掲げる事務（審査企画官の所掌に属するものを除く。）をつかさどる。
+              <go>
+                <go_item number="一">
+                  事件の審査のために必要な法の解釈及び法の運用の総括に関すること。
+                </go_item>
+                <go_item number="二">
+                  事件の審査に係る基本的事項の企画及び立案に関すること。
+                </go_item>
+                <go_item number="三">
+                  課徴金の納付命令に係る基本的事項の企画及び立案に関すること。
+                </go_item>
+              </go>
+            </article_item>
+            <article_item number="３">
+              企画室に、室長を置く。
+            </article_item>
+            <article_item number="４">
+              情報管理室は、次に掲げる事務（公正競争監視室の所掌に属するものを除く。）をつかさどる。
+              <go>
+                <go_item number="一">
+                  事件の審査の開始に係る情報の探知及び情報に関する調査に関すること。
+                </go_item>
+                <go_item number="二">
+                  事件に係る報告の受理及び報告に関する調査に関すること。
+                </go_item>
+                <go_item number="三">
+                  事件に係る通知の受理及び通知に関する調査に関すること。
+                </go_item>
+                <go_item number="四">
+                  前三号に係る情報、報告及び通知の管理に関すること。
+                </go_item>
+              </go>
+            </article_item>
+            <article_item number="５">
+              情報管理室に、室長を置く。
+            </article_item>
+            <article_item number="６">
+              公正競争監視室は、次に掲げる事務をつかさどる。
+              <go>
+                <go_item number="一">
+                  不公正な取引方法に係る事件で特定の事業に関するものについての審査の開始に係る情報の探知及び情報に関する調査に関すること。
+                </go_item>
+                <go_item number="二">
+                  不公正な取引方法に係る事件で特定の事業に関するものについての報告の受理及び報告に関する調査に関すること。
+                </go_item>
+                <go_item number="三">
+                  前二号に係る情報及び報告の管理に関すること。
+                </go_item>
+              </go>
+            </article_item>
+            <article_item number="７">
+              公正競争監視室に、室長を置く。
+            </article_item>
+            <article_item number="８">
+              審査企画官は、命を受けて、管理企画課の所掌事務に関する特定事項についての企画及び立案並びに調整に関する事務に従事する。
+            </article_item>
+            <article_item number="９">
+              課徴金減免管理官は、命を受けて、課徴金の減免に係る報告及び資料の受理その他課徴金の減免に関する事務に従事する。
+            </article_item>
+            <article_item number="１０">
+              上席審査専門官は、命を受けて、次に掲げる事務に従事する。
+              <go>
+                <go_item number="一">
+                  独占的状態に係る事件の審判開始決定に関する調整に関すること。
+                </go_item>
+                <go_item number="二">
+                  独占禁止法第五十八条の規定により審査官が行う主張、証拠の申出その他必要な行為に係る調整に関すること。
+                </go_item>
+              </go>
+            </article_item>
+          </articles>
+          <articles number="第八条" title="（上席審査専門官）">
+            <article_item>
+              審査局に、上席審査専門官五人を置く。
+            </article_item>
+            <article_item number="２">
+              上席審査専門官は、命を受けて、審査長のつかさどる職務のうち特定事項に関するものを助ける。
+            </article_item>
+          </articles>
+        </setsu>
+      </sho>
+      <sho title="第二章　地方機関">
+        <articles number="第九条" title="（総務管理官）">
+          <article_item>
+            中部事務所、近畿中国四国事務所及び九州事務所に、それぞれ総務管理官一人を置く。
+          </article_item>
+          <article_item number="２">
+            総務管理官は、命を受けて、所内の事務（事件の審査に関する事務を除く。）を総括整理する。
+          </article_item>
+        </articles>
+        <articles number="第十条" title="（審査統括官）">
+          <article_item>
+            中部事務所及び近畿中国四国事務所に、それぞれ審査統括官一人を置く。
+          </article_item>
+          <article_item number="２">
+            審査統括官は、命を受けて、所内の事件の審査に関する事務を総括整理する。
+          </article_item>
+        </articles>
+        <articles number="第十一条" title="（支所）">
+          <article_item>
+            近畿中国四国事務所に、その事務の一部を分掌させるため、支所を置く。
+          </article_item>
+          <article_item number="２">
+            前項の支所の名称、位置及び管轄区域は、次のとおりとする。
+            <table>
+              <tr>
+                <td>
+                  名称
+                </td>
+                <td>
+                  位置
+                </td>
+                <td>
+                  管轄区域
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  中国支所
+                </td>
+                <td>
+                  広島市
+                </td>
+                <td>
+                  鳥取県　島根県　岡山県　広島県　山口県
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  四国支所
+                </td>
+                <td>
+                  高松市
+                </td>
+                <td>
+                  徳島県　香川県　愛媛県　高知県
+                </td>
+              </tr>
+            </table>
+          </article_item>
+        </articles>
+      </sho>
+    </content>
+  </body>
+</law>

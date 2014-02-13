@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>管区機動隊の編成等に関する規則</title>
+    <defined>昭和四十五年四月二十二日国家公安委員会規則第三号</defined>
+  </head>
+  <body>
+    <preamble><p>警察法施行令（昭和二十九年政令第百五十一号）第十三条の規定に基づき、管区機動隊の編成等に関する規則を次のように定める。</p></preamble>
+    <content>
+      <articles number="第一条" title="（趣旨）">
+        <article_item>
+          この規則は、道府県警察における集団警察力の強化を図るとともに、都道府県警察相互の援助体制を確保するため、道府県警察における所要の部隊の編成その他必要な事項について定めるものとする。
+        </article_item>
+      </articles>
+      <articles number="第二条" title="（編成）">
+        <article_item>
+          道府県警察本部長は、当該道府県警察に所属する警察官をもつて道警察警備隊または管区機動隊（以下「管区機動隊」という。）を編成するものとする。
+        </article_item>
+        <article_item number="２">
+          管区警察局長は、管轄区域内における府県警察の管区機動隊の連合編成について必要な調整を行なうものとする。
+        </article_item>
+      </articles>
+      <articles number="第三条" title="（任務）">
+        <article_item>
+          管区機動隊の任務は、次の各号に掲げるとおりとする。
+          <go>
+            <go_item number="一">
+              治安警備活動および災害警備活動ならびに道府県警察本部長が必要と認めて命ずるその他の警察活動を行なうこと。
+            </go_item>
+            <go_item number="二">
+              他の都道府県公安委員会の援助の要求により派遣され、当該都道府県公安委員会の管理の下に、当該都道府県警察の管轄区域において警察活動を行なうこと。
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第四条" title="（長官への委任）">
+        <article_item>
+          管区機動隊の編成の基準、訓練等に関し必要な事項は、警察庁長官が定める。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

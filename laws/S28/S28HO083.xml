@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>地方青少年問題協議会法</title>
+    <defined>昭和二十八年七月二十五日法律第八十三号</defined>
+    <updated>平成二五年六月一四日法律第四四号</updated>
+  </head>
+  <body>
+    <content>
+      <articles number="第一条" title="（設置）">
+        <article_item>
+          都道府県及び市（特別区を含む。以下同じ。）町村に、附属機関として、それぞれ都道府県青少年問題協議会及び市町村青少年問題協議会（特別区にあつては、特別区青少年問題協議会。以下同じ。）（以下「地方青少年問題協議会」と総称する。）を置くことができる。
+        </article_item>
+      </articles>
+      <articles number="第二条" title="（所掌事務）">
+        <article_item>
+          地方青少年問題協議会は、当該地方公共団体における次の各号に掲げる事務をつかさどる。
+          <go>
+            <go_item number="一">
+              青少年の指導、育成、保護及び矯正に関する総合的施策の樹立につき必要な重要事項を調査審議すること。
+            </go_item>
+            <go_item number="二">
+              青少年の指導、育成、保護及び矯正に関する総合的施策の適切な実施を期するために必要な関係行政機関相互の連絡調整を図ること。
+            </go_item>
+          </go>
+        </article_item>
+        <article_item number="２">
+          地方青少年問題協議会は、前項に規定する事項に関し、当該地方公共団体の長及びその区域内にある関係行政機関に対し、意見を述べることができる。
+        </article_item>
+      </articles>
+      <articles number="第三条" title="（組織）">
+        <article_item>
+          地方青少年問題協議会は、会長及び委員若干人で組織する。
+        </article_item>
+        <article_item number="２">
+          会長は、当該地方公共団体の長をもつて充てる。
+        </article_item>
+        <article_item number="３">
+          委員は、地方公共団体の議会の議員、関係行政機関の職員及び学識経験がある者（都道府県青少年問題協議会にあつては、家庭裁判所の職員を含む。）のうちから、当該地方公共団体の長が任命する。
+        </article_item>
+      </articles>
+      <articles number="第四条" title="（相互の連絡）">
+        <article_item>
+          地方青少年問題協議会は、相互に緊密な連絡をとらなければならない。
+        </article_item>
+      </articles>
+      <articles number="第五条" title="（経費）">
+        <article_item>
+          国は、都道府県青少年問題協議会を置く都道府県及び市青少年問題協議会を置く地方自治法（昭和二十二年法律第六十七号）第二百五十二条の十九第一項の指定都市に対し、予算の範囲内において、当該都道府県青少年問題協議会及び市青少年問題協議会の運営に要する経費の一部を補助することができる。
+        </article_item>
+      </articles>
+      <articles number="第六条" title="（条例への委任）">
+        <article_item>
+          この法律に定めるものを除くほか、地方青少年問題協議会に関し必要な事項は、条例で定める。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

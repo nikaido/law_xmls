@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>原子力委員会設置法施行令</title>
+    <defined>昭和三十一年一月二十四日政令第四号</defined>
+    <updated>平成二四年九月一四日政令第二三五号</updated>
+  </head>
+  <body>
+    <preamble><p>内閣は、原子力委員会設置法（昭和三十年法律第百八十七号）第十六条の規定に基き、この政令を制定する。</p></preamble>
+    <content>
+      <articles number="第一条" title="（会議）">
+        <article_item>
+          会議は、毎週一回開くことを例とするほか、必要に応じて開くものとする。
+        </article_item>
+        <article_item number="２">
+          委員長は、会議の日程及び議題をあらかじめ委員に通知しなければならない。
+        </article_item>
+      </articles>
+      <articles number="第二条" title="（参与）">
+        <article_item>
+          原子力委員会に、参与二十五人以内を置き、会務に参与させる。
+        </article_item>
+        <article_item number="２">
+          参与は、学識経験がある者のうちから、内閣総理大臣が任命する。
+        </article_item>
+        <article_item number="３">
+          参与は、非常勤とする。
+        </article_item>
+        <article_item number="４">
+          参与の任期は、二年とする。ただし、補欠の参与の任期は、前任者の残任期間とする。
+        </article_item>
+        <article_item number="５">
+          参与は、再任されることができる。
+        </article_item>
+      </articles>
+      <articles number="第三条" title="（専門委員）">
+        <article_item>
+          原子力委員会に、専門の事項を調査審議させるため、専門委員を置くことができる。
+        </article_item>
+        <article_item number="２">
+          専門委員は、学識経験がある者のうちから、内閣総理大臣が任命する。
+        </article_item>
+        <article_item number="３">
+          専門委員は、非常勤とする。
+        </article_item>
+        <article_item number="４">
+          専門委員は、当該専門の事項に関する調査審議を終了したときは、解任されるものとする。
+        </article_item>
+      </articles>
+      <articles number="第四条" title="（庶務）">
+        <article_item>
+          原子力委員会の庶務は、内閣府本府に置かれる政策統括官が総括し、又は処理する。ただし、関係行政機関（内閣府本府を除く。）の所掌に属する事項に係る庶務の処理については、当該関係行政機関の担当部局等と共同して行う。
+        </article_item>
+      </articles>
+      <articles number="第五条" title="（雑則）">
+        <article_item>
+          前各条に定めるもののほか、原子力委員会の運営に関し必要な事項は、原子力委員会が定める。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

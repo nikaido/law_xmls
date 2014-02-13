@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>検視規則</title>
+    <defined>昭和三十三年十一月二十七日国家公安委員会規則第三号</defined>
+  </head>
+  <body>
+    <preamble><p>検視規則を次のように定める。</p></preamble>
+    <content>
+      <articles number="第一条" title="（この規則の目的）">
+        <article_item>
+          この規則は、警察官が変死者又は変死の疑のある死体（以下「変死体」という。）を発見し、又はこれがある旨の届出を受けたときの検視に関する手続、方法その他必要な事項を定めることを目的とする。
+        </article_item>
+      </articles>
+      <articles number="第二条" title="（報告）">
+        <article_item>
+          警察官は、変死体を発見し、又はこれがある旨の届出を受けたときは、直ちに、その変死体の所在地を管轄する警察署長にその旨を報告しなければならない。
+        </article_item>
+      </articles>
+      <articles number="第三条" title="（検察官への通知）">
+        <article_item>
+          前条の規定により報告を受けた警察署長は、すみやかに、警察本部長（警視総監又は道府県警察本部長をいう。以下同じ。）にその旨を報告するとともに、刑事訴訟法（昭和二十三年法律第百三十一号）第二百二十九条第一項の規定による検視が行われるよう、その死体の所在地を管轄する地方検察庁又は区検察庁の検察官に次の各号に掲げる事項を通知しなければならない。
+          <go>
+            <go_item number="一">
+              変死体発見の年月日時、場所及びその状況
+            </go_item>
+            <go_item number="二">
+              変死体発見者の氏名その他参考となるべき事項
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第四条" title="（現場の保存）">
+        <article_item>
+          警察官は、検視が行われるまでは、変死体及びその現場の状況を保存するように努めるとともに、事後の捜査又は身元調査に支障をきたさないようにしなければならない。
+        </article_item>
+      </articles>
+      <articles number="第五条" title="（検視の代行）">
+        <article_item>
+          刑事訴訟法第二百二十九条第二項の規定により変死体について検視する場合においては、医師の立会を求めてこれを行い、すみやかに検察官に、その結果を報告するとともに、検視調書を作成して、撮影した写真等とともに送付しなければならない。
+        </article_item>
+      </articles>
+      <articles number="第六条" title="（検視の要領）">
+        <article_item>
+          検視に当つては、次の各号に掲げる事項を綿密に調査しなければならない。
+          <go>
+            <go_item number="一">
+              変死体の氏名、年齢、住居及び性別
+            </go_item>
+            <go_item number="二">
+              変死体の位置、姿勢並びに創傷その他の変異及び特徴
+            </go_item>
+            <go_item number="三">
+              着衣、携帯品及び遺留品
+            </go_item>
+            <go_item number="四">
+              周囲の地形及び事物の状況
+            </go_item>
+            <go_item number="五">
+              死亡の推定年月日時及び場所
+            </go_item>
+            <go_item number="六">
+              死因（特に犯罪行為に基因するか否か。）
+            </go_item>
+            <go_item number="七">
+              凶器その他犯罪行為に供した疑のある物件
+            </go_item>
+            <go_item number="八">
+              自殺の疑がある死体については、自殺の原因及び方法、教唆者、ほう助者等の有無並びに遺書があるときはその真偽
+            </go_item>
+            <go_item number="九">
+              中毒死の疑があるときは、症状、毒物の種類及び中毒するに至った経緯
+            </go_item>
+          </go>
+        </article_item>
+        <article_item number="２">
+          前項の調査に当つて必要がある場合には、立会医師の意見を徴し、家人、親族、隣人、発見者その他の関係者について必要な事項を聴取し、かつ、人相、全身の形状、特徴のある身体の部位、着衣その他特徴のある所持品の撮影及び記録並びに指紋の採取等を行わなければならない。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

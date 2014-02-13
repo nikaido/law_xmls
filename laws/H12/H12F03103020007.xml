@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>総務省の主管又は所管に係る一般会計及び特別会計の歳入について証券をもって納付し得る種目を定める省令</title>
+    <defined>平成十二年十二月二十七日総理府・郵政省・自治省令第七号</defined>
+    <updated>平成一五年一月一四日総務省令第一七号</updated>
+  </head>
+  <body>
+    <preamble><p>歳入納付に使用する証券に関する件（大正五年勅令第二百五十六号）第五条及び第六条第二項の規定に基づき、総務省の主管又は所管に係る一般会計及び特別会計の歳入について証券をもって納付し得る種目等を定める省令を次のように定める。</p></preamble>
+    <content>
+      <articles>
+        <article_item>
+          総務省の主管又は所管に係る一般会計及び特別会計の歳入は、法令に別段の定めのあるものを除き、すべて証券をもって納付することができる。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

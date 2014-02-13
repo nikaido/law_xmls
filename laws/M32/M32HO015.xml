@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>供託法</title>
+    <defined>明治三十二年二月八日法律第十五号</defined>
+    <updated>平成一六年六月九日法律第八四号</updated>
+  </head>
+  <body>
+    <content>
+      <articles number="第一条">
+        <article_item>
+          法令ノ規定ニ依リテ供託スル金銭及ヒ有価証券ハ法務局若ハ地方法務局若ハ此等ノ支局又ハ法務大臣ノ指定スル此等ノ出張所カ供託所トシテ之ヲ保管ス
+        </article_item>
+      </articles>
+      <articles number="第一条ノ二">
+        <article_item>
+          供託所ニ於ケル事務ハ法務局若ハ地方法務局若ハ此等ノ支局又ハ此等ノ出張所ニ勤務スル法務事務官ニシテ法務局又ハ地方法務局ノ長ノ指定シタル者カ供託官トシテ之ヲ取扱フ
+        </article_item>
+      </articles>
+      <articles number="第一条ノ三">
+        <article_item>
+          供託官ノ処分ニ付テハ行政手続法（平成五年法律第八十八号）第二章ノ規定ハ之ヲ適用セズ
+        </article_item>
+      </articles>
+      <articles number="第一条ノ四">
+        <article_item>
+          供託官ノ処分ヲ不当トスル者ハ監督法務局又ハ地方法務局ノ長ニ審査請求ヲ為スコトヲ得
+        </article_item>
+      </articles>
+      <articles number="第一条ノ五">
+        <article_item>
+          審査請求ハ供託所ニ審査請求書ヲ提出シテ之ヲ為ス
+        </article_item>
+      </articles>
+      <articles number="第一条ノ六">
+        <article_item>
+          供託官ハ審査請求ヲ理由アリト認ムルトキハ処分ヲ変更シテ其旨ヲ審査請求人ニ通知スルコトヲ要ス
+        </article_item>
+        <article_item number="○２">
+          審査請求ヲ理由ナシト認ムルトキハ意見ヲ附シ審査請求書ノ提出アリタル日ヨリ五日内ニ之ヲ監督法務局又ハ地方法務局ノ長ニ送付スルコトヲ要ス
+        </article_item>
+      </articles>
+      <articles number="第一条ノ七">
+        <article_item>
+          法務局又ハ地方法務局ノ長ハ審査請求ヲ理由アリトスルトキハ供託官ニ相当ノ処分ヲ命スルコトヲ要ス
+        </article_item>
+      </articles>
+      <articles number="第一条ノ八">
+        <article_item>
+          行政不服審査法（昭和三十七年法律第百六十号）第十四条、第十七条、第二十四条、第二十五条第一項但書、第三十四条第二項乃至第七項、第四十条第三項乃至第六項及ビ第四十三条ノ規定ハ供託官ノ処分ニ係ル審査請求ニ付テハ之ヲ適用セズ
+        </article_item>
+      </articles>
+      <articles number="第二条">
+        <article_item>
+          供託所ニ供託ヲ為サント欲スル者ハ法務大臣カ定メタル書式ニ依リテ供託書ヲ作リ供託物ニ添ヘテ之ヲ差出タスコトヲ要ス
+        </article_item>
+      </articles>
+      <articles number="第三条">
+        <article_item>
+          供託金ニハ法務省令ノ定ムル所ニ依リ利息ヲ付スルコトヲ要ス
+        </article_item>
+      </articles>
+      <articles number="第四条">
+        <article_item>
+          供託所ハ供託物ヲ受取ルヘキ者ノ請求ニ因リ供託ノ目的タル有価証券ノ償還金、利息又ハ配当金ヲ受取リ供託物ニ代ヘ又ハ其従トシテ之ヲ保管ス但保証金ニ代ヘテ有価証券ヲ供託シタル場合ニ於テハ供託者ハ其利息又ハ配当金ノ払渡ヲ請求スルコトヲ得
+        </article_item>
+      </articles>
+      <articles number="第五条">
+        <article_item>
+          法務大臣ハ法令ノ規定ニ依リテ供託スル金銭又ハ有価証券ニ非サル物品ヲ保管スヘキ倉庫営業者又ハ銀行ヲ指定スルコトヲ得
+        </article_item>
+        <article_item number="○２">
+          倉庫営業者又ハ銀行ハ其営業ノ部類ニ属スル物ニシテ其保管シ得ヘキ数量ニ限リ之ヲ保管スル義務ヲ負フ
+        </article_item>
+      </articles>
+      <articles number="第六条">
+        <article_item>
+          倉庫営業者又ハ銀行ニ供託ヲ為サント欲スル者ハ法務大臣カ定メタル書式ニ依リテ供託書ヲ作リ供託物ニ添ヘテ之ヲ交付スルコトヲ要ス
+        </article_item>
+      </articles>
+      <articles number="第七条">
+        <article_item>
+          倉庫営業者又ハ銀行ハ第五条第一項ノ規定ニ依ル供託物ヲ受取ルヘキ者ニ対シ一般ニ同種ノ物ニ付テ請求スル保管料ヲ請求スルコトヲ得
+        </article_item>
+      </articles>
+      <articles number="第八条">
+        <article_item>
+          供託物ノ還付ヲ請求スル者ハ法務大臣ノ定ムル所ニ依リ其権利ヲ証明スルコトヲ要ス
+        </article_item>
+        <article_item number="○２">
+          供託者ハ民法第四百九十六条ノ規定ニ依レルコト、供託カ錯誤ニ出テシコト又ハ其原因カ消滅シタルコトヲ証明スルニ非サレハ供託物ヲ取戻スコトヲ得ス
+        </article_item>
+      </articles>
+      <articles number="第九条">
+        <article_item>
+          供託者カ供託物ヲ受取ル権利ヲ有セサル者ヲ指定シタルトキハ其供託ハ無効トス
+        </article_item>
+      </articles>
+      <articles number="第十条">
+        <article_item>
+          供託物ヲ受取ルヘキ者カ反対給付ヲ為スヘキ場合ニ於テハ供託者ノ書面又ハ裁判、公正証書其他ノ公正ノ書面ニ依リ其給付アリタルコトヲ証明スルニ非サレハ供託物ヲ受取ルコトヲ得ス
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

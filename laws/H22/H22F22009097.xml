@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>人事院規則九―九七（超過勤務手当）</title>
+    <defined>平成二十二年二月一日人事院規則九―九七</defined>
+    <updated>平成二三年二月一日人事院規則九―九七―二</updated>
+  </head>
+  <body>
+    <preamble><p>人事院は、一般職の職員の給与に関する法律（昭和二十五年法律第九十五号）に基づき、人事院規則九―九七（超過勤務手当の支給割合）の全部改正に関し次の人事院規則を制定する。</p></preamble>
+    <content>
+      <articles number="第一条" title="（趣旨）">
+        <article_item>
+          超過勤務手当の支給については、別に定める場合を除き、この規則の定めるところによる。
+        </article_item>
+      </articles>
+      <articles number="第二条" title="（超過勤務手当の支給割合）">
+        <article_item>
+          給与法第十六条第一項の人事院規則で定める割合は、次の各号に掲げる勤務の区分に応じ、当該各号に定める割合とする。
+          <go>
+            <go_item number="一">
+              給与法第十六条第一項第一号に掲げる勤務　百分の百二十五
+            </go_item>
+            <go_item number="二">
+              給与法第十六条第一項第二号に掲げる勤務　百分の百三十五
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第三条" title="（雑則）">
+        <article_item>
+          この規則に定めるもののほか、超過勤務手当に関し必要な事項は、人事院が定める。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

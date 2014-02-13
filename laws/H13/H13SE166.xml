@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>金融庁設置法附則第九条第一項の政令で定める日を定める政令</title>
+    <defined>平成十三年四月二十日政令第百六十六号</defined>
+  </head>
+  <body>
+    <preamble><p>内閣は、金融庁設置法（平成十年法律第百三十号）附則第九条第一項の規定に基づき、この政令を制定する。</p></preamble>
+    <content>
+      <articles>
+        <article_item>
+          金融庁設置法附則第九条第一項の政令で定める日は、平成十三年四月二十日とする。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

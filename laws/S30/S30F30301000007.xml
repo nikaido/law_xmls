@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>警察通信規則</title>
+    <defined>昭和三十年十一月十七日国家公安委員会規則第七号</defined>
+    <updated>平成一六年四月一日国家公安委員会規則第七号</updated>
+  </head>
+  <body>
+    <preamble><p>警察通信規則を次のように定める。</p></preamble>
+    <content>
+      <articles number="第一条" title="（この規則の目的）">
+        <article_item>
+          この規則は、警察通信の正常かつ能率的な運営を図るため、警察通信施設の維持管理その他警察通信に関する基本を定めることを目的とする。
+        </article_item>
+      </articles>
+      <articles number="第二条" title="（連絡協調）">
+        <article_item>
+          警察庁、管区警察局、東京都警察情報通信部、北海道警察情報通信部及び都道府県警察は、警察通信に関し、相互に緊密な連絡協調を保たなければならない。
+        </article_item>
+      </articles>
+      <articles number="第三条" title="（工務及び運用）">
+        <article_item>
+          警察通信施設の維持、新増設、改修等の工務及び警察通信の運用に従事する警察職員は、常に、迅速、確実その他警察の責務の遂行に即応するように通信のそ通を図るとともに、警察通信の進歩向上に努めなければならない。
+        </article_item>
+      </articles>
+      <articles number="第四条" title="（総合使用）">
+        <article_item>
+          警察職員は、通信の内容、警察通信の使用の際の状況等に応じ適当な通信方法を選ぶ等、常に、総合的かつ能率的に警察通信を使用するよう努めなければならない。
+        </article_item>
+      </articles>
+      <articles number="第五条" title="（警察目的以外の使用の禁止）">
+        <article_item>
+          警察職員は、警察通信を使用するときは、警察の責務を遂行するため必要な事項以外の事項を通信内容としてはならない。
+        </article_item>
+      </articles>
+      <articles number="第六条" title="（部外使用の禁止）">
+        <article_item>
+          警察通信は、警察職員、法令により使用することができる者又は警察庁長官が特に承認した者以外の者に使用させてはならない。
+        </article_item>
+      </articles>
+      <articles number="第七条" title="（警察通信の細則）">
+        <article_item>
+          前六条に定めるもののほか、警察通信に関し必要な事項は、警察庁長官の定めるところによる。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

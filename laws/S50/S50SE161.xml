@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>下水道の整備等に伴う一般廃棄物処理業等の合理化に関する特別措置法施行令</title>
+    <defined>昭和五十年五月二十三日政令第百六十一号</defined>
+    <updated>平成一一年一〇月一日政令第三一二号</updated>
+  </head>
+  <body>
+    <preamble><p>内閣は、下水道の整備等に伴う一般廃棄物処理業等の合理化に関する特別措置法（昭和五十年法律第三十一号）第二条及び第三条第一項の規定に基づき、この政令を制定する。</p></preamble>
+    <content>
+      <articles number="第一条" title="（法第二条の政令で定める事業）">
+        <article_item>
+          下水道の整備等に伴う一般廃棄物処理業等の合理化に関する特別措置法（以下「法」という。）第二条の政令で定める事業は、浄化槽法（昭和五十八年法律第四十三号）第三十五条第一項の規定による市町村長の許可を受けて行う浄化槽清掃業とする。
+        </article_item>
+      </articles>
+      <articles number="第二条" title="（法第三条第一項の政令で定める事由）">
+        <article_item>
+          法第三条第一項の政令で定める事由は、し尿及びし尿浄化槽に係る汚でいの海洋投入処分に対する法令の規定による規制の強化とする。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

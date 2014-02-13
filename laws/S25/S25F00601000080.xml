@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>森林管理局署職員服制</title>
+    <defined>昭和二十五年七月六日農林省令第八十号</defined>
+    <updated>平成一八年四月三日農林水産省令第三一号</updated>
+  </head>
+  <body>
+    <preamble><p>農林省設置法（昭和二十四年法律第百五十三号）第六十九条第二項及び第七十条第二項の規定に基き、営林局署職員服制を、次のように定める。</p></preamble>
+    <content>
+      <articles number="第一条">
+        <article_item>
+          森林管理局、森林管理署及び森林管理署の支署に勤務する職員であつて林野庁長官が指定するものの服制は、別表に定めるところによる。
+        </article_item>
+      </articles>
+      <articles number="第二条">
+        <article_item>
+          林野庁長官は、土地の状況、勤務の性質等により、前条の規定により難い事情があると認めるときは同条の規定にかかわらず、農林水産大臣の承認を受けて特別の帽、服等の制式を定めることができる。
+        </article_item>
+      </articles>
+      <articles number="第三条">
+        <article_item>
+          制服の着用期間、貸与方法その他この省令を施行するため必要な事項は、林野庁長官が定める。
+        </article_item>
+        <article_item number="２">
+          林野庁長官は、前項の規定により必要な定めをしたときは、遅滞なくその旨を農林水産大臣に報告しなければならない。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

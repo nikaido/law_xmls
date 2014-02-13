@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>産業教育振興法施行規則</title>
+    <defined>昭和五十一年十二月二十一日文部省令第三十六号</defined>
+    <updated>平成二四年一一月一六日文部科学省令第三五号</updated>
+  </head>
+  <body>
+    <preamble><p>産業教育振興法施行令（昭和二十七年政令第四百五号）第七条第三項の規定に基づき、産業教育振興法施行規則（昭和二十七年文部省令第二十八号）の全部を改正する省令を次のように定める。</p></preamble>
+    <content>
+      <articles number="第一条" title="（基準に関する細目）">
+        <article_item>
+          産業教育振興法施行令（昭和二十七年政令第四百五号。以下「令」という。）別表に定める基準に関する細目は、別表第一に定めるところによる。
+        </article_item>
+      </articles>
+      <articles number="第二条" title="（科目群に属する科目）">
+        <article_item>
+          令別表第二欄に掲げる科目群（以下「科目群」という。）に属する科目は、別表第二に定めるところによる。
+        </article_item>
+      </articles>
+      <articles number="第三条" title="（細目の特例）">
+        <article_item>
+          第一条の規定にかかわらず、次に掲げる事情のいずれかがある場合において、同条の細目により難い部分があると文部科学大臣が認めるときは、当該部分に代えて、文部科学大臣が定めるところによることができる。
+          <go>
+            <go_item number="一">
+              当該科目群に属するいずれかの科目を開設する学科の入学定員の合計が三十九人以下又は八十一人以上であるとき。
+            </go_item>
+            <go_item number="二">
+              当該科目群に属するいずれかの科目を開設する学科の入学定員及び当該科目の開設単位数に応じ別に定めるところにより算出した単位数が別表第三に定める科目群ごとの標準単位数を超え、又はこれに満たないとき。
+            </go_item>
+            <go_item number="三">
+              地方の産業の実情に応じた産業教育を行うとき。
+            </go_item>
+            <go_item number="四">
+              前号に掲げるもののほか、産業教育の内容について特に重きを置くものがあるとき。
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

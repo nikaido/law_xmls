@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>ユネスコ活動に関する法律</title>
+    <defined>昭和二十七年六月二十一日法律第二百七号</defined>
+    <updated>平成一六年六月二日法律第七六号</updated>
+  </head>
+  <body>
+    <preamble><p>日本国民は、国際連合教育科学文化機関が世界平和の確立と人類の福祉の増進に貢献しつつあることの意義を高く評価し、この機関に加盟することによつて得た日本の国際的地位にかんがみ、政府及び国民の活動によりその事業に積極的に協力することを決意し、教育、科学及び文化を通じて、国際連合憲章、国際連合教育科学文化機関憲章及び世界人権宣言の精神の実現を図るため、ここにこの法律を制定する。</p></preamble>
+    <content>
+      <sho title="第一章　ユネスコ活動">
+        <articles number="第一条" title="（ユネスコ活動の目標）">
+          <article_item>
+            わが国におけるユネスコ活動は、国際連合教育科学文化機関憲章（昭和二十六年条約第四号。以下「ユネスコ憲章」という。）の定めるところに従い、国際連合の精神に則つて、教育、科学及び文化を通じ、わが国民の間に広く国際的理解を深めるとともに、わが国民と世界諸国民との間に理解と協力の関係を進め、もつて世界の平和と人類の福祉に貢献することを目標とする。
+          </article_item>
+        </articles>
+        <articles number="第二条" title="（定義）">
+          <article_item>
+            この法律において「ユネスコ活動」とは、国際連合教育科学文化機関（以下「ユネスコ」という。）の目的を実現するために行う活動をいう。
+          </article_item>
+        </articles>
+        <articles number="第三条" title="（国外諸機関との協力）">
+          <article_item>
+            わが国におけるユネスコ活動は、ユネスコ、国際連合及びその専門機関、ユネスコ活動に関係のある国際団体並びに諸国の政府、ユネスコ国内委員会及びユネスコ活動に関係のある団体等と協力しつつ展開されなければならない。
+          </article_item>
+        </articles>
+        <articles number="第四条" title="（国及び地方公共団体の活動）">
+          <article_item>
+            国又は地方公共団体は、第一条の目標を達成するため、自らユネスコ活動を行うとともに、必要があると認めるときは、民間のユネスコ活動に対し助言を与え、及びこれに協力するものとする。
+          </article_item>
+          <article_item number="２">
+            国又は地方公共団体は、民間のユネスコ活動振興上必要があると認める場合には、その助成のため、政令で定めるところにより、その事業に対し援助を与えることができる。
+          </article_item>
+          <article_item number="３">
+            国又は地方公共団体の機関が前二項の事項を実施するに当つては、第五条の日本ユネスコ国内委員会と緊密に連絡して行わなければならない。
+          </article_item>
+        </articles>
+      </sho>
+      <sho title="第二章　日本ユネスコ国内委員会">
+        <articles number="第五条" title="（設置）">
+          <article_item>
+            ユネスコ憲章第七条の規定の趣旨に従い、我が国におけるユネスコ活動に関する助言、企画、連絡及び調査のための機関として、文部科学省に、日本ユネスコ国内委員会（以下「国内委員会」という。）を置く。
+          </article_item>
+        </articles>
+        <articles number="第六条" title="（所掌事務の範囲及び権限）">
+          <article_item>
+            国内委員会は、関係各大臣の諮問に応じて次に掲げる事項を調査審議し、及びこれらに関し必要と認める事項を関係各大臣に建議する。
+            <go>
+              <go_item number="一">
+                ユネスコ総会における政府代表及びユネスコに対する常駐の政府代表の選考に関する事項
+              </go_item>
+              <go_item number="二">
+                ユネスコ総会に対する議案の提出その他ユネスコ総会における議事に関する事項
+              </go_item>
+              <go_item number="三">
+                ユネスコ総会以外のユネスコに関係のある国際会議への参加に関する事項
+              </go_item>
+              <go_item number="四">
+                ユネスコに関係のある条約その他の国際約束の締結に関する事項
+              </go_item>
+              <go_item number="五">
+                国の行うユネスコ活動の実施計画に関する事項
+              </go_item>
+              <go_item number="六">
+                ユネスコの目的及びユネスコ活動に関する国民の理解の増進に関する事項
+              </go_item>
+              <go_item number="七">
+                民間のユネスコ活動に対して行うべき助言、協力及び援助に関する事項
+              </go_item>
+              <go_item number="八">
+                ユネスコ活動に関する法令の立案及び予算の編成についての基本方針に関する事項その他ユネスコ活動に関し必要な事項
+              </go_item>
+            </go>
+          </article_item>
+          <article_item number="２">
+            前項の規定による国内委員会に対する関係各大臣の諮問及び国内委員会の関係各大臣に対する建議は、関係各大臣が文部科学大臣以外の者であるときは、文部科学大臣を通じて行うものとする。
+          </article_item>
+          <article_item number="３">
+            国内委員会は、わが国におけるユネスコ活動の基本方針を策定するものとする。
+          </article_item>
+          <article_item number="４">
+            国内委員会は、ユネスコ活動に関し、国内のユネスコ活動に関係のある機関及び団体等並びに第三条の機関及び団体等と必要な連絡を保ち、及び情報の交換を行う。
+          </article_item>
+          <article_item number="５">
+            国内委員会は、ユネスコ活動に関する調査並びに資料の収集及び作成を行う。
+          </article_item>
+          <article_item number="６">
+            国内委員会は、集会の開催、出版物の頒布その他ユネスコの目的及びユネスコ活動に関する普及のために必要な事項を行うことができる。
+          </article_item>
+          <article_item number="７">
+            国内委員会は、ユネスコ活動に関し、地方公共団体、民間団体又は個人に対して必要な助言を与え、及びこれに協力することができる。
+          </article_item>
+        </articles>
+        <articles number="第七条" title="（外務大臣との関係）">
+          <article_item>
+            国内委員会は、その対外事務を処理するに当り、その事務が国の対外施策に関連する場合には、外務大臣と緊密に連絡して行うものとする。
+          </article_item>
+          <article_item number="２">
+            外務大臣は、国内委員会の対外事務の処理について、国内委員会に対し必要な便宜を与え、これに協力するものとする。
+          </article_item>
+        </articles>
+        <articles number="第八条" title="（構成）">
+          <article_item>
+            国内委員会は、六十人以内の委員で組織する。
+          </article_item>
+        </articles>
+        <articles number="第九条" title="（委員の任命）">
+          <article_item>
+            委員は、次の各号に掲げる者につき、当該各号に掲げる員数以内を文部科学大臣が任命する。この場合において、文部科学大臣は、第一号から第四号まで及び第七号に掲げる者については、第十三条の選考小委員会の選考を経て国内委員会から推薦されたものにつき、内閣の承認を経て、任命するものとする。
+            <go>
+              <go_item number="一">
+                教育活動、科学活動及び文化活動の各領域を代表する者<br></br>
+                　　　　　　　　　　　　　　　　　　　　　　　　　　　十八人
+              </go_item>
+              <go_item number="二">
+                教育、科学及び文化の普及に関する諸領域を代表する者<br></br>
+                　　　　　　　　　　　　　　　　　　　　　　　　　　　十二人
+              </go_item>
+              <go_item number="三">
+                地域的なユネスコ活動の領域を代表する者　　　　十二人
+              </go_item>
+              <go_item number="四">
+                学識経験者　　　　　　　　　　　　　　　　　　　七人
+              </go_item>
+              <go_item number="五">
+                衆議院議員のうちから衆議院の指名した者　　　　　四人
+              </go_item>
+              <go_item number="六">
+                参議院議員のうちから参議院の指名した者　　　　　三人
+              </go_item>
+              <go_item number="七">
+                政府の職員　　　　　　　　　　　　　　　　　　　四人
+              </go_item>
+            </go>
+          </article_item>
+          <article_item number="２">
+            委員の選考の基準について必要な事項は、政令で定める。
+          </article_item>
+        </articles>
+        <articles number="第十条" title="（委員の任期等）">
+          <article_item>
+            委員（衆議院議員、参議院議員及び政府職員たる委員を除く。以下本条第二項及び第十一条第一項において同じ。）の任期は、三年とする。但し、補欠の委員は、前任者の残任期間在任する。
+          </article_item>
+          <article_item number="２">
+            委員は、再任されることができる。
+          </article_item>
+          <article_item number="３">
+            委員は、特別職とする。
+          </article_item>
+        </articles>
+        <articles number="第十一条" title="（委員の解任）">
+          <article_item>
+            文部科学大臣は、委員が、次の各号のいずれかに該当する場合には、その意に反してこれを解任することができる。
+            <go>
+              <go_item number="一">
+                破産手続開始の決定を受けた場合
+              </go_item>
+              <go_item number="二">
+                禁錮以上の刑に処せられた場合
+              </go_item>
+              <go_item number="三">
+                心身の故障のため職務の執行ができず、又は職務上の義務違反その他委員たるに適しない行為があると文部科学大臣が認めた場合
+              </go_item>
+            </go>
+          </article_item>
+          <article_item number="２">
+            前項第三号の場合における解任については、文部科学大臣は、あらかじめ内閣の承認を経なければならない。
+          </article_item>
+        </articles>
+        <articles number="第十二条" title="（会長及び副会長）">
+          <article_item>
+            国内委員会に会長一人及び副会長二人を置く。
+          </article_item>
+          <article_item number="２">
+            会長及び副会長は、委員の互選に基づき、文部科学大臣が任命する。
+          </article_item>
+          <article_item number="３">
+            会長は、会務を総理し、国内委員会を代表する。
+          </article_item>
+          <article_item number="４">
+            副会長は、会長を補佐し、会長に事故があるとき、又は会長が欠けたときは、会長があらかじめ指名したいずれかの一人が、その職務を代理し、又はその職務を行う。
+          </article_item>
+        </articles>
+        <articles number="第十三条" title="（小委員会）">
+          <article_item>
+            国内委員会に、委員で組織する小委員会として運営小委員会、選考小委員会及び専門小委員会を置く。
+          </article_item>
+          <article_item number="２">
+            運営小委員会は、会務の運営に関する事項を審議する。
+          </article_item>
+          <article_item number="３">
+            選考小委員会は、国内委員会が文部科学大臣に対して委員の候補者として推薦すべき者の選考に関する事項を調査審議する。
+          </article_item>
+          <article_item number="４">
+            専門小委員会は、各専門の事項ごとに置き、それぞれ専門の事項を調査審議する。
+          </article_item>
+          <article_item number="５">
+            特別の事項を調査審議するため必要があるときは、専門小委員会に、委員以外の者を調査委員として置くことができる。
+          </article_item>
+          <article_item number="６">
+            前四項に定めるもののほか、小委員会に関し必要な事項は、政令で定める。
+          </article_item>
+        </articles>
+        <articles number="第十四条" title="（委員等の手当及び旅費）">
+          <article_item>
+            委員及び調査委員は、別に定める手当及び旅費を受ける。
+          </article_item>
+        </articles>
+        <articles number="第十五条" title="（会議）">
+          <article_item>
+            国内委員会の会議は、年二回会長が招集する。但し、会長は、必要があると認めるときは、臨時にこれを招集することができる。
+          </article_item>
+        </articles>
+        <articles number="第十六条" title="（会議）">
+          <article_item>
+            会議は、委員の過半数が出席しなければ、議事を開き、議決をすることができない。
+          </article_item>
+          <article_item number="２">
+            議事は、出席した委員の過半数をもつて決し、可否同数のときは、会長の決するところによる。
+          </article_item>
+          <article_item number="３">
+            前項の場合においては、会長は、委員として議決に加わることができない。
+          </article_item>
+        </articles>
+        <articles number="第十七条" title="（議決権の委任）">
+          <article_item>
+            国内委員会は、第十九条の運営規則で定めるところにより、運営小委員会の議決又は運営小委員会と他の小委員会の合同の議決をもつて国内委員会の議決とすることができる。
+          </article_item>
+        </articles>
+        <articles number="第十八条" title="（国内委員会の事務処理）">
+          <article_item>
+            国内委員会の事務は、文部科学省の内部部局として置かれる官房若しくは局又は文部科学省に置かれる国家行政組織法（昭和二十三年法律第百二十号）第二十条第一項に規定する職のうち政令で定めるもの（次項において「担当部局等」という。）において処理する。
+          </article_item>
+          <article_item number="２">
+            担当部局等の長（担当部局等が国家行政組織法第二十条第一項に規定する職である場合にあつては、当該職を占める者。次項において「担当局長等」という。）は、会長の一般的監督の下に、前項の事務を処理するものとする。
+          </article_item>
+          <article_item number="３">
+            担当局長等は、第一項の事務を処理する場合において、ユネスコ活動の遂行のため国際慣行上必要があるときは、日本ユネスコ国内委員会事務総長という名称を用いることができる。
+          </article_item>
+        </articles>
+        <articles number="第十九条" title="（運営規則）">
+          <article_item>
+            会長は、国内委員会の議決を経て、国内委員会の会議及び小委員会の運営に関し、必要な運営規則を定めることができる。
+          </article_item>
+        </articles>
+      </sho>
+    </content>
+  </body>
+</law>

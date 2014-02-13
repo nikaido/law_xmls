@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>家畜保健衛生所法施行規則</title>
+    <defined>昭和二十五年三月二十九日農林省令第二十九号</defined>
+    <updated>平成一二年九月一日農林水産省令第八二号</updated>
+  </head>
+  <body>
+    <preamble><p>家畜保健衛生所法（昭和二十五年法律第十二号）を施行するため及び同法第五条の規定に基き、家畜保健衛生所法施行規則を次のように定める。</p></preamble>
+    <content>
+      <articles number="第一条" title="（届出事項）">
+        <article_item>
+          家畜保健衛生所法第二条の農林水産省令で定める事項は、次のとおりとする。
+          <go>
+            <go_item number="一">
+              名称
+            </go_item>
+            <go_item number="二">
+              位置及び管轄区域
+            </go_item>
+            <go_item number="三">
+              建物の構造及び施設の概要
+            </go_item>
+            <go_item number="四">
+              職員の職種別定数
+            </go_item>
+            <go_item number="五">
+              所長にしようとする者の履歴
+            </go_item>
+            <go_item number="六">
+              業務開始の予定年月日
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第二条" title="（権限の委任）">
+        <article_item>
+          家畜保健衛生所法第二条の規定による農林水産大臣の権限は、地方農政局長に委任する。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

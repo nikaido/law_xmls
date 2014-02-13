@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>ガス事業法第三十四条第三項に規定する指定試験機関を定める省令</title>
+    <defined>平成十三年三月三十日経済産業省令第百十九号</defined>
+    <updated>平成二〇年一二月一日経済産業省令第八二号</updated>
+  </head>
+  <body>
+    <preamble><p>ガス事業法（昭和二十九年法律第五十一号）を実施するため、ガス事業法第三十四条第三項、第三十六条の二の二第一項及び第三十九条の十一第一項に規定する指定試験機関等を指定する省令を次のように定める。</p></preamble>
+    <content>
+      <articles>
+        <article_item>
+          ガス事業法（昭和二十九年法律第五十一号）第三十四条第三項に規定する指定試験機関として次の者を指定する。
+          <table>
+            <tr>
+              <td>
+                名称
+              </td>
+              <td>
+                主たる事務所の所在地
+              </td>
+            </tr>
+            <tr>
+              <td>
+                財団法人日本ガス機器検査協会（昭和四十二年九月十三日に財団法人日本ガス機器検査協会という名称で設立された法人をいう。）
+              </td>
+              <td>
+                東京都港区赤坂一丁目四番十号
+              </td>
+            </tr>
+          </table>
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

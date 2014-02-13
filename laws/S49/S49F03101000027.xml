@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>水源地域対策特別措置法施行規則</title>
+    <defined>昭和四十九年五月一日総理府令第二十七号</defined>
+  </head>
+  <body>
+    <preamble><p>水源地域対策特別措置法（昭和四十八年法律第百十八号）第三条第二項（同条第四項において準用する場合を含む。）及び第四条第四項（同条第五項において準用する場合を含む。）の規定に基づき、水源地域対策特別措置法施行規則を次のように定める。</p></preamble>
+    <content>
+      <articles number="第一条" title="（水源地域の指定の申出等）">
+        <article_item>
+          水源地域対策特別措置法（以下「法」という。）第三条第一項の申出は、次に掲げる事項を記載した水源地域指定申出書を提出することによつて行うものとする。
+          <go>
+            <go_item number="一">
+              指定ダム等の名称
+            </go_item>
+            <go_item number="二">
+              水源地域として指定する地域
+            </go_item>
+            <go_item number="三">
+              前号の地域を水源地域とする理由
+            </go_item>
+          </go>
+        </article_item>
+        <article_item number="２">
+          前項の申出書には、次に掲げる書類を添付しなければならない。
+          <go>
+            <go_item number="一">
+              前項第二号の地域を黄色で着色した国土地理院発行の二万五千分の一（二万五千分の一がない場合は五万分の一）の地形図
+            </go_item>
+            <go_item number="二">
+              法第三条第二項の関係市町村長の意見を記載した書面
+            </go_item>
+          </go>
+        </article_item>
+        <article_item number="３">
+          前二項の規定は、法第三条第四項において準用する同条第一項の規定による水源地域の変更の申出について準用する。
+        </article_item>
+      </articles>
+      <articles number="第二条" title="（水源地域整備計画の公示）">
+        <article_item>
+          法第四条第四項（同条第五項において準用する場合を含む。）の規定による水源地域整備計画の公示は、官報に掲載して行うものとする。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

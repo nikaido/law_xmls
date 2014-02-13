@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>手錠の製式</title>
+    <defined>平成十五年九月一日法務省令第六十四号</defined>
+  </head>
+  <body>
+    <preamble><p>少年院法（昭和二十三年法律第百六十九号）第十四条の二第三項の規定に基づき、手錠の製式（昭和三十年法務省令第百三十二号）の全部を改正する省令を次のように定める。</p></preamble>
+    <content>
+      <articles number="第一条">
+        <article_item>
+          手錠は、第一種手錠及び第二種手錠とする。
+        </article_item>
+      </articles>
+      <articles number="第二条">
+        <article_item>
+          手錠の製式は、別表のとおりとする。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

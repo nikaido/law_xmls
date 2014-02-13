@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>中部圏開発整備法施行規則</title>
+    <defined>昭和四十三年六月二十五日総理府令第四十号</defined>
+    <updated>平成一二年八月一四日総理府令第一〇三号</updated>
+  </head>
+  <body>
+    <preamble><p>中部圏開発整備法第十一条第五項及び第六項並びに第十三条第三項の規定に基づき、中部圏開発整備法施行規則を次のように定める。</p></preamble>
+    <content>
+      <articles number="第一条">
+        <article_item>
+          中部圏開発整備法（昭和四十一年法律第百二号。以下「法」という。）第十一条第五項（法第十二条第三項において準用する場合を含む。）の規定による中部圏開発整備計画又はその変更の公表は、その内容を官報に掲載して行なうものとする。
+        </article_item>
+      </articles>
+      <articles number="第二条">
+        <article_item>
+          法第十一条第六項（法第十二条第三項において準用する場合を含む。）の規定により、公表された中部圏開発整備計画又はその変更に対して意見を申し出ようとする者は、次に掲げる事項を記載した意見書を国土交通大臣に提出しなければならない。
+          <go>
+            <go_item number="一">
+              意見の提出者の住所及び氏名
+            </go_item>
+            <go_item number="二">
+              公表された中部圏開発整備計画又はその変更と意見の提出者との利害関係
+            </go_item>
+            <go_item number="三">
+              意見の詳細
+            </go_item>
+            <go_item number="四">
+              その他参考となるべき事項
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第三条">
+        <article_item>
+          法第十三条第三項（法第十四条第二項及び第十六条第二項において準用する場合を含む。）の規定による都市整備区域、都市開発区域又は保全区域の指定は、これらの区域を官報に告示することにより行なうものとする。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

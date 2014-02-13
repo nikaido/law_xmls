@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>興行場法施行規則</title>
+    <defined>昭和二十三年七月二十四日厚生省令第二十九号</defined>
+    <updated>昭和五九年九月五日厚生省令第四二号</updated>
+  </head>
+  <body>
+    <preamble><p>興行場法施行規則を次のように定める。</p></preamble>
+    <content>
+      <articles>
+        <article_item>
+          興行場法（昭和二十三年法律第百三十七号）第五条第一項の職権を行う者を環境衛生監視員と称し、同条第二項に規定する証票については、別に定める。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

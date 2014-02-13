@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>農林物資の規格化及び品質表示の適正化に関する法律の規定に基づく飲食料品の区分等に関する内閣府令</title>
+    <defined>平成二十一年八月二十八日内閣府令第五十四号</defined>
+  </head>
+  <body>
+    <preamble><p>消費者庁及び消費者委員会設置法の施行に伴う関係法律の整備に関する法律（平成二十一年法律第四十九号）の施行に伴い、並びに農林物資の規格化及び品質表示の適正化に関する法律（昭和二十五年法律第百七十五号）第十九条の十三第一項及び同条第七項において準用する第十三条第五項並びに農林物資の規格化及び品質表示の適正化に関する法律施行令（昭和二十六年政令第二百九十一号）第十二条第四項の規定に基づき、農林物資の規格化及び品質表示の適正化に関する法律の規定に基づく飲食料品の区分等に関する内閣府令を次のように定める。</p></preamble>
+    <content>
+      <articles number="第一条" title="（飲食料品の区分）">
+        <article_item>
+          農林物資の規格化及び品質表示の適正化に関する法律（以下「法」という。）第十九条の十三第一項の内閣府令で定める区分は、次のとおりとする。
+          <go>
+            <go_item number="一">
+              製造又は加工された飲食料品
+            </go_item>
+            <go_item number="二">
+              前号に掲げる飲食料品以外の飲食料品
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第二条" title="（公聴会）">
+        <article_item>
+          法第十九条の十三第七項において準用する法第十三条第二項の規定により公聴会の開催を請求する者は、次に掲げる事項を記載した公聴会開催請求書（正副三通）を内閣総理大臣に提出しなければならない。
+          <go>
+            <go_item number="一">
+              請求者の氏名又は名称及び住所
+            </go_item>
+            <go_item number="二">
+              請求事項
+            </go_item>
+            <go_item number="三">
+              請求の理由
+            </go_item>
+            <go_item number="四">
+              意見
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第三条" title="（公聴会）">
+        <article_item>
+          内閣総理大臣は、公聴会を開催しようとするときは、少くともその十日前までに、日時、場所及び公聴会において意見を聞こうとする事項を公示しなければならない。
+        </article_item>
+      </articles>
+      <articles number="第四条" title="（公聴会）">
+        <article_item>
+          公聴会に出席して意見を述べようとする者は、あらかじめ文書で当該事項に対する賛否及びその理由を内閣総理大臣に申し出なければならない。
+        </article_item>
+      </articles>
+      <articles number="第五条" title="（公聴会）">
+        <article_item>
+          公聴会においてその意見を聞こうとする利害関係人（以下「公述人」という。）は、前条の規定によりあらかじめ申し出た者及びその他の者のうちから、内閣総理大臣が定め、本人にその旨を通知する。
+        </article_item>
+        <article_item number="２">
+          あらかじめ申し出た者のうちに、当該事項に対する賛成者及び反対者があるときは、その両方から公述人を選ばなければならない。
+        </article_item>
+      </articles>
+      <articles number="第六条" title="（公聴会）">
+        <article_item>
+          公聴会は、内閣総理大臣又はその指名する内閣府の職員が、議長として主宰する。
+        </article_item>
+      </articles>
+      <articles number="第七条" title="（公聴会）">
+        <article_item>
+          公聴会には、議長が、そのつど指名する委員又は専門委員を出席させて意見を述べさせることができる。
+        </article_item>
+      </articles>
+      <articles number="第八条" title="（公聴会）">
+        <article_item>
+          公述人の発言は、当該事項の範囲をこえてはならない。
+        </article_item>
+        <article_item number="２">
+          議長は、公述人の発言が当該事項の範囲をこえ、又は公述人に不穏当な言動があったときは、その発言を禁止し、又は退場を命ずることができる。
+        </article_item>
+      </articles>
+      <articles number="第九条" title="（公聴会）">
+        <article_item>
+          第七条の規定により指名された委員又は専門委員は、公述人に対して質疑を行うことができる。
+        </article_item>
+        <article_item number="２">
+          公述人は、委員又は専門委員に対して質疑を行うことができない。
+        </article_item>
+      </articles>
+      <articles number="第十条" title="（公聴会）">
+        <article_item>
+          公述人は、議長の承認を得たときは、文書で意見を提示し、又は代理人に意見を述べさせることができる。
+        </article_item>
+      </articles>
+      <articles number="第十一条" title="（法第二十条第三項の規定により立入検査をする職員の身分を示す証明）">
+        <article_item>
+          法第二十条第四項の証明書は、別記様式による。
+        </article_item>
+      </articles>
+      <articles number="第十二条" title="（都道府県知事の行う命令の内容の報告）">
+        <article_item>
+          農林物資の規格化及び品質表示の適正化に関する法律施行令第十二条第四項の規定による報告は、遅滞なく、次に掲げる事項を記載した書面を提出してしなければならない。
+          <go>
+            <go_item number="一">
+              命令をした製造業者等（法第十四条第一項に規定する製造業者等をいう。）の氏名又は名称及び住所
+            </go_item>
+            <go_item number="二">
+              命令をした年月日
+            </go_item>
+            <go_item number="三">
+              命令に係る農林物資の種類
+            </go_item>
+            <go_item number="四">
+              命令の内容
+            </go_item>
+            <go_item number="五">
+              その他参考となるべき事項
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>税関職員服制</title>
+    <defined>昭和四十四年九月二十二日大蔵省令第五十号</defined>
+    <updated>平成二二年四月一日財務省令第二八号</updated>
+  </head>
+  <body>
+    <preamble><p>関税法施行令（昭和二十九年政令第百五十号）第九十一条の規定に基づき、税関職員服制（昭和三十四年大蔵省令第三十三号）の全部を改正する省令を次のように定める。</p></preamble>
+    <content>
+      <articles number="第一条">
+        <article_item>
+          税関職員の服制は、別表に定めるところによる。
+        </article_item>
+      </articles>
+      <articles number="第二条">
+        <article_item>
+          税関職員は、関税法（昭和二十九年法律第六十一号）第百五条第一項（税関職員の権限）に規定する行為で次に掲げるものを行なうときは、制服を着用しないことができる。
+          <go>
+            <go_item number="一">
+              同項第四号の二から第六号までに掲げる行為
+            </go_item>
+            <go_item number="二">
+              前号に掲げるもののほか税関長が指定するもの
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

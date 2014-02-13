@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>衆議院議員選挙区画定審議会設置法</title>
+    <defined>平成六年二月四日法律第三号</defined>
+  </head>
+  <body>
+    <content>
+      <articles number="第一条" title="（設置）">
+        <article_item>
+          内閣府に、衆議院議員選挙区画定審議会（以下「審議会」という。）を置く。
+        </article_item>
+      </articles>
+      <articles number="第二条" title="（所掌事務）">
+        <article_item>
+          審議会は、衆議院小選挙区選出議員の選挙区の改定に関し、調査審議し、必要があると認めるときは、その改定案を作成して内閣総理大臣に勧告するものとする。
+        </article_item>
+      </articles>
+      <articles number="第三条" title="（改定案の作成の基準）">
+        <article_item>
+          前条の規定による改定案の作成は、各選挙区の人口の均衡を図り、各選挙区の人口（官報で公示された最近の国勢調査又はこれに準ずる全国的な人口調査の結果による人口をいう。以下同じ。）のうち、その最も多いものを最も少ないもので除して得た数が二以上とならないようにすることを基本とし、行政区画、地勢、交通等の事情を総合的に考慮して合理的に行わなければならない。
+        </article_item>
+      </articles>
+      <articles number="第四条" title="（勧告の期限等）">
+        <article_item>
+          第二条の規定による勧告は、国勢調査（統計法（平成十九年法律第五十三号）第五条第二項本文の規定により十年ごとに行われる国勢調査に限る。）の結果による人口が最初に官報で公示された日から一年以内に行うものとする。
+        </article_item>
+        <article_item number="２">
+          前項の規定にかかわらず、審議会は、各選挙区の人口の著しい不均衡その他特別の事情があると認めるときは、第二条の規定による勧告を行うことができる。
+        </article_item>
+      </articles>
+      <articles number="第五条" title="（国会への報告）">
+        <article_item>
+          内閣総理大臣は、審議会から第二条の規定による勧告を受けたときは、これを国会に報告するものとする。
+        </article_item>
+      </articles>
+      <articles number="第六条" title="（組織）">
+        <article_item>
+          審議会は、委員七人をもって組織する。
+        </article_item>
+        <article_item number="２">
+          委員は、国会議員以外の者であって、識見が高く、かつ、衆議院小選挙区選出議員の選挙区の改定に関し公正な判断をすることができるもののうちから、両議院の同意を得て、内閣総理大臣が任命する。
+        </article_item>
+        <article_item number="３">
+          委員の任期が満了し、又は欠員を生じた場合において、国会の閉会又は衆議院の解散のために両議院の同意を得ることができないときは、内閣総理大臣は、前項の規定にかかわらず、同項に定める資格を有する者のうちから、委員を任命することができる。
+        </article_item>
+        <article_item number="４">
+          前項の場合においては、任命後最初の国会で両議院の事後の承認を得なければならない。この場合において、両議院の事後の承認を得られないときは、内閣総理大臣は、直ちにその委員を罷免しなければならない。
+        </article_item>
+        <article_item number="５">
+          委員の任期は、五年とする。ただし、補欠の委員の任期は、前任者の残任期間とする。
+        </article_item>
+        <article_item number="６">
+          内閣総理大臣は、委員が心身の故障のため職務の執行ができないと認める場合又は委員に職務上の義務違反その他委員たるに適しない非行があると認める場合においては、両議院の同意を得て、これを罷免することができる。
+        </article_item>
+        <article_item number="７">
+          委員は、職務上知ることのできた秘密を漏らしてはならない。その職を退いた後も、同様とする。
+        </article_item>
+        <article_item number="８">
+          委員は、非常勤とする。
+        </article_item>
+      </articles>
+      <articles number="第七条" title="（会長）">
+        <article_item>
+          審議会に、会長を置き、委員の互選によりこれを定める。
+        </article_item>
+        <article_item number="２">
+          会長は、会務を総理し、審議会を代表する。
+        </article_item>
+        <article_item number="３">
+          会長に事故があるときは、あらかじめその指名する委員が、その職務を代理する。
+        </article_item>
+      </articles>
+      <articles number="第八条" title="（資料提出その他の協力）">
+        <article_item>
+          審議会は、その所掌事務を遂行するため必要があると認めるときは、行政機関及び地方公共団体の長に対して、資料の提出、意見の開陳、説明その他の必要な協力を求めることができる。
+        </article_item>
+      </articles>
+      <articles number="第九条" title="（政令への委任）">
+        <article_item>
+          この法律に定めるもののほか、審議会の組織及び運営その他この法律を実施するため必要な事項は、政令で定める。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

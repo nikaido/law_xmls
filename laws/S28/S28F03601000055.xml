@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>地域保健法施行規則</title>
+    <defined>昭和二十八年十月十三日厚生省令第五十五号</defined>
+    <updated>平成一三年三月三〇日厚生労働省令第一一四号</updated>
+  </head>
+  <body>
+    <preamble><p>保健所法施行令（昭和二十三年政令第七十七号）第三条及び第十条の規定に基き、並びに保健所法（昭和二十二年法律第百一号）及び同令を実施するため、保健所法施行規則を次のように定める。</p></preamble>
+    <content>
+      <articles number="第一条" title="（設置の報告事項）">
+        <article_item>
+          地域保健法施行令（昭和二十三年政令第七十七号。以下「令」という。）第三条第一項の規定により、保健所の設置に関して報告すべき事項は、次のとおりとする。
+          <go>
+            <go_item number="一">
+              名称
+            </go_item>
+            <go_item number="二">
+              位置
+            </go_item>
+            <go_item number="三">
+              所管区域及びその区域内の人口
+            </go_item>
+            <go_item number="四">
+              建物の規模及び構造の概要並びに各室の用途
+            </go_item>
+            <go_item number="五">
+              設備の概要
+            </go_item>
+            <go_item number="六">
+              職員の職種別定数
+            </go_item>
+            <go_item number="七">
+              設置した年月日
+            </go_item>
+            <go_item number="八">
+              収支予算
+            </go_item>
+          </go>
+        </article_item>
+        <article_item number="２">
+          令第三条第一項の規定により、保健所支所の設置に関して報告すべき事項は、前項各号に掲げるもののほか、その分掌する業務の内容とする。
+        </article_item>
+      </articles>
+      <articles number="第二条" title="（変更の報告をすべき事項）">
+        <article_item>
+          令第三条第二項の規定により、変更の報告をなすべき事項は、前条第一項第一号及び第二号に掲げる事項、第三号の所管区域並びに第四号に掲げる事項とする。
+        </article_item>
+      </articles>
+      <articles number="第三条" title="（事業成績の報告）">
+        <article_item>
+          令第十条の規定による報告は、翌月末日までに行わなければならない。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

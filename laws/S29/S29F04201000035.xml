@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>建設機械抵当法施行規則</title>
+    <defined>昭和二十九年十一月十三日建設省令第三十五号</defined>
+    <updated>平成一二年一一月二〇日建設省令第四一号</updated>
+  </head>
+  <body>
+    <preamble><p>建設機械抵当法施行令（昭和二十九年政令第二百九十四号）第四条第一項、第八条第一項、第九条第三項及び第十二条の規定に基き、並びに建設機械抵当法（昭和二十九年法律第九十七号）を実施するため、建設機械抵当法施行規則を次のように定める。</p></preamble>
+    <content>
+      <articles number="第一条" title="（申請書の提出）">
+        <article_item>
+          建設機械抵当法施行令（以下「令」という。）第四条に規定する申請書及びその副本は、国土交通大臣の許可を受けた建設業者にあつては国土交通大臣に、都道府県知事の許可を受けた建設業者にあつては打刻又は検認の際当該建設機械が所在する地を管轄する都道府県知事に提出しなければならない。
+        </article_item>
+      </articles>
+      <articles number="第二条" title="（申請書の様式）">
+        <article_item>
+          令第四条に規定する申請書は、別記様式第一号により作成しなければならない。
+        </article_item>
+      </articles>
+      <articles number="第二条の二" title="（建設機械の仕様）">
+        <article_item>
+          令第四条第一項第一号イに規定する国土交通省令で定める仕様は、別表第一のとおりとする。
+        </article_item>
+      </articles>
+      <articles number="第三条" title="（打刻の記号の様式及び打刻の位置）">
+        <article_item>
+          令第八条第一項に規定する打刻は、別表第二に定める位置に、別記様式第二号により行わなければならない。この場合において、打刻の番号は、同一暦年中においては、重複してはならない。
+        </article_item>
+      </articles>
+      <articles number="第四条" title="（建設機械打刻証明書等の様式）">
+        <article_item>
+          令第九条第一項の規定により国土交通大臣又は都道府県知事が交付する建設機械打刻証明書及び建設機械打刻検認証明書の様式は、それぞれ別記様式第三号及び第四号のとおりとする。
+        </article_item>
+      </articles>
+      <articles number="第五条" title="（変更等の届出）">
+        <article_item>
+          令第十二条第一項第一号に該当する場合には、別記様式第五号により、次に掲げる事項を届け出なければならない。
+          <go>
+            <go_item number="一">
+              変更事項及びその内容
+            </go_item>
+            <go_item number="二">
+              変更の原因
+            </go_item>
+            <go_item number="三">
+              変更の年月日
+            </go_item>
+          </go>
+        </article_item>
+        <article_item number="２">
+          令第十二条第一項第二号に該当する場合には、別記様式第六号により、次に掲げる事項を届け出なければならない。
+          <go>
+            <go_item number="一">
+              滅失し、又は解体された建設機械の名称、型式及び当該建設機械に打刻された記号
+            </go_item>
+            <go_item number="二">
+              滅失又は解体の事由
+            </go_item>
+            <go_item number="三">
+              滅失又は解体の年月日
+            </go_item>
+            <go_item number="四">
+              届出当時の当該建設機械の状態
+            </go_item>
+          </go>
+        </article_item>
+        <article_item number="３">
+          令第十二条第二項に規定する建設機械を取得した者は、別記様式第七号により、取得の原因及び年月日等を届け出なければならない。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

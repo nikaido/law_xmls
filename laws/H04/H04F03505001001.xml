@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>地域伝統芸能等を活用した行事等に係る支援事業実施機関に関する省令</title>
+    <defined>平成四年九月二十四日文部省・農林水産省・通商産業省・運輸省・自治省令第一号</defined>
+    <updated>平成二〇年一二月一日総務省・文部科学省・農林水産省・経済産業省・国土交通省令第一号</updated>
+  </head>
+  <body>
+    <preamble><p>地域伝統芸能等を活用した行事の実施による観光及び特定地域商工業の振興に関する法律（平成四年法律第八十八号）第三十条の規定に基づき、地域伝統芸能等を活用した行事等に係る支援事業実施機関に関する省令を次のように定める。</p></preamble>
+    <content>
+      <articles number="第一条" title="（指定の申請）">
+        <article_item>
+          地域伝統芸能等を活用した行事の実施による観光及び特定地域商工業の振興に関する法律（以下「法」という。）第八条の規定により支援事業実施機関の指定を申請しようとする法人は、次に掲げる事項を記載した支援事業実施機関指定申請書を提出しなければならない。
+          <go>
+            <go_item number="一">
+              名称及び住所並びに代表者の氏名
+            </go_item>
+            <go_item number="二">
+              事務所の所在地
+            </go_item>
+            <go_item number="三">
+              法第九条に規定する事業（以下「支援事業」という。）の開始の予定日
+            </go_item>
+          </go>
+        </article_item>
+        <article_item number="２">
+          前項の申請書には、次に掲げる書類を添付しなければならない。
+          <go>
+            <go_item number="一">
+              定款及び登記事項証明書
+            </go_item>
+            <go_item number="二">
+              申請の日の属する事業年度の前事業年度における貸借対照表。ただし、申請の日の属する事業年度に設立された法人にあっては、その設立時における財産目録とする。
+            </go_item>
+            <go_item number="三">
+              役員の名簿及び履歴書
+            </go_item>
+            <go_item number="四">
+              指定の申請に関する意思の決定を証する書類
+            </go_item>
+            <go_item number="五">
+              組織及び運営に関する事項を記載した書類
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第二条" title="（指定の公示等）">
+        <article_item>
+          主務大臣は、法第八条の規定による支援事業実施機関の指定をしたときは、支援事業実施機関の名称及び住所並びに事務所の所在地を官報で公示しなければならない。
+        </article_item>
+        <article_item number="２">
+          支援事業実施機関は、その名称若しくは住所又は事務所の所在地を変更しようとするときは、あらかじめ、次に掲げる事項を主務大臣に届け出なければならない。
+          <go>
+            <go_item number="一">
+              変更後の名称若しくは住所又は事務所の所在地
+            </go_item>
+            <go_item number="二">
+              変更の予定日
+            </go_item>
+          </go>
+        </article_item>
+        <article_item number="３">
+          主務大臣は、前項の届出があったときは、その旨を官報で公示しなければならない。
+        </article_item>
+      </articles>
+      <articles number="第三条" title="（支援事業に係る事業計画書等）">
+        <article_item>
+          支援事業実施機関は、毎事業年度、次の各号に掲げる書類を作成し、当該各号に定めるところにより、主務大臣に提出しなければならない。
+          <go>
+            <go_item number="一">
+              支援事業に係る事業計画書及び収支予算書　当該事業年度の開始の日の十五日前までに（法第八条の規定による指定を受けた日の属する事業年度にあっては、その指定を受けた後遅滞なく）
+            </go_item>
+            <go_item number="二">
+              支援事業に係る事業報告書及び収支決算書　当該事業年度の終了後三月以内に
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第四条" title="（指定の取消しの公示）">
+        <article_item>
+          主務大臣は、法第十一条の規定により支援事業実施機関の指定を取り消したときは、その旨を官報で公示しなければならない。
+        </article_item>
+      </articles>
+      <articles number="第五条" title="（検査員証）">
+        <article_item>
+          法第二十五条第一項の規定による立入検査をする職員の身分を示す同条第三項の証明書は、別記様式によるものとする。
+        </article_item>
+      </articles>
+      <articles number="第六条" title="（聴聞）">
+        <article_item>
+          法第十一条の規定による処分に係る聴聞の手続については、国土交通省聴聞手続規則（平成十二年総理府・運輸省・建設省令第一号）第二条から第十三条までの規定を準用する。
+        </article_item>
+        <article_item number="２">
+          主務大臣は、前項の聴聞を行うに当たっては、聴聞を行うべき期日の十日前までに、行政手続法（平成五年法律第八十八号）第十五条第一項の規定による通知をしなければならない。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

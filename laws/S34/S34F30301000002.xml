@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>科学警察研究所の各部の内部組織に関する規則</title>
+    <defined>昭和三十四年三月三十一日国家公安委員会規則第二号</defined>
+    <updated>平成二四年四月六日国家公安委員会規則第五号</updated>
+  </head>
+  <body>
+    <preamble><p>警察法施行規則（昭和二十九年総理府令第四十四号）第十二条第二項の規定に基き、科学警察研究所の各部の内部組織に関する規則を次のように定める。</p></preamble>
+    <content>
+      <articles number="第一条" title="（法科学第一部）">
+        <article_item>
+          法科学第一部に、次の五研究室を置く。
+          　生物第一研究室<br></br>
+          　生物第二研究室<br></br>
+          　生物第三研究室<br></br>
+          　生物第四研究室<br></br>
+          　生物第五研究室<br></br>
+        </article_item>
+      </articles>
+      <articles number="第二条" title="（生物第一研究室）">
+        <article_item>
+          生物第一研究室においては、次に掲げる事務（生物第二研究室、生物第三研究室、生物第四研究室及び生物第五研究室の所掌に属するものを除く。）をつかさどる。
+          <go>
+            <go_item number="一">
+              犯罪の捜査に関連する生物学の研究及び実験に関すること。
+            </go_item>
+            <go_item number="二">
+              生物学を応用する鑑定及び検査に関すること。
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第三条" title="（生物第二研究室）">
+        <article_item>
+          生物第二研究室においては、次に掲げる事務をつかさどる。
+          <go>
+            <go_item number="一">
+              犯罪の捜査に関連する人体組織の形態学に関する研究及び実験に関すること。
+            </go_item>
+            <go_item number="二">
+              形態学を応用する鑑定及び検査に関すること。
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第四条" title="（生物第三研究室）">
+        <article_item>
+          生物第三研究室においては、次に掲げる事務（生物第四研究室の所掌に属するものを除く。）をつかさどる。
+          <go>
+            <go_item number="一">
+              犯罪の捜査に関連する血液型学及び生化学に関する研究及び実験に関すること。
+            </go_item>
+            <go_item number="二">
+              血液型学及び生化学を応用する鑑定及び検査に関すること。
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第五条" title="（生物第四研究室）">
+        <article_item>
+          生物第四研究室においては、次に掲げる事務をつかさどる。
+          <go>
+            <go_item number="一">
+              犯罪の捜査に関連する分子生物学に関する研究及び実験に関すること。
+            </go_item>
+            <go_item number="二">
+              分子生物学を応用する鑑定及び検査に関すること。
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第六条" title="（生物第五研究室）">
+        <article_item>
+          生物第五研究室においては、次に掲げる事務をつかさどる。
+          <go>
+            <go_item number="一">
+              犯罪の捜査に関連する微生物学の研究及び実験に関すること。
+            </go_item>
+            <go_item number="二">
+              微生物学を応用する鑑定及び検査に関すること。
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第七条" title="（法科学第二部）">
+        <article_item>
+          法科学第二部に、次の四研究室を置く。
+          　物理研究室<br></br>
+          　火災研究室<br></br>
+          　爆発研究室<br></br>
+          　機械研究室<br></br>
+        </article_item>
+      </articles>
+      <articles number="第八条" title="（物理研究室）">
+        <article_item>
+          物理研究室においては、次に掲げる事務をつかさどる。
+          <go>
+            <go_item number="一">
+              犯罪の捜査に関連する物理学の研究および実験に関すること。
+            </go_item>
+            <go_item number="二">
+              物理学を応用する鑑定および検査に関すること。
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第九条" title="（物理研究室）">
+        <article_item>
+          削除
+        </article_item>
+      </articles>
+      <articles number="第十条" title="（火災研究室）">
+        <article_item>
+          火災研究室においては、犯罪の捜査に関連する火災、電気災害等についての研究、実験、鑑定及び検査に関する事務をつかさどる。
+        </article_item>
+      </articles>
+      <articles number="第十一条" title="（爆発研究室）">
+        <article_item>
+          爆発研究室においては、犯罪の捜査に関連する爆発等についての研究、実験、鑑定及び検査に関する事務をつかさどる。
+        </article_item>
+      </articles>
+      <articles number="第十二条" title="（機械研究室）">
+        <article_item>
+          機械研究室においては、次に掲げる事務をつかさどる。
+          <go>
+            <go_item number="一">
+              犯罪の捜査に関連する機械工学の研究及び実験に関すること。
+            </go_item>
+            <go_item number="二">
+              機械工学を応用する鑑定及び検査に関すること。
+            </go_item>
+            <go_item number="三">
+              犯罪の捜査に関連する銃器、弾丸類等についての研究、実験、鑑定及び検査に関すること。 
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第十三条" title="（機械研究室）">
+        <article_item>
+          削除
+        </article_item>
+      </articles>
+      <articles number="第十四条" title="（法科学第三部）">
+        <article_item>
+          法科学第三部に、次の五研究室を置く。
+          　化学第一研究室<br></br>
+          　化学第二研究室<br></br>
+          　化学第三研究室<br></br>
+          　化学第四研究室<br></br>
+          　化学第五研究室<br></br>
+        </article_item>
+      </articles>
+      <articles number="第十五条" title="（化学第一研究室）">
+        <article_item>
+          化学第一研究室においては、次に掲げる事務（化学第二研究室、化学第三研究室、化学第四研究室及び化学第五研究室の所掌に属するものを除く。）をつかさどる。
+          <go>
+            <go_item number="一">
+              犯罪の捜査に関連する麻薬、覚醒剤その他の薬物についての研究、実験、鑑定及び検査に関すること。
+            </go_item>
+            <go_item number="二">
+              前号に掲げるもののほか、犯罪の捜査に関連する化学の研究及び実験並びに化学を応用する鑑定及び検査に関すること。
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第十六条" title="（化学第二研究室）">
+        <article_item>
+          化学第二研究室においては、犯罪の捜査に関連する毒物、劇物及び環境汚染物質についての研究、実験、鑑定及び検査に関する事務（化学第三研究室、化学第四研究室及び化学第五研究室の所掌に属するものを除く。）をつかさどる。
+        </article_item>
+      </articles>
+      <articles number="第十七条" title="（化学第三研究室）">
+        <article_item>
+          化学第三研究室においては、次に掲げる事務をつかさどる。
+          <go>
+            <go_item number="一">
+              犯罪の捜査に関連するラジオアイソトープの研究及び検査に関すること。
+            </go_item>
+            <go_item number="二">
+              ラジオアイソトープを応用する鑑定及び検査に関すること。
+            </go_item>
+            <go_item number="三">
+              前二号に掲げるもののほか、犯罪の捜査に関連する微細物（第十五条第一号に規定する薬物、前条に規定する毒物、劇物及び環境汚染物質並びに第十八条に規定する物質を除く。次条において同じ。）のうち人工的に合成されたものについての研究、実験、鑑定及び検査に関すること。
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第十七条の二" title="（化学第四研究室）">
+        <article_item>
+          化学第四研究室においては、犯罪の捜査に関連する微細物についての研究、実験、鑑定及び検査に関する事務（化学第三研究室の所掌に属するものを除く。）をつかさどる。
+        </article_item>
+      </articles>
+      <articles number="第十八条" title="（化学第五研究室）">
+        <article_item>
+          化学第五研究室においては、化学兵器の禁止及び特定物質の規制等に関する法律施行令（平成七年政令第百九十二号）別表一の項の第三欄又は第四欄に掲げる物質及び同表二の項又は三の項の第三欄又は第四欄に掲げる物質の研究、実験、鑑定及び検査に関する事務（化学第三研究室の所掌に属するものを除く。）をつかさどる。
+        </article_item>
+      </articles>
+      <articles number="第十八条の二" title="（法科学第四部）">
+        <article_item>
+          法科学第四部に、次の三研究室を置く。
+          情報科学第一研究室<br></br>
+          情報科学第二研究室<br></br>
+          情報科学第三研究室<br></br>
+        </article_item>
+      </articles>
+      <articles number="第十八条の三" title="（情報科学第一研究室）">
+        <article_item>
+          情報科学第一研究室においては、次に掲げる事務をつかさどる。
+          <go>
+            <go_item number="一">
+              犯罪の捜査に関連する心理学及び精神医学の研究及び実験に関すること。
+            </go_item>
+            <go_item number="二">
+              心理学及び精神医学を応用する鑑定及び検査に関すること。
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第十八条の四" title="（情報科学第二研究室）">
+        <article_item>
+          情報科学第二研究室においては、次に掲げる事務をつかさどる。
+          <go>
+            <go_item number="一">
+              犯罪の捜査に関連する文書類及び偽造通貨の鑑定に必要な技術の研究及び実験に関すること。
+            </go_item>
+            <go_item number="二">
+              前号に掲げる技術を応用する鑑定及び検査に関すること。
+            </go_item>
+            <go_item number="三">
+              偽造通貨の符号の制定に関すること。
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第十八条の五" title="（情報科学第三研究室）">
+        <article_item>
+          情報科学第三研究室においては、次に掲げる事務をつかさどる。
+          <go>
+            <go_item number="一">
+              犯罪の捜査に関連する音声についての研究、実験、鑑定及び検査に関すること。
+            </go_item>
+            <go_item number="二">
+              前号に掲げるもののほか、犯罪の捜査に関連する情報科学の研究、実験、鑑定及び検査に関すること（情報科学第一研究室及び情報科学第二研究室の所掌に属するものを除く。）。
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第十九条" title="（犯罪行動科学部）">
+        <article_item>
+          犯罪行動科学部に、次の三研究室を置く。
+          少年研究室<br></br>
+          犯罪予防研究室<br></br>
+          捜査支援研究室<br></br>
+        </article_item>
+      </articles>
+      <articles number="第二十条" title="（少年研究室）">
+        <article_item>
+          少年研究室においては、少年の非行防止に関連する行動科学その他の少年の非行防止についての研究及び実験に関する事務をつかさどる。
+        </article_item>
+      </articles>
+      <articles number="第二十一条" title="（犯罪予防研究室）">
+        <article_item>
+          犯罪予防研究室においては、犯罪の防止に関連する行動科学その他の犯罪の防止についての研究及び実験に関する事務をつかさどる。
+        </article_item>
+      </articles>
+      <articles number="第二十二条" title="（捜査支援研究室）">
+        <article_item>
+          捜査支援研究室においては、犯罪の捜査の支援に関連する行動科学その他の犯罪の捜査の支援についての研究及び実験に関する事務をつかさどる。
+        </article_item>
+      </articles>
+      <articles number="第二十三条" title="（交通科学部）">
+        <article_item>
+          交通科学部に、次の三研究室を置く。
+          　交通科学第一研究室<br></br>
+          　交通科学第二研究室<br></br>
+          　交通科学第三研究室<br></br>
+        </article_item>
+      </articles>
+      <articles number="第二十四条" title="（交通科学第一研究室）">
+        <article_item>
+          交通科学第一研究室においては、交通警察に関連する交通工学その他の交通警察についての研究及び実験に関する事務（交通科学第二研究室及び交通科学第三研究室の所掌に属するものを除く。）をつかさどる。
+        </article_item>
+      </articles>
+      <articles number="第二十五条" title="（交通科学第二研究室）">
+        <article_item>
+          交通科学第二研究室においては、交通事故の防止その他交通警察に関連する心理学及び人間工学の研究及び実験に関する事務をつかさどる。
+        </article_item>
+      </articles>
+      <articles number="第二十六条" title="（交通科学第三研究室）">
+        <article_item>
+          交通科学第三研究室においては、次に掲げる事務をつかさどる。
+          <go>
+            <go_item number="一">
+              交通事故の防止その他交通警察に関連する機械工学の研究及び実験に関すること。
+            </go_item>
+            <go_item number="二">
+              交通事故に係る犯罪の捜査についての研究及び実験並びにこれらを応用する鑑定及び検査に関すること。
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

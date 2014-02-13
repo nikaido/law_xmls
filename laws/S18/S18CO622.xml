@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>昭和十八年勅令第六百二十二号（占領地軍政官憲ノ為シタル行為ノ法律上ノ効力等ニ関スル法律ノ施行ニ関スル件）</title>
+    <defined>昭和十八年七月二十八日勅令第六百二十二号</defined>
+  </head>
+  <body>
+    <content>
+      <articles number="○１">
+        <article_item>
+          戸籍、船舶又ハ船員ニ関スル事項ニ付占領地軍政官憲ノ為シタル行為ニシテ戸籍法、民法、船舶法又ハ船員法ニ依リ領事官ノ為ス行為ニ相当スルモノハ之ヲ当該法律ニ依リ領事官ガ為シタルモノト看做ス
+        </article_item>
+        <article_item number="○２">
+          戸籍、船舶又ハ船員ニ関スル事項ニ付在留臣民其ノ他ノ者ガ占領地軍政官憲ニ対シ為シタル行為ニシテ戸籍法、民法、船舶法又ハ船員法ニ依リ領事官ニ対シテ為ス行為ニ相当スルモノハ之ヲ当該法律ニ依リ領事官ニ対シテ為シタルモノト看做ス
+        </article_item>
+        <article_item number="○３">
+          前二項ノ占領地軍政官憲ノ範囲其ノ他本令施行ニ関シ必要ナル事項ハ主務大臣之ヲ定ム
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>
