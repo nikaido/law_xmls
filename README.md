@@ -1,4 +1,4 @@
-日本の法律 XML File 
+# 日本の法律 XML File 
 
 * 2014年1月1日現在
 * XML Version: 2014年2月13日版
