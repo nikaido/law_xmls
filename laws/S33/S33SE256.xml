@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>鉄道軌道整備法施行令</title>
+    <defined>昭和三十三年八月三十日政令第二百五十六号</defined>
+    <updated>平成一八年四月二六日政令第一八一号</updated>
+  </head>
+  <body>
+    <preamble><p>内閣は、地方鉄道軌道整備法（昭和二十八年法律第百六十九号）の規定に基き、地方鉄道軌道整備法施行令（昭和二十八年政令第三百八十九号）の全部を改正するこの政令を制定する。</p></preamble>
+    <content>
+      <articles number="第一条">
+        <article_item number="第一条">
+          鉄道軌道整備法（以下「法」という。）第八条第四項の規定によりその経費を補助することができる災害復旧事業は、災害を受けた鉄道の施設を原形に復旧すること（原形に復旧することが不可能な場合において当該施設の従前の効用を復旧するための施設をすることを含む。）を目的とする事業及び災害を受けた鉄道の施設を原形に復旧することが著しく困難又は不適当な場合においてこれに代わるべき必要な施設をすることを目的とする事業であつて、次に掲げるもの以外のものとする。
+          <go>
+            <go_item number="一">
+              工事に要する費用に比してその効果が著しく小さいもの
+            </go_item>
+            <go_item number="二">
+              維持工事とみるべきもの
+            </go_item>
+            <go_item number="三">
+              設計の不備又は工事施行の粗漏によつて生じたものと認められる災害に係るもの
+            </go_item>
+            <go_item number="四">
+              維持管理の方法が適当でなかつたことによつて生じたものと認められる災害に係るもの
+            </go_item>
+          </go>
+        </article_item>
+        <article_item number="２">
+          前項の鉄道の施設の範囲は、次のとおりとする。
+          <go>
+            <go_item number="一">
+              次に掲げる線路施設
+              <go>
+                <go_item number="イ">
+                  軌道（線路舗装を含む。）
+                </go_item>
+                <go_item number="ロ">
+                  路盤
+                </go_item>
+                <go_item number="ハ">
+                  線路切取
+                </go_item>
+                <go_item number="ニ">
+                  線路築堤
+                </go_item>
+                <go_item number="ホ">
+                  土留擁壁
+                </go_item>
+                <go_item number="ヘ">
+                  橋
+                </go_item>
+                <go_item number="ト">
+                  伏せ樋
+                </go_item>
+                <go_item number="チ">
+                  排水溝
+                </go_item>
+                <go_item number="リ">
+                  トンネル
+                </go_item>
+                <go_item number="ヌ">
+                  防砂設備
+                </go_item>
+                <go_item number="ル">
+                  防雪設備
+                </go_item>
+                <go_item number="ヲ">
+                  防波設備
+                </go_item>
+              </go>
+            </go_item>
+            <go_item number="二">
+              次に掲げる停車場施設
+              <go>
+                <go_item number="イ">
+                  転車台
+                </go_item>
+                <go_item number="ロ">
+                  遷車台
+                </go_item>
+                <go_item number="ハ">
+                  給水設備
+                </go_item>
+                <go_item number="ニ">
+                  給油設備
+                </go_item>
+                <go_item number="ホ">
+                  給炭設備
+                </go_item>
+                <go_item number="ヘ">
+                  乗降場
+                </go_item>
+                <go_item number="ト">
+                  貨物積卸場
+                </go_item>
+              </go>
+            </go_item>
+            <go_item number="三">
+              次に掲げる運転保安施設
+              <go>
+                <go_item number="イ">
+                  信号扱所建物
+                </go_item>
+                <go_item number="ロ">
+                  閉塞装置
+                </go_item>
+                <go_item number="ハ">
+                  信号装置
+                </go_item>
+                <go_item number="ニ">
+                  連動装置
+                </go_item>
+                <go_item number="ホ">
+                  転轍装置
+                </go_item>
+                <go_item number="ヘ">
+                  踏切保安装置
+                </go_item>
+              </go>
+            </go_item>
+            <go_item number="四">
+              次に掲げる電気施設
+              <go>
+                <go_item number="イ">
+                  送電線路
+                </go_item>
+                <go_item number="ロ">
+                  饋電線路
+                </go_item>
+                <go_item number="ハ">
+                  電車線路
+                </go_item>
+                <go_item number="ニ">
+                  配電線路
+                </go_item>
+                <go_item number="ホ">
+                  変電設備（変電所建物を含む。）
+                </go_item>
+              </go>
+            </go_item>
+            <go_item number="五">
+              通信施設
+            </go_item>
+            <go_item number="六">
+              鉄道車両
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第二条">
+        <article_item number="第二条">
+          法第八条第四項の規定による補助は、災害復旧事業に係る工事のため直接必要な本工事費及び附帯工事費についてするものとし、その補助率は、二割五分以内において国土交通大臣が財務大臣と協議して定める率とする。
+        </article_item>
+        <article_item number="２">
+          前項の本工事費及び附帯工事費には、購入その他これに準ずる方法のみによつて災害復旧事業を行う場合における購入費その他これに準ずる費用、応急工事が復旧工事の一部となる場合における当該応急工事に要した費用及び復旧工事に必要な仮設工事に要する費用を含むものとする。
+        </article_item>
+      </articles>
+      <articles number="第三条">
+        <article_item number="第三条">
+          法第十三条の割合は、年一割とする。
+        </article_item>
+      </articles>
+      <articles number="第四条">
+        <article_item number="第四条">
+          法第十五条の割合は、年一割五分とする。
+        </article_item>
+      </articles>
+      <articles number="第五条">
+        <article_item number="第五条">
+          法第十五条の二の割合は、資本金の総額に対し年五分とする。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

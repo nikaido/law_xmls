@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>簡素で効率的な政府を実現するための行政改革の推進に関する法律第五十三条第一項の法人並びに同法第五十四条第一項の特殊法人及び認可法人を定める政令</title>
+    <defined>平成十八年六月二日政令第二百七号</defined>
+    <updated>平成二〇年九月一九日政令第二九七号</updated>
+  </head>
+  <body>
+    <preamble><p>内閣は、簡素で効率的な政府を実現するための行政改革の推進に関する法律（平成十八年法律第四十七号）第五十三条第一項及び第五十四条第一項の規定に基づき、この政令を制定する。</p></preamble>
+    <content>
+      <articles number="第一条">
+        <article_item number="第一条">
+          簡素で効率的な政府を実現するための行政改革の推進に関する法律（以下「法」という。）第五十三条第一項の政令で定める法人は、独立行政法人沖縄科学技術研究基盤整備機構とする。
+        </article_item>
+      </articles>
+      <articles number="第二条">
+        <article_item number="第二条">
+          法第五十四条第一項の政令で定める特殊法人は第一号に掲げるとおりとし、同項の政令で定める認可法人は第二号に掲げるとおりとする。
+          <go>
+            <go_item number="一">
+              沖縄振興開発金融公庫、株式会社日本政策金融公庫、日本中央競馬会及び放送大学学園
+            </go_item>
+            <go_item number="二">
+              銀行等保有株式取得機構、日本銀行、農水産業協同組合貯金保険機構及び預金保険機構
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

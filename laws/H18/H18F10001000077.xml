@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>中心市街地の活性化に関する法律施行規則</title>
+    <defined>平成十八年八月十八日内閣府令第七十七号</defined>
+  </head>
+  <body>
+    <preamble><p>中心市街地の活性化に関する法律（平成十年法律第九十二号）第十一条第一項の規定に基づき、中心市街地の活性化に関する法律施行規則を次のように定める。</p></preamble>
+    <content>
+      <articles number="１">
+        <article_item number="１">
+          法第十一条第一項の内閣府令で定める軽微な変更は、次に掲げるものとする。 
+          <go>
+            <go_item number="一">
+              地域の名称の変更又は地番の変更に伴う範囲の変更
+            </go_item>
+            <go_item number="二">
+              基本計画に定められた事業及び措置の実施期間に影響を与えない場合における計画期間の六月以内の変更
+            </go_item>
+            <go_item number="三">
+              前二号に掲げるもののほか、基本計画の実施に支障がないと内閣総理大臣が認める変更
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

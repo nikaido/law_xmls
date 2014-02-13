@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>水難救護法施行細則</title>
+    <defined>明治三十二年七月二十九日逓信省令第三十五号</defined>
+    <updated>平成一二年三月二四日運輸省令第一一号</updated>
+  </head>
+  <body>
+    <preamble><p>水難救護法施行細則左ノ通定ム</p></preamble>
+    <content>
+      <sho title="第一章　遭難船舶">
+        <articles number="第一条">
+          <article_item number="第一条">
+            水難救護法（明治三十二年法律第九十五号）（以下「法」ト謂フ）第十条ニ定メタル船難報告書ニ記載スヘキ事項左ノ如シ
+            <go>
+              <go_item number="一">
+                船舶ノ種類及名称
+              </go_item>
+              <go_item number="二">
+                総トン数
+              </go_item>
+              <go_item number="三">
+                船籍港
+              </go_item>
+              <go_item number="四">
+                船舶所有者ノ氏名又ハ名称
+              </go_item>
+              <go_item number="五">
+                発航港、寄航港、到達港及遭難ノ場所
+              </go_item>
+              <go_item number="六">
+                遭難及救護ノ顛末
+              </go_item>
+              <go_item number="七">
+                船舶ノ損害
+              </go_item>
+              <go_item number="八">
+                死傷者ノ氏名
+              </go_item>
+              <go_item number="九">
+                滅失若クハ毀損シタル積荷ノ種類、重量若クハ容積其荷造ノ種類、箇数、記号及傭船者若クハ荷送人ノ氏名若クハ名称
+              </go_item>
+            </go>
+          </article_item>
+        </articles>
+        <articles number="第二条">
+          <article_item number="第二条">
+            法第十三条第一号ニ定メタル労務ノ報酬ハ地方習慣上ノ賃金ヲ基礎トシ各人ノ為シタル労務ノ種類、救護ニ要シタル時間ノ長短、危険ノ程度及被害アリタルトキハ其被害ノ大小ヲ斟酌シテ定ムルモノトス
+          </article_item>
+        </articles>
+      </sho>
+      <sho title="第二章　漂流物及沈没品">
+        <articles number="第三条">
+          <article_item number="第三条">
+            法第二十四条第一項ノ市町村長トハ拾得地ノ市町村長ヲ謂ヒ航海中ニ拾得シタル場合ニ在リテハ其後最初ニ到着シタル地ノ市町村長ヲ謂フ
+          </article_item>
+        </articles>
+      </sho>
+    </content>
+  </body>
+</law>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>バター等に対して課する輸入数量が輸入基準数量を超えた場合の特別緊急関税に関する規定の平成二十三年度における適用の停止を定める政令</title>
+    <defined>平成二十三年九月三十日政令第三百六号</defined>
+  </head>
+  <body>
+    <preamble><p>内閣は、関税暫定措置法（昭和三十五年法律第三十六号）第七条の三第三項の規定に基づき、この政令を制定する。</p></preamble>
+    <content>
+      <articles>
+        <article_item>
+          関税暫定措置法別表第一の六第一一項に掲げる物品で平成二十三年十月一日から平成二十四年三月三十一日までに輸入されるものについては、同法第七条の三第一項の規定の適用を停止する。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

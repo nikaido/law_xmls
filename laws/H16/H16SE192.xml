@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>市町村の合併の特例等に関する法律の施行に伴う国民健康保険の保険料の賦課に関する経過措置に関する政令</title>
+    <defined>平成十六年六月九日政令第百九十二号</defined>
+  </head>
+  <body>
+    <preamble><p>内閣は、市町村の合併の特例等に関する法律（平成十六年法律第五十九号）附則第七条の規定に基づき、この政令を制定する。</p></preamble>
+    <content>
+      <articles>
+        <article_item>
+          平成十七年三月三十一日までに行われた市町村の合併に係る市町村の合併の特例等に関する法律附則第九条の規定による改正前の国民健康保険法附則第十一項の規定による不均一の保険料の賦課については、なお従前の例による。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

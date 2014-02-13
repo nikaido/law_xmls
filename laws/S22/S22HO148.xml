@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>貨幣損傷等取締法</title>
+    <defined>昭和二十二年十二月四日法律第百四十八号</defined>
+    <updated>昭和六二年六月一日法律第四二号</updated>
+  </head>
+  <body>
+    <content>
+      <articles number="○１">
+        <article_item number="○１">
+          貨幣は、これを損傷し又は鋳つぶしてはならない。
+        </article_item>
+        <article_item number="○２">
+          貨幣は、これを損傷し又は鋳つぶす目的で集めてはならない。
+        </article_item>
+        <article_item number="○３">
+          第一項又は前項の規定に違反した者は、これを一年以下の懲役又は二十万円以下の罰金に処する。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>学校施設の確保に関する政令施行規則</title>
+    <defined>昭和二十四年二月一日文部省令第五号</defined>
+    <updated>平成一六年三月三一日文部科学省令第一五号</updated>
+  </head>
+  <body>
+    <preamble><p>学校施設の確保に関する政令（昭和二十四年政令第三十四号）に基き、この省令を制定する。</p></preamble>
+    <content>
+      <articles number="第一条">
+        <article_item number="第一条">
+          学校施設の確保に関する政令（以下「令」という。）第六条及び第七条の規定による公告は、一定の公告式によつてするものとする。
+        </article_item>
+      </articles>
+      <articles number="第二条">
+        <article_item number="第二条">
+          令第六条又は第七条の交付、通知又は公告があつた後、当該学校施設又は当該学校施設にある工作物その他の物件につき権利を有する者からその権利を承継した者は、すみやかに、その旨を管理者に届け出なければならない。
+        </article_item>
+        <article_item number="２">
+          前項の届出書には、左の事項を記載しなければならない。
+          <go>
+            <go_item number="一">
+              当該学校施設又は当該学校施設にある工作物その他の物件の表示
+            </go_item>
+            <go_item number="二">
+              被承継人の氏名又は名称及び住所
+            </go_item>
+            <go_item number="三">
+              承継人の氏名又は名称及び住所
+            </go_item>
+            <go_item number="四">
+              権利の種類
+            </go_item>
+            <go_item number="五">
+              権利承継の時期
+            </go_item>
+            <go_item number="六">
+              その他必要と認める事項
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第三条">
+        <article_item number="第三条">
+          令第十一条の規定による許可の申請をしようとする者は、左の事項を記載した許可申請書を管理者に提出しなければならない。
+          <go>
+            <go_item number="一">
+              申請人の氏名又は名称及び住所
+            </go_item>
+            <go_item number="二">
+              当該学校施設の表示
+            </go_item>
+            <go_item number="三">
+              当該行為をする必要がある理由
+            </go_item>
+            <go_item number="四">
+              当該行為の内容及び程度
+            </go_item>
+            <go_item number="五">
+              当該行為の時期
+            </go_item>
+            <go_item number="六">
+              その他参考となるべき事項
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第四条">
+        <article_item number="第四条">
+          令第十四条の規定により当該職員が受領調書を作成する場合においては、やむを得ない場合を除く外、当該学校施設を引き渡した者を立ち会わせなければならない。
+        </article_item>
+      </articles>
+      <articles number="第五条">
+        <article_item number="第五条">
+          受領調書は一通作成し、当該職員及び前条の規定によりその作成に立ち会つた者は、これに記名押印しなければならない。
+        </article_item>
+        <article_item number="２">
+          土地に関する受領調書には、左の事項を記載しなければならない。
+          <go>
+            <go_item number="一">
+              返還を受けた管理者名
+            </go_item>
+            <go_item number="二">
+              当該土地を引き渡した者の氏名又は名称及び住所
+            </go_item>
+            <go_item number="三">
+              当該土地の所在、地番、地目及び面積
+            </go_item>
+            <go_item number="四">
+              同一の地番に属する土地の一部が返還の目的である場合には、その目的である部分の表示
+            </go_item>
+            <go_item number="五">
+              受領調書作成の年月日
+            </go_item>
+            <go_item number="六">
+              その他必要と認める事項
+            </go_item>
+          </go>
+        </article_item>
+        <article_item number="３">
+          建物その他の工作物に関する受領調書には、左の事項を記載しなければならない。
+          <go>
+            <go_item number="一">
+              返還を受けた管理者名
+            </go_item>
+            <go_item number="二">
+              当該建物その他の工作物を引き渡した者の氏名又は名称及び住所
+            </go_item>
+            <go_item number="三">
+              当該建物その他の工作物の所在及び地番
+            </go_item>
+            <go_item number="四">
+              当該建物その他の工作物の種類、造作及び構造の概要並びに建物にあつては建坪数及び延坪数、その他の工作物にあつては面積又は規模
+            </go_item>
+            <go_item number="五">
+              受領調書作成の年月日
+            </go_item>
+            <go_item number="六">
+              その他必要と認める事項
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第六条">
+        <article_item number="第六条">
+          令第十八条の規定により携帯すべき証票は、引渡を受ける場合にあつては別記第一号様式、立入、測量又は検査をする場合にあつては別記第二号様式による。
+        </article_item>
+      </articles>
+      <articles number="第七条">
+        <article_item number="第七条">
+          令第二十二条第一項の規定による損失の補償を請求しようとする者は、学校施設の返還の場合にあつては返還後、工作物その他の物件の移転の場合にあつては移転後、三箇月以内に損失補償請求書を管理者に提出してしなければならない。
+        </article_item>
+        <article_item number="２">
+          管理者は、補償金額の決定をしたときは、すみやかに、請求者に対し、これを通知しなければならない。
+        </article_item>
+      </articles>
+      <articles number="第八条">
+        <article_item number="第八条">
+          学校施設の返還に係る損失補償請求書には、左の事項を記載しなければならない。
+          <go>
+            <go_item number="一">
+              請求者の氏名又は名称及び住所
+            </go_item>
+            <go_item number="二">
+              当該学校施設の表示
+            </go_item>
+            <go_item number="三">
+              返還した時期
+            </go_item>
+            <go_item number="四">
+              補償請求の事由
+            </go_item>
+            <go_item number="五">
+              補償請求額
+            </go_item>
+            <go_item number="六">
+              その他必要と認める事項
+            </go_item>
+          </go>
+        </article_item>
+        <article_item number="２">
+          工作物その他の物件の移転に係る補償請求書には、左の事項を記載しなければならない。
+          <go>
+            <go_item number="一">
+              請求者の氏名又は名称及び住所
+            </go_item>
+            <go_item number="二">
+              当該工作物その他の物件の表示
+            </go_item>
+            <go_item number="三">
+              移転した時期
+            </go_item>
+            <go_item number="四">
+              補償請求の事由
+            </go_item>
+            <go_item number="五">
+              補償請求額
+            </go_item>
+            <go_item number="六">
+              その他必要と認める事項
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第九条">
+        <article_item number="第九条">
+          損失補償請求書には、損失補償額算出明細書及び受領調書の交付を受けた場合にあつては受領調書の写を添附しなければならない。
+        </article_item>
+      </articles>
+      <articles number="第十条">
+        <article_item number="第十条">
+          管理者は、損失補償額決定のため必要があると認めるときは、請求者から必要な書類の提出を求めることができる。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

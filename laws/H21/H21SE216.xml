@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>消費者委員会令</title>
+    <defined>平成二十一年八月十四日政令第二百十六号</defined>
+  </head>
+  <body>
+    <preamble><p>内閣は、消費者庁及び消費者委員会設置法（平成二十一年法律第四十八号）第十四条の規定に基づき、この政令を制定する。</p></preamble>
+    <content>
+      <articles number="第一条">
+        <article_item number="第一条">
+          消費者委員会（以下「委員会」という。）は、その定めるところにより、部会を置くことができる。
+        </article_item>
+        <article_item number="２">
+          部会に属すべき委員、臨時委員及び専門委員は、委員長が指名する。
+        </article_item>
+        <article_item number="３">
+          部会に部会長を置き、当該部会に属する委員のうちから、委員長が指名する。
+        </article_item>
+        <article_item number="４">
+          部会長は、部会の事務を掌理する。
+        </article_item>
+        <article_item number="５">
+          部会長に事故があるときは、あらかじめその指名する委員が、その職務を代理する。
+        </article_item>
+        <article_item number="６">
+          委員会は、その定めるところにより、部会の議決をもって委員会の議決とすることができる。
+        </article_item>
+      </articles>
+      <articles number="第二条">
+        <article_item number="第二条">
+          委員会の会議は、委員長が招集する。
+        </article_item>
+        <article_item number="２">
+          委員会は、委員及び議事に関係のある臨時委員の過半数が出席しなければ、会議を開き、議決することができない。
+        </article_item>
+        <article_item number="３">
+          委員会の議事は、委員及び議事に関係のある臨時委員で会議に出席したものの過半数で決し、可否同数のときは、委員長の決するところによる。
+        </article_item>
+        <article_item number="４">
+          前三項の規定は、部会の議事について準用する。
+        </article_item>
+      </articles>
+      <articles number="第三条">
+        <article_item number="第三条">
+          委員会の事務局長は、関係のある他の職を占める者をもって充てられるものとする。
+        </article_item>
+        <article_item number="２">
+          前項に定めるもののほか、委員会の事務局の内部組織の細目は、内閣府令で定める。
+        </article_item>
+      </articles>
+      <articles number="第四条">
+        <article_item number="第四条">
+          この政令に定めるもののほか、委員会の運営に関し必要な事項は、委員長が委員会に諮って定める。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>愛がん動物用飼料の安全性の確保に関する法律施行令</title>
+    <defined>平成二十年十二月三日政令第三百六十六号</defined>
+  </head>
+  <body>
+    <preamble><p>内閣は、愛がん動物用飼料の安全性の確保に関する法律（平成二十年法律第八十三号）第二条第一項及び第十五条の規定に基づき、この政令を制定する。</p></preamble>
+    <content>
+      <articles number="第一条">
+        <article_item number="第一条">
+          愛がん動物用飼料の安全性の確保に関する法律（以下「法」という。）第二条第一項の政令で定める動物は、犬及び猫とする。
+        </article_item>
+      </articles>
+      <articles number="第二条">
+        <article_item number="第二条">
+          法第六条の規定は、愛がん動物用飼料の輸出のための製造、販売又は輸入については、適用しない。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

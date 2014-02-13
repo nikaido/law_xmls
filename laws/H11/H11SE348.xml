@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>家畜排せつ物の管理の適正化及び利用の促進に関する法律施行令</title>
+    <defined>平成十一年十月二十九日政令第三百四十八号</defined>
+    <updated>平成二〇年九月一九日政令第二九七号</updated>
+  </head>
+  <body>
+    <preamble><p>内閣は、家畜排せつ物の管理の適正化及び利用の促進に関する法律（平成十一年法律第百十二号）第二条及び第十一条第二項の規定に基づき、この政令を制定する。</p></preamble>
+    <content>
+      <articles number="第一条">
+        <article_item number="第一条">
+          家畜排せつ物の管理の適正化及び利用の促進に関する法律（以下「法」という。）第二条の政令で定める家畜は、馬とする。
+        </article_item>
+      </articles>
+      <articles number="第二条">
+        <article_item number="第二条">
+          法第十一条第二項の政令で定める利率、償還期限及び据置期間の範囲は、利率については最高年八分五厘、償還期限については据置期間を含め二十五年、据置期間については八年とする。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

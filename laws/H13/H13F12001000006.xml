@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>入国者収容所組織規則</title>
+    <defined>平成十三年一月六日法務省令第六号</defined>
+    <updated>平成二五年五月一六日法務省令第一〇号</updated>
+  </head>
+  <body>
+    <preamble><p>法務省設置法（平成十一年法律第九十三号）第十三条第二項の規定に基づき、及び同法を実施するため、入国者収容所組織規程の全部を改正する命令を次のように定める。</p></preamble>
+    <content>
+      <articles number="第一条">
+        <article_item number="第一条">
+          入国者収容所の名称及び位置は、別表のとおりとする。
+        </article_item>
+      </articles>
+      <articles number="第二条">
+        <article_item number="第二条">
+          入国者収容所に、所長及び次長一人を置く。
+        </article_item>
+        <article_item number="２">
+          所長は、入国者収容所の事務を掌理する。
+        </article_item>
+        <article_item number="３">
+          次長は、所長を助け、入国者収容所の事務を整理する。
+        </article_item>
+      </articles>
+      <articles number="第三条">
+        <article_item number="第三条">
+          入国者収容所に、次の二課、室及びそれぞれ首席入国警備官二人（入国者収容所西日本入国管理センターにあっては、一人）を置く。
+          　　総務課<br></br>
+          　　会計課<br></br>
+          　　診療室<br></br>
+        </article_item>
+      </articles>
+      <articles number="第四条">
+        <article_item number="第四条">
+          総務課は、次に掲げる事務をつかさどる。
+          <go>
+            <go_item number="一">
+              公印の保管に関すること。
+            </go_item>
+            <go_item number="二">
+              職員の任免、給与、懲戒、服務その他の人事に関すること。
+            </go_item>
+            <go_item number="三">
+              公文書類の接受、発送、編集及び保存に関すること。
+            </go_item>
+            <go_item number="四">
+              統計報告に関すること。
+            </go_item>
+            <go_item number="五">
+              渉外、広報及び行政相談に関すること。
+            </go_item>
+            <go_item number="六">
+              職員の健康管理に関すること。
+            </go_item>
+            <go_item number="七">
+              被収容者の仮放免及び保証金に関すること。
+            </go_item>
+            <go_item number="八">
+              送還不能の被退去強制者の放免に関すること。
+            </go_item>
+            <go_item number="九">
+              所内の所掌事務の連絡調整に関すること（第七条第十二号に掲げる事務を除く。）。
+            </go_item>
+            <go_item number="十">
+              前各号に掲げるもののほか、入国者収容所の所掌事務で他の所掌に属しないものに関すること。
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第五条">
+        <article_item number="第五条">
+          会計課は、次に掲げる事務をつかさどる。
+          <go>
+            <go_item number="一">
+              予算、決算及び会計並びに会計の監査に関すること。
+            </go_item>
+            <go_item number="二">
+              入国者収容所所属の国有財産及び物品の管理に関すること。
+            </go_item>
+            <go_item number="三">
+              債権に関すること。
+            </go_item>
+            <go_item number="四">
+              保管金に関すること。
+            </go_item>
+            <go_item number="五">
+              職員の安全管理に関すること。
+            </go_item>
+            <go_item number="六">
+              職員の福利厚生に関すること。
+            </go_item>
+            <go_item number="七">
+              被収容者に対する給養に関すること。
+            </go_item>
+            <go_item number="八">
+              ボイラー及び炊事場の運営に関すること。
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第六条">
+        <article_item number="第六条">
+          診療室は、次に掲げる事務をつかさどる。
+          <go>
+            <go_item number="一">
+              医療、防疫、保健及び衛生に関すること。
+            </go_item>
+            <go_item number="二">
+              医療品及び衛生材料の受払及び保管に関すること。
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第七条">
+        <article_item number="第七条">
+          入国者収容所東日本入国管理センター及び入国者収容所大村入国管理センターに置く首席入国警備官各二人は、それぞれ企画管理・執行担当及び処遇担当とし、次に掲げる事務のうち、企画管理・執行担当の首席入国警備官は第一号から第七号まで（入国者収容所大村入国管理センターの企画管理・執行担当の首席入国警備官は、第六号の事務を除く。）及び第十二号の事務を、処遇担当の首席入国警備官は第八号から第十一号までの事務を、入国者収容所西日本入国管理センターに置く首席入国警備官は、次に掲げる事務のうち、第一号から第五号まで及び第七号から第十二号までの事務をつかさどる。
+          <go>
+            <go_item number="一">
+              入国警備官の点検、礼式及び非常訓練に関すること。
+            </go_item>
+            <go_item number="二">
+              武器の携帯、使用及び管理並びに入国警備官の装備に関すること。
+            </go_item>
+            <go_item number="三">
+              出入国及び外国人の在留の管理並びに難民に関する資料の収集に関すること。
+            </go_item>
+            <go_item number="四">
+              収容令書及び退去強制令書の執行並びにその執行のための護送及び送還に関すること。
+            </go_item>
+            <go_item number="五">
+              被収容者の送還要件具備手続に関すること。
+            </go_item>
+            <go_item number="六">
+              指紋の分類及び照会・回答に関すること。
+            </go_item>
+            <go_item number="七">
+              電子計算機の運用及び保守に関すること。
+            </go_item>
+            <go_item number="八">
+              被収容者の処遇に関すること。
+            </go_item>
+            <go_item number="九">
+              被収容者の入所及び出所に関すること。
+            </go_item>
+            <go_item number="十">
+              面会及び通信に関すること。
+            </go_item>
+            <go_item number="十一">
+              収容区域その他の被収容者を収容する施設に係る警備及び保安に関すること。
+            </go_item>
+            <go_item number="十二">
+              所内の首席入国警備官の所掌事務の連絡調整に関すること。
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第八条">
+        <article_item number="第八条">
+          入国者収容所を通じて統括入国警備官十五人以内を置く。
+        </article_item>
+        <article_item number="２">
+          統括入国警備官の配置は、法務大臣が定める。
+        </article_item>
+        <article_item number="３">
+          統括入国警備官は、命を受けて、前条各号に掲げる事務のうち、所長の指定する分担に係る事務を統括する。
+        </article_item>
+      </articles>
+      <articles number="第九条">
+        <article_item number="第九条">
+          この省令に定めるもののほか、入国者収容所に関し必要な事項は、所長が定める。
+        </article_item>
+        <article_item number="２">
+          所長は、前項の規定に基づき、事務分掌その他組織の細目を定めようとするときは、法務大臣の承認を受けなければならない。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

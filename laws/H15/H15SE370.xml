@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>独立行政法人日本芸術文化振興会法施行令</title>
+    <defined>平成十五年八月八日政令第三百七十号</defined>
+    <updated>平成一七年四月一日政令第一一八号</updated>
+  </head>
+  <body>
+    <preamble><p>内閣は、独立行政法人日本芸術文化振興会法（平成十四年法律第百六十三号）第五条第六項及び第十九条並びに附則第二条第三項、第八項及び第十二項の規定に基づき、この政令を制定する。</p></preamble>
+    <content>
+      <articles number="１">
+        <article_item number="１">
+          独立行政法人日本芸術文化振興会法（以下「法」という。）第五条第五項の評価委員は、必要の都度、次に掲げる者につき文部科学大臣が任命する。
+          <go>
+            <go_item number="一">
+              財務省の職員　一人 
+            </go_item>
+            <go_item number="二">
+              文部科学省の職員　一人 
+            </go_item>
+            <go_item number="三">
+              独立行政法人日本芸術文化振興会（以下「振興会」という。）の役員　一人 
+            </go_item>
+            <go_item number="四">
+              学識経験のある者　二人 
+            </go_item>
+          </go>
+        </article_item>
+        <article_item number="２">
+          法第五条第五項の規定による評価は、同項の評価委員の過半数の一致によるものとする。 
+        </article_item>
+        <article_item number="３">
+          法第五条第五項の規定による評価に関する庶務は、文化庁文化部芸術文化課において処理する。 
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

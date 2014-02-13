@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>特定解体工事元請業者が特定解体工事発注者に交付する書面に記載する事項を定める省令</title>
+    <defined>平成十八年十二月十八日経済産業省・国土交通省・環境省令第三号</defined>
+  </head>
+  <body>
+    <preamble><p>特定製品に係るフロン類の回収及び破壊の実施の確保等に関する法律（平成十三年法律第六十四号）第十九条の二第一項の規定に基づき、特定解体工事元請業者が特定解体工事発注者に交付する書面に記載する事項を定める省令を次のように定める。</p></preamble>
+    <content>
+      <articles number="第一条">
+        <article_item number="第一条">
+          この省令において使用する用語は、特定製品に係るフロン類の回収及び破壊の実施の確保等に関する法律（以下「法」という。）において使用する用語の例による。
+        </article_item>
+        <article_item number="２">
+          この省令において「特定解体工事」とは、建築物その他の工作物（当該建築物その他の工作物に第一種特定製品が設置されていないことが明らかなものを除く。）の全部又は一部を解体する建設工事（他の者から請け負ったものを除く。）をいう。
+        </article_item>
+      </articles>
+      <articles number="第二条">
+        <article_item number="第二条">
+          法第十九条の二第一項の主務省令で定める事項は、次のとおりとする。
+          <go>
+            <go_item number="一">
+              書面の交付年月日
+            </go_item>
+            <go_item number="二">
+              特定解体工事元請業者の氏名又は名称及び住所
+            </go_item>
+            <go_item number="三">
+              特定解体工事発注者の氏名又は名称及び住所
+            </go_item>
+            <go_item number="四">
+              特定解体工事の名称及び場所
+            </go_item>
+            <go_item number="五">
+              建築物その他の工作物における第一種特定製品の設置の有無の確認結果
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

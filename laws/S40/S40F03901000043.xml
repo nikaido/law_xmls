@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>船舶推進性能試験及び船舶用機関性能試験規則</title>
+    <defined>昭和四十年六月二十一日運輸省令第四十三号</defined>
+    <updated>平成一三年三月一五日国土交通省令第三八号</updated>
+  </head>
+  <body>
+    <preamble><p>造船法（昭和二十五年法律第百二十九号）第四条第四項（同法第五条第三項において準用する場合を含む。）の規定に基づき、並びに同法第四条及び第五条の規定を実施するため、船舶推進性能試験及び船舶用機関性能試験規則を次のように定める。</p></preamble>
+    <content>
+      <articles number="第一条">
+        <article_item number="第一条">
+          造船法第四条第一項及び第二項の船舶の推進性能試験並びに同法第五条第一項の船舶用推進機関及び船舶用ボイラーの性能試験の手続、手数料等に関しては、この省令の定めるところによる。
+        </article_item>
+      </articles>
+      <articles number="第二条">
+        <article_item number="第二条">
+          削除　
+        </article_item>
+      </articles>
+      <articles number="第三条">
+        <article_item number="第三条">
+          水そうによる船舶の推進性能試験、実地による船舶の推進性能試験又は船舶用推進機関若しくは船舶用ボイラーの性能試験を依頼しようとする者は、それぞれ第一号様式、第二号様式又は第三号様式の試験依頼書を国土交通大臣に提出しなければならない。
+        </article_item>
+        <article_item number="２">
+          前項の試験依頼書には、当該試験に必要な書類及び図面を添附しなければならない。
+        </article_item>
+      </articles>
+      <articles number="第四条">
+        <article_item number="第四条">
+          前条第一項の規定により試験依頼書を提出した者（以下「試験依頼者」という。）が依頼した試験の内容を変更しようとする場合は、変更しようとする事項を明記した書類を国土交通大臣に提出しなければならない。
+        </article_item>
+        <article_item number="２">
+          前条第二項の規定は、前項の場合について準用する。
+        </article_item>
+      </articles>
+      <articles number="第五条">
+        <article_item number="第五条">
+          国土交通大臣は、必要があると認める場合は、試験依頼者に対し、当該試験に必要な準備を指示することができる。
+        </article_item>
+      </articles>
+      <articles number="第六条">
+        <article_item number="第六条">
+          国土交通大臣は、当該試験が終了したときは、試験依頼者に試験成績書を交付するものとする。
+        </article_item>
+      </articles>
+      <articles number="第七条">
+        <article_item number="第七条">
+          水そうによる船舶の推進性能試験の手数料の額は、別表第一のとおりとする。ただし、船体、プロペラ、シヤフトブラケツト若しくはボツシングの模型を作成し、又は船体の模型の一部を変更して行なう場合には、別表第二に定める額を加算した額とする。
+        </article_item>
+        <article_item number="２">
+          実地による船舶の推進性能試験の手数料の額は、四万九千円とする。
+        </article_item>
+        <article_item number="３">
+          船舶用推進機関及び船舶用ボイラーの性能試験の手数料の額は、別表第三のとおりとする。
+        </article_item>
+        <article_item number="４">
+          前三項の手数料は、国土交通大臣の指示に従い、納付しなければならない。
+        </article_item>
+        <article_item number="５">
+          第一項から第三項までの手数料は、試験依頼者の都合により試験の依頼を取り下げた場合においても、返還しない。
+        </article_item>
+      </articles>
+      <articles number="第八条">
+        <article_item number="第八条">
+          試験依頼者は、試験成績書の複本の交付を受けようとする場合は、第四号様式の複本交付申請書を国土交通大臣に提出しなければならない。
+        </article_item>
+        <article_item number="２">
+          水そう又は実地による船舶の推進性能試験の試験成績書の複本交付手数料は、一通につき千五百円、船舶用推進機関又は船舶用ボイラーの性能試験の試験成績書の複本交付手数料は、一通につき五百円とする。
+        </article_item>
+      </articles>
+      <articles number="第九条">
+        <article_item number="第九条">
+          水そうによる船舶の推進性能試験を依頼した者は、当該船舶の試運転を行なつた場合には、その成績を国土交通大臣に報告しなければならない。ただし、当該船舶について実地による推進性能試験を依頼した場合は、この限りでない。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

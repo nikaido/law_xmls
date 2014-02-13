@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>海洋汚染等及び海上災害の防止に関する法律第六十五条第二項第一号に規定する担保金の提供等に関する命令</title>
+    <defined>平成八年六月二十六日総理府・運輸省令第一号</defined>
+  </head>
+  <body>
+    <preamble><p>海洋汚染及び海上災害の防止に関する法律（昭和四十五年法律第百三十六号）第六十八条の規定に基づき、海洋汚染及び海上災害の防止に関する法律第六十五条第二項第一号に規定する担保金の提供等に関する命令を次のように定める。</p></preamble>
+    <content>
+      <articles number="第一条">
+        <article_item number="第一条">
+          海洋汚染等及び海上災害の防止に関する法律（以下「法」という。）第六十五条から第六十七条までの規定の実施のため必要な手続その他の事項については、他の法令に定めるもののほか、この命令の定めるところによる。
+        </article_item>
+      </articles>
+      <articles number="第二条">
+        <article_item number="第二条">
+          法第六十五条第一項の規定による告知は、告知を受ける者に対し、次に掲げる事項を記載した書面を交付することにより行うものとする。
+          <go>
+            <go_item number="一">
+              事件に係る船舶の名称
+            </go_item>
+            <go_item number="二">
+              違反者の氏名
+            </go_item>
+            <go_item number="三">
+              逮捕又は押収（以下「逮捕等」という。）の年月日
+            </go_item>
+            <go_item number="四">
+              違反の類型
+            </go_item>
+            <go_item number="五">
+              法第六十五条第二項各号に掲げる事項
+            </go_item>
+            <go_item number="六">
+              担保金（担保金の提供を保証する書面（以下「保証書」という。）に記載されているところに従って提供されるものを除く。）又は保証書（以下「担保金等」という。）の提供期限
+            </go_item>
+            <go_item number="七">
+              担保金等の提供場所及び提供先
+            </go_item>
+            <go_item number="八">
+              告知の年月日
+            </go_item>
+            <go_item number="九">
+              告知をする取締官の氏名及びその者が法第六十五条第一項の取締官である旨
+            </go_item>
+            <go_item number="十">
+              その他必要な事項
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第三条">
+        <article_item number="第三条">
+          担保金等の提出期間の延長を求める者は、次に掲げる事項を記載した書面を取締官に提出しなければならない。
+          <go>
+            <go_item number="一">
+              提供期間の延長を求める者の氏名又は名称、住所及び違反者との関係
+            </go_item>
+            <go_item number="二">
+              事件に係る船舶の名称
+            </go_item>
+            <go_item number="三">
+              違反者の氏名
+            </go_item>
+            <go_item number="四">
+              逮捕等の年月日
+            </go_item>
+            <go_item number="五">
+              告知の年月日
+            </go_item>
+            <go_item number="六">
+              希望する延長期間
+            </go_item>
+            <go_item number="七">
+              提供期間の延長を求める理由
+            </go_item>
+            <go_item number="八">
+              その他必要な事項
+            </go_item>
+          </go>
+        </article_item>
+        <article_item number="２">
+          取締官は、前項の書面の提出があったときは、当該書面に係る担保金等の提供期間の延長を求めた者に対し、次に掲げる事項を通知するものとする。
+          <go>
+            <go_item number="一">
+              提供期間の延長を求めた者の氏名又は名称及び住所
+            </go_item>
+            <go_item number="二">
+              事件に係る船舶の名称
+            </go_item>
+            <go_item number="三">
+              違反者の氏名
+            </go_item>
+            <go_item number="四">
+              逮捕等の年月日
+            </go_item>
+            <go_item number="五">
+              提供期間の延長を認める旨又は認めない旨及び延長を認める場合は、延長後の担保金等の提供期限
+            </go_item>
+            <go_item number="六">
+              通知をする取締官の氏名及びその者が法第六十五条第一項の取締官である旨
+            </go_item>
+            <go_item number="七">
+              その他必要な事項
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第四条">
+        <article_item number="第四条">
+          担保金を提供する者は、主務大臣に対し、次に掲げる事項を記載した担保金提供書を併せて提出しなければならない。この場合においては、保管金取扱規程（大正十一年大蔵省令第五号）第五条第一項又は第二項の保管金提出書を省略することができる。 
+          <go>
+            <go_item number="一">
+              担保金を提供する者の氏名又は名称、住所及び違反者との関係
+            </go_item>
+            <go_item number="二">
+              事件に係る船舶の名称
+            </go_item>
+            <go_item number="三">
+              違反者の氏名
+            </go_item>
+            <go_item number="四">
+              逮捕等の年月日
+            </go_item>
+            <go_item number="五">
+              提供する担保金の額
+            </go_item>
+            <go_item number="六">
+              担保金の提供の年月日
+            </go_item>
+            <go_item number="七">
+              その他必要な事項
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第五条">
+        <article_item number="第五条">
+          保証書には、次に掲げる事項を記載しなければならない。
+          <go>
+            <go_item number="一">
+              担保金の提供を保証する者の氏名又は名称、住所及び担保金を提供する者との関係
+            </go_item>
+            <go_item number="二">
+              事件に係る船舶の名称
+            </go_item>
+            <go_item number="三">
+              違反者の氏名
+            </go_item>
+            <go_item number="四">
+              逮捕等の年月日
+            </go_item>
+            <go_item number="五">
+              提供される担保金の額
+            </go_item>
+            <go_item number="六">
+              担保金を提供する者の氏名又は名称、住所及び違反者との関係
+            </go_item>
+            <go_item number="七">
+              第五号の額の担保金が海洋汚染等及び海上災害の防止に関する法律施行令（昭和四十六年政令第二百一号）第二十一条第一項第二号イに規定する期間内に本邦通貨で提供されることを保証する旨
+            </go_item>
+            <go_item number="八">
+              保証書の提供の年月日
+            </go_item>
+            <go_item number="九">
+              その他必要な事項
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第六条">
+        <article_item number="第六条">
+          法第六十七条第二項ただし書の規定による申出は、次に掲げる事項を記載した書面により行わなければならない。
+          <go>
+            <go_item number="一">
+              申出を行う者の氏名又は名称及び住所
+            </go_item>
+            <go_item number="二">
+              事件に係る船舶の名称
+            </go_item>
+            <go_item number="三">
+              逮捕等の年月日
+            </go_item>
+            <go_item number="四">
+              違反者が出頭する年月日又は押収物を提出する年月日
+            </go_item>
+            <go_item number="五">
+              前号の日に出頭する違反者の氏名又は提出する押収物
+            </go_item>
+            <go_item number="六">
+              その他必要な事項
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

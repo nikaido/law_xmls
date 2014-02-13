@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>入国審査官及び入国警備官の証票の様式に関する省令</title>
+    <defined>昭和五十六年十二月十九日法務省令第六十三号</defined>
+    <updated>平成二三年一二月二六日法務省令第四三号</updated>
+  </head>
+  <body>
+    <preamble><p>出入国管理及び難民認定法（昭和二十六年政令第三百十九号）第六十一条の五第三項の規定に基づき、入国審査官及び入国警備官の証票の様式に関する省令（昭和二十六年外務省令第二十号）の全部を改正する省令を次のように定める。</p></preamble>
+    <content>
+      <articles number="第一条">
+        <article_item number="第一条">
+          入国審査官及び入国警備官がその職務を執行する場合に携帯する証票は、表紙、証明用紙及び記録用紙をもつて一組とする。
+        </article_item>
+      </articles>
+      <articles number="第二条">
+        <article_item number="第二条">
+          表紙の様式は、別記第一号様式とする。
+        </article_item>
+        <article_item number="２">
+          表紙は、黒色皮製とし、中央上部に旭日の中にＩ及びＡを組合せたマークの紋章を、その下に入国管理手帳の文字を、その左側に法務省の文字をそれぞれ金色で表示し、背部に鉛筆差しを設け、その下端に黒色のひもをつけ、表紙の内側に名刺入れを設ける。
+        </article_item>
+      </articles>
+      <articles number="第三条">
+        <article_item number="第三条">
+          証明用紙の様式は、別記第二号様式とする。
+        </article_item>
+        <article_item number="２">
+          第一葉用紙表面に、制服（冬服又は夏服）を着装した脱帽上半身の写真をはりつけ、写真の下部にかけて所属の入国者収容所又は地方入国管理局（以下「所属庁」という。）の刻印を押すほか、証票番号、所属庁名、官名、氏名、生年月日及び貸与年月日を記入し、所属長の認印を押すものとする。
+        </article_item>
+        <article_item number="３">
+          第一葉用紙裏面に、英文で官名、氏名、生年月日、所属庁名及び血液型を記入し、左手示指の指紋を印象するものとする。
+        </article_item>
+        <article_item number="４">
+          第二葉用紙表面に、次の証明文を記入するとともに、所属長の印を押し、かつ、証明文の英訳を記入するものとする。
+          　　　「右の者は、出入国管理及び難民認定法その他の関係法令に基づく職務を執行する権限を有する者であることを証明する。」<br></br>
+        </article_item>
+        <article_item number="５">
+          第二葉用紙裏面及び第三葉用紙表面に異動欄を設け、発令年月日、所属入国者収容所又は地方支分部局名及び職名・階級を記入し、所属長の認印を押すものとする。
+        </article_item>
+      </articles>
+      <articles number="第四条">
+        <article_item number="第四条">
+          記録用紙の様式は、別記第三号様式とし、枚数は五十枚とする。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>水源地域対策特別措置法第二条第二項のダム、同条第三項の湖沼水位調節施設及び同法第九条第一項の指定ダムを指定する政令</title>
+    <defined>昭和四十九年七月二十日政令第二百七十三号</defined>
+    <updated>平成二一年一月二三日政令第六号</updated>
+  </head>
+  <body>
+    <preamble><p>内閣は、水源地域対策特別措置法（昭和四十八年法律第百十八号）第二条第二項及び第三項並びに第九条第一項の規定に基づき、この政令を制定する。</p></preamble>
+    <content>
+      <articles number="第一条">
+        <article_item number="第一条">
+          水源地域対策特別措置法（以下「法」という。）第二条第二項の政令で指定するダムは、次に掲げるものとする。
+          <go>
+            <go_item number="一">
+              石狩川水系当別川当別ダム
+            </go_item>
+            <go_item number="二">
+              石狩川水系夕張川夕張シューパロダム
+            </go_item>
+            <go_item number="三">
+              石狩川水系空知川滝里ダム
+            </go_item>
+            <go_item number="四">
+              石狩川水系忠別川忠別ダム
+            </go_item>
+            <go_item number="五">
+              石狩川水系愛別川愛別ダム
+            </go_item>
+            <go_item number="六">
+              後志利別川水系後志利別川美利河ダム
+            </go_item>
+            <go_item number="七">
+              沙流川水系沙流川二風谷ダム
+            </go_item>
+            <go_item number="八">
+              沙流川水系額平川平取ダム
+            </go_item>
+            <go_item number="九">
+              岩木川水系岩木川津軽ダム
+            </go_item>
+            <go_item number="十">
+              岩木川水系浅瀬石川浅瀬石川ダム
+            </go_item>
+            <go_item number="十一">
+              馬淵川水系平糠川大志田ダム
+            </go_item>
+            <go_item number="十二">
+              新井田川水系新井田川世増ダム
+            </go_item>
+            <go_item number="十三">
+              北上川水系迫川長沼ダム
+            </go_item>
+            <go_item number="十四">
+              北上川水系胆沢川胆沢ダム
+            </go_item>
+            <go_item number="十五">
+              北上川水系簗川簗川ダム
+            </go_item>
+            <go_item number="十六">
+              北上川水系雫石川御所ダム
+            </go_item>
+            <go_item number="十七">
+              鳴瀬川水系吉田川南川ダム
+            </go_item>
+            <go_item number="十八">
+              阿武隈川水系白石川七ケ宿ダム
+            </go_item>
+            <go_item number="十九">
+              阿武隈川水系摺上川摺上川ダム
+            </go_item>
+            <go_item number="二十">
+              阿武隈川水系大滝根川三春ダム
+            </go_item>
+            <go_item number="二十一">
+              米代川水系小又川森吉山ダム
+            </go_item>
+            <go_item number="二十二">
+              雄物川水系玉川玉川ダム
+            </go_item>
+            <go_item number="二十三">
+              雄物川水系松川大松川ダム
+            </go_item>
+            <go_item number="二十四">
+              雄物川水系成瀬川成瀬ダム
+            </go_item>
+            <go_item number="二十五">
+              最上川水系寒河江川寒河江ダム
+            </go_item>
+            <go_item number="二十六">
+              真野川水系真野川真野ダム
+            </go_item>
+            <go_item number="二十七">
+              利根川水系鬼怒川川治ダム
+            </go_item>
+            <go_item number="二十八">
+              利根川水系湯西川湯西川ダム
+            </go_item>
+            <go_item number="二十九">
+              利根川水系南摩川南摩ダム
+            </go_item>
+            <go_item number="三十">
+              利根川水系桐生川桐生川ダム
+            </go_item>
+            <go_item number="三十一">
+              利根川水系吾妻川八ッ場ダム
+            </go_item>
+            <go_item number="三十二">
+              小櫃川水系小櫃川亀山ダム
+            </go_item>
+            <go_item number="三十三">
+              養老川水系養老川高滝ダム
+            </go_item>
+            <go_item number="三十四">
+              荒川水系吉田川合角ダム
+            </go_item>
+            <go_item number="三十五">
+              荒川水系浦山川浦山ダム
+            </go_item>
+            <go_item number="三十六">
+              荒川水系中津川滝沢ダム
+            </go_item>
+            <go_item number="三十七">
+              相模川水系中津川宮ケ瀬ダム
+            </go_item>
+            <go_item number="三十八">
+              荒川水系横川横川ダム
+            </go_item>
+            <go_item number="三十九">
+              阿賀野川水系宮川新宮川ダム
+            </go_item>
+            <go_item number="四十">
+              阿賀野川水系阿賀野川大川ダム
+            </go_item>
+            <go_item number="四十一">
+              手取川水系手取川手取川ダム
+            </go_item>
+            <go_item number="四十二">
+              大聖寺川水系大聖寺川九谷ダム
+            </go_item>
+            <go_item number="四十三">
+              富士川水系荒川荒川ダム
+            </go_item>
+            <go_item number="四十四">
+              富士川水系塩川塩川ダム
+            </go_item>
+            <go_item number="四十五">
+              大井川水系大井川長島ダム
+            </go_item>
+            <go_item number="四十六">
+              紙田川水系磐馬川万場ダム
+            </go_item>
+            <go_item number="四十七">
+              豊川水系豊川設楽ダム
+            </go_item>
+            <go_item number="四十八">
+              木曾川水系木曾川新丸山ダム
+            </go_item>
+            <go_item number="四十九">
+              木曾川水系揖斐川徳山ダム
+            </go_item>
+            <go_item number="五十">
+              木曾川水系阿木川阿木川ダム
+            </go_item>
+            <go_item number="五十一">
+              櫛田川水系蓮川蓮ダム
+            </go_item>
+            <go_item number="五十二">
+              淀川水系一庫川一庫ダム
+            </go_item>
+            <go_item number="五十三">
+              淀川水系安威川安威川ダム
+            </go_item>
+            <go_item number="五十四">
+              淀川水系桂川日吉ダム
+            </go_item>
+            <go_item number="五十五">
+              淀川水系布目川布目ダム
+            </go_item>
+            <go_item number="五十六">
+              淀川水系前深瀬川川上ダム
+            </go_item>
+            <go_item number="五十七">
+              淀川水系大戸川大戸川ダム
+            </go_item>
+            <go_item number="五十八">
+              淀川水系高時川丹生ダム
+            </go_item>
+            <go_item number="五十九">
+              大和川水系石川滝畑ダム
+            </go_item>
+            <go_item number="六十">
+              武庫川水系武庫川武庫川ダム
+            </go_item>
+            <go_item number="六十一">
+              武庫川水系青野川青野ダム
+            </go_item>
+            <go_item number="六十二">
+              加古川水系権現川権現ダム
+            </go_item>
+            <go_item number="六十三">
+              加古川水系山田川呑吐ダム
+            </go_item>
+            <go_item number="六十四">
+              紀の川水系紀の川大滝ダム
+            </go_item>
+            <go_item number="六十五">
+              日高川水系日高川椿山ダム
+            </go_item>
+            <go_item number="六十六">
+              九頭竜川水系部子川足羽川ダム
+            </go_item>
+            <go_item number="六十七">
+              九頭竜川水系吉野瀬川吉野瀬川ダム
+            </go_item>
+            <go_item number="六十八">
+              千代川水系袋川殿ダム
+            </go_item>
+            <go_item number="六十九">
+              日野川水系法勝寺川賀祥ダム
+            </go_item>
+            <go_item number="七十">
+              斐伊川水系斐伊川尾原ダム
+            </go_item>
+            <go_item number="七十一">
+              斐伊川水系神戸川志津見ダム
+            </go_item>
+            <go_item number="七十二">
+              江の川水系上下川灰塚ダム
+            </go_item>
+            <go_item number="七十三">
+              吉井川水系吉井川苫田ダム
+            </go_item>
+            <go_item number="七十四">
+              芦田川水系芦田川八田原ダム
+            </go_item>
+            <go_item number="七十五">
+              沼田川水系沼田川福富ダム
+            </go_item>
+            <go_item number="七十六">
+              賀茂川水系賀茂川仁賀ダム
+            </go_item>
+            <go_item number="七十七">
+              小瀬川水系小瀬川弥栄ダム
+            </go_item>
+            <go_item number="七十八">
+              錦川水系錦川平瀬ダム
+            </go_item>
+            <go_item number="七十九">
+              錦川水系生見川生見川ダム
+            </go_item>
+            <go_item number="八十">
+              島田川水系中山川中山川ダム
+            </go_item>
+            <go_item number="八十一">
+              末武川水系末武川末武川ダム
+            </go_item>
+            <go_item number="八十二">
+              木屋川水系木屋川新湯の原ダム
+            </go_item>
+            <go_item number="八十三">
+              吉野川水系銅山川富郷ダム
+            </go_item>
+            <go_item number="八十四">
+              香東川水系椛川椛川ダム
+            </go_item>
+            <go_item number="八十五">
+              肱川水系肱川野村ダム
+            </go_item>
+            <go_item number="八十六">
+              肱川水系河辺川山鳥坂ダム
+            </go_item>
+            <go_item number="八十七">
+              那珂川水系那珂川五ヶ山ダム
+            </go_item>
+            <go_item number="八十八">
+              祓川水系祓川伊良原ダム
+            </go_item>
+            <go_item number="八十九">
+              山国川水系山移川耶馬渓ダム
+            </go_item>
+            <go_item number="九十">
+              筑後川水系小石原川小石原川ダム
+            </go_item>
+            <go_item number="九十一">
+              筑後川水系赤石川大山ダム
+            </go_item>
+            <go_item number="九十二">
+              嘉瀬川水系嘉瀬川嘉瀬川ダム
+            </go_item>
+            <go_item number="九十三">
+              川棚川水系石木川石木ダム
+            </go_item>
+            <go_item number="九十四">
+              菊池川水系迫間川竜門ダム
+            </go_item>
+            <go_item number="九十五">
+              球磨川水系川辺川川辺川ダム
+            </go_item>
+            <go_item number="九十六">
+              大分川水系七瀬川大分川ダム
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第二条">
+        <article_item number="第二条">
+          法第二条第三項の政令で指定する湖沼水位調節施設は、水資源開発基本計画に基づく霞ケ浦開発事業により建設される湖沼水位調節施設とする。
+        </article_item>
+      </articles>
+      <articles number="第三条">
+        <article_item number="第三条">
+          法第九条第一項の政令で指定する指定ダムは、次に掲げるものとする。
+          <go>
+            <go_item number="一">
+              石狩川水系当別川当別ダム
+            </go_item>
+            <go_item number="二">
+              石狩川水系夕張川夕張シューパロダム
+            </go_item>
+            <go_item number="三">
+              石狩川水系空知川滝里ダム
+            </go_item>
+            <go_item number="四">
+              岩木川水系岩木川津軽ダム
+            </go_item>
+            <go_item number="五">
+              岩木川水系浅瀬石川浅瀬石川ダム
+            </go_item>
+            <go_item number="六">
+              北上川水系迫川長沼ダム
+            </go_item>
+            <go_item number="七">
+              北上川水系雫石川御所ダム
+            </go_item>
+            <go_item number="八">
+              阿武隈川水系白石川七ケ宿ダム
+            </go_item>
+            <go_item number="九">
+              阿武隈川水系摺上川摺上川ダム
+            </go_item>
+            <go_item number="十">
+              阿武隈川水系大滝根川三春ダム
+            </go_item>
+            <go_item number="十一">
+              米代川水系小又川森吉山ダム
+            </go_item>
+            <go_item number="十二">
+              利根川水系鬼怒川川治ダム
+            </go_item>
+            <go_item number="十三">
+              利根川水系湯西川湯西川ダム
+            </go_item>
+            <go_item number="十四">
+              利根川水系南摩川南摩ダム
+            </go_item>
+            <go_item number="十五">
+              利根川水系吾妻川八ッ場ダム
+            </go_item>
+            <go_item number="十六">
+              相模川水系中津川宮ケ瀬ダム
+            </go_item>
+            <go_item number="十七">
+              手取川水系手取川手取川ダム
+            </go_item>
+            <go_item number="十八">
+              木曾川水系揖斐川徳山ダム
+            </go_item>
+            <go_item number="十九">
+              淀川水系桂川日吉ダム
+            </go_item>
+            <go_item number="二十">
+              紀の川水系紀の川大滝ダム
+            </go_item>
+            <go_item number="二十一">
+              日高川水系日高川椿山ダム
+            </go_item>
+            <go_item number="二十二">
+              江の川水系上下川灰塚ダム
+            </go_item>
+            <go_item number="二十三">
+              吉井川水系吉井川苫田ダム
+            </go_item>
+            <go_item number="二十四">
+              嘉瀬川水系嘉瀬川嘉瀬川ダム
+            </go_item>
+            <go_item number="二十五">
+              菊池川水系迫間川竜門ダム
+            </go_item>
+            <go_item number="二十六">
+              球磨川水系川辺川川辺川ダム
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>教育映像等審査規程</title>
+    <defined>昭和二十九年八月二十七日文部省令第二十二号</defined>
+    <updated>平成一九年五月九日文部科学省令第一九号</updated>
+  </head>
+  <body>
+    <preamble><p>教育映画等審査規程（昭和二十二年文部省令第二号）の全部を改正する省令を次のように定める。</p></preamble>
+    <content>
+      <articles number="第一条">
+        <article_item number="第一条">
+          文部科学大臣は、映画その他の映像作品及び紙芝居（以下「映像作品等」という。）について、教育上価値が高く、学校教育又は社会教育に広く利用されることが適当と認められるものを選定し、あわせて教育に利用される映像作品等の質的向上に寄与するために、この規程に基づいて審査を行う。
+        </article_item>
+      </articles>
+      <articles number="第二条">
+        <article_item number="第二条">
+          映像作品等の審査を受けようとする者（以下「申請者」という。）は、次の各号に掲げる事項を記載した申請書に審査を受けようとする映像作品等を記録した記録媒体を添えて、文部科学大臣に提出するものとする。
+          <go>
+            <go_item number="一">
+              記録媒体の種別及び規格
+            </go_item>
+            <go_item number="二">
+              題名（外国の映像作品等の場合は、原名を併記する。）
+            </go_item>
+            <go_item number="三">
+              申請者の住所及び氏名又は名称（外国の映像作品等の場合は、国内における取扱者の住所及び氏名又は名称）
+            </go_item>
+            <go_item number="四">
+              製作年月日
+            </go_item>
+            <go_item number="五">
+              映像作品等の概要
+            </go_item>
+          </go>
+        </article_item>
+        <article_item number="２">
+          審査を受けようとする映像作品等が映画である場合には、申請者は、その映画が七十ミリメートル映画フィルムのものにあつてはその映写に要する施設を確保するとともにその経費を負担するものとし、三十五ミリメートル映画フィルムのものにあつてはフィルム百メートルごとに二百十円の映写手数料を納付するものとする。
+        </article_item>
+        <article_item number="３">
+          前項の規定により納付した映写手数料は、いかなる場合においても返還しない。
+        </article_item>
+      </articles>
+      <articles number="第三条">
+        <article_item number="第三条">
+          文部科学大臣は、前条の申請を受けたときは、学識経験者の意見を聴いて、審査を行うものとする。
+        </article_item>
+      </articles>
+      <articles number="第四条">
+        <article_item number="第四条">
+          審査は、申請された映像作品等のもつ教育上の価値を主とし、次に掲げる基準に従つて行う。
+          <go>
+            <go_item number="一">
+              内容について
+              <go>
+                <go_item number="イ">
+                  正確なものであるか。
+                </go_item>
+                <go_item number="ロ">
+                  信頼できるものであるか。
+                </go_item>
+                <go_item number="ハ">
+                  時代の進歩に応じているものであるか。
+                </go_item>
+                <go_item number="ニ">
+                  心身の発達段階に応じて理解しうるものであるか。
+                </go_item>
+                <go_item number="ホ">
+                  生活、経験及び興味に即しているものであるか。
+                </go_item>
+                <go_item number="ヘ">
+                  経験領域を拡充し、豊かにするものであるか。
+                </go_item>
+                <go_item number="ト">
+                  思考力及び批判力をかん養するものであるか。
+                </go_item>
+                <go_item number="チ">
+                  教養を高め、生活の向上に資するものであるか。
+                </go_item>
+                <go_item number="リ">
+                  豊かな情操を養うものであるか。
+                </go_item>
+                <go_item number="ヌ">
+                  倫理性を高めるものであるか。
+                </go_item>
+                <go_item number="ル">
+                  学校教育用教材については、幼稚園教育要領又は学習指導要領に示されている教育課程に対する配慮がなされているか。
+                </go_item>
+              </go>
+            </go_item>
+            <go_item number="二">
+              表現について
+              <go>
+                <go_item number="イ">
+                  意図しているものが表現されているか。
+                </go_item>
+                <go_item number="ロ">
+                  画面が鮮明であるか。
+                </go_item>
+                <go_item number="ハ">
+                  色彩が適切であるか。
+                </go_item>
+                <go_item number="ニ">
+                  用語が平易かつ妥当であるか。
+                </go_item>
+                <go_item number="ホ">
+                  解説に頼りすぎていないか。
+                </go_item>
+                <go_item number="ヘ">
+                  解説と画面との結合が適切であるか。
+                </go_item>
+                <go_item number="ト">
+                  録音が適切であるか。
+                </go_item>
+                <go_item number="チ">
+                  紙芝居にあつては、紙質及び印刷が適切であるか。
+                </go_item>
+              </go>
+            </go_item>
+            <go_item number="三">
+              その他<br></br>
+              　　操作が容易であるか。
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第五条">
+        <article_item number="第五条">
+          映像作品等の審査にあたつては、前条に規定するもののほか、次の各号に掲げる事項についても留意するものとする。
+          <go>
+            <go_item number="一">
+              風教上好ましくないものではないか。
+            </go_item>
+            <go_item number="二">
+              商業的又は政治的な宣伝意図の顕著なものではないか。
+            </go_item>
+            <go_item number="三">
+              安易な模倣を誘発し、社会的悪影響を及ぼす虞れのあるものではないか。
+            </go_item>
+            <go_item number="四">
+              その他中正を欠く意図が感じられるものではないか。
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第六条">
+        <article_item number="第六条">
+          審査の結果、第四条の基準に照して教育上価値が高く、かつ、前条各号について支障がないと認められたものは文部科学省選定とし、そのうち特にすぐれたものは文部科学省特別選定とする。
+        </article_item>
+        <article_item number="２">
+          前項の文部科学省選定又は文部科学省特別選定は、その作品の内容に応じ、次に掲げる対象別の分類に従つて行う。
+          <go>
+            <go_item number="一">
+              学校教育の教材とするものについては、幼稚園幼児向き、小学校低学年児童向き、小学校中学年児童向き、小学校高学年児童向き、中学校生徒向き又は高等学校生徒向きの別
+            </go_item>
+            <go_item number="二">
+              社会教育の教材とするものについては、幼児向き、少年向き、青年向き又は成人向きの別
+            </go_item>
+            <go_item number="三">
+              一般劇映画及び一般非劇映画については、幼児向き、少年向き、青年向き、成人向き又は家庭向きの別
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第七条">
+        <article_item number="第七条">
+          映像作品等の審査を行つた場合には、その結果を申請者に通知するものとする。
+        </article_item>
+      </articles>
+      <articles number="第八条">
+        <article_item number="第八条">
+          文部科学省選定又は文部科学省特別選定となつた映像作品等（以下「選定教育映像等」という。）については、内容及び利用上の注意等を付記して公表する。
+        </article_item>
+        <article_item number="２">
+          前項の場合には、必要に応じ、その教科、学年及び学習指導要領に示されている内容項目等についてもあわせて示すものとする。
+        </article_item>
+      </articles>
+      <articles number="第九条">
+        <article_item number="第九条">
+          選定教育映像等とされなかつた映像作品等については、審査の結果を公表しないものとする。
+        </article_item>
+      </articles>
+      <articles number="第十条">
+        <article_item number="第十条">
+          申請者は、選定教育映像等とされた映像作品等にその旨表示する場合には、文部科学省選定又は文部科学省特別選定の別、第六条第二項に規定する対象別、選定の年月日及び審査に係る記録媒体の種別（当該種別以外の種別の記録媒体により頒布する場合に限る。）を明示するものとする。
+        </article_item>
+        <article_item number="２">
+          前項に規定する場合において、申請者が選定教育映像等とされた映像作品等を当該映像作品等以外の情報を記録した記録媒体により頒布しようとするときは、文部科学大臣にその内容を申告し、第五条各号に掲げる事項について確認を受けるものとする。
+        </article_item>
+      </articles>
+      <articles number="第十一条">
+        <article_item number="第十一条">
+          選定教育映像等とされた映像作品等の内容が変更された場合には、当該決定の効力は失われるものとする。
+        </article_item>
+      </articles>
+      <articles number="第十二条">
+        <article_item number="第十二条">
+          文部科学大臣は、選定教育映像等が次の各号のいずれかに該当するときは、その選定を取り消すことができる。
+          <go>
+            <go_item number="一">
+              第四条の基準に照らして教育上価値が高いと認められなくなつたとき。
+            </go_item>
+            <go_item number="二">
+              第五条各号のいずれかについて支障があると認められるとき。
+            </go_item>
+            <go_item number="三">
+              その他文部科学大臣が特に必要があると認めるとき。
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

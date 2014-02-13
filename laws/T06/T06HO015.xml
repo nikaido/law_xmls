@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>農業倉庫業法</title>
+    <defined>大正六年七月二十一日法律第十五号</defined>
+    <updated>平成二三年六月二四日法律第七四号</updated>
+  </head>
+  <body>
+    <content>
+      <articles number="第一条">
+        <article_item number="第一条">
+          本法ニ於テ農業倉庫業者トハ左ノ各号ノ一ニ該当スル者ヲ謂フ
+          <go>
+            <go_item number="一">
+              農業ヲ営ム者カ其ノ生産シタル穀物、繭其ノ他勅令ヲ以テ指定スル物品ヲ所有スル場合、土地ニ付権利ヲ有スル者ガ小作料トシテ受ケタル穀物其ノ他勅令ヲ以テ指定スル物品ヲ所有スル場合又ハ木炭ノ生産ヲ為ス者ガ其ノ生産シタル木炭ヲ所有スル場合ニ於テ其ノ者ノ為ニ本法ニ依リ之ヲ倉庫ニ保管スル者
+            </go_item>
+            <go_item number="二">
+              農業協同組合、農業協同組合連合会、販売組合又ハ販売組合連合会カ売却スル繭ヲ其ノ者ノ為ニ本法ニ依リ倉庫ニ保管スル者
+            </go_item>
+          </go>
+        </article_item>
+        <article_item number="○２">
+          前項ニ規定スル寄託物ニ付所有権ノ移転アリタルトキト雖農業倉庫業者ハ其ノ寄託物ノ保管期間内ニ限リ之ヲ保管スルコトヲ得
+        </article_item>
+        <article_item number="○３">
+          農業倉庫業者ハ前二項ノ規定ニ依ル保管ニ支障ナキ場合ニ限リ業務規程ノ定ムル所ニ依リ前二項ノ規定ニ依ラス物品ノ保管ヲ為スコトヲ得
+        </article_item>
+      </articles>
+      <articles number="第二条">
+        <article_item number="第二条">
+          農業倉庫業者ハ業務規程ノ定ムル所ニ依リ前条ノ事業ノ外左ノ事業ヲ為スコトヲ得
+          <go>
+            <go_item number="一">
+              受寄物ノ調製、改装又ハ荷造ヲ為スコト
+            </go_item>
+            <go_item number="二">
+              受寄物ノ運送又ハ販売ノ仲立ヲ為スコト
+            </go_item>
+            <go_item number="三">
+              受寄物ノ運送又ハ販売ノ取次ヲ為スコト
+            </go_item>
+            <go_item number="四">
+              自己ノ作成シタル農業倉庫証券ヲ担保トシテ貸付ヲ為スコト
+            </go_item>
+            <go_item number="五">
+              受寄物ヲ連合農業倉庫業者ニ寄託シタル場合ニ於テ其ノ物品ノ連合農業倉庫証券ヲ担保トシテ貸付ヲ為スコト
+            </go_item>
+            <go_item number="六">
+              他ノ農業倉庫業者カ担保トシテ受取リタル農業倉庫証券ヲ担保トシテ貸付ヲ為スコト
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第三条">
+        <article_item number="第三条">
+          農業倉庫業者ハ営利ヲ目的トシテ其ノ事業ヲ為スコトヲ得ス
+        </article_item>
+      </articles>
+      <articles number="第四条">
+        <article_item number="第四条">
+          農業協同組合、産業組合、農業ノ発達ヲ目的トスル一般社団法人及一般財団法人並市町村及之ニ準スヘキモノニ非サレハ第一条第一項第一号ノ農業倉庫業者タルコトヲ得ス
+        </article_item>
+        <article_item number="○２">
+          農林水産省令ヲ以テ指定スル農業協同組合連合会又ハ産業組合連合会ニ非サレハ第一条第一項第二号ノ農業倉庫業者タルコトヲ得ス
+        </article_item>
+      </articles>
+      <articles number="第五条">
+        <article_item number="第五条">
+          農業倉庫業者タル農業協同組合若ハ農業協同組合連合会又ハ産業組合若ハ産業組合連合会ハ農業協同組合法又ハ産業組合法ニ規定スルモノノ外第一条及第二条ニ規定スル事業ヲ目的ト為スコトヲ得
+        </article_item>
+        <article_item number="○２">
+          前項ノ農業協同組合若ハ農業協同組合連合会又ハ産業組合若ハ産業組合連合会ハ会員又ハ組合員、所属組合若ハ所属連合会ノ為ニ前項ノ事業ヲ為スノ外附随トシテ会員又ハ組合員、所属組合若ハ所属連合会ニ非サル者ノ為ニ之ヲ為スコトヲ得但シ第二条第四号乃至第六号ノ事業ニ付テハ此ノ限ニ在ラス
+        </article_item>
+        <article_item number="○３">
+          農業倉庫業者タル一般社団法人又ハ一般財団法人ハ第二条第四号乃至第六号ノ事業ヲ為スコトヲ得ス
+        </article_item>
+      </articles>
+      <articles number="第六条">
+        <article_item number="第六条">
+          農業倉庫業者タラムトスル者ハ業務規程ヲ具シ行政官庁ノ認可ヲ受クヘシ
+        </article_item>
+      </articles>
+      <articles number="第七条">
+        <article_item number="第七条">
+          農業倉庫業者ハ業務規程ノ定ムル所ニ依リ種類及品位ノ同一ナル寄託物ヲ混合シテ保管スルコトヲ得
+        </article_item>
+      </articles>
+      <articles number="第七条ノ二">
+        <article_item number="第七条ノ二">
+          農業倉庫業者ハ寄託者ノ請求ニ因リ寄託物ノ倉荷証券ヲ交付スルコトヲ要ス
+        </article_item>
+        <article_item number="○２">
+          商法第六百二十七条第二項及第六百二十八条ノ規定ハ前項ノ倉荷証券ニ之ヲ準用ス
+        </article_item>
+      </articles>
+      <articles number="第八条">
+        <article_item number="第八条">
+          農業倉庫業者ノ作成スル倉荷証券ニハ農業倉庫証券ナル文字ヲ記載スルコトヲ要ス
+        </article_item>
+        <article_item number="○２">
+          農業倉庫業者ニ非サル者ノ作成スル預証券及質入証券又ハ倉荷証券ニハ農業倉庫証券ナル文字ヲ記載スルコトヲ得ス
+        </article_item>
+      </articles>
+      <articles number="第九条">
+        <article_item number="第九条">
+          混合保管ノ場合ニ於テハ農業倉庫業者ハ農業倉庫証券ニ其ノ旨ヲ記載スルコトヲ要ス
+        </article_item>
+      </articles>
+      <articles number="第十条">
+        <article_item number="第十条">
+          寄託物ノ保管期間ハ寄託ノ日ヨリ六月以内トス
+        </article_item>
+        <article_item number="○２">
+          第一条第一項ニ規定スル寄託物ニ付テハ保管期間ヲ更新スルコトヲ得但シ寄託者ハ更新ノ際同条第一項ニ掲クル者タルコトヲ要シ其ノ期間ハ六月ヲ超ユルコトヲ得ス
+        </article_item>
+        <article_item number="○３">
+          第一条第三項ニ規定スル寄託物ニ付テハ同条第一項及第二項ノ規定ニ依ル保管ニ支障ナキ場合ニ限リ保管期間ヲ更新スルコトヲ得其ノ期間ハ前項但書ニ同シ
+        </article_item>
+      </articles>
+      <articles number="第十一条">
+        <article_item number="第十一条">
+          商法第二編第五章乃至第七章、第六百十六条乃至第六百十九条及第六百二十四条乃至第六百二十六条ノ規定ハ本法ニ別段ノ定アル場合ヲ除クノ外農業倉庫業者ニ之ヲ準用ス
+        </article_item>
+      </articles>
+      <articles number="第十二条">
+        <article_item number="第十二条">
+          商法第六百十七条ノ規定ハ受寄物ノ調製、改装又ハ荷造ニ関シ農業倉庫業者ニ之ヲ準用ス
+        </article_item>
+      </articles>
+      <articles number="第十三条">
+        <article_item number="第十三条">
+          農業倉庫業者業務規程ヲ変更セムトスルトキハ行政官庁ノ認可ヲ受クヘシ
+        </article_item>
+      </articles>
+      <articles number="第十四条">
+        <article_item number="第十四条">
+          削除
+        </article_item>
+      </articles>
+      <articles number="第十五条">
+        <article_item number="第十五条">
+          行政官庁公益上必要ト認ムルトキハ農業倉庫業者ニ対シ其ノ指定スル穀物又ハ繭ノ寄託ヲ受ケ、受寄物ノ検査其ノ他ノ行為ヲ為スヘキコトヲ命スルコトヲ得
+        </article_item>
+      </articles>
+      <articles number="第十六条">
+        <article_item number="第十六条">
+          行政官庁ハ農業倉庫業者ニ対シ事業ニ関スル報告ヲ為サシメ書類、帳簿又ハ業務執行若ハ財産ノ状況ヲ検査シ其ノ他監督上必要ナル命令又ハ処分ヲ為スコトヲ得
+        </article_item>
+      </articles>
+      <articles number="第十七条">
+        <article_item number="第十七条">
+          行政官庁農業倉庫業者ノ業務執行若ハ財産ノ状況ニ依リ事業ノ継続ヲ困難ナリト認ムルトキ、農業倉庫業者ノ行為カ法令若ハ業務規程ニ違反シタルトキ又ハ其ノ行為カ公益ヲ害シ若ハ害スルノ虞アリト認ムルトキハ事業ノ停止ヲ命シ又ハ認可ヲ取消スコトヲ得
+        </article_item>
+      </articles>
+      <articles number="第十八条">
+        <article_item number="第十八条">
+          農業倉庫業者タル法人ノ理事又ハ之ニ準スヘキ者本法又ハ本法ニ基キテ為ス命令又ハ処分ニ違反シタルトキハ十円以上千円以下ノ過料ニ処ス
+        </article_item>
+      </articles>
+      <articles number="第十九条">
+        <article_item number="第十九条">
+          本法ニ於テ連合農業倉庫業者トハ農業倉庫業者カ第一条第一項及第二項ノ規定ニ依リ寄託ヲ受ケタル物品ヲ本法ニ依リ倉庫ニ保管スル者ヲ謂フ
+        </article_item>
+        <article_item number="○２">
+          連合農業倉庫業者ハ他ノ連合農業倉庫業者カ前項ノ規定ニ依リ寄託ヲ受ケタル物品又ハ農業協同組合、農業協同組合連合会、販売組合若ハ販売組合連合会カ売却スル穀物、繭、木炭其ノ他勅令ヲ以テ指定スル物品ヲ保管スルコトヲ得
+        </article_item>
+        <article_item number="○３">
+          連合農業倉庫業者ハ前二項ノ規定ニ依ル保管ニ支障ナキ場合ニ限リ業務規程ノ定ムル所ニ依リ農業倉庫業者カ第一条第三項ノ規定ニ依リ寄託ヲ受ケタル物品、農業協同組合、農業協同組合連合会、販売組合若ハ販売組合連合会ガ売却スル物品又ハ農林水産省令ヲ以テ指定スル営利ヲ目的トセザル法人ガ売却若ハ売却ノ斡旋ヲ為ス物品ヲ保管スルコトヲ得他ノ連合農業倉庫業者カ本項ノ規定ニ依リ寄託ヲ受ケタル物品ニ付亦同シ
+        </article_item>
+        <article_item number="○４">
+          前項ノ規定ニ依リ農林水産省令ヲ以テ指定スル営利ヲ目的トセザル法人ノ為ニ物品ノ保管ヲ為スコトヲ得ル連合農業倉庫業者ハ農林水産省令ヲ以テ之ヲ指定ス
+        </article_item>
+      </articles>
+      <articles number="第二十条">
+        <article_item number="第二十条">
+          農業協同組合連合会又ハ産業組合連合会ニ非サレハ連合農業倉庫業者タルコトヲ得ス
+        </article_item>
+      </articles>
+      <articles number="第二十一条">
+        <article_item number="第二十一条">
+          連合農業倉庫業者タル農業協同組合連合会又ハ産業組合連合会ハ農業協同組合法又ハ産業組合法ニ規定スルモノノ外第二条（第二十六条第一項ノ規定ニ依リ準用）及第十九条ニ規定スル事業ヲ目的ト為スコトヲ得
+        </article_item>
+        <article_item number="○２">
+          前項ノ農業協同組合連合会又ハ産業組合連合会ハ所属会員又ハ所属組合若ハ所属連合会ノ為ニ前項ノ事業ヲ為スノ外附随トシテ所属会員ニ非ザル農業協同組合、農業協同組合連合会、所属組合若ハ所属連合会ニ非ザル組合若ハ連合会又ハ農林水産省令ヲ以テ指定スル営利ヲ目的トセザル法人ノ為ニ之ヲ為スコトヲ得但シ第二条第四号乃至第六号（第二十六条第一項ノ規定ニ依リ準用）ノ事業ニ付テハ此ノ限ニ在ラズ
+        </article_item>
+      </articles>
+      <articles number="第二十二条">
+        <article_item number="第二十二条">
+          農業倉庫業者カ寄託者又ハ農業倉庫証券ノ所持人及受寄物ノ質権者アル場合ニ於テハ其ノ質権者ノ承諾ヲ得テ其ノ受寄物ヲ連合農業倉庫業者ニ寄託シタル場合ニ於テハ其ノ寄託ニ因リ生シタル農業倉庫業者ノ権利義務ハ当初ノ寄託者又ハ農業倉庫証券ノ所持人ニ移転シ当初ノ寄託ハ将来ニ向テ其ノ効力ヲ失フ
+        </article_item>
+      </articles>
+      <articles number="第二十三条">
+        <article_item number="第二十三条">
+          農業倉庫業者カ其ノ受寄物ヲ連合農業倉庫業者ニ寄託セムトスル場合ニ於テ其ノ受寄物ノ農業倉庫証券アルトキハ将来ニ向テ其ノ証券ノ裏書ヲ禁止スルコトヲ得
+        </article_item>
+        <article_item number="○２">
+          農業倉庫業者ハ前項ノ証券ノ裏書ヲ禁止スルニ非サレハ受寄物ヲ連合農業倉庫業者ニ寄託スルコトヲ得ス
+        </article_item>
+      </articles>
+      <articles number="第二十四条">
+        <article_item number="第二十四条">
+          連合農業倉庫業者ハ其ノ受寄物ノ農業倉庫証券ナキ旨ノ農業倉庫業者ノ証明書又ハ前条第二項ノ規定ニ依リ裏書ヲ禁止セラレタル証券ト引換ニ非サレハ其ノ受寄物ノ連合農業倉庫証券ヲ交付スルコトヲ得ス
+        </article_item>
+      </articles>
+      <articles number="第二十五条">
+        <article_item number="第二十五条">
+          前三条ノ規定ハ連合農業倉庫業者カ其ノ受寄物ヲ他ノ連合農業倉庫業者ニ寄託スル場合ニ之ヲ準用ス
+        </article_item>
+      </articles>
+      <articles number="第二十六条">
+        <article_item number="第二十六条">
+          第二条、第三条、第六条乃至第九条、第十条第一項及第十一条乃至第十八条ノ規定ハ連合農業倉庫業者ニ之ヲ準用ス但シ第二条第六号中農業倉庫業者トアルハ農業倉庫業者又ハ連合農業倉庫業者、農業倉庫証券トアルハ農業倉庫証券又ハ連合農業倉庫証券トシ第八条中農業倉庫証券トアルハ連合農業倉庫証券トス
+        </article_item>
+        <article_item number="○２">
+          第一条第二項ノ規定ハ第十九条第一項及第二項ニ規定スル寄託物ニ之ヲ準用ス
+        </article_item>
+        <article_item number="○３">
+          第十条第二項ノ規定ハ第十九条第一項又ハ第二項ニ規定スル寄託物ニ、同条第三項ノ規定ハ第十九条第三項ニ規定スル寄託物ニ之ヲ準用ス但シ連合農業倉庫業者カ第十九条第一項及第二項ノ規定ニ依リ寄託ヲ受ケタル第一条第二項ノ物品ニ付テハ此ノ限ニ在ラス
+        </article_item>
+      </articles>
+      <articles number="第二十七条">
+        <article_item number="第二十七条">
+          本法中行政官庁トアルハ都道府県ノ区域ヲ超ユル区域ヲ地区トスル農業協同組合若ハ農業協同組合連合会又ハ都道府県ノ区域ヲ地区トスル農業協同組合連合会ガ農業倉庫業者又ハ連合農業倉庫業者タル場合ニ在リテハ農林水産大臣トシ其ノ他ノ場合ニ在リテハ都道府県知事トス
+        </article_item>
+        <article_item number="○２">
+          農林水産大臣ノ権限ニ属スル事務ノ一部ハ政令ノ定ムル所ニ依リ都道府県知事ガ行フコトトスルコトヲ得
+        </article_item>
+        <article_item number="○３">
+          本法ニ依ル農林水産大臣ノ権限ノ一部ハ農林水産省令ノ定ムル所ニ依リ地方農政局長ニ委任スルコトヲ得
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

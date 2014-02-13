@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>日本国に駐留するアメリカ合衆国軍隊等の行為による特別損失の補償に関する法律施行令</title>
+    <defined>昭和二十八年十一月二十五日政令第三百五十五号</defined>
+    <updated>平成一九年八月二〇日政令第二七〇号</updated>
+  </head>
+  <body>
+    <preamble><p>内閣は、日本国に駐留するアメリカ合衆国軍隊の行為による特別損失の補償に関する法律（昭和二十八年法律第二百四十六号）第一条の規定に基き、この政令を制定する。</p></preamble>
+    <content>
+      <articles number="第一条">
+        <article_item number="第一条">
+          日本国に駐留するアメリカ合衆国軍隊等の行為による特別損失の補償に関する法律（以下「法」という。）第一条第一項の政令で定める事業は、次に掲げるものとする。
+          <go>
+            <go_item number="一">
+              学校教育法（昭和二十二年法律第二十六号）による学校教育の事業
+            </go_item>
+            <go_item number="二">
+              海上運送法（昭和二十四年法律第百八十七号）第二条第二項に規定する船舶運航事業又は内航海運業法（昭和二十七年法律第百五十一号）第二条第二項に規定する内航運送をする事業であつて、総トン数四十トン未満の船舶により行うもの
+            </go_item>
+            <go_item number="三">
+              医療法（昭和二十三年法律第二百五号）による病院又は診療所において行う医療保健業であつて、防衛大臣が定めるもの
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第二条">
+        <article_item number="第二条">
+          法第一条第一項第一号の政令で定める施設は、左に掲げるものとする。
+          <go>
+            <go_item number="一">
+              魚つき林
+            </go_item>
+            <go_item number="二">
+              魚礁
+            </go_item>
+            <go_item number="三">
+              増殖施設
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第三条">
+        <article_item number="第三条">
+          法第一条第一項第一号の政令で定める行為は、艦船、舟艇又は航空機のひん繁な使用であつて、漁業の実施を著しく困難ならしめるものとする。但し、水上航空機以外の航空機の使用にあつては、当該漁業が飛行場の進入表面若しくは転移表面の投影面と一致する区域内又は航空機による射撃若しくは爆撃の用に供する演習場の周辺で防衛大臣が定める区域内において行われる場合に限る。
+        </article_item>
+      </articles>
+      <articles number="第四条">
+        <article_item number="第四条">
+          法第一条第一項第二号の政令で定める施設は、左に掲げるものとする。
+          <go>
+            <go_item number="一">
+              農業用道路
+            </go_item>
+            <go_item number="二">
+              林道
+            </go_item>
+            <go_item number="三">
+              用水施設
+            </go_item>
+            <go_item number="四">
+              排水施設
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第五条">
+        <article_item number="第五条">
+          法第一条第一項第二号の政令で定める行為は、左に掲げる行為であつて、農業又は林業の実施を著しく困難ならしめるものとする。
+          <go>
+            <go_item number="一">
+              射撃、砲撃、爆撃その他火薬類を使用する行為のひん繁な実施。
+            </go_item>
+            <go_item number="二">
+              航空機の離陸、着陸等の実施。但し、当該農業が飛行場の進入表面若しくは転移表面の投影面と一致する区域内又は航空機による射撃若しくは爆撃の用に供する演習場の周辺で防衛大臣が定める区域内において行われる場合に限る。
+            </go_item>
+            <go_item number="三">
+              用水施設又は排水施設の設置、維持又は使用
+            </go_item>
+            <go_item number="四">
+              水源又は水路の損壊、変更等により農地の浸水又は渇水を生ぜしめる行為
+            </go_item>
+            <go_item number="五">
+              かんがい用水の汚毒
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第六条">
+        <article_item number="第六条">
+          法第一条第一項第三号の政令で定める行為は、学校教育施設又は病院若しくは診療所の近傍において行われる航空機又は機甲車両その他重車両のひん繁な使用及び射撃、砲撃、爆撃その他火薬類を使用する行為のひん繁な実施であつて、これらの行為により生ずる音響の強度及びひん度が学校教育施設並びに病院及び診療所についてそれぞれ防衛大臣の定める限度をこえるものとする。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

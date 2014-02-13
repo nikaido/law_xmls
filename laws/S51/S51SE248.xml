@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>船舶の所有者等の責任の制限に関する法律施行令</title>
+    <defined>昭和五十一年九月二十五日政令第二百四十八号</defined>
+    <updated>平成二〇年五月二一日政令第一八〇号</updated>
+  </head>
+  <body>
+    <preamble><p>内閣は、船舶の所有者等の責任の制限に関する法律（昭和五十年法律第九十四号）第二条第七号及び第二十条第四項の規定に基づき、この政令を制定する。</p></preamble>
+    <content>
+      <articles>
+        <article_item>
+          船舶の所有者等の責任の制限に関する法律第二十条第四項の政令で定める者は、次に掲げる者とする。
+          <go>
+            <go_item number="一">
+              銀行
+            </go_item>
+            <go_item number="二">
+              株式会社商工組合中央金庫
+            </go_item>
+            <go_item number="三">
+              信用金庫
+            </go_item>
+            <go_item number="四">
+              農林中央金庫
+            </go_item>
+            <go_item number="五">
+              水産業協同組合法（昭和二十三年法律第二百四十二号）第八十七条第一項第三号及び第四号の事業を行う漁業協同組合連合会
+            </go_item>
+            <go_item number="六">
+              保険会社
+            </go_item>
+            <go_item number="七">
+              保険業法（平成七年法律第百五号）第二条第七項に規定する外国保険会社等
+            </go_item>
+            <go_item number="八">
+              船主相互保険組合
+            </go_item>
+            <go_item number="九">
+              漁船保険組合
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>交通安全対策基本法施行令</title>
+    <defined>昭和四十五年六月八日政令第百七十五号</defined>
+    <updated>平成一七年六月一日政令第二〇三号</updated>
+  </head>
+  <body>
+    <preamble><p>内閣は、交通安全対策基本法（昭和四十五年法律第百十号）第十五条第六項、第十七条第五項及び第十九条の規定に基づき、この政令を制定する。</p></preamble>
+    <content>
+      <articles number="第一条">
+        <article_item number="第一条">
+          中央交通安全対策会議の会長は、会務を総理する。
+        </article_item>
+        <article_item number="２">
+          会長に事故があるときは、会長があらかじめ指名する委員がその職務を代理する。
+        </article_item>
+      </articles>
+      <articles number="第二条">
+        <article_item number="第二条">
+          中央交通安全対策会議の専門委員は、関係行政機関の職員及び学識経験のある者のうちから、内閣総理大臣が任命する。
+        </article_item>
+        <article_item number="２">
+          専門委員は、当該専門の事項に関する調査が終了したときは、解任されるものとする。
+        </article_item>
+        <article_item number="３">
+          委員及び専門委員は、非常勤とする。
+        </article_item>
+      </articles>
+      <articles number="第三条">
+        <article_item number="第三条">
+          中央交通安全対策会議に幹事を置く。
+        </article_item>
+        <article_item number="２">
+          幹事は、指定行政機関の職員のうちから、内閣総理大臣が任命する。
+        </article_item>
+        <article_item number="３">
+          幹事は、中央交通安全対策会議の所掌事務について、会長及び委員を補佐する。
+        </article_item>
+        <article_item number="４">
+          幹事は、非常勤とする。
+        </article_item>
+      </articles>
+      <articles number="第四条">
+        <article_item number="第四条">
+          前三条に定めるもののほか、中央交通安全対策会議の議事その他会議の運営に関し必要な事項は、会長が中央交通安全対策会議にはかつて定める。
+        </article_item>
+      </articles>
+      <articles number="第五条">
+        <article_item number="第五条">
+          交通安全対策基本法（以下「法」という。）第十七条第五項の政令で定める基準は、次に掲げるとおりとする。
+          <go>
+            <go_item number="一">
+              会長は、会務を総理するものとする。
+            </go_item>
+            <go_item number="二">
+              会長に事故があるときは、会長があらかじめ指名する委員がその職務を代理するものとする。
+            </go_item>
+            <go_item number="三">
+              特別委員は、東日本高速道路株式会社その他の陸上交通に関する事業を営む公共的機関の役員又は職員のうちから、都道府県知事が任命するものとする。
+            </go_item>
+            <go_item number="四">
+              特別委員は、当該特別の事項に関する審議が終了したときは、解任されるものとする。
+            </go_item>
+            <go_item number="五">
+              都道府県交通安全対策会議に、幹事を置くものとする。
+            </go_item>
+            <go_item number="六">
+              幹事は、委員の属する機関の職員のうちから、都道府県知事が任命するものとする。
+            </go_item>
+            <go_item number="七">
+              幹事は、都道府県交通安全対策会議の所掌事務について、会長、委員及び特別委員を補佐するものとする。
+            </go_item>
+            <go_item number="八">
+              委員、特別委員及び幹事は、非常勤とするものとする。
+            </go_item>
+            <go_item number="九">
+              前各号に定めるもののほか、都道府県交通安全対策会議の議事その他会議の運営に関し必要な事項は、会長が都道府県交通安全対策会議に諮つて定めるものとする。
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第六条">
+        <article_item number="第六条">
+          中央交通安全対策会議についての法第十九条の政令で定める関係者は、次の各号に掲げるものとする。
+          <go>
+            <go_item number="一">
+              道路、鉄道、軌道、港湾施設、漁港施設、飛行場若しくは航空保安施設を設置し、若しくは管理する者又はこれらの者の組織する団体
+            </go_item>
+            <go_item number="二">
+              車両、船舶又は航空機の製造の事業を営む者の組織する団体
+            </go_item>
+            <go_item number="三">
+              車両、船舶又は航空機を使用する者の組織する団体
+            </go_item>
+          </go>
+        </article_item>
+        <article_item number="２">
+          都道府県交通安全対策会議及び市町村交通安全対策会議（市町村交通安全対策会議を置かない市町村にあつては、市町村の長）についての法第十九条の政令で定める関係者は、次の各号に掲げるものとする。
+          <go>
+            <go_item number="一">
+              道路、鉄道若しくは軌道を設置し、若しくは管理する者又はこれらの者の組織する団体
+            </go_item>
+            <go_item number="二">
+              車両を使用する者の組織する団体
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>
