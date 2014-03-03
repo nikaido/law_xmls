@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>船員法関係手数料令</title>
+    <defined>昭和三十七年九月二十日政令第三百六十二号</defined>
+    <updated>平成二五年四月二六日政令第一二七号</updated>
+  </head>
+  <body>
+    <preamble><p>内閣は、船員法（昭和二十二年法律第百号）第百二十一条の二の規定に基づき、この政令を制定する。</p></preamble>
+    <content>
+      <articles>
+        <article_item>
+          船員法（以下「法」という。）第百二十一条の二の規定により納付しなければならない手数料の額は、次のとおりとする。
+          <go>
+            <go_item number="一">
+              船員手帳の交付、再交付又は書換えを受けようとする者　　　　　　千九百五十円
+            </go_item>
+            <go_item number="二">
+              船員手帳の訂正を受けようとする者　　　　　　　　　四百三十円
+            </go_item>
+            <go_item number="三">
+              法第八十二条の二第二項の衛生管理者適任証書の再交付を受けようとする者　二千二百五十円
+            </go_item>
+            <go_item number="四">
+              法第百十八条第二項の救命艇手適任証書の再交付を受けようとする者　二千百五十円
+            </go_item>
+            <go_item number="五">
+              法第八十二条の二第三項第一号の試験を受けようとする者　五千四百円
+            </go_item>
+            <go_item number="六">
+              法第百十八条第三項第一号の試験を受けようとする者　五千円
+            </go_item>
+            <go_item number="七">
+              法第八十二条の二第三項第二号の規定による認定を受けようとする者　二千六百円
+            </go_item>
+            <go_item number="八">
+              法第百十八条第三項第二号の規定による認定を受けようとする者　二千五百円
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

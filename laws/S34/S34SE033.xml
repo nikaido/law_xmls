@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>内閣府設置法第四条第一項第十三号に規定する北方地域の範囲を定める政令</title>
+    <defined>昭和三十四年三月二十日政令第三十三号</defined>
+    <updated>平成一二年六月七日政令第三〇三号</updated>
+  </head>
+  <body>
+    <preamble><p>内閣は、総理府設置法（昭和二十四年法律第百二十七号）第三条第二号の規定に基き、この政令を制定する。</p></preamble>
+    <content>
+      <articles>
+        <article_item>
+          内閣府設置法（平成十一年法律第八十九号）第四条第一項第十三号に規定する政令で定める北方地域は、歯舞群島、色丹島、国後島、択捉島及び内閣総理大臣が定めるその他の北方の地域とする。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

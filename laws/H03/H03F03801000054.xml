@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>ガラス容器製造業に属する事業を行う者のカレットの利用に関する判断の基準となるべき事項を定める省令</title>
+    <defined>平成三年十月二十五日通商産業省令第五十四号</defined>
+    <updated>平成二三年三月二九日経済産業省令第八号</updated>
+  </head>
+  <body>
+    <preamble><p>再生資源の利用の促進に関する法律（平成三年法律第四十八号）第十条の規定に基づき、ガラス容器製造業に属する事業を行う者のカレットの利用に関する判断の基準となるべき事項を定める省令を次のように制定する。</p></preamble>
+    <content>
+      <articles number="第一条" title="（カレット利用率の向上）">
+        <article_item>
+          ガラス容器製造業に属する事業を行う者（以下「事業者」という。）は、色、強度、形状、安全性その他のガラス容器の品質に対するガラス容器の需要者の要求に対応しつつ、技術的かつ経済的に可能な範囲で、製造するガラス容器のカレット利用率（ガラス容器に占める使用されたカレットの重量の割合をいう。以下同じ。）を向上させるものとする。その際、事業者は、ガラス容器の需要者、国及び地方公共団体と協力しつつ、国内で製造されるガラス容器のカレット利用率が平成二十七年度までに九十七パーセントに向上することを目標とするものとする。
+        </article_item>
+      </articles>
+      <articles number="第二条" title="（設備の整備）">
+        <article_item>
+          事業者は、カレットを利用するため、異物除去設備その他の必要な設備を整備するものとする。
+        </article_item>
+      </articles>
+      <articles number="第三条" title="（技術の向上）">
+        <article_item>
+          事業者は、次に掲げる技術を向上させるものとする。
+          <go>
+            <go_item number="一">
+              カレットの色選別を効率的に行う技術
+            </go_item>
+            <go_item number="二">
+              異物を効率的に除去する技術
+            </go_item>
+            <go_item number="三">
+              その他のカレットを利用するために必要な技術
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第四条" title="（カレット利用計画）">
+        <article_item>
+          事業者は、カレットの利用を計画的に行うため、毎事業年度開始前に、その事業年度のカレットの利用に関する計画（以下「カレット利用計画」という。）を作成するものとする。
+        </article_item>
+        <article_item number="２">
+          カレット利用計画には、次に掲げる事項を記載するものとする。
+          <go>
+            <go_item number="一">
+              カレット利用率の目標
+            </go_item>
+            <go_item number="二">
+              カレットを利用するために必要な設備の整備に関する事項
+            </go_item>
+            <go_item number="三">
+              カレットを利用するために必要な技術の向上に関する事項
+            </go_item>
+            <go_item number="四">
+              前三号に掲げるもののほか、カレットの利用に関する事項
+            </go_item>
+          </go>
+        </article_item>
+        <article_item number="３">
+          事業者は、カレット利用計画の実施の状況について、記録を行うものとする。
+        </article_item>
+      </articles>
+      <articles number="第五条" title="（情報の提供）">
+        <article_item>
+          事業者は、ガラス容器の需要者のカレットの利用に関する理解を深めるため、製造するガラス容器のカレット利用率及び品質その他の必要な情報の提供を行うものとする。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>小笠原諸島振興開発審議会令</title>
+    <defined>昭和四十四年十二月十一日政令第二百八十六号</defined>
+    <updated>平成二三年七月一日政令第二〇三号</updated>
+  </head>
+  <body>
+    <preamble><p>内閣は、小笠原諸島復興特別措置法（昭和四十四年法律第七十九号）第十二条第十一項の規定に基づき、この政令を制定する。</p></preamble>
+    <content>
+      <articles number="第一条" title="（幹事）">
+        <article_item>
+          小笠原諸島振興開発審議会（以下「審議会」という。）に、幹事二十人以内を置く。
+        </article_item>
+        <article_item number="２">
+          幹事は、関係行政機関及び関係地方公共団体の職員のうちから、国土交通大臣が任命する。
+        </article_item>
+        <article_item number="３">
+          幹事は、審議会の事務について、関係行政機関及び関係地方公共団体との連絡にあたる。
+        </article_item>
+        <article_item number="４">
+          幹事は、非常勤とする。
+        </article_item>
+      </articles>
+      <articles number="第二条" title="（議事の手続）">
+        <article_item>
+          審議会は、委員及び議事に関係のある臨時委員の過半数が出席しなければ、議事を開き、議決をすることができない。
+        </article_item>
+        <article_item number="２">
+          審議会の議事は、出席した委員及び議事に関係のある臨時委員の過半数で決し、可否同数のときは、会長の決するところによる。
+        </article_item>
+      </articles>
+      <articles number="第三条" title="（庶務）">
+        <article_item>
+          審議会の庶務は、国土交通省国土政策局特別地域振興官において処理する。
+        </article_item>
+      </articles>
+      <articles number="第四条" title="（雑則）">
+        <article_item>
+          この政令に定めるもののほか、審議会の運営に関し必要な事項は、会長が審議会にはかつて定める。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

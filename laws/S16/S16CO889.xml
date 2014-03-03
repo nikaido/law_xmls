@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>都道府県農業共済保険審査会規程</title>
+    <defined>昭和十六年十月一日勅令第八百八十九号</defined>
+    <updated>平成一八年一一月二二日政令第三六一号</updated>
+  </head>
+  <body>
+    <content>
+      <articles number="第一条">
+        <article_item>
+          都道府県農業共済保険審査会ハ農業災害補償法（昭和二十二年法律第百八十五号以下「法」ト謂フ）第百三十一条第一項及第百四十三条の二第二項ノ規定ニ依リ其ノ権限ニ属セシメタル事項ヲ処理シ又ハ調査審議ス
+        </article_item>
+      </articles>
+      <articles number="第二条">
+        <article_item>
+          審査会ハ都道府県ノ名ヲ冠ス
+        </article_item>
+        <article_item number="○２">
+          審査会ノ管轄区域ハ都道府県ノ区域トス
+        </article_item>
+      </articles>
+      <articles number="第三条">
+        <article_item>
+          審査会ハ会長一人及委員九人以内ヲ以テ之ヲ組織ス
+        </article_item>
+        <article_item number="○２">
+          法第百四十三条の二第二項ノ規定ニ依リ都道府県知事ノ諮問シタル事項ヲ調査審議セシムルタメ必要アルトキハ審査会ニ臨時委員ヲ置クコトヲ得但シ其ノ数ハ三人以内トス
+        </article_item>
+      </articles>
+      <articles number="第四条">
+        <article_item>
+          会長ハ都道府県知事ヲ以テ之ニ充ツ
+        </article_item>
+        <article_item number="○２">
+          委員ハ左ニ掲グル者ヲ以テ之ニ充ツ
+          <go>
+            <go_item number="一">
+              都道府県知事ノ直近下位ノ内部組織ノ長　　　　三人
+            </go_item>
+            <go_item number="二">
+              農業共済組合ノ組合員又ハ法第八十五条の六第一項ノ共済事業ヲ行フ市町村トノ間ニ農作物共済、家畜共済、果樹共済、畑作物共済若クハ園芸施設共済ノ共済関係ノ存スル者<br></br>
+              　　　　　　　　　　　　　　　　　　　　三人
+            </go_item>
+            <go_item number="三">
+              学識経験アル者　　　　　　　　　　　三人
+            </go_item>
+          </go>
+        </article_item>
+        <article_item number="○３">
+          臨時委員ハ学識経験アル者ヲ以テ之ニ充ツ
+        </article_item>
+      </articles>
+      <articles number="第五条">
+        <article_item>
+          委員及臨時委員ハ都道府県知事之ヲ命ズ
+        </article_item>
+        <article_item number="○２">
+          前条第二項第二号及第三号ノ規定ニ依ル委員ノ任期ハ三年トス但シ特別ノ事由アル場合ニ於テハ任期中之ヲ解任スルコトヲ妨ゲズ
+        </article_item>
+        <article_item number="○３">
+          臨時委員ハ当該事項ノ調査審議ノ終了ニヨリ退任ス
+        </article_item>
+      </articles>
+      <articles number="第六条">
+        <article_item>
+          会長ハ会務ヲ総理ス
+        </article_item>
+        <article_item number="○２">
+          会長事故アルトキハ都道府県知事ノ指名スル委員其ノ職務ヲ代理ス
+        </article_item>
+      </articles>
+      <articles number="第七条">
+        <article_item>
+          審査会ノ会議ハ委員（法第百四十三条の二第二項ノ規定ニ依リ都道府県知事ノ諮問シタル事項ヲ調査審議スル場合ニ於テハ委員及臨時委員）ノ過半数出席スルニ非ザレバ之ヲ開クコトヲ得ズ
+        </article_item>
+        <article_item number="○２">
+          審査会ノ議決ハ出席セル委員及臨時委員ノ過半数ニ依ル可否同数ナルトキハ会長ノ決スル所ニ依ル
+        </article_item>
+      </articles>
+      <articles number="第八条">
+        <article_item>
+          審査会ノ審査ノ裁決ハ理由ヲ附シタル文書ヲ以テシ之ヲ申立者ニ交付ス
+        </article_item>
+      </articles>
+      <articles number="第九条">
+        <article_item>
+          審査会ニ幹事及書記ヲ置ク
+        </article_item>
+        <article_item number="○２">
+          幹事及書記ハ都道府県ノ職員ノ中ヨリ都道府県知事之ヲ命ズ
+        </article_item>
+        <article_item number="○３">
+          幹事ハ会長ノ指揮ヲ承ケ庶務ヲ整理ス
+        </article_item>
+        <article_item number="○４">
+          書記ハ会長及幹事ノ指揮ヲ承ケ庶務ニ従事ス
+        </article_item>
+      </articles>
+      <articles number="第十条">
+        <article_item>
+          本令ニ規定スルモノノ外審査会ニ関シ必要ナル事項ハ農林水産大臣之ヲ定ム
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

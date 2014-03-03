@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>警察大学校警察情報通信研究センターの内部組織に関する規則</title>
+    <defined>平成二年六月八日国家公安委員会規則第四号</defined>
+    <updated>平成一九年四月一日国家公安委員会規則第八号</updated>
+  </head>
+  <body>
+    <preamble><p>警察法施行規則（昭和二十九年総理府令第四十四号）第七条の十七第八項の規定に基づき、警察大学校警察通信研究センターの内部組織に関する規則を次のように定める。</p></preamble>
+    <content>
+      <articles number="第一条" title="（研究室の設置）">
+        <article_item>
+          警察大学校警察情報通信研究センターに、次の四研究室を置く。
+          　基礎研究室<br></br>
+          　応用第一研究室<br></br>
+          　応用第二研究室<br></br>
+          　応用第三研究室<br></br>
+        </article_item>
+      </articles>
+      <articles number="第二条" title="（基礎研究室）">
+        <article_item>
+          基礎研究室においては、次の事務をつかさどる。
+          <go>
+            <go_item number="一">
+              警察に関する情報通信に関する研究に関する事務のうち、技術に関する基礎的な研究に関すること。
+            </go_item>
+            <go_item number="二">
+              警察情報通信研究センターにおいて行う研究の計画の策定に関すること。
+            </go_item>
+            <go_item number="三">
+              前二号に掲げるもののほか、他の研究室の所掌に属しないこと。
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第三条" title="（応用第一研究室）">
+        <article_item>
+          応用第一研究室においては、警察に関する情報通信に関する研究に関する事務のうち、技術の応用及び開発に関する研究に関する事務（応用第二研究室及び応用第三研究室の所掌に属するものを除く。）をつかさどる。
+        </article_item>
+      </articles>
+      <articles number="第四条" title="（応用第二研究室）">
+        <article_item>
+          応用第二研究室においては、警察に関する情報通信に関する研究に関する事務のうち、情報の管理に関する技術の応用及び開発に関する研究に関する事務をつかさどる。
+        </article_item>
+      </articles>
+      <articles number="第五条" title="（応用第三研究室）">
+        <article_item>
+          応用第三研究室においては、警察に関する情報通信に関する研究に関する事務のうち、犯罪の取締りのための情報技術の解析に係る技術の応用及び開発に関する研究に関する事務をつかさどる。
+        </article_item>
+      </articles>
+      <articles number="第六条" title="（研究室長）">
+        <article_item>
+          研究室に、研究室長を置き、教授をもって充てる。
+        </article_item>
+        <article_item number="２">
+          研究室長は、命を受け、研究室の事務を掌理する。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

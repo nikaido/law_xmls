@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>関税定率法第五条の規定による便益関税の適用に関する政令</title>
+    <defined>昭和三十年九月十日政令第二百三十七号</defined>
+    <updated>平成二五年三月三〇日政令第一一七号</updated>
+  </head>
+  <body>
+    <preamble><p>内閣は、関税定率法（明治四十三年法律第五十四号）第五条の規定に基き、この政令を制定する。</p></preamble>
+    <content>
+      <articles number="第一条" title="（便益関税を適用する国）">
+        <article_item>
+          関税定率法（以下「法」という。）第五条の規定により関税についての便益を受けることができる国（その一部である地域を含む。以下同じ。）は、別表に掲げる国とする。
+        </article_item>
+      </articles>
+      <articles number="第二条" title="（便益関税を適用する貨物）">
+        <article_item>
+          法第五条の規定により関税についての便益を受けることができる貨物は、別表に掲げる国の生産に係る貨物のうち、世界貿易機関を設立するマラケシュ協定附属書一Ａの千九百九十四年の関税及び貿易に関する一般協定のマラケシュ議定書に附属する譲許表の第三十八表の日本国の譲許表に掲げる貨物とする。
+        </article_item>
+      </articles>
+      <articles number="第三条" title="（便益関税の税率）">
+        <article_item>
+          前条に規定する同譲許表に掲げる貨物に対して課する関税の税率は、当該貨物の区分に応じ、同譲許表に定める税率とする。
+        </article_item>
+        <article_item number="２">
+          前項の規定は、同項に定める税率より低い税率を定める法令の規定の適用を妨げない。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

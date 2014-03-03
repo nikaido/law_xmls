@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>昭和五十年度の公債の発行の特例に関する法律</title>
+    <defined>昭和五十年十二月二十五日法律第八十九号</defined>
+  </head>
+  <body>
+    <content>
+      <articles number="第一条" title="（特例公債の発行）">
+        <article_item>
+          政府は、財政法（昭和二十二年法律第三十四号）第四条第一項の規定にかかわらず、昭和五十年度の一般会計補正予算において見込まれる租税及び印紙収入並びに専売納付金の減少を補うため、当該補正予算をもつて国会の議決を経た金額の範囲内で、公債を発行することができる。
+        </article_item>
+      </articles>
+      <articles number="第二条" title="（特例公債に係る発行時期及び会計年度所属区分の特例）">
+        <article_item>
+          前条の規定による公債の発行は、昭和五十一年五月三十一日までの間、行うことができる。この場合において、同年四月一日以後発行される同条の公債に係る収入は、昭和五十年度所属の歳入とする。
+        </article_item>
+      </articles>
+      <articles number="第三条" title="（償還計画の国会への提出）">
+        <article_item>
+          政府は、第一条の議決を経ようとするときは、同条の公債の償還の計画を国会に提出しなければならない。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

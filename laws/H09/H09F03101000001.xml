@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>情報本部組織規則</title>
+    <defined>平成九年一月九日総理府令第一号</defined>
+    <updated>平成二一年七月二九日防衛省令第一二号</updated>
+  </head>
+  <body>
+    <preamble><p>防衛庁設置法（昭和二十九年法律第百六十四号）第二十八条の二第四項の規定に基づき、情報本部組織規則を次のように定める。</p></preamble>
+    <content>
+      <articles number="第一条" title="（本部長）">
+        <article_item>
+          情報本部長（以下「本部長」という。）は、陸将、海将又は空将をもって充てる。
+        </article_item>
+        <article_item number="２">
+          本部長は、防衛大臣の指揮監督を受け、情報本部の事務を掌理する。
+        </article_item>
+      </articles>
+      <articles number="第二条" title="（副本部長）">
+        <article_item>
+          情報本部に、副本部長一人（関係のある他の職を占める者をもって充てられるものとする。）を置く。
+        </article_item>
+        <article_item number="２">
+          副本部長は、事務官をもって充てる。
+        </article_item>
+        <article_item number="３">
+          副本部長は、本部長を助け、情報本部の事務を整理する。
+        </article_item>
+        <article_item number="４">
+          副本部長は、本部長に事故があるとき、又は本部長が欠けたときは、その職務を行う。
+        </article_item>
+      </articles>
+      <articles number="第三条" title="（部の設置）">
+        <article_item>
+          情報本部に、次の六部を置く。
+          　　　総務部<br></br>
+          計画部<br></br>
+          分析部<br></br>
+          統合情報部<br></br>
+          画像・地理部<br></br>
+          電波部<br></br>
+        </article_item>
+      </articles>
+      <articles number="第四条" title="（情報官）">
+        <article_item>
+          情報本部に、情報官四人を置く。
+        </article_item>
+        <article_item number="２">
+          情報官は、本部長の命を受け、情報本部の所掌事務のうち重要事項に係るものを総括整理する。
+        </article_item>
+      </articles>
+      <articles number="第四条の二" title="（情報保全官）">
+        <article_item>
+          情報本部に、情報保全官一人を置く。
+        </article_item>
+        <article_item number="２">
+          情報保全官は、本部長の命を受け、防衛省における情報保全の確保を図る見地から情報本部の所掌事務に関する重要事項に係るものを総括整理する。
+        </article_item>
+      </articles>
+      <articles number="第四条の三" title="（情報評価官）">
+        <article_item>
+          情報本部に、情報評価官一人を置く。
+        </article_item>
+        <article_item number="２">
+          情報評価官は、本部長の命を受け、情報本部が実施する情報の収集整理について、その効果的な実施を図る観点から行う評価に関する事務をつかさどる。
+        </article_item>
+      </articles>
+      <articles number="第五条" title="（総務部）">
+        <article_item>
+          総務部は、次に掲げる事務をつかさどる。
+          <go>
+            <go_item number="一">
+              機密に関すること。
+            </go_item>
+            <go_item number="二">
+              本部長の官印及び情報本部印の保管に関すること。
+            </go_item>
+            <go_item number="三">
+              公文書の接受、発送、編集及び保存に関すること。
+            </go_item>
+            <go_item number="四">
+              文書の審査及び進達に関すること。
+            </go_item>
+            <go_item number="五">
+              職員の人事及び給与に関すること。
+            </go_item>
+            <go_item number="六">
+              職員の教育訓練に関すること。
+            </go_item>
+            <go_item number="七">
+              職員の福利厚生に関すること。
+            </go_item>
+            <go_item number="八">
+              経費及び収入の予算、決算及び会計に関すること。
+            </go_item>
+            <go_item number="九">
+              物品の取得並びに行政財産及び物品の管理に関すること。
+            </go_item>
+            <go_item number="十">
+              会計の監査に関すること。
+            </go_item>
+            <go_item number="十一">
+              情報本部の行政の考査に関すること。
+            </go_item>
+            <go_item number="十二">
+              前各号に掲げるもののほか、情報本部の所掌事務で他の所掌に属しないものに関すること。
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第六条" title="（計画部）">
+        <article_item>
+          計画部は、次に掲げる事務をつかさどる。
+          <go>
+            <go_item number="一">
+              情報本部の所掌に係る情報の収集整理に関する総合調整に関すること。
+            </go_item>
+            <go_item number="二">
+              情報本部の所掌に係る情報の収集整理に関する計画に関すること。
+            </go_item>
+            <go_item number="三">
+              情報本部の所掌に係る情報についての関係部局との連絡調整に関すること（統合情報部の所掌に属するものを除く。）。
+            </go_item>
+            <go_item number="四">
+              組織及び定員に関すること。
+            </go_item>
+            <go_item number="五">
+              行政財産の取得に関すること。
+            </go_item>
+            <go_item number="六">
+              業務計画に関すること。
+            </go_item>
+            <go_item number="七">
+              情報本部の所掌に係る情報の管理に関する企画に関すること。
+            </go_item>
+            <go_item number="八">
+              渉外に関すること。
+            </go_item>
+            <go_item number="九">
+              秘密の保全に関すること。
+            </go_item>
+            <go_item number="十">
+              装備品の研究改善の総括に関すること。
+            </go_item>
+            <go_item number="十一">
+              前号に掲げるもののほか、装備品の技術研究及び技術開発の要求並びに研究改善（電波部の所掌に属するものを除く。）に関すること。
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第七条" title="（分析部）">
+        <article_item>
+          分析部は、次に掲げる事務をつかさどる。
+          <go>
+            <go_item number="一">
+              情報本部の所掌に係る情報の総合的な分析に関すること。
+            </go_item>
+            <go_item number="二">
+              前号に掲げるもののほか、情報本部の所掌に係る情報の収集整理に関すること（他部の所掌に属するものを除く。）。
+            </go_item>
+            <go_item number="三">
+              前二号に掲げる事務に関する研究改善に関すること（他部の所掌に属するものを除く。）。
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第八条" title="（統合情報部）">
+        <article_item>
+          統合情報部は、次に掲げる事務をつかさどる。
+          <go>
+            <go_item number="一">
+              外国の軍隊その他これに類する組織（次号において「外国軍隊等」という。）の組織、編成、装備その他の戦力組成の見積りに関すること。
+            </go_item>
+            <go_item number="二">
+              緊急に処理することを要する情報（次号において「緊急情報」という。）及び外国軍隊等の動態に関する情報（次号において「動態情報」という。）の集約に関すること。
+            </go_item>
+            <go_item number="三">
+              前号に掲げるもののほか、緊急情報及び動態情報の収集整理に関すること（画像・地理部及び電波部の所掌に属するものを除く。）。
+            </go_item>
+            <go_item number="四">
+              第二号に掲げるもののほか、防衛省設置法（昭和二十九年法律第百六十四号。以下「法」という。）第二十二条第一号から第四号まで及び第七号（同条第一号から第四号までに掲げる事務に係るものに限る。）に掲げる事務又は法第二十三条第二号及び第七号（同条第二号に掲げる事務に係るものに限る。）に掲げる事務に必要な情報の集約に関すること。
+            </go_item>
+            <go_item number="五">
+              第一号に掲げるもののほか、法第二十二条第一号から第四号まで及び第七号（同条第一号から第四号までに掲げる事務に係るものに限る。）に掲げる事務又は法第二十三条第二号及び第七号（同条第二号に掲げる事務に係るものに限る。）に掲げる事務に必要な見積りに関すること。
+            </go_item>
+            <go_item number="六">
+              前各号に掲げる事務に関し必要な関係部局との連絡調整に関すること。
+            </go_item>
+            <go_item number="七">
+              前各号に掲げる事務に関する研究改善に関すること（他部の所掌に属するものを除く。）。
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第九条" title="（画像・地理部）">
+        <article_item>
+          画像・地理部は、次に掲げる事務をつかさどる。
+          <go>
+            <go_item number="一">
+              画像情報及び地理情報の収集整理に関すること。
+            </go_item>
+            <go_item number="二">
+              前号に掲げる事務に関する研究改善に関すること。
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第十条" title="（電波部）">
+        <article_item>
+          電波部は、次に掲げる事務をつかさどる。
+          <go>
+            <go_item number="一">
+              電波情報の収集整理に関すること。
+            </go_item>
+            <go_item number="二">
+              前号に掲げる事務に関する研究改善に関すること。
+            </go_item>
+            <go_item number="三">
+              第一号に掲げる事務に係る装備品の研究改善に関すること。
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第十一条" title="（部長）">
+        <article_item>
+          部に部長を置く。
+        </article_item>
+        <article_item number="２">
+          部長は、本部長の命を受け、部務を掌理する。
+        </article_item>
+      </articles>
+      <articles number="第十二条" title="（雑則）">
+        <article_item>
+          この省令に定めるもののほか、情報本部の内部組織に関し必要な事項は、防衛大臣が定める。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

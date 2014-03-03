@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>一般社団法人及び一般財団法人に関する法律等の施行に伴う関係政令の整備等に関する政令　抄</title>
+    <defined>平成十九年三月二日政令第三十九号</defined>
+    <updated>平成二〇年七月一六日政令第二二八号</updated>
+  </head>
+  <body>
+    <preamble><p>内閣は、一般社団法人及び一般財団法人に関する法律（平成十八年法律第四十八号）、公益社団法人及び公益財団法人の認定等に関する法律（平成十八年法律第四十九号）及び一般社団法人及び一般財団法人に関する法律及び公益社団法人及び公益財団法人の認定等に関する法律の施行に伴う関係法律の整備等に関する法律（平成十八年法律第五十号）の施行に伴い、並びに関係法律の規定に基づき、この政令を制定する。</p></preamble>
+    <content>
+      <sho title="第一章　公益法人に係る主務官庁の権限に属する事務の処理等に関する政令及び中間法人法施行令の廃止">
+        <articles number="第一条">
+          <article_item>
+            次に掲げる政令は、廃止する。
+            <go>
+              <go_item number="一">
+                公益法人に係る主務官庁の権限に属する事務の処理等に関する政令（平成四年政令第百六十一号）
+              </go_item>
+              <go_item number="二">
+                中間法人法施行令（平成十七年政令第三百六十五号）
+              </go_item>
+            </go>
+          </article_item>
+        </articles>
+      </sho>
+      <sho title="第二章　内閣関係">
+        <articles number="第二条" title="（船主相互保険組合法施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第三条" title="（銃砲刀剣類所持等取締法施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第四条" title="（道路交通法施行令及び沖縄振興特別措置法施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第五条" title="（信用金庫法施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第六条" title="（沖縄振興開発金融公庫法施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第七条" title="（協同組合による金融事業に関する法律施行令及び金融機関等の更生手続の特例等に関する法律施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第八条" title="（労働金庫法施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第九条" title="（風俗営業等の規制及び業務の適正化等に関する法律施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第十条" title="（協同組織金融機関の優先出資に関する法律施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第十一条" title="（構造改革特別区域法施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第十二条" title="（構造改革特別区域法施行令の一部改正に伴う経過措置）">
+          <article_item>
+            前条の規定による改正後の構造改革特別区域法施行令第三条第四号に規定する公益社団法人又は公益財団法人には、一般社団法人及び一般財団法人に関する法律及び公益社団法人及び公益財団法人の認定等に関する法律の施行に伴う関係法律の整備等に関する法律（以下「整備法」という。）第四十二条第一項に規定する特例社団法人又は特例財団法人を含むものとする。 
+          </article_item>
+        </articles>
+        <articles number="第十三条" title="（武力攻撃事態等における国民の保護のための措置に関する法律施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第十四条" title="（保険業法施行令の一部を改正する政令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+      </sho>
+      <sho title="第三章　総務省関係">
+        <articles number="第十五条" title="（地方自治法施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第十六条" title="（地方公営企業法施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第十七条" title="（地方公務員等共済組合法施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第十八条" title="（行政機関の保有する情報の公開に関する法律施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第十九条" title="（行政機関の保有する情報の公開に関する法律施行令の一部改正に伴う経過措置）">
+          <article_item>
+            この政令の施行の日（以下「施行日」という。）前に保存を開始した整備法第三十八条の規定による改正前の民法（明治二十九年法律第八十九号）第三十四条の規定による法人の業務の実績報告書及び施行日以後に保存を開始した整備法第四十二条第二項に規定する特例民法法人の業務の実績報告書の保存期間の基準については、前条の規定による改正後の行政機関の保有する情報の公開に関する法律施行令別表第二の行政文書の区分欄三の項ロに掲げる実績報告書の例による。
+          </article_item>
+        </articles>
+        <articles number="第二十条" title="（公益法人等への一般職の地方公務員の派遣等に関する法律第二条第一項第三号の法人を定める政令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第二十一条" title="（総務省組織令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+      </sho>
+      <sho title="第四章　法務省関係">
+        <articles number="第二十二条" title="（弁護士会登記令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第二十三条" title="（独立行政法人等登記令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第二十四条" title="（独立行政法人等登記令の一部改正に伴う経過措置）">
+          <article_item>
+            施行日前に独立行政法人等がその従たる事務所の所在地でした代理人の選任の登記は、その登記をした日に、独立行政法人等がその主たる事務所の所在地でしたものとみなす。
+          </article_item>
+          <article_item number="２">
+            登記官は、この政令の施行の際現に従たる事務所の所在地における代理人の登記が存するときは、職権で、当該登記を主たる事務所の所在地における登記簿に移さなければならない。
+          </article_item>
+          <article_item number="３">
+            前二項に定めるもののほか、前条の規定による独立行政法人等登記令の一部改正に伴う登記に関する手続について必要な経過措置は、法務省令で定める。
+          </article_item>
+        </articles>
+        <articles number="第二十五条" title="（組合等登記令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第二十六条" title="（組合等登記令の一部改正に伴う経過措置）">
+          <article_item>
+            施行日前に組合等がその従たる事務所の所在地でした代理人の選任の登記は、その登記をした日に、組合等がその主たる事務所の所在地でしたものとみなす。
+          </article_item>
+          <article_item number="２">
+            登記官は、この政令の施行の際現に従たる事務所の所在地における代理人の登記が存するときは、職権で、当該登記を主たる事務所の所在地における登記簿に移さなければならない。
+          </article_item>
+          <article_item number="３">
+            前二項に定めるもののほか、前条の規定による組合等登記令の一部改正に伴う登記に関する手続について必要な経過措置は、法務省令で定める。
+          </article_item>
+        </articles>
+        <articles number="第二十七条" title="（司法書士法施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第二十八条" title="（土地家屋調査士法施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第二十九条" title="（公証人手数料令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+      </sho>
+      <sho title="第五章　外務省関係">
+        <articles number="第三十条" title="（細菌兵器（生物兵器）及び毒素兵器の開発、生産及び貯蔵の禁止並びに廃棄に関する条約の実施に関する法律施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+      </sho>
+      <sho title="第六章　財務省関係">
+        <articles number="第三十一条" title="（日本国とアメリカ合衆国との間の相互防衛援助協定の実施に伴う関税法等の臨時特例に関する法律施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第三十二条" title="（関税法施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第三十三条" title="（関税定率法施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+      </sho>
+      <sho title="第七章　文部科学省関係">
+        <articles number="第三十四条" title="（著作権法施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第三十五条" title="（独立行政法人日本原子力研究開発機構法施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+      </sho>
+      <sho title="第八章　厚生労働省関係">
+        <articles number="第三十六条" title="（健康保険法施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第三十七条" title="（児童福祉法施行令等の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第三十八条" title="（医療法施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第三十九条" title="（母子及び寡婦福祉法施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第四十条" title="（母子及び寡婦福祉法施行令の一部改正に伴う経過措置）">
+          <article_item>
+            施行日前に母子福祉団体の理事が寄附行為に違反した場合における当該理事を解職すべき旨の勧告については、なお従前の例による。
+          </article_item>
+        </articles>
+        <articles number="第四十一条" title="（職業能力開発促進法施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第四十二条" title="（中小企業における労働力の確保及び良好な雇用の機会の創出のための雇用管理の改善の促進に関する法律施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第四十三条" title="（医道審議会令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第四十四条" title="（独立行政法人福祉医療機構法施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第四十五条" title="（発達障害者支援法施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+      </sho>
+      <sho title="第九章　農林水産省関係">
+        <articles number="第四十六条" title="（競馬法施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第四十七条" title="（農林水産業施設災害復旧事業費国庫補助の暫定措置に関する法律施行令等の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第四十八条" title="（漁船損害等補償法施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第四十九条" title="（農地法施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第五十条" title="（農業近代化資金融通法施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第五十一条" title="（農業協同組合法施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第五十二条" title="（漁業経営の改善及び再建整備に関する特別措置法施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第五十三条" title="（肉用子牛生産安定等特別措置法施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第五十四条" title="（特定農産加工業経営改善臨時措置法施行令及び食品流通構造改善促進法施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第五十五条" title="（主要食糧の需給及び価格の安定に関する法律施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第五十六条" title="（主要食糧の需給及び価格の安定に関する法律施行令の一部改正に伴う経過措置）">
+          <article_item>
+            整備法第四十二条第二項に規定する特例民法法人に対する主要食糧の需給及び価格の安定に関する法律（平成六年法律第百十三号）第四十九条第一項の主要食糧の交付については、前条の規定による改正後の主要食糧の需給及び価格の安定に関する法律施行令第十五条第一項の規定にかかわらず、なお従前の例による。
+          </article_item>
+        </articles>
+        <articles number="第五十七条" title="（林業労働力の確保の促進に関する法律施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第五十八条" title="（食品循環資源の再生利用等の促進に関する法律施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+      </sho>
+      <sho title="第十章　経済産業省関係">
+        <articles number="第五十九条" title="（鉱業登録令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第六十条" title="（信用保証協会法施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第六十一条" title="（中小企業等協同組合法施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第六十二条" title="（小売商業調整特別措置法施行令等の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第六十三条" title="（商工会法第六十条の規定により都道府県が処理する事務に関する政令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第六十四条" title="（資源の有効な利用の促進に関する法律施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第六十五条" title="（エネルギー等の使用の合理化及び資源の有効な利用に関する事業活動の促進に関する臨時措置法施行令及び中小企業の新たな事業活動の促進に関する法律施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第六十六条" title="（中心市街地の活性化に関する法律施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第六十七条" title="（独立行政法人中小企業基盤整備機構法施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+      </sho>
+      <sho title="第十一章　国土交通省関係">
+        <articles number="第六十八条" title="（港湾法施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第六十九条" title="（土地区画整理法施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第七十条" title="（新住宅市街地開発法施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第七十一条" title="（都市開発資金の貸付けに関する法律施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第七十二条" title="（日本勤労者住宅協会法施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第七十三条" title="（都市再開発法施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第七十四条" title="（大都市地域における住宅及び住宅地の供給の促進に関する特別措置法施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第七十五条" title="（密集市街地における防災街区の整備の促進に関する法律施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第七十六条" title="（外国人観光旅客の旅行の容易化等の促進による国際観光の振興に関する法律施行令の一部改正） ">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+      </sho>
+      <sho title="第十二章　環境省関係">
+        <articles number="第七十七条" title="（廃棄物の処理及び清掃に関する法律施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+        <articles number="第七十八条" title="（容器包装に係る分別収集及び再商品化の促進等に関する法律施行令の一部改正）">
+          <article_item>
+            略
+          </article_item>
+        </articles>
+      </sho>
+    </content>
+  </body>
+</law>

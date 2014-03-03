@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>農産物検査法関係手数料令</title>
+    <defined>昭和五十九年五月十五日政令第百四十三号</defined>
+    <updated>平成一七年三月三一日政令第一〇一号</updated>
+  </head>
+  <body>
+    <preamble><p>内閣は、農産物検査法（昭和二十六年法律第百四十四号）第十一条第一項の規定に基づき、農産物検査手数料令（昭和二十六年政令第百五十七号）の全部を改正するこの政令を制定する。</p></preamble>
+    <content>
+      <articles number="第一条" title="（登録検査機関の登録更新手数料）">
+        <article_item>
+          農産物検査法（以下「法」という。）第十八条第二項の政令で定める額は、同条第三項において準用する法第十七条第一項各号に掲げる検査の区分について一万百円とする。
+        </article_item>
+      </articles>
+      <articles number="第二条" title="（農林水産大臣の行う農産物検査に係る手数料）">
+        <article_item>
+          法第三十六条の規定により次に掲げる農産物の検査（次項各号に掲げる検査を除く。）について納付しなければならない手数料の額は、それぞれ次のとおりとする。
+          <go>
+            <go_item number="一">
+              もみ
+              <go>
+                <go_item number="イ">
+                  二〇キログラムを超え四五キログラム以下の包装のもの<br></br>
+                  　　　　一包装につき<br></br>
+                  　　　　　五十円
+                </go_item>
+                <go_item number="ロ">
+                  二〇キログラム以下の包装のもの<br></br>
+                  　　　　一包装につき<br></br>
+                  　　　　　二十五円
+                </go_item>
+                <go_item number="ハ">
+                  イ及びロに掲げるもの以外のもの<br></br>
+                  　　　　一トン当たり<br></br>
+                  　　　　　七百九十円
+                </go_item>
+              </go>
+            </go_item>
+            <go_item number="二">
+              玄米
+              <go>
+                <go_item number="イ">
+                  三〇キログラムを超え六〇キログラム以下の包装のもの<br></br>
+                  　　　　一包装につき<br></br>
+                  　　　　　五十円
+                </go_item>
+                <go_item number="ロ">
+                  三〇キログラム以下の包装のもの<br></br>
+                  　　　　一包装につき<br></br>
+                  　　　　　二十五円
+                </go_item>
+                <go_item number="ハ">
+                  イ及びロに掲げるもの以外のもの<br></br>
+                  　　　　一トン当たり<br></br>
+                  　　　　　七百九十円
+                </go_item>
+              </go>
+            </go_item>
+            <go_item number="三">
+              精米
+              <go>
+                <go_item number="イ">
+                  三〇キログラムを超え六〇キログラム以下の包装のもの<br></br>
+                  　　　　一包装につき<br></br>
+                  　　　　　五十円
+                </go_item>
+                <go_item number="ロ">
+                  三〇キログラム以下の包装のもの<br></br>
+                  　　　　一包装につき<br></br>
+                  　　　　　二十五円
+                </go_item>
+                <go_item number="ハ">
+                  イ及びロに掲げるもの以外のもの<br></br>
+                  　　　　一トン当たり<br></br>
+                  　　　　　七百九十円
+                </go_item>
+              </go>
+            </go_item>
+            <go_item number="四">
+              大麦
+              <go>
+                <go_item number="イ">
+                  二五キログラムを超え五二・五キログラム以下の包装のもの<br></br>
+                  　　　　一包装につき<br></br>
+                  　　　　　三十円
+                </go_item>
+                <go_item number="ロ">
+                  二五キログラム以下の包装のもの<br></br>
+                  　　　　一包装につき<br></br>
+                  　　　　　十五円
+                </go_item>
+                <go_item number="ハ">
+                  イ及びロに掲げるもの以外のもの<br></br>
+                  　　　　一トン当たり<br></br>
+                  　　　　　四百七十円
+                </go_item>
+              </go>
+            </go_item>
+            <go_item number="五">
+              はだか麦
+              <go>
+                <go_item number="イ">
+                  三〇キログラムを超え六〇キログラム以下の包装のもの<br></br>
+                  　　　　一包装につき<br></br>
+                  　　　　　三十円
+                </go_item>
+                <go_item number="ロ">
+                  三〇キログラム以下の包装のもの<br></br>
+                  　　　　一包装につき<br></br>
+                  　　　　　十五円
+                </go_item>
+                <go_item number="ハ">
+                  イ及びロに掲げるもの以外のもの<br></br>
+                  　　　　一トン当たり<br></br>
+                  　　　　　四百七十円
+                </go_item>
+              </go>
+            </go_item>
+            <go_item number="六">
+              小麦
+              <go>
+                <go_item number="イ">
+                  三〇キログラムを超え六〇キログラム以下の包装のもの<br></br>
+                  　　　　一包装につき<br></br>
+                  　　　　　三十円
+                </go_item>
+                <go_item number="ロ">
+                  三〇キログラム以下の包装のもの<br></br>
+                  　　　　一包装につき<br></br>
+                  　　　　　十五円
+                </go_item>
+                <go_item number="ハ">
+                  イ及びロに掲げるもの以外のもの<br></br>
+                  　　　　一トン当たり<br></br>
+                  　　　　　四百七十円
+                </go_item>
+              </go>
+            </go_item>
+            <go_item number="七">
+              大豆、小豆、いんげん
+              <go>
+                <go_item number="イ">
+                  三〇キログラムを超え六〇キログラム以下の包装のもの<br></br>
+                  　　　　一包装につき<br></br>
+                  　　　　　四十円
+                </go_item>
+                <go_item number="ロ">
+                  三〇キログラム以下の包装のもの<br></br>
+                  　　　　一包装につき<br></br>
+                  　　　　　二十円
+                </go_item>
+                <go_item number="ハ">
+                  イ及びロに掲げるもの以外のもの<br></br>
+                  　　　　一トン当たり<br></br>
+                  　　　　　六百三十円
+                </go_item>
+              </go>
+            </go_item>
+            <go_item number="八">
+              かんしよ生切干<br></br>
+              　　　　一包装につき<br></br>
+              　　　　　十円
+            </go_item>
+            <go_item number="九">
+              そば
+              <go>
+                <go_item number="イ">
+                  四五キログラム以下の包装のもの<br></br>
+                  　　　　一包装につき<br></br>
+                  　　　　　二十円
+                </go_item>
+                <go_item number="ロ">
+                  イに掲げるもの以外のもの<br></br>
+                  　　　　一トン当たり<br></br>
+                  　　　　　四百二十円
+                </go_item>
+              </go>
+            </go_item>
+            <go_item number="十">
+              でん粉
+              <go>
+                <go_item number="イ">
+                  七五キログラム以下の包装のもの<br></br>
+                  　　　　一包装につき<br></br>
+                  　　　　　十円
+                </go_item>
+                <go_item number="ロ">
+                  イに掲げるもの以外のもの<br></br>
+                  　　　　一トン当たり<br></br>
+                  　　　　　三百八十円
+                </go_item>
+              </go>
+            </go_item>
+          </go>
+        </article_item>
+        <article_item number="２">
+          法第三十六条の規定により次に掲げる検査について納付しなければならない手数料の額は、一の種類及び銘柄の米穀又は小麦ごとに、それぞれ次のとおりとする。
+          <go>
+            <go_item number="一">
+              米穀に含まれるたんぱく質についての検査　四千五百円にイ又はロに掲げる米穀の区分に応じ、それぞれイ又はロに定める額を加えた額
+              <go>
+                <go_item number="イ">
+                  もみ二〇キログラムを超え四五キログラム以下の包装のものにあつては一包装につき三円として、二〇キログラム以下の包装のものにあつては一包装につき二円として、これらのもの以外のものにあつては一トン当たり四十七円として計算した額
+                </go_item>
+                <go_item number="ロ">
+                  玄米又は精米三〇キログラムを超え六〇キログラム以下の包装のものにあつては一包装につき三円として、三〇キログラム以下の包装のものにあつては一包装につき二円として、これらのもの以外のものにあつては一トン当たり四十七円として計算した額
+                </go_item>
+              </go>
+            </go_item>
+            <go_item number="二">
+              米穀に含まれるアミロースについての検査　五千三百円に前号イ又はロに掲げる米穀の区分に応じ、それぞれ同号イ又はロに定める額を加えた額
+            </go_item>
+            <go_item number="三">
+              小麦に含まれるたんぱく質についての検査　四千五百円に第一号ロに定める額を加えた額
+            </go_item>
+            <go_item number="四">
+              小麦に含まれるでん粉についての検査　五千四百円に第一号ロに定める額を加えた額
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第三条" title="（農林水産大臣の行う農産物検査に係る手数料）">
+        <article_item>
+          農産物検査法の一部を改正する法律（平成十二年法律第五十四号）附則第三条第三項の政令で定める額は、前条に規定する額とする。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>国庫金振替書その他国庫金の払出しに関する書類の様式を定める省令</title>
+    <defined>昭和四十三年十月七日大蔵省令第五十一号</defined>
+    <updated>平成一九年九月二八日財務省令第五七号</updated>
+  </head>
+  <body>
+    <preamble><p>予算決算及び会計令（昭和二十二年勅令第百六十五号）第百十四条、第百四十二条及び第百四十四条並びに特別調達資金設置令施行令（昭和二十六年政令第二百七十一号）第四条の規定に基づき、この省令を定める。</p></preamble>
+    <content>
+      <articles>
+        <article_item>
+          法令の規定により、支出官、出納官吏その他国庫金の払出しに関する事務を行う職員が発行する次の各号に掲げる書類の様式は、当該各号に定める書式による。
+          <go>
+            <go_item number="一">
+              国庫金振替書　　　　　　別紙第一号書式
+            </go_item>
+            <go_item number="二">
+              国庫金送金請求書　　　　別紙第二号書式
+            </go_item>
+            <go_item number="三">
+              国庫金振込請求書　　　　別紙第三号書式<br></br>
+              　　　　　　　　　　　　　　　別紙第三号の二書式
+            </go_item>
+            <go_item number="四">
+              国庫金送金通知書　　　　別紙第四号書式
+            </go_item>
+            <go_item number="五">
+              削除
+            </go_item>
+            <go_item number="六">
+              道府県民税及び市町村民税月割額又は退職手当等所得割（納入申告及び）納入通知書<br></br>
+              　　　　　　　　　　　　　　　別紙第六号書式
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

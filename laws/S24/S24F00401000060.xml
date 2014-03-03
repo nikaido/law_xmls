@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>少年院処遇規則</title>
+    <defined>昭和二十四年九月十二日法務府令第六十号</defined>
+    <updated>平成二〇年五月三〇日法務省令第四〇号</updated>
+  </head>
+  <body>
+    <preamble><p>少年院法（昭和二十三年法律第百六十九号）第十五条第一項の規定に基き、少年院処遇規則を次のように定める。</p></preamble>
+    <content>
+      <sho title="第一章　総則">
+        <articles number="第一条">
+          <article_item>
+            少年院における処遇は、在院者の年齢及び心身の発達程度を考慮して、明るい環境のもとに、紀律ある生活に親しませ、勤勉の精神を養わせるなど、正常な経験を豊富に体得させ、その社会不適応の原因を除去するとともに長所を助成し、心身ともに健全な少年の育成を期して行われなければならない。
+          </article_item>
+        </articles>
+        <articles number="第二条">
+          <article_item>
+            在院者の処遇にあたつては、慈愛を旨とし、併せて医学、心理学、教育学等に基く知識の活用につとめなければならない。
+          </article_item>
+        </articles>
+        <articles number="第三条">
+          <article_item>
+            在院者の処遇の適正を図るため、少年院に処遇審査会を置く。
+          </article_item>
+          <article_item number="２">
+            少年院の長（以下「院長」という。）は、在院者の居室、日課、教科、職業補導、処遇の段階への編入、昇進及び降下、賞罰、移送、収容の継続、仮退院又は退院を許すべき旨の申出その他処遇に関し重要な事項を決定するに当たつては、処遇審査会の意見を聴かなければならない。
+          </article_item>
+          <article_item number="３">
+            処遇審査会の組織その他必要な事項は、法務大臣が定める。
+          </article_item>
+        </articles>
+        <articles number="第四条">
+          <article_item>
+            院長は、在院者から処遇又は一身上の事情に関する申立をきくため、随時在院者に面接するように努めなければならない。
+          </article_item>
+        </articles>
+        <articles number="第四条の二">
+          <article_item>
+            院長は、効果的な矯正教育を実施するために、その実施状況についての情報の提供等を通じて、矯正教育に関する保護者の理解を深めるとともに、その実施に関する保護者の協力を得るよう努めなければならない。
+          </article_item>
+          <article_item number="２">
+            院長は、少年院法（昭和二十三年法律第百六十九号）第十二条の二に規定する措置として、保護者に対し、職員による面談の実施、教育活動への参加の促進その他の適当な措置をとるものとする。
+          </article_item>
+        </articles>
+        <articles number="第五条">
+          <article_item>
+            在院者（少年法（昭和二十三年法律第百六十八号）第五十六条第三項の規定により少年院において刑の執行を受ける者（以下「少年院収容受刑者」という。）を除く。）の成績を正確に判定し、処遇の適正を図るため、各別に少年簿を備え、在院中の経過を記載しなければならない。
+          </article_item>
+          <article_item number="２">
+            少年簿は、止むを得ない事情のない限り、少年鑑別所又は他の少年院から送付された少年簿を使用しなければならない。
+          </article_item>
+          <article_item number="３">
+            少年院収容受刑者については、その成績を正確に判定し、処遇の適正を図るため、各別に身分帳簿を備え、在院中の経過を記載しなければならない。
+          </article_item>
+        </articles>
+        <articles number="第六条">
+          <article_item>
+            院長は、非常変災その他急迫の事態に際してとるべき措置についてあらかじめ計画をたて、在院者の訓練に努めなければならない。
+          </article_item>
+        </articles>
+      </sho>
+      <sho title="第二章　入院">
+        <articles number="第七条">
+          <article_item>
+            少年院の入院は、家庭裁判所の送致決定書の謄本（少年院収容受刑者については、検察官の執行指揮書）及び矯正管区長の指定書又は移送書その他適法の文書による。
+          </article_item>
+        </articles>
+        <articles number="第八条">
+          <article_item>
+            院長は、あらたに入院する者について前条の文書を査閲し、人違いのないことを確めたのち入院させ、連行者に収容書を交付しなければならない。
+          </article_item>
+        </articles>
+        <articles number="第九条">
+          <article_item>
+            あらたに入院した者については、紀律と衛生を保つため、直ちにその身体、衣類及び所持品を検査しなければならない。
+          </article_item>
+          <article_item number="２">
+            女子の身体検査は、成年の女子職員に行わせなければならない。
+          </article_item>
+        </articles>
+        <articles number="第十条">
+          <article_item>
+            あらたに入院した者は、止むを得ない事由がある場合を除いてすみやかに入浴させ、健康診断を行い、且つ、予防衛生上必要な措置を講じなければならない。
+          </article_item>
+        </articles>
+        <articles number="第十一条">
+          <article_item>
+            院長は、あらたに入院した者に対し、少年院の使命、日課及び行事の概要その他参考となる事項を説示し、安心と信頼感をいだかせるように努めなければならない。
+          </article_item>
+        </articles>
+        <articles number="第十二条">
+          <article_item>
+            あらたに入院した者については、個性、心身の状況、境遇、経歴、教育程度、技能その他身上に関する調査を行うため、なるべく他の在院者と接触させないようにしなければならない。但し、その期間は、おおむね十四日とする。
+          </article_item>
+          <article_item number="２">
+            調査は、医学、心理学、教育学、社会学その他の専門的知識を活用して行わなければならない。
+          </article_item>
+          <article_item number="３">
+            調査にあたつては、家庭裁判所及び少年鑑別所の意見及び参考資料を参しやくしなければならない。
+          </article_item>
+        </articles>
+        <articles number="第十三条">
+          <article_item>
+            前条の調査を終了したときは、すみやかに矯正に関する計画を定めなければならない。
+          </article_item>
+          <article_item number="２">
+            前項の計画は、在院者及び保護者の意向を参酌して定めるものとし、矯正教育の実施に支障がない限り、その内容を本人及び保護者に知らせ、進んで改善に励むように指導しなければならない。
+          </article_item>
+        </articles>
+      </sho>
+      <sho title="第三章　矯正教育">
+        <articles number="第十四条">
+          <article_item>
+            院長は、日課を定め、これを励行しなければならない。
+          </article_item>
+        </articles>
+        <articles number="第十五条">
+          <article_item>
+            教科については、在院者の特性に基き、その興味と必要に即して自発的に学習するように指導しなければならない。
+          </article_item>
+        </articles>
+        <articles number="第十六条">
+          <article_item>
+            職業の補導については、まず、勤労を重んずる態度を培うとともに、個性に応じて職業を選択する能力を助成するように努めなければならない。
+          </article_item>
+        </articles>
+        <articles number="第十七条">
+          <article_item>
+            初等少年院における職業の補導は、職業についての基礎的な知識と技能を与え、それを応用する能力を養うことを旨とする。
+          </article_item>
+        </articles>
+        <articles number="第十八条">
+          <article_item>
+            中等少年院及び特別少年院における職業の補導は、独立自活に必要な程度の知識と技能及びこれを応用する能力を授けることを旨とする。
+          </article_item>
+        </articles>
+        <articles number="第十九条">
+          <article_item>
+            医療少年院における職業の補導については、在院者の年齢に応じ、前二条の規定を準用する。但し、医療の促進に役立たせることを旨としなければならない。
+          </article_item>
+        </articles>
+        <articles number="第十九条の二">
+          <article_item>
+            第十八条及び前条本文の規定にかかわらず、特別少年院及び医療少年院における少年院収容受刑者に対する職業の補導については、第十七条の規定を準用する。
+          </article_item>
+        </articles>
+        <articles number="第十九条の三">
+          <article_item>
+            職業補導についた者に対しては、少年院法第七条の規定により賞与金を与えることができる。
+          </article_item>
+          <article_item number="２">
+            前項の賞与金の支給については、法務大臣が定める。
+          </article_item>
+        </articles>
+        <articles number="第二十条">
+          <article_item>
+            院長は、職業の補導を行う場合には、機械器具その他の設備、原料又は材料等による危害を防止するために、必要な措置を講じなければならない。
+          </article_item>
+        </articles>
+        <articles number="第二十一条">
+          <article_item>
+            削除
+          </article_item>
+        </articles>
+        <articles number="第二十二条">
+          <article_item>
+            日常の生活においては、少年院の職員は、つとめて在院者と行動をともにし、自ら範を示すことにより、秩序を尊び自他を敬愛し、併せて物を大切にする習慣を養成するように訓練を施さなければならない。
+          </article_item>
+        </articles>
+        <articles number="第二十三条">
+          <article_item>
+            余暇を善用する習慣を養い、進んで情操を豊かにするため、運動、競技、音楽、演劇その他のレクリエーシヨンは、励行しなければならない。
+          </article_item>
+          <article_item number="２">
+            レクリエーシヨンは、止むを得ない事情のない限り、毎日行わせなければならない。
+          </article_item>
+        </articles>
+        <articles number="第二十三条の二">
+          <article_item>
+            教科、職業の補導、レクリエーシヨンその他の矯正教育は、その目的達成上必要があると認めるときは、少年院外の適当な場所において行うことができる。
+          </article_item>
+        </articles>
+        <articles number="第二十四条">
+          <article_item>
+            休日には、適当な指導の下に在院者を休養させなければならない。
+          </article_item>
+        </articles>
+        <articles number="第二十四条の二">
+          <article_item>
+            少年院法第八条の二第一項に規定する手当金の種類は、次のとおりとする。
+            <go>
+              <go_item number="一">
+                死亡手当金
+              </go_item>
+              <go_item number="二">
+                障害手当金
+              </go_item>
+            </go>
+          </article_item>
+          <article_item number="２">
+            少年院法第八条の二第二項に定めるもののほか、同条第一項に規定する手当金の支給について必要な事項は、法務大臣が定める。
+          </article_item>
+        </articles>
+      </sho>
+      <sho title="第四章　処遇の段階">
+        <articles number="第二十五条">
+          <article_item>
+            在院者の処遇は、一級、二級及び三級に分け、さらに一級及び二級を、それぞれ上及び下に分ける。
+          </article_item>
+          <article_item number="２">
+            在院者には、記章又は腕章により、処遇の各段階の区別を表示させなければならない。
+          </article_item>
+        </articles>
+        <articles number="第二十六条">
+          <article_item>
+            新たに入院した者は、二級の下に編入する。但し、成績が悪くなつたときは、三級に下げることができる。
+          </article_item>
+        </articles>
+        <articles number="第二十七条">
+          <article_item>
+            在院者の処遇は、順次に各段階を経て進めなければならない。但し、成績が特に優秀な在院者は、二段階進めることができる。
+          </article_item>
+          <article_item number="２">
+            成績が特に悪い在院者は、一段階下げることができる。但し、特別の事由があるときは、二段階以上下げることができる。
+          </article_item>
+        </articles>
+        <articles number="第二十八条">
+          <article_item>
+            同種類の少年院から移送された在院者は、移送した少年院におけると同一の段階に編入しなければならない。ただし、特別の事由がある場合には、審査を経て適当な他の段階に編入することができる。
+          </article_item>
+          <article_item number="２">
+            種類の異なる少年院から移送された在院者は、審査を経て適当な段階に編入しなければならない。
+          </article_item>
+          <article_item number="３">
+            仮退院中、遵守事項を遵守しなかつたために少年院に戻された在院者は、二級の下に編入する。ただし、仮退院中の成績が特に悪かつた場合には、三級に編入することができる。
+          </article_item>
+          <article_item number="４">
+            前項の場合において、地方更生保護委員会から、本人の処遇につき特別の勧告があつたときは、これに従わなければならない。ただし、その勧告が、少年院法又は更生保護法（平成十九年法律第八十八号）の規定に反する場合は、この限りでない。
+          </article_item>
+        </articles>
+        <articles number="第二十九条">
+          <article_item>
+            昇進及び降下は、在院者の平素の成績を審査して定める。
+          </article_item>
+          <article_item number="２">
+            前項の審査は、毎月一回以上行わなければならない。
+          </article_item>
+        </articles>
+        <articles number="第三十条">
+          <article_item>
+            前条第一項の成績は、左の各号に掲げる項目に対する評価を総合して定める。
+            <go>
+              <go_item number="一">
+                学業の勉否及びその成績
+              </go_item>
+              <go_item number="二">
+                職業補導における勉否及びその成績
+              </go_item>
+              <go_item number="三">
+                操行の良否
+              </go_item>
+              <go_item number="四">
+                責任観念及び意志の強弱
+              </go_item>
+            </go>
+          </article_item>
+        </articles>
+        <articles number="第三十一条">
+          <article_item>
+            在院者は、毎月賞与金の月額合算額につき、院長が定めるところにより、進級に従つて逓増する割合で、その一部を自己の用途に費すことができる。
+          </article_item>
+        </articles>
+        <articles number="第三十二条">
+          <article_item>
+            一級の在院者には、特別の居室、日用品その他特別の器具の使用を許すことができる。
+          </article_item>
+        </articles>
+        <articles number="第三十三条">
+          <article_item>
+            一級の在院者には、単独で外出及び帰省させることができる。
+          </article_item>
+        </articles>
+        <articles number="第三十四条">
+          <article_item>
+            一級の在院者に対しては、特別の服装をさせることができる。
+          </article_item>
+        </articles>
+        <articles number="第三十五条">
+          <article_item>
+            一級の在院者には、レクリエーシヨン及び学習活動について、自治委員会をつくらせることができる。
+          </article_item>
+          <article_item number="２">
+            在院者及びその自治委員会は、少年院の管理若しくは紀律に関与し、設備若しくは財産を保管し、食物の調理若しくは配食を取扱い、又は医療若しくは衛生に関する業務に従事することはできない。但し、院長又は職員の監督を受けてする場合はこの限りでない。
+          </article_item>
+          <article_item number="３">
+            在院者に、各自の居室の清潔及び整頓を受持たせる場合も前項と同様とする。
+          </article_item>
+        </articles>
+        <articles number="第三十六条">
+          <article_item>
+            前条の自治委員会の代表者その他の役員及び係員は、一級の上の在院者から選ばなければならない。
+          </article_item>
+        </articles>
+      </sho>
+      <sho title="第五章　給養">
+        <articles number="第三十七条">
+          <article_item>
+            在院者には、衣類、寝具、学用品その他日常生活に必要な物品を貸与又は給与する。
+          </article_item>
+          <article_item number="２">
+            前項の貸与品及び給与品の種類及び数量の基準は、法務大臣が定める。
+          </article_item>
+        </articles>
+        <articles number="第三十八条">
+          <article_item>
+            自弁品の使用は、紀律及び衛生に害がない限り、許可することができる。
+          </article_item>
+        </articles>
+        <articles number="第三十九条">
+          <article_item>
+            貸与品及び給与品については、貸与品簿及び給与品簿に必要な事項を記載しなければならない。
+          </article_item>
+        </articles>
+        <articles number="第四十条">
+          <article_item>
+            在院者には、健康を保ち、かつ、心身の発育を増進するために必要な糧食及び飲料を給与する。
+          </article_item>
+        </articles>
+        <articles number="第四十一条">
+          <article_item>
+            院長は、在院者に対し、法務大臣が別に定める糧食の一人一日当たりの熱量等の基準に従い、これを給与するものとする。
+          </article_item>
+        </articles>
+        <articles number="第四十二条">
+          <article_item>
+            院長は、在院者に対し、飲料として、湯茶を給与するものとする。
+          </article_item>
+        </articles>
+        <articles number="第四十二条の二">
+          <article_item>
+            院長は、在院者の健康の保持上特に必要があると認める場合又は在院者に対して治療を施している場合には、前二条の規定によらない糧食及び飲料（酒類を除く。以下同じ。）を給与することができる。
+          </article_item>
+          <article_item number="２">
+            院長は、前項に規定する糧食及び飲料を給与しようとする場合には、あらかじめ、少年院の医師の意見を聴くものとする。
+          </article_item>
+        </articles>
+        <articles number="第四十二条の三">
+          <article_item>
+            祝日（国民の祝日に関する法律（昭和二十三年法律第百七十八号）第二条に規定する国民の祝日をいう。）並びに一月二日及び三日には、院長は、第四十一条及び第四十二条の規定にかかわらず、特別の糧食及び飲料を給与することができる。
+          </article_item>
+          <article_item number="２">
+            前項に規定する日のほか、少年院において特別な行事を行う場合及び在院者の処遇上適当と認められる場合も、同項と同様とする。
+          </article_item>
+        </articles>
+      </sho>
+      <sho title="第六章　衛生及び診療">
+        <articles number="第四十三条">
+          <article_item>
+            院長は、在院者の衛生に注意し、その身体、衣類、居室、炊事場、便所等の清潔を保持するように努めなければならない。
+          </article_item>
+          <article_item number="２">
+            在院者に対しては、常に衛生に関する知識及び技能を習得させるように努めなければならない。
+          </article_item>
+        </articles>
+        <articles number="第四十四条">
+          <article_item>
+            居室の清掃及び整頓並びに衣類等の洗浄その他環境の清潔を保つため必要な処置は、在院者に行わせることができる。
+          </article_item>
+        </articles>
+        <articles number="第四十五条">
+          <article_item>
+            在院者には、院長の定めるところにより、理髪及び入浴をさせなければならない。
+          </article_item>
+          <article_item number="２">
+            在院者の頭髪は、衛生上必要があると認めるときは、短く刈ることができる。
+          </article_item>
+        </articles>
+        <articles number="第四十六条">
+          <article_item>
+            在院者の体格検査及び健康診断は、毎月一回以上行い、その結果を記録して置かなければならない。
+          </article_item>
+        </articles>
+        <articles number="第四十七条">
+          <article_item>
+            炊事を担当する者の健康診断は、毎月二回以上行わなければならない。
+          </article_item>
+        </articles>
+        <articles number="第四十八条">
+          <article_item>
+            在院者が負傷し、又は疾病にかかつたときは、医療を施さなければならない。
+          </article_item>
+          <article_item number="２">
+            前項の場合においては、なるべく特に設けた病室に収容し、必要があれば、特別の衣類及び寝具を与えなければならない。
+          </article_item>
+          <article_item number="３">
+            近親者が看護を願出たときは、矯正教育に害がない限り、これを許可することができる。
+          </article_item>
+        </articles>
+        <articles number="第四十九条">
+          <article_item>
+            少年院内で適当な医療を施すことができないときは、在院者を一時病院に入れ、又は自宅その他適当な場所において、医療を受けさせることができる。
+          </article_item>
+        </articles>
+        <articles number="第五十条">
+          <article_item>
+            感染症の予防及び感染症の患者に対する医療に関する法律（平成十年法律第百十四号）に定める感染症その他感染性の疾病が発生し、又は発生する虞があるときは、病者を隔離する等予防を厳にし、応急適切な措置を講じなければならない。
+          </article_item>
+        </articles>
+        <articles number="第五十一条">
+          <article_item>
+            在院者が重態となり、又はその虞があると認めるときは、直ちに近親者その他適当と認める者に通知しなければならない。
+          </article_item>
+        </articles>
+      </sho>
+      <sho title="第七章　面会及び通信">
+        <articles number="第五十二条">
+          <article_item>
+            面会は、矯正教育に害があると認める場合を除き、許可しなければならない。
+          </article_item>
+        </articles>
+        <articles number="第五十三条">
+          <article_item>
+            面会は、なるべく特に設けた場所で行わせなければならない。
+          </article_item>
+        </articles>
+        <articles number="第五十四条">
+          <article_item>
+            面会にあたつては、これを有益に指導するため、職員が立会わなければならない。
+          </article_item>
+        </articles>
+        <articles number="第五十五条">
+          <article_item>
+            通信及び小包の発受は、矯正教育に害があると認める場合を除き、許可しなければならない。
+          </article_item>
+        </articles>
+        <articles number="第五十六条">
+          <article_item>
+            院長は、在院者の矯正教育上必要があると認めるときは、近親者その他適当な者に対し、通信又は面会をするように、勧めなければならない。
+          </article_item>
+        </articles>
+        <articles number="第五十七条">
+          <article_item>
+            近親者が重態であるときは、在院者を往訪させることができる。近親者でない場合においても、矯正教育上適当であると認めるときは、同様とする。
+          </article_item>
+          <article_item number="２">
+            近親者が死亡したときは、葬儀に参列させることができる。近親者でない場合においても、矯正教育上適当であると認めるときは、同様とする。
+          </article_item>
+        </articles>
+      </sho>
+      <sho title="第八章　賞罰">
+        <articles number="第五十八条">
+          <article_item>
+            賞票の種類は、左の通りとする。
+            <go>
+              <go_item number="一">
+                賞状
+              </go_item>
+              <go_item number="二">
+                記章
+              </go_item>
+            </go>
+          </article_item>
+        </articles>
+        <articles number="第五十九条">
+          <article_item>
+            殊遇の種類は、左の通りとする。
+            <go>
+              <go_item number="一">
+                特別外出
+              </go_item>
+              <go_item number="二">
+                特別帰省又は外泊
+              </go_item>
+            </go>
+          </article_item>
+        </articles>
+        <articles number="第六十条">
+          <article_item>
+            賞は、在院者全員を集合させた席上で、その趣旨を明らかにして、本人に与えなければならない。
+          </article_item>
+        </articles>
+        <articles number="第六十一条">
+          <article_item>
+            懲戒は、情状により、その執行の猶予、停止又は免除を行うことができる。
+          </article_item>
+        </articles>
+      </sho>
+      <sho title="第九章　領置">
+        <articles number="第六十二条">
+          <article_item>
+            金品を領置する場合には、本人立合の上その種類及び数量を点検し、領置簿に必要な事項を記載しなければならない。
+          </article_item>
+        </articles>
+        <articles number="第六十三条">
+          <article_item>
+            物品を領置した場合には、洗浄、消毒その他適当な処置を施したのち、保管しなければならない。但し、少年鑑別所において、すでに同様の処置を施した場合には、この限りでない。
+          </article_item>
+        </articles>
+        <articles number="第六十四条">
+          <article_item>
+            金銭を領置した場合、保管上適当であると認めるときは、本人の名において預金し、その通帳を保管することができる。
+          </article_item>
+        </articles>
+        <articles number="第六十五条">
+          <article_item>
+            領置した金品は、仮退院又は退院その他領置の必要がなくなつたときは、本人に還付しなければならない。但し、在院中においても、必要があると認めるときは、これを交付することができる。
+          </article_item>
+          <article_item number="２">
+            前項の場合には、領置簿にその旨を記載し、本人に署名又は押印させなければならない。
+          </article_item>
+        </articles>
+        <articles number="第六十六条">
+          <article_item>
+            在院者を他の少年院に移送する場合には、領置した金品及び預金通帳は、領置簿とともに送付しなければならない。
+          </article_item>
+        </articles>
+      </sho>
+      <sho title="第十章　出院">
+        <articles number="第六十七条">
+          <article_item>
+            仮退院又は退院（少年院法第十一条の場合を除く。）は、地方更生保護委員会の決定書の謄本又は犯罪をした者及び非行のある少年に対する社会内における処遇に関する規則（平成二十年法務省令第二十八号）第六条第二項に規定する方法により送付された決定書の写しによる。
+          </article_item>
+          <article_item number="２">
+            院長は、仮退院に係る前項の文書を受け取つたときは、速やかに、出院の日時その他必要な事項を近親者その他の保護を引き受ける者に通知しなければならない。
+          </article_item>
+          <article_item number="３">
+            院長は、退院に係る第一項の文書を受け取つたときは、速やかに、出迎えに要する期間を考慮して出院の日時を定め、これをその他必要な事項とともに、前項に掲げる者に通知しなければならない。
+          </article_item>
+          <article_item number="４">
+            院長は、第一項の仮退院者及び退院者の引渡しについて、地方更生保護委員会が、近親者、保護観察官、保護司又はその他適当と認める者を指定した場合には、これに従わなければならない。
+          </article_item>
+        </articles>
+        <articles number="第六十八条">
+          <article_item>
+            院長は、少年院法第十一条の規定により、退院させるべき在院者については、その期日を誤らないように、あらかじめ注意をしなければならない。
+          </article_item>
+          <article_item number="２">
+            前項の退院については、前条第二項の規定を準用する。
+          </article_item>
+        </articles>
+        <articles number="第六十九条">
+          <article_item>
+            仮退院又は退院をさせる場合において、本人が重態であるとき、その他本人の利益のため止むを得ない事由があるときは、その願出により、引続き在院させることができる。但し、第六十七条第一項の仮退院者又は退院者については、矯正管区長を経由して、地方更生保護委員会に、すみやかにその旨報告しなければならない。
+          </article_item>
+        </articles>
+        <articles number="第七十条">
+          <article_item>
+            少年院法第十七条の三の規定による旅費又は衣類の給与は、本人が領置金品その他の方法によりこれを調達することができるかどうかをあらかじめ確めた上で、決定しなければならない。
+          </article_item>
+          <article_item number="２">
+            旅費は、帰住地までの鉄道、船車等に要する実費とする。但し、乗車券又は乗船切符の支給をもつて現金の支給に代えることができる。
+          </article_item>
+          <article_item number="３">
+            衣類は、時季に相当した通常のものとする。
+          </article_item>
+        </articles>
+        <articles number="第七十一条">
+          <article_item>
+            削除
+          </article_item>
+        </articles>
+        <articles number="第七十二条">
+          <article_item>
+            院長は、少年院法第十条第一項の規定により在院者の移送の認可を求める場合には、書面により、移送を必要とする理由その他参考となるべき事項を明記して、上申しなければならない。但し、緊急やむを得ない場合には、書面以外の方法によることができる。
+          </article_item>
+        </articles>
+        <articles number="第七十三条">
+          <article_item>
+            削除
+          </article_item>
+        </articles>
+        <articles number="第七十四条">
+          <article_item>
+            在院者を移送する場合には、移送書に認可書、少年簿その他必要なすべての書類を添付しなければならない。
+          </article_item>
+        </articles>
+        <articles number="第七十四条の二">
+          <article_item>
+            院長は、少年院法第十条第二項及び第三項の規定により在院者の移送の通知をする場合には、移送を必要とする理由、入院後における少年の行状その他参考となるべき事項をあわせて通知しなければならない。
+          </article_item>
+          <article_item number="２">
+            通知は、在院者を移送した後できるだけすみやかに行わなければならない。
+          </article_item>
+        </articles>
+        <articles number="第七十四条の三">
+          <article_item>
+            少年法第二十七条の二第三項の規定による保護処分の取消しに関する通知は、当該資料が信用できるものであることを確かめた上でしなければならない。
+          </article_item>
+          <article_item number="２">
+            前項の通知をする場合には、院長の意見を附記しなければならない。
+          </article_item>
+        </articles>
+        <articles number="第七十四条の四">
+          <article_item>
+            少年法第二十七条の二第五項の規定による在院者の収容の継続は、家庭裁判所の収容決定書の謄本に基づいてしなければならない。
+          </article_item>
+          <article_item number="２">
+            収容を継続する場合には、関係検察官と密接に連絡し、その身柄の処置につき手ちがいのないようにしなければならない。
+          </article_item>
+        </articles>
+      </sho>
+      <sho title="第十一章　雑則">
+        <articles number="第七十五条">
+          <article_item>
+            在院者が、故意又は重大な過失により、少年院の施設、備品等に損害を加えた場合は、賞与金の中からこれを弁償させることができる。
+          </article_item>
+        </articles>
+        <articles number="第七十六条">
+          <article_item>
+            手錠の使用は、他に適当な措置がない場合に限るものとする。
+          </article_item>
+          <article_item number="２">
+            緊急を要する状態にあつて、手錠の使用について、あらかじめ院長の許可を受けるいとまのないときは、使用した後、すみやかに院長の承認を受けなければならない。
+          </article_item>
+          <article_item number="３">
+            手錠を使用する必要がなくなつたときは、ただちにその使用をやめなければならない。
+          </article_item>
+        </articles>
+        <articles number="第七十七条">
+          <article_item>
+            在院者が死亡したときは、病名、死因及び死亡の日時をすみやかに近親者又はその他適当と認める者に通知し、遺骸を引取らせなければならない。
+          </article_item>
+          <article_item number="２">
+            前項の場合において、引取人がないときは、正規の手続により仮に埋葬し、死者の氏名及び死亡の年月日を記した墓標を立て、葬儀を行わなければならない。
+          </article_item>
+        </articles>
+        <articles number="第七十八条">
+          <article_item>
+            少年院法第十七条の四第一項に規定する遺留金品については、進んで関係人に通知するように努め、且つ、その交付の請求があつたときは、死亡者の相続関係を調査し、正当な相続人に交付されるように留意しなければならない。
+          </article_item>
+        </articles>
+        <articles number="第七十九条">
+          <article_item>
+            逃走、死亡、感染性の疾病の発生その他重大な事故が起つたときは、直ちに矯正管区長に報告しなければならない。
+          </article_item>
+          <article_item number="２">
+            抗告中の在院者が逃走し、又は死亡し、若しくは重態に陥つたときは、直ちに事件が係属している裁判所に通知しなければならない。
+          </article_item>
+        </articles>
+        <articles number="第七十九条の二">
+          <article_item>
+            院長は、連戻しについて、警察官に援助を求めるには、書面によらなければならない。但し、緊急を要するときは、口頭その他適当な方法によることができる。この場合においては、援助を求める旨の書面をできる限りすみやかに送付しなければならない。
+          </article_item>
+        </articles>
+        <articles number="第七十九条の三">
+          <article_item>
+            院長は、連戻状の発付を受けた場合には、連戻しについて援助を求めた警察官に、これを送付しなければならない。但し、送付できない場合は、連戻状が発せられている旨を通知すれば足りる。
+          </article_item>
+        </articles>
+        <articles number="第七十九条の四">
+          <article_item>
+            院長は、連戻しについて警察官に援助を求めた場合において、警察官から逃走した者を保護している旨の通知があつたときは、すみやかに連れ戻す措置を講じなければならない。
+          </article_item>
+        </articles>
+        <articles number="第八十条">
+          <article_item>
+            少年法第十七条の四第一項及び少年院法第十七条の二の規定により少年院に仮に収容された者の取扱いについては、仮収容の性質に反しない限り、在院者に関する規定を準用する。
+          </article_item>
+        </articles>
+      </sho>
+    </content>
+  </body>
+</law>

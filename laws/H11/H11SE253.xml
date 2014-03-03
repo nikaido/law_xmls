@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>周辺事態に際して我が国の平和及び安全を確保するための措置に関する法律第三条第一項第四号の関係行政機関を定める政令</title>
+    <defined>平成十一年八月十八日政令第二百五十三号</defined>
+    <updated>平成二四年九月一四日政令第二三五号</updated>
+  </head>
+  <body>
+    <preamble><p>内閣は、周辺事態に際して我が国の平和及び安全を確保するための措置に関する法律（平成十一年法律第六十号）第三条第一項第四号の規定に基づき、この政令を制定する。</p></preamble>
+    <content>
+      <articles>
+        <article_item>
+          周辺事態に際して我が国の平和及び安全を確保するための措置に関する法律第三条第一項第四号の政令で定める機関は、次のとおりとする。
+          <go>
+            <go_item number="一">
+              内閣府
+            </go_item>
+            <go_item number="二">
+              国家公安委員会
+            </go_item>
+            <go_item number="三">
+              警察庁
+            </go_item>
+            <go_item number="四">
+              消費者庁
+            </go_item>
+            <go_item number="五">
+              総務省
+            </go_item>
+            <go_item number="六">
+              消防庁
+            </go_item>
+            <go_item number="七">
+              法務省
+            </go_item>
+            <go_item number="八">
+              公安調査庁
+            </go_item>
+            <go_item number="九">
+              外務省
+            </go_item>
+            <go_item number="十">
+              財務省
+            </go_item>
+            <go_item number="十一">
+              国税庁
+            </go_item>
+            <go_item number="十二">
+              文部科学省
+            </go_item>
+            <go_item number="十三　">
+              文化庁 
+            </go_item>
+            <go_item number="十四">
+              厚生労働省
+            </go_item>
+            <go_item number="十五">
+              農林水産省
+            </go_item>
+            <go_item number="十六">
+              林野庁
+            </go_item>
+            <go_item number="十七">
+              水産庁
+            </go_item>
+            <go_item number="十八">
+              経済産業省
+            </go_item>
+            <go_item number="十九">
+              資源エネルギー庁
+            </go_item>
+            <go_item number="二十">
+              国土交通省
+            </go_item>
+            <go_item number="二十一">
+              観光庁
+            </go_item>
+            <go_item number="二十二">
+              気象庁
+            </go_item>
+            <go_item number="二十三">
+              海上保安庁
+            </go_item>
+            <go_item number="二十四">
+              環境省
+            </go_item>
+            <go_item number="二十五">
+              原子力規制委員会
+            </go_item>
+            <go_item number="二十六">
+              防衛省
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

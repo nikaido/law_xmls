@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>国土形成計画法施行令</title>
+    <defined>平成十八年七月七日政令第二百三十号</defined>
+    <updated>平成二三年一〇月二一日政令第三二三号</updated>
+  </head>
+  <body>
+    <preamble><p>内閣は、国土形成計画法（昭和二十五年法律第二百五号）第九条第一項各号及び第十条第一項の規定に基づき、この政令を制定する。</p></preamble>
+    <content>
+      <articles number="第一条" title="（広域地方計画区域）">
+        <article_item>
+          国土形成計画法（以下「法」という。）第九条第一項第一号の政令で定める県は、茨城県、栃木県、群馬県、千葉県及び山梨県とする。
+        </article_item>
+        <article_item number="２">
+          法第九条第一項第二号の政令で定める県は、滋賀県、奈良県及び和歌山県とする。
+        </article_item>
+        <article_item number="３">
+          法第九条第一項第三号の政令で定める県は、長野県、岐阜県及び静岡県とする。
+        </article_item>
+        <article_item number="４">
+          法第九条第一項第四号の政令で定める区域は、次に掲げる区域とする。
+          <go>
+            <go_item number="一">
+              東北圏（青森県、岩手県、宮城県、秋田県、山形県、福島県及び新潟県の区域を一体とした区域をいう。別表において同じ。）
+            </go_item>
+            <go_item number="二">
+              北陸圏（富山県、石川県及び福井県の区域を一体とした区域をいう。別表において同じ。）
+            </go_item>
+            <go_item number="三">
+              中国圏（鳥取県、島根県、岡山県、広島県及び山口県の区域を一体とした区域をいう。別表において同じ。）
+            </go_item>
+            <go_item number="四">
+              四国圏（徳島県、香川県、愛媛県及び高知県の区域を一体とした区域をいう。別表において同じ。）
+            </go_item>
+            <go_item number="五">
+              九州圏（福岡県、佐賀県、長崎県、熊本県、大分県、宮崎県及び鹿児島県の区域を一体とした区域をいう。別表において同じ。）
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第二条" title="（広域地方計画協議会の組織）">
+        <article_item>
+          法第十条第一項の広域地方計画協議会は、別表の上欄に掲げる広域地方計画区域ごとに、次に掲げる国の地方行政機関で当該広域地方計画区域の全部又は一部を管轄するもの並びに同表の下欄に定める都府県及び指定都市（地方自治法（昭和二十二年法律第六十七号）第二百五十二条の十九第一項の指定都市をいう。）により組織する。
+          <go>
+            <go_item number="一">
+              管区警察局
+            </go_item>
+            <go_item number="二">
+              総合通信局
+            </go_item>
+            <go_item number="三">
+              財務局
+            </go_item>
+            <go_item number="四">
+              地方厚生局
+            </go_item>
+            <go_item number="五">
+              地方農政局
+            </go_item>
+            <go_item number="六">
+              森林管理局
+            </go_item>
+            <go_item number="七">
+              経済産業局
+            </go_item>
+            <go_item number="八">
+              地方整備局
+            </go_item>
+            <go_item number="九">
+              地方運輸局
+            </go_item>
+            <go_item number="十">
+              管区海上保安本部
+            </go_item>
+            <go_item number="十一">
+              地方環境事務所
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

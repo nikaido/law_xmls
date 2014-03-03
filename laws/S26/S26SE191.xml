@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>沖縄振興開発金融公庫の予算及び決算に関する法律施行令</title>
+    <defined>昭和二十六年六月二日政令第百九十一号</defined>
+    <updated>平成二〇年九月一九日政令第二九七号</updated>
+  </head>
+  <body>
+    <preamble><p>内閣は、公庫の予算及び決算に関する法律（昭和二十六年法律第九十九号）第二十五条の規定に基き、この政令を制定する。</p></preamble>
+    <content>
+      <articles number="第一条" title="（移用及び流用の手続）">
+        <article_item>
+          沖縄振興開発金融公庫（以下「公庫」という。）は、沖縄振興開発金融公庫の予算及び決算に関する法律第十四条第一項ただし書又は同条第二項の規定に基づく移用又は流用について財務大臣の承認を受けようとするときは、移用又は流用を必要とする理由、科目及び金額を明らかにした書類を主務大臣を経由して財務大臣に送付しなければならない。
+        </article_item>
+      </articles>
+      <articles number="第二条" title="（実施細目）">
+        <article_item>
+          前条に規定するもののほか、公庫の予算の作成及び執行並びに決算の作成の手続その他の細目について必要な事項は、財務大臣が、主務大臣に諮つて定める。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

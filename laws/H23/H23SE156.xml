@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>展覧会における美術品損害の補償に関する法律施行令</title>
+    <defined>平成二十三年五月二十七日政令第百五十六号</defined>
+  </head>
+  <body>
+    <preamble><p>内閣は、展覧会における美術品損害の補償に関する法律（平成二十三年法律第十七号）第四条第一項及び第十三条の規定に基づき、この政令を制定する。</p></preamble>
+    <content>
+      <articles number="第一条" title="（補償上限額）">
+        <article_item>
+          展覧会における美術品損害の補償に関する法律（以下「法」という。）第四条第一項に規定する補償上限額として政令で定める額は、九百五十億円とする。
+        </article_item>
+      </articles>
+      <articles number="第二条" title="（特定損害）">
+        <article_item>
+          法第四条第一項第一号の政令で定める損害は、地震若しくは噴火又はテロリズムの行為によって生じた損害とする。
+        </article_item>
+      </articles>
+      <articles number="第三条" title="（法第四条第一項各号の政令で定める額）">
+        <article_item>
+          法第四条第一項第一号の政令で定める額は、五十億円とする。
+        </article_item>
+        <article_item number="２">
+          法第四条第一項第二号の政令で定める額は、一億円とする。
+        </article_item>
+      </articles>
+      <articles number="第四条" title="（業務の委託）">
+        <article_item>
+          文部科学大臣が法第十三条の規定により委託することができる業務は、次に掲げる業務とする。
+          <go>
+            <go_item number="一">
+              補償金の支払の請求の受付
+            </go_item>
+            <go_item number="二">
+              補償対象損害の額に関する調査
+            </go_item>
+            <go_item number="三">
+              前二号に掲げるもののほか、補償金の支払に関する業務（補償金の額の決定を除く。）で文部科学省令で定めるもの
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>沿岸漁場整備開発法施行規則</title>
+    <defined>昭和四十九年五月二十日農林省令第二十五号</defined>
+    <updated>平成二〇年一一月二八日農林水産省令第七三号</updated>
+  </head>
+  <body>
+    <preamble><p>沿岸漁場整備開発法（昭和四十九年法律第四十九号）第六条第一項、第八条第二項及び第十二条第一項の規定に基づき、並びに同法を実施するため、沿岸漁場整備開発法施行規則を次のように定める。</p></preamble>
+    <content>
+      <articles number="第一条" title="（特定水産動物育成事業の認可の申請書に記載すべき事項）">
+        <article_item>
+          沿岸漁場整備開発法（以下「法」という。）第八条第二項の申請書には、次に掲げる事項を記載しなければならない。
+          <go>
+            <go_item number="一">
+              特定水産動物育成事業を行おうとする漁業協同組合等（法第七条の二第二項第四号に規定する漁業協同組合等をいう。次条において同じ。）の名称及び住所
+            </go_item>
+            <go_item number="二">
+              育成水面の区域
+            </go_item>
+            <go_item number="三">
+              特定水産動物育成事業を行おうとする期間
+            </go_item>
+            <go_item number="四">
+              その他必要な事項
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第二条" title="（特定水産動物育成事業の認可の申請書に添付すべき書類）">
+        <article_item>
+          法第八条第一項の規定による認可の申請は、その申請書に、育成水面利用規則のほか、次に掲げる書類を添えてしなければならない。
+          <go>
+            <go_item number="一">
+              特定水産動物育成事業の概要を記載した書面
+            </go_item>
+            <go_item number="二">
+              育成水面の区域を示す図面
+            </go_item>
+            <go_item number="三">
+              漁業協同組合等の定款
+            </go_item>
+            <go_item number="四">
+              漁業協同組合等の総会の議事録の謄本
+            </go_item>
+            <go_item number="五">
+              漁業協同組合にあつては、法第九条第一項の規定による同意のあつたことを証する書面
+            </go_item>
+            <go_item number="六">
+              漁業協同組合連合会にあつては、法第九条第二項及び第三項の同意のあつたことを証する書面
+            </go_item>
+            <go_item number="七">
+              育成水面の区域内において漁場としての水面の利用以外の水面の利用が行われている場合にあつては、育成水面の利用と当該漁場としての水面の利用以外の水面の利用との調整が終了していることを証する書面
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第三条" title="（育成水面利用規則に係る軽微な変更）">
+        <article_item>
+          法第十二条第一項の農林水産省令で定める軽微な変更は、次に掲げる事項の変更以外の変更とする。
+          <go>
+            <go_item number="一">
+              育成水面の区域
+            </go_item>
+            <go_item number="二">
+              法第八条第二項第一号及び第二号に掲げる事項
+            </go_item>
+            <go_item number="三">
+              組合員等（法第八条第二項第二号に規定する組合員等をいう。）以外の者で育成水面の区域内において特定水産動物を採捕するものから徴収する利用料の額及びその徴収の方法
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第四条" title="（指定法人の指定の申請）">
+        <article_item>
+          法第十五条第一項の規定による指定を受けようとする者は、次に掲げる事項を記載した申請書を都道府県知事に提出しなければならない。
+          <go>
+            <go_item number="一">
+              名称及び代表者の氏名
+            </go_item>
+            <go_item number="二">
+              事務所の所在地
+            </go_item>
+          </go>
+        </article_item>
+        <article_item number="２">
+          前項の申請書には、次に掲げる書類を添付しなければならない。
+          <go>
+            <go_item number="一">
+              定款
+            </go_item>
+            <go_item number="二">
+              登記事項証明書
+            </go_item>
+            <go_item number="三">
+              指定の申請に関する意思の決定を証する書面
+            </go_item>
+            <go_item number="四">
+              法第十五条第一項第二号に掲げる要件を備えていることを証する書類
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第五条" title="（業務実施計画の認可の申請等）">
+        <article_item>
+          法第十七条第三項の農林水産省令で定める書類は、次に掲げる書類とする。
+          <go>
+            <go_item number="一">
+              業務実施計画の定めるところに従い実証しようとする法第十六条第二号の経済効果に関する資料その他当該業務実施計画において定めた法第十七条第二項第一号及び第二号の事項に関する資料
+            </go_item>
+            <go_item number="二">
+              業務実施計画に関する意思の決定を証する書面
+            </go_item>
+          </go>
+        </article_item>
+        <article_item number="２">
+          法第二十条第二項において準用する法第十七条第三項の農林水産省令で定める書類は、業務実施計画の変更の理由を記載した書面及び当該変更に係る前項各号に掲げる書類とする。
+        </article_item>
+      </articles>
+      <articles number="第六条" title="（業務実施計画に係る軽微な変更）">
+        <article_item>
+          法第二十条第一項の農林水産省令で定める軽微な変更は、次に掲げる事項の変更以外の変更とする。
+          <go>
+            <go_item number="一">
+              放流効果実証事業の対象とする水産動物の種類
+            </go_item>
+            <go_item number="二">
+              放流効果実証事業の対象とする水産動物の種苗の放流場所及び放流時期
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第七条" title="（漁場利用協定の締結に係る勧告の申請）">
+        <article_item>
+          法第二十四条第一項の規定による申請をしようとする者は、次に掲げる事項を記載した申請書を都道府県知事に提出しなければならない。
+          <go>
+            <go_item number="一">
+              申請者の名称及び住所並びに代表者の氏名
+            </go_item>
+            <go_item number="二">
+              相手方の名称及び住所並びに代表者の氏名
+            </go_item>
+          </go>
+        </article_item>
+        <article_item number="２">
+          前項の申請書には、次に掲げる書類を添付しなければならない。
+          <go>
+            <go_item number="一">
+              漁場利用協定の締結のため交渉をしたい旨の申出をした際に相手方に示した漁場利用協定の案
+            </go_item>
+            <go_item number="二">
+              申請者の定款又は規約及び構成員の名簿
+            </go_item>
+            <go_item number="三">
+              相手方の法第二十四条第一項に規定する団体（漁業協同組合及び漁業協同組合連合会を含む。以下同じ。）としての要件に関する資料
+            </go_item>
+            <go_item number="四">
+              相手方との交渉の経緯及び勧告を申請する理由を記載した書面
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第八条" title="（漁場利用協定の届出）">
+        <article_item>
+          法第二十五条の規定による漁場利用協定の内容の届出は、次に掲げる事項を記載した届出書を提出してしなければならない。
+          <go>
+            <go_item number="一">
+              届出者及びその他の当事者の名称及び住所並びに代表者の氏名
+            </go_item>
+            <go_item number="二">
+              漁場利用協定の締結の年月日
+            </go_item>
+          </go>
+        </article_item>
+        <article_item number="２">
+          前項の届出書には、次に掲げる書類を添付しなければならない。
+          <go>
+            <go_item number="一">
+              漁場利用協定の写し
+            </go_item>
+            <go_item number="二">
+              届出者の定款又は規約及び構成員の名簿
+            </go_item>
+            <go_item number="三">
+              届出者以外の当事者の法第二十四条第一項に規定する団体としての要件に関する資料
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第九条" title="（紛争に係るあつせんの申請）">
+        <article_item>
+          法第二十六条第一項の規定によるあつせんの申請は、次に掲げる事項を記載した申請書を提出してしなければならない。
+          <go>
+            <go_item number="一">
+              申請者の名称及び住所並びに代表者の氏名
+            </go_item>
+            <go_item number="二">
+              あつせんの申請に係る相手方の名称及び住所並びに代表者の氏名
+            </go_item>
+          </go>
+        </article_item>
+        <article_item number="２">
+          前項の申請書には、次に掲げる書類を添付しなければならない。
+          <go>
+            <go_item number="一">
+              紛争の経緯及びその内容を記載した書面
+            </go_item>
+            <go_item number="二">
+              当事者が紛争の解決のためにとつた措置の内容及びあつせんを申請する理由を記載した書面
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

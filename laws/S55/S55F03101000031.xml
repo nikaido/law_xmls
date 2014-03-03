@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>宮内庁組織規則</title>
+    <defined>昭和五十五年六月三十日総理府令第三十一号</defined>
+    <updated>平成一三年六月一三日内閣府令第六〇号</updated>
+  </head>
+  <body>
+    <preamble><p>宮内庁法（昭和二十二年法律第七十号）第十条の規定に基づき、宮内庁の附属機関及び京都事務所の位置及び内部組織に関する総理府令を次のように定める。</p></preamble>
+    <content>
+      <sho title="第一章　内部部局">
+        <articles number="第一条" title="（調査企画室）">
+          <article_item>
+            長官官房秘書課は、調査企画室を置く。
+          </article_item>
+          <article_item number="２">
+            調査企画室においては、長官官房秘書課の所掌事務のうち、宮内庁組織令（昭和二十七年政令第三百七十七号。以下「令」という。）第十一条第五号、第六号及び第十二号に掲げる事務、同条第十三号に掲げる事務のうち重要事項の総合調整に関する事務並びに同条第十四号に掲げる事務のうち重要事項の企画及び立案に関する事務をつかさどる。
+          </article_item>
+          <article_item number="３">
+            調査企画室に、室長を置く。
+          </article_item>
+          <article_item number="４">
+            室長は、命を受けて、調査企画室の事務を掌理する。
+          </article_item>
+        </articles>
+        <articles number="第二条" title="（報道室）">
+          <article_item>
+            長官官房総務課に、報道室を置く。
+          </article_item>
+          <article_item number="２">
+            報道室においては、長官官房総務課の所掌事務のうち、令第十二条第五号に掲げる事務をつかさどる。
+          </article_item>
+          <article_item number="３">
+            報道室に、室長を置く。
+          </article_item>
+          <article_item number="４">
+            室長は、命を受けて、報道室の事務を掌理する。
+          </article_item>
+        </articles>
+      </sho>
+      <sho title="第二章　施設等機関">
+        <setsu title="第一節　正倉院事務所">
+          <articles number="第三条" title="（位置）">
+            <article_item>
+              正倉院事務所は、奈良市に置く。
+            </article_item>
+          </articles>
+          <articles number="第四条" title="（所長）">
+            <article_item>
+              正倉院事務所に、所長を置く。
+            </article_item>
+            <article_item number="２">
+              所長は、所務を掌理する。
+            </article_item>
+          </articles>
+          <articles number="第五条" title="（分課）">
+            <article_item>
+              正倉院事務所に、次の二課を置く。
+              　庶務課<br></br>
+              　保存課<br></br>
+            </article_item>
+            <article_item number="２">
+              各課に課長を置く。課長は、命を受けて、課の事務を掌理する。
+            </article_item>
+          </articles>
+          <articles number="第六条" title="（庶務課）">
+            <article_item>
+              庶務課においては、次の事務をつかさどる。
+              <go>
+                <go_item number="一">
+                  文書、人事、会計及び物品の管理に関すること。
+                </go_item>
+                <go_item number="二">
+                  土地、建物及び工作物の管理に関すること。
+                </go_item>
+                <go_item number="三">
+                  前二号に掲げるもののほか、正倉院事務所の所掌事務で保存課の所掌に属しない事務に関すること。
+                </go_item>
+              </go>
+            </article_item>
+          </articles>
+          <articles number="第七条" title="（保存課）">
+            <article_item>
+              保存課においては、次の事務をつかさどる。
+              <go>
+                <go_item number="一">
+                  正倉院宝物の管理に関すること。
+                </go_item>
+                <go_item number="二">
+                  正倉院宝物の調査研究に関すること。
+                </go_item>
+              </go>
+            </article_item>
+          </articles>
+        </setsu>
+        <setsu title="第二節　御料牧場">
+          <articles number="第八条" title="（位置）">
+            <article_item>
+              御料牧場は、栃木県に置く。
+            </article_item>
+          </articles>
+          <articles number="第九条" title="（場長及び次長）">
+            <article_item>
+              御料牧場に、場長及び次長一人を置く。
+            </article_item>
+            <article_item number="２">
+              場長は、場務を掌理する。
+            </article_item>
+            <article_item number="３">
+              次長は、場長を助け、場務を整理する。
+            </article_item>
+          </articles>
+          <articles number="第十条" title="（分課）">
+            <article_item>
+              御料牧場に、次の三課を置く。
+              　庶務課<br></br>
+              　畜産課<br></br>
+              　農産課<br></br>
+            </article_item>
+            <article_item number="２">
+              各課に課長を置く。課長は、命を受けて、課の事務を掌理する。
+            </article_item>
+          </articles>
+          <articles number="第十一条" title="（庶務課）">
+            <article_item>
+              庶務課においては、次の事務をつかさどる。
+              <go>
+                <go_item number="一">
+                  文書、人事、会計及び物品の管理に関すること。
+                </go_item>
+                <go_item number="二">
+                  土地、建物及び工作物の管理に関すること。
+                </go_item>
+                <go_item number="三">
+                  前二号に掲げるもののほか、御料牧場の所掌事務で他課の所掌に属しない事務に関すること。
+                </go_item>
+              </go>
+            </article_item>
+          </articles>
+          <articles number="第十二条" title="（畜産課）">
+            <article_item>
+              畜産課においては、次の事務をつかさどる。
+              <go>
+                <go_item number="一">
+                  家畜及び家きんの飼養管理に関すること。
+                </go_item>
+                <go_item number="二">
+                  畜産物の生産に関すること。
+                </go_item>
+              </go>
+            </article_item>
+          </articles>
+          <articles number="第十三条" title="（農産課）">
+            <article_item>
+              農産課においては、牧草、飼料作物及び野菜の生産に関する事務をつかさどる。
+            </article_item>
+          </articles>
+        </setsu>
+      </sho>
+      <sho title="第三章　京都事務所">
+        <articles number="第十四条" title="（位置）">
+          <article_item>
+            京都事務所は、京都市に置く。
+          </article_item>
+        </articles>
+        <articles number="第十五条" title="（所長及び次長）">
+          <article_item>
+            京都事務所に、所長及び次長一人を置く。
+          </article_item>
+          <article_item number="２">
+            所長は、所務を掌理する。
+          </article_item>
+          <article_item number="３">
+            次長は、所長を助け、所務を整理する。
+          </article_item>
+        </articles>
+        <articles number="第十六条" title="（分課）">
+          <article_item>
+            京都事務所に、次の四課を置く。
+            　庶務課<br></br>
+            　管理課<br></br>
+            　工務課<br></br>
+            　林園課<br></br>
+          </article_item>
+          <article_item number="２">
+            各課に課長を置く。課長は、命を受けて、課の事務を掌理する。
+          </article_item>
+        </articles>
+        <articles number="第十七条" title="（庶務課）">
+          <article_item>
+            庶務課においては、次の事務をつかさどる。
+            <go>
+              <go_item number="一">
+                文書、人事及び物品の管理に関すること。
+              </go_item>
+              <go_item number="二">
+                経費及び収入の予算、決算及び会計に関すること。
+              </go_item>
+              <go_item number="三">
+                工事の監査に関すること。
+              </go_item>
+              <go_item number="四">
+                前三号に掲げるもののほか、京都事務所の所掌事務で他課の所掌に属しない事務に関すること。
+              </go_item>
+            </go>
+          </article_item>
+        </articles>
+        <articles number="第十八条" title="（管理課）">
+          <article_item>
+            管理課においては、次の事務をつかさどる。
+            <go>
+              <go_item number="一">
+                皇室用財産その他の行政財産を管理すること。
+              </go_item>
+              <go_item number="二">
+                京都御所、仙洞御所、桂離宮及び修学院離宮の参観に関すること。
+              </go_item>
+            </go>
+          </article_item>
+        </articles>
+        <articles number="第十九条" title="（工務課）">
+          <article_item>
+            工務課においては、次の事務をつかさどる。
+            <go>
+              <go_item number="一">
+                建築、土木その他の工事に関すること。
+              </go_item>
+              <go_item number="二">
+                水道、電気、ガスその他の設備に関すること。
+              </go_item>
+            </go>
+          </article_item>
+        </articles>
+        <articles number="第二十条" title="（林園課）">
+          <article_item>
+            林園課においては、庭園及び樹林に関する事務をつかさどる。
+          </article_item>
+        </articles>
+      </sho>
+    </content>
+  </body>
+</law>

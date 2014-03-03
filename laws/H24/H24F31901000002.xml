@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>原子力規制委員会設置法施行規則</title>
+    <defined>平成二十四年九月十九日原子力規制委員会規則第二号</defined>
+  </head>
+  <body>
+    <preamble><p>原子力規制委員会設置法（平成二十四年法律第四十七号）第十条第五項の規定に基づき、原子力規制委員会設置法施行規則を次のように定める。</p></preamble>
+    <content>
+      <articles>
+        <article_item>
+          原子力規制委員会設置法第十条第五項の規定による報告は、次の各号に掲げる事項について行うものとする。
+          <go>
+            <go_item number="一">
+              原子力規制委員会を臨時に代理した旨及びその理由
+            </go_item>
+            <go_item number="二">
+              原子力規制委員会を臨時に代理した事項の内容及び日時
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>内閣府の主管又は所管に係る一般会計及び特別会計の歳入について証券をもって納付しうる種目を定める内閣府令</title>
+    <defined>昭和三十四年八月十九日総理府令第四十八号</defined>
+    <updated>平成一二年八月一四日総理府令第八八号</updated>
+  </head>
+  <body>
+    <preamble><p>歳入納付に使用する証券に関する件（大正五年勅令第二百五十六号）第五条の規定に基き、内閣及び総理府の主管又は所管に係る一般会計及び特別会計の歳入について証券をもつて納付しうる種目を定める総理府令を次のように定める。</p></preamble>
+    <content>
+      <articles>
+        <article_item>
+          内閣府の主管又は所管に係る一般会計及び特別会計の歳入は、別段の定めのあるものを除き、証券をもつて納付することができる。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

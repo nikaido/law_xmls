@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>測定器等の較正に関する規則</title>
+    <defined>平成九年九月二十五日郵政省令第七十四号</defined>
+    <updated>平成二〇年一二月一七日総務省令第一四六号</updated>
+  </head>
+  <body>
+    <preamble><p>電波法（昭和二十五年法律第百三十一号）第百二条の十八の規定に基づき、及び同法を実施するため測定器等の較正に関する規則を次のように定める。</p></preamble>
+    <content>
+      <sho title="第一章　総則">
+        <articles number="第一条" title="（目的）">
+          <article_item>
+            この規則は、別に定めるものを除くほか、測定器等（法第百二条の十八第一項の測定器等をいう。以下同じ。）の較正に関し、法の委任に基づく事項及び法の規定を施行するために必要な事項を定めることを目的とする。
+          </article_item>
+        </articles>
+        <articles number="第二条" title="（対象とする測定器等）">
+          <article_item>
+            法第百二条の十八第一項の総務省令で定める測定器等は、次のとおりとする。
+            <go>
+              <go_item number="一">
+                周波数計
+              </go_item>
+              <go_item number="二">
+                スペクトル分析器
+              </go_item>
+              <go_item number="三">
+                電界強度測定器
+              </go_item>
+              <go_item number="四">
+                高周波電力計
+              </go_item>
+              <go_item number="五">
+                電圧電流計
+              </go_item>
+              <go_item number="六">
+                標準信号発生器
+              </go_item>
+              <go_item number="七">
+                周波数標準器
+              </go_item>
+            </go>
+          </article_item>
+        </articles>
+      </sho>
+      <sho title="第二章　較正">
+        <articles number="第三条" title="（較正の申請）">
+          <article_item>
+            較正を受けようとする者は、同一の設計に係る測定器等ごとに、測定器等の操作及び保守の方法を記載した書面を添えて、較正を受けようとする測定器等とともに、独立行政法人情報通信研究機構（以下「機構」という。）が定める事項を記載した申請書を機構に、又は法第百二条の十八第一項に規定する指定較正機関（以下「指定較正機関」という。）が定める事項を記載した申請書を当該指定較正機関に提出しなければならない。
+          </article_item>
+        </articles>
+        <articles number="第四条" title="（較正の方法）">
+          <article_item>
+            機構又は指定較正機関は、前条の申請書を受理したときは、別表第一号に定めるところにより較正を行う。ただし、同表に掲げる方法以外の方法によることが合理的である場合には、その方法によることができる。
+          </article_item>
+        </articles>
+        <articles number="第五条" title="（較正の完了通知等）">
+          <article_item>
+            機構又は指定較正機関は、前条の較正を行ったときは、次に掲げる事項を記載した較正完了通知書をもって申請者に通知する。
+            <go>
+              <go_item number="一">
+                較正を行った測定器等の種別
+              </go_item>
+              <go_item number="二">
+                名称又は型式
+              </go_item>
+              <go_item number="三">
+                製造者名及び製造番号
+              </go_item>
+              <go_item number="四">
+                較正の結果
+              </go_item>
+              <go_item number="五">
+                較正完了年月日
+              </go_item>
+              <go_item number="六">
+                その他必要な事項
+              </go_item>
+            </go>
+          </article_item>
+          <article_item number="２">
+            機構又は指定較正機関は、当該申請に係る測定器等の有すべき確度が得られないと認めたときは、その旨の理由を付した文書をもって申請者に通知する。
+          </article_item>
+        </articles>
+        <articles number="第六条" title="（表示）">
+          <article_item>
+            法第百二条の十八第三項の表示は、別表第二号で定めるとおりとし、較正を行った測定器等の見やすい箇所に付する。
+          </article_item>
+        </articles>
+        <articles number="第七条" title="（測定器等の引取り）">
+          <article_item>
+            申請者は、第五条の通知を受けたときは、速やかに当該測定器等の操作及び保守の方法を記載した書面並びに測定器等を引き取らなければならない。
+          </article_item>
+        </articles>
+      </sho>
+      <sho title="第三章　指定較正機関">
+        <articles number="第八条" title="（指定の申請）">
+          <article_item>
+            法第百二条の十八第二項の規定による指定（以下「指定」という。）を受けようとする者は、次に掲げる事項を記載した申請書を総務大臣に提出しなければならない。
+            <go>
+              <go_item number="一">
+                名称及び住所
+              </go_item>
+              <go_item number="二">
+                較正の業務を行おうとする事務所の名称及び所在地
+              </go_item>
+              <go_item number="三">
+                較正の業務を開始しようとする日
+              </go_item>
+            </go>
+          </article_item>
+          <article_item number="２">
+            前項の申請書には、次に掲げる書類を添えなければならない。
+            <go>
+              <go_item number="一">
+                定款の謄本及び登記事項証明書
+              </go_item>
+              <go_item number="二">
+                申請の日の属する事業年度の前事業年度における財産目録及び貸借対照表。ただし、申請の日の属する事業年度に設立された法人にあっては、その設立時における財産目録とする。
+              </go_item>
+              <go_item number="三">
+                申請の日の属する事業年度及び翌事業年度における事業計画書及び収支予算書
+              </go_item>
+              <go_item number="四">
+                指定の申請に関する意志の決定を証する書類
+              </go_item>
+              <go_item number="五">
+                申請者が法人である場合は、役員の氏名及び経歴並びに法人の種類に応じて次条に定める構成員の氏名（構成員が法人である場合は、その法人の名称）及び構成員の構成割合を記載した書類
+              </go_item>
+              <go_item number="六">
+                組織及び運営に関する事項を記載した書類
+              </go_item>
+              <go_item number="七">
+                較正を行おうとする測定器等を記載した書類
+              </go_item>
+              <go_item number="八">
+                較正の業務を行おうとする事務所ごとに較正に用いる測定器その他の設備の概要及び整備計画を記載した書類
+              </go_item>
+              <go_item number="九">
+                一箇月間に較正を行うことができる測定器等ごとの数量を記載した書類
+              </go_item>
+              <go_item number="十">
+                現に行っている業務の概要を記載した書類
+              </go_item>
+              <go_item number="十一">
+                較正の業務の実施の方法に関する計画を記載した書類
+              </go_item>
+              <go_item number="十二">
+                法第百二条の十八第九項の較正員（以下「較正員」という。）の選任に関する事項を記載した書類
+              </go_item>
+              <go_item number="十三">
+                その他参考となる事項を記載した書類
+              </go_item>
+            </go>
+          </article_item>
+        </articles>
+        <articles number="第八条の二" title="（指定較正機関の構成員）">
+          <article_item>
+            法第百二条の十八第五項第三号の総務省令で定める構成員は、次の各号に掲げる法人の種類ごとに、それぞれ当該各号に掲げるものとする。
+            <go>
+              <go_item number="一">
+                一般社団法人　社員
+              </go_item>
+              <go_item number="二">
+                会社法（平成十七年法律第八十六号）第五百七十五条第一項に規定する持分会社　社員
+              </go_item>
+              <go_item number="三">
+                株式会社　株主
+              </go_item>
+              <go_item number="四">
+                事業協同組合、事業協同小組合、企業組合及び農業協同組合　組合員
+              </go_item>
+              <go_item number="五">
+                協同組合連合会及び農業協同組合連合会　直接又は間接にこれらを構成する者
+              </go_item>
+              <go_item number="六">
+                その他の法人　当該法人の種類に応じて前各号に掲げる者に準ずる者
+              </go_item>
+            </go>
+          </article_item>
+        </articles>
+        <articles number="第八条の三" title="（指定較正機関の指定の基準）">
+          <article_item>
+            法第百二条の十八第五項第四号の総務省令で定める基準は、較正の業務の実施に係る組織、較正の業務の実施の方法、手数料の算定の方法その他の較正の業務を遂行するための体制が次のとおりであることとする。
+            <go>
+              <go_item number="一">
+                特定の者を不当に差別的に取り扱うものでないこと。
+              </go_item>
+              <go_item number="二">
+                較正を受ける者との取引関係その他の利害関係の影響を受けないこと。
+              </go_item>
+              <go_item number="三">
+                前各号に掲げるもののほか、較正の公正な実施に支障を及ぼすおそれのないこと。
+              </go_item>
+            </go>
+          </article_item>
+        </articles>
+        <articles number="第八条の四" title="（指定較正機関の指定の更新）">
+          <article_item>
+            第八条から前条までの規定は、法第百二条の十八第七項の規定による指定較正機関の指定の更新に準用する。
+          </article_item>
+        </articles>
+        <articles number="第九条" title="（指定較正機関の名称等の変更の届出）">
+          <article_item>
+            指定較正機関は、法第百二条の十八第十三項において準用する法第三十九条の三第二項の規定による届出をしようとするときは、次に掲げる事項を記載した届出書を総務大臣に提出しなければならない。
+            <go>
+              <go_item number="一">
+                変更後の名称又は住所若しくは所在地
+              </go_item>
+              <go_item number="二">
+                変更しようとする年月日
+              </go_item>
+            </go>
+          </article_item>
+        </articles>
+        <articles number="第十条" title="（較正器）">
+          <article_item>
+            法第百二条の十八第九項の総務省令で定める測定器その他の設備は、別表第一号に定めるところにより較正に使用しなければならない測定器その他の設備（以下「較正器」という。）であって、十分な精度を有し、かつ、国又は較正を業務とする独立行政法人による較正を受けたものとする。
+          </article_item>
+          <article_item number="２">
+            前項の較正器は、毎年一回国又は較正を業務とする独立行政法人による較正を受けなければならない。
+          </article_item>
+        </articles>
+        <articles number="第十一条" title="（較正員の要件）">
+          <article_item>
+            法第百二条の十八第九項の総務省令で定める要件は、次の各号のいずれかに該当する者であることとする。
+            <go>
+              <go_item number="一">
+                学校教育法（昭和二十二年法律第二十六号）第一条による大学又は高等専門学校において無線通信工学に関する科目を修めて卒業した者
+              </go_item>
+              <go_item number="二">
+                第一級総合無線通信士、第一級陸上無線技術士、第二級陸上無線技術士若しくは第一級海上無線通信士の資格を有する者
+              </go_item>
+              <go_item number="三">
+                総務大臣が前二号に掲げる者と同等以上の知識及び技能を有すると認める者
+              </go_item>
+            </go>
+          </article_item>
+        </articles>
+        <articles number="第十二条" title="（役員等の選任及び解任の届出）">
+          <article_item>
+            指定較正機関は、第百二条の十八第十三項において準用する法第四十七条の二第二項の規定による届出をしようとするときは、次に掲げる事項を記載した届出書を総務大臣に提出しなければならない。
+            <go>
+              <go_item number="一">
+                役員又は較正員の氏名
+              </go_item>
+              <go_item number="二">
+                選任又は解任の理由
+              </go_item>
+              <go_item number="三">
+                選任の場合にあっては、その者の経歴（較正員の場合はその者の経歴並びにその者が較正の業務を行う事務所の名称及び所在地）
+              </go_item>
+            </go>
+          </article_item>
+          <article_item number="２">
+            前項の場合において、選任の届出をしようとするときは、同項の届出書に、当該選任に係る者の就任承諾書（較正員の場合はその者が前条に規定する較正員の要件を備えることを証明する書類の写し）を添えなければならない。
+          </article_item>
+        </articles>
+        <articles number="第十三条" title="（業務規程の記載事項）">
+          <article_item>
+            法第百二条の十八第十三項において準用する法第三十九条の五第一項の総務省令で定める較正の業務の実施に関する事項は、次のとおりとする。
+            <go>
+              <go_item number="一">
+                較正の業務を行う時間及び休日に関する事項
+              </go_item>
+              <go_item number="二">
+                較正の業務を行う事務所に関する事項
+              </go_item>
+              <go_item number="三">
+                較正の業務の実施の方法に関する事項
+              </go_item>
+              <go_item number="四">
+                手数料の額及びその収納の方法に関する事項
+              </go_item>
+              <go_item number="五">
+                較正員の選任及び解任並びにその配置に関する事項
+              </go_item>
+              <go_item number="六">
+                較正の業務に関する帳簿及び書類の管理に関する事項
+              </go_item>
+              <go_item number="七">
+                その他較正の業務の実施に関し必要な事項
+              </go_item>
+            </go>
+          </article_item>
+        </articles>
+        <articles number="第十四条" title="（業務規程の認可の申請）">
+          <article_item>
+            指定較正機関は、法第百二条の十八第十三項において準用する法第三十九条の五第一項前段の規定による認可を受けようとするときは、申請書に、当該認可に係る業務規程を添えて、総務大臣に提出しなければならない。
+          </article_item>
+          <article_item number="２">
+            指定較正機関は、法第百二条の十八第十三項において準用する法第三十九条の五第一項後段の規定による認可を受けようとするときは、次に掲げる事項を記載した申請書を総務大臣に提出しなければならない。
+            <go>
+              <go_item number="一">
+                変更しようとする事項
+              </go_item>
+              <go_item number="二">
+                変更しようとする年月日
+              </go_item>
+              <go_item number="三">
+                変更の理由
+              </go_item>
+            </go>
+          </article_item>
+        </articles>
+        <articles number="第十五条" title="（帳簿）">
+          <article_item>
+            第百二条の十八第十三項において準用する法第三十九条の七の総務省令で定める事項は、次のとおりとする。
+            <go>
+              <go_item number="一">
+                申請者の氏名又は名称
+              </go_item>
+              <go_item number="二">
+                申請書の受理年月日
+              </go_item>
+              <go_item number="三">
+                測定器等の名称又は型式、製造者名及び製造番号
+              </go_item>
+              <go_item number="四">
+                較正の内容
+              </go_item>
+              <go_item number="五">
+                較正完了年月日
+              </go_item>
+              <go_item number="六">
+                較正員の氏名
+              </go_item>
+              <go_item number="七">
+                較正完了通知書の発行番号及び発行年月日
+              </go_item>
+            </go>
+          </article_item>
+          <article_item number="２">
+            法第百二条の十八第十三項において準用する法第三十九条の七の帳簿は、較正の業務を行う事務所ごとに作成して備え付け、使用を終わった日から六年間保存しなければならない。
+          </article_item>
+        </articles>
+        <articles number="第十六条" title="（較正の業務の休廃止の届出）">
+          <article_item>
+            指定較正機関は、法第百二条の十八第十一項の規定により、較正の業務の全部又は一部の休止又は廃止をしようとするときは、次に掲げる事項を記載した届出書を総務大臣に提出しなければならない。
+            <go>
+              <go_item number="一">
+                休止又は廃止しようとする年月日及び休止しようとする場合はその期間
+              </go_item>
+              <go_item number="二">
+                休止又は廃止の理由
+              </go_item>
+            </go>
+          </article_item>
+        </articles>
+        <articles number="第十七条" title="（公示）">
+          <article_item>
+            法第百二条の十八第十二項並びに法第百二条の十八第十三項において準用する法第三十九条の三第一項及び第三項並びに法第三十九条の十一第三項の公示は、官報で告示することによって行う。
+          </article_item>
+        </articles>
+      </sho>
+    </content>
+  </body>
+</law>

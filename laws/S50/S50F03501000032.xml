@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>重要伝統的建造物群保存地区の選定の申出に関する規則</title>
+    <defined>昭和五十年九月三十日文部省令第三十二号</defined>
+    <updated>平成一七年三月二八日文部科学省令第一一号</updated>
+  </head>
+  <body>
+    <preamble><p>文化財保護法（昭和二十五年法律第二百十四号）第八十三条の四第一項の規定を実施するため、重要伝統的建造物群保存地区の選定の申出に関する規則を次のように定める。</p></preamble>
+    <content>
+      <articles number="第一条" title="（選定の申出）">
+        <article_item>
+          文化財保護法第百四十四条第一項の規定による重要伝統的建造物群保存地区の選定の申出をしようとする市町村の教育委員会は、次に掲げる事項を記載した選定申出書を文部科学大臣に提出しなければならない。
+          <go>
+            <go_item number="一">
+              選定の申出に係る伝統的建造物群保存地区（以下「保存地区」という。）の名称
+            </go_item>
+            <go_item number="二">
+              保存地区の決定年月日
+            </go_item>
+            <go_item number="三">
+              保存地区の所在地及び面積
+            </go_item>
+            <go_item number="四">
+              保存地区の保存状況
+            </go_item>
+            <go_item number="五">
+              保存地区内の伝統的建造物群の特性
+            </go_item>
+            <go_item number="六">
+              保存地区の保存計画
+            </go_item>
+            <go_item number="七">
+              その他参考となるべき事項
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第二条" title="（添付資料等）">
+        <article_item>
+          前条の選定申出書には、次に掲げる資料、図面及び写真を添えなければならない。
+          <go>
+            <go_item number="一">
+              保存地区の位置及び範囲を示す図面
+            </go_item>
+            <go_item number="二">
+              保存地区の保存計画に係る図面
+            </go_item>
+            <go_item number="三">
+              保存地区の概況を示す写真
+            </go_item>
+            <go_item number="四">
+              その他参考となるべき資料
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

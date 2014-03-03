@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>市町村立学校職員給与負担法附則第三項の規定に基づき学校栄養職員の範囲を定める政令</title>
+    <defined>昭和四十九年六月二十二日政令第二百十九号</defined>
+  </head>
+  <body>
+    <preamble><p>内閣は、市町村立学校職員給与負担法（昭和二十三年法律第百三十五号）附則第三項の規定に基づき、この政令を制定する。</p></preamble>
+    <content>
+      <articles>
+        <article_item>
+          市町村立学校職員給与負担法附則第三項の政令で定める者は、学校給食法（昭和二十九年法律第百六十号）第二条各号に掲げる学校給食の目標、学校給食の栄養に関する専門的事項その他の学校給食の実施に必要な事項についての知識又は経験の程度を勘案し、当該都道府県の教育委員会が指定した者とする。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

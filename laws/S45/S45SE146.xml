@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>外国政府等に対する米穀の売渡しに関する暫定措置法第一項の規定による利率の最低限度を定める政令</title>
+    <defined>昭和四十五年五月二十八日政令第百四十六号</defined>
+  </head>
+  <body>
+    <preamble><p>内閣は、外国政府等に対する米穀の売渡しに関する暫定措置法（昭和四十五年法律第百六号）第一項の規定に基づき、この政令を制定する。</p></preamble>
+    <content>
+      <articles number="１">
+        <article_item>
+          外国政府等に対する米穀の売渡しに関する暫定措置法（以下「法」という。）第一項第一号の政令で定める利率は、支払期間が十年以内の年賦支払の場合にあつては年二パーセント、支払期間が十年をこえる年賦支払の場合にあつては支払期間のうち最初の十年間について年二パーセント、その他の期間について年三パーセントとする。
+        </article_item>
+        <article_item number="２">
+          法第一項第二号の政令で定める利率は、年六パーセントとする。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>公文書管理委員会令</title>
+    <defined>平成二十二年六月二十五日政令第百六十六号</defined>
+    <updated>平成二二年一二月二二日政令第二五一号</updated>
+  </head>
+  <body>
+    <preamble><p>内閣は、公文書等の管理に関する法律（平成二十一年法律第六十六号）第二十八条第四項の規定に基づき、この政令を制定する。</p></preamble>
+    <content>
+      <articles number="第一条" title="（組織）">
+        <article_item>
+          公文書管理委員会（以下「委員会」という。）は、委員七人以内で組織する。
+        </article_item>
+        <article_item number="２">
+          委員会に、専門の事項を調査させるため必要があるときは、専門委員を置くことができる。
+        </article_item>
+      </articles>
+      <articles number="第二条" title="（専門委員の任命）">
+        <article_item>
+          専門委員は、当該専門の事項に関し学識経験のある者のうちから、内閣総理大臣が任命する。
+        </article_item>
+      </articles>
+      <articles number="第三条" title="（委員の任期等）">
+        <article_item>
+          委員の任期は、二年とする。ただし、補欠の委員の任期は、前任者の残任期間とする。
+        </article_item>
+        <article_item number="２">
+          委員は、再任されることができる。
+        </article_item>
+        <article_item number="３">
+          専門委員は、その者の任命に係る当該専門の事項に関する調査が終了したときは、解任されるものとする。
+        </article_item>
+        <article_item number="４">
+          委員及び専門委員は、非常勤とする。
+        </article_item>
+      </articles>
+      <articles number="第四条" title="（委員長）">
+        <article_item>
+          委員会に、委員長を置き、委員の互選により選任する。
+        </article_item>
+        <article_item number="２">
+          委員長は、会務を総理し、委員会を代表する。
+        </article_item>
+        <article_item number="３">
+          委員長に事故があるときは、あらかじめその指名する委員が、その職務を代理する。
+        </article_item>
+      </articles>
+      <articles number="第五条" title="（分科会）">
+        <article_item>
+          委員会に、特定歴史公文書等不服審査分科会（以下この条及び次条第三項において「分科会」という。）を置く。
+        </article_item>
+        <article_item number="２">
+          分科会は、委員会の所掌事務のうち、公文書等の管理に関する法律第二十一条第二項の規定に基づき委員会の権限に属させられた事項を処理することをつかさどる。
+        </article_item>
+        <article_item number="３">
+          分科会に属すべき委員及び専門委員は、内閣総理大臣が指名する。
+        </article_item>
+        <article_item number="４">
+          分科会に、分科会長を置き、分科会に属する委員の互選により選任する。
+        </article_item>
+        <article_item number="５">
+          分科会長は、分科会の事務を掌理する。
+        </article_item>
+        <article_item number="６">
+          分科会長に事故があるときは、分科会に属する委員のうちから分科会長があらかじめ指名する者が、その職務を代理する。
+        </article_item>
+        <article_item number="７">
+          委員会は、その定めるところにより、分科会の議決をもって委員会の議決とすることができる。
+        </article_item>
+      </articles>
+      <articles number="第六条" title="（議事）">
+        <article_item>
+          委員会は、委員の過半数が出席しなければ、会議を開き、議決することができない。
+        </article_item>
+        <article_item number="２">
+          委員会の議事は、委員で会議に出席したものの過半数で決し、可否同数のときは、委員長の決するところによる。
+        </article_item>
+        <article_item number="３">
+          前二項の規定は、分科会の議事について準用する。
+        </article_item>
+        <article_item number="４">
+          委員及び専門委員は、自己の利害に関係する議事に参与することができない。
+        </article_item>
+      </articles>
+      <articles number="第七条" title="（庶務）">
+        <article_item>
+          委員会の庶務は、内閣府大臣官房公文書管理課において処理する。
+        </article_item>
+      </articles>
+      <articles number="第八条" title="（雑則）">
+        <article_item>
+          この政令に定めるもののほか、議事の手続その他委員会の運営に関し必要な事項は、委員長が委員会に諮って定める。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

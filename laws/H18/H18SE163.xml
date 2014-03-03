@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>独立行政法人国立文化財機構法施行令</title>
+    <defined>平成十八年三月三十一日政令第百六十三号</defined>
+    <updated>平成一九年三月三〇日政令第一一〇号</updated>
+  </head>
+  <body>
+    <preamble><p>内閣は、独立行政法人国立博物館法（平成十一年法律第百七十八号）第五条第六項の規定に基づき、この政令を制定する。</p></preamble>
+    <content>
+      <articles number="１">
+        <article_item>
+          独立行政法人国立文化財機構法（平成十一年法律第百七十八号。以下「法」という。）第五条第五項の評価委員は、必要の都度、次に掲げる者につき文部科学大臣が任命する。
+          <go>
+            <go_item number="一">
+              財務省の職員　一人
+            </go_item>
+            <go_item number="二">
+              文部科学省の職員　一人
+            </go_item>
+            <go_item number="三">
+              独立行政法人国立文化財機構の役員　一人
+            </go_item>
+            <go_item number="四">
+              学識経験のある者　二人
+            </go_item>
+          </go>
+        </article_item>
+        <article_item number="２">
+          法第五条第五項の規定による評価は、同項の評価委員の過半数の一致によるものとする。
+        </article_item>
+        <article_item number="３">
+          法第五条第五項の規定による評価に関する庶務は、文化庁文化財部美術学芸課において処理する。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

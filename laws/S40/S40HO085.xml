@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>閉鎖機関令等の規定によつてされた信託の処理に関する法律</title>
+    <defined>昭和四十年五月二十六日法律第八十五号</defined>
+    <updated>平成一一年一二月二二日法律第一六〇号</updated>
+  </head>
+  <body>
+    <content>
+      <articles number="１">
+        <article_item>
+          次の各号の一に掲げる法令の規定によつてされた信託は、当該信託行為に定める存続期間の経過後六年間は、なお存続するものとみなす。
+          <go>
+            <go_item number="一">
+              閉鎖機関令（昭和二十二年勅令第七十四号）第十九条の二十八
+            </go_item>
+            <go_item number="二">
+              閉鎖機関令の一部を改正する法律（昭和二十九年法律第百五号）附則第三項
+            </go_item>
+            <go_item number="三">
+              旧日本占領地域に本店を有する会社の本邦内にある財産の整理に関する政令（昭和二十四年政令第二百九十一号）第二十八条の十二
+            </go_item>
+            <go_item number="四">
+              旧日本占領地域に本店を有する会社の本邦内にある財産の整理に関する政令の一部を改正する法律（昭和三十一年法律第百十一号）附則第三項
+            </go_item>
+          </go>
+        </article_item>
+        <article_item number="２">
+          前項の規定は、受託者が当該信託行為に定める存続期間中に完了しない信託事務を引き続き処理したい旨を、当該期間の経過前に、財務大臣に申し出た場合に限り適用する。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

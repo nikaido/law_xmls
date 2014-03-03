@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>通商産業省組織規定等を廃止する省令</title>
+    <defined>平成十二年八月十五日通商産業省令第百四十九号</defined>
+    <updated>平成一二年一二月一六日通商産業省令第三三一号</updated>
+  </head>
+  <body>
+    <content>
+      <articles number="第一条" title="（通商産業省令組織規定の廃止）">
+        <article_item>
+          通商産業省組織規定（昭和二十七年通商産業省令第七十三号）は、廃止する。
+        </article_item>
+      </articles>
+      <articles number="第二条" title="（総合エネルギー調査会規則の廃止）">
+        <article_item>
+          総合エネルギー調査会規則（昭和四十年通商産業省令第六十八号）は、廃止する。
+        </article_item>
+      </articles>
+      <articles number="第三条" title="（工業技術院組織規定の廃止）">
+        <article_item>
+          工業技術院組織規定（昭和二十四年通商産業省令第四十六号）は、廃止する。
+        </article_item>
+      </articles>
+      <articles number="第四条" title="（石油需給調整審議会規則の廃止）">
+        <article_item>
+          石油需給調整審議会規則（昭和四十八年通商産業省令第百三十六号）は、廃止する。
+        </article_item>
+      </articles>
+      <articles number="第五条" title="（中小企業分野等調整審議会規則の廃止）">
+        <article_item>
+          中小企業分野等調整審議会規則（昭和五十二年通商産業省令第四十三号）は、廃止する。
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>

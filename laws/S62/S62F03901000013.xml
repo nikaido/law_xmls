@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>鉄道係員職制</title>
+    <defined>昭和六十二年三月二日運輸省令第十三号</defined>
+  </head>
+  <body>
+    <preamble><p>鉄道営業法（明治三十三年法律第六十五号）第十九条の規定に基づき、地方鉄道係員職制（大正八年閣令第十三号）の全部を改正する省令を次のように定める。</p></preamble>
+    <content>
+      <sho title="第一章　総則">
+        <articles number="第一条" title="（趣旨）">
+          <article_item>
+            鉄道営業法第十九条の規定による鉄道係員の職制については、この省令の定めるところによる。ただし、鉄道の状況に応じ必要がある場合には、別にその職制を定めることができる。
+          </article_item>
+        </articles>
+      </sho>
+      <sho title="第二章　運輸係員">
+        <articles number="第二条" title="（運輸係員の職制）">
+          <article_item>
+            鉄道に、次の運輸に関する業務を行う係員又はこれに相当する係員（以下「運輸係員」という。）を置く。
+            　　　運輸長<br></br>
+            駅長<br></br>
+            営業係<br></br>
+            構内係<br></br>
+            踏切保安係<br></br>
+            運転区長<br></br>
+            運転士<br></br>
+            車掌区長<br></br>
+            車掌<br></br>
+            運転指令<br></br>
+          </article_item>
+          <article_item number="２">
+            前項に規定する係員は、その職務の状況により、二以上の運輸係員の職務を兼ねることができる。
+          </article_item>
+        </articles>
+        <articles number="第三条" title="（運輸長の職務）">
+          <article_item>
+            運輸長は、運輸に関する業務を掌理し、他の運輸係員を監督する。
+          </article_item>
+        </articles>
+        <articles number="第四条" title="（駅長の職務）">
+          <article_item>
+            駅長は、運輸長の命を受け、駅務を統括し、構内の秩序を保持し、その所属係員を監督する。
+          </article_item>
+        </articles>
+        <articles number="第五条" title="（営業係の職務）">
+          <article_item>
+            営業係は、駅長の命を受け、乗車券の発売、検査及び取集、旅客の誘導及び案内並びに荷物の取扱いの業務に従事する。
+          </article_item>
+        </articles>
+        <articles number="第六条" title="（構内係の職務）">
+          <article_item>
+            構内係は、駅長の命を受け、信号機及び転てつ器の取扱い並びに車両の入換えの業務に従事する。
+          </article_item>
+        </articles>
+        <articles number="第七条" title="（踏切保安係の職務）">
+          <article_item>
+            踏切保安係は、駅長の命を受け、踏切の監視の業務に従事する。
+          </article_item>
+        </articles>
+        <articles number="第八条" title="（運転区長の職務）">
+          <article_item>
+            運転区長は、運輸長の命を受け、列車の運転の業務を統括し、その所属係員を監督する。
+          </article_item>
+        </articles>
+        <articles number="第九条" title="（運転士の職務）">
+          <article_item>
+            運転士は、運転区長の命を受け、列車の運転の業務に従事する。
+          </article_item>
+        </articles>
+        <articles number="第十条" title="（車掌区長の職務）">
+          <article_item>
+            車掌区長は、運輸長の命を受け、列車の運転取扱い、旅客及び荷物の輸送並びに車内の秩序保持の業務を統括し、その所属係員を監督する。
+          </article_item>
+        </articles>
+        <articles number="第十一条" title="（車掌の職務）">
+          <article_item>
+            車掌は、車掌区長の命を受け、列車の運転取扱い、旅客及び荷物の輸送並びに車内の秩序保持の業務に従事する。
+          </article_item>
+        </articles>
+        <articles number="第十二条" title="（運転指令の職務）">
+          <article_item>
+            運転指令は、運輸長の命を受け、列車の運転の整理に関する業務を行う。
+          </article_item>
+        </articles>
+      </sho>
+      <sho title="第三章　工務係員">
+        <articles number="第十三条" title="（工務係員の職制）">
+          <article_item>
+            鉄道に、次の工務に関する業務を行う係員又はこれに相当する係員（以下「工務係員」という。）を置く。
+            　　　工務長<br></br>
+            保線区長<br></br>
+            保線係<br></br>
+            営繕区長<br></br>
+            営繕係<br></br>
+          </article_item>
+          <article_item number="２">
+            第二条第二項の規定は、工務係員について準用する。
+          </article_item>
+        </articles>
+        <articles number="第十四条" title="（工務長の職務）">
+          <article_item>
+            工務長は、工務に関する業務を掌理し、他の工務係員を監督する。
+          </article_item>
+        </articles>
+        <articles number="第十五条" title="（保線区長の職務）">
+          <article_item>
+            保線区長は、工務長の命を受け、線路の保守の業務を統括し、その所属係員を監督する。
+          </article_item>
+        </articles>
+        <articles number="第十六条" title="（保線係の職務）">
+          <article_item>
+            保線係は、保線区長の命を受け、線路の保守の業務に従事する。
+          </article_item>
+        </articles>
+        <articles number="第十七条" title="（営繕区長の職務）">
+          <article_item>
+            営繕区長は、工務長の命を受け、線路及び電気施設以外の鉄道事業の用に供する施設の保守の業務を統括し、その所属係員を監督する。
+          </article_item>
+        </articles>
+        <articles number="第十八条" title="（営繕係の職務）">
+          <article_item>
+            営繕係は、営繕区長の命を受け、線路及び電気施設以外の鉄道事業の用に供する施設の保守の業務に従事する。
+          </article_item>
+        </articles>
+      </sho>
+      <sho title="第四章　電気係員">
+        <articles number="第十九条" title="（電気係員の職制）">
+          <article_item>
+            鉄道に、次の電気に関する業務を行う係員又はこれに相当する係員（以下「電気係員」という。）を置く。
+            　　　電気長<br></br>
+            変電区長<br></br>
+            変電係<br></br>
+            電路区長<br></br>
+            電路係<br></br>
+            信号区長<br></br>
+            信号係<br></br>
+            通信区長<br></br>
+            通信係<br></br>
+            電力指令<br></br>
+          </article_item>
+          <article_item number="２">
+            第二条第二項の規定は、電気係員について準用する。
+          </article_item>
+        </articles>
+        <articles number="第二十条" title="（電気長の職務）">
+          <article_item>
+            電気長は、電気に関する業務を掌理し、他の電気係員を監督する。
+          </article_item>
+        </articles>
+        <articles number="第二十一条" title="（変電区長の職務）">
+          <article_item>
+            変電区長は、電気長の命を受け、変電所等設備の保守の業務を統括し、その所属係員を監督する。
+          </article_item>
+        </articles>
+        <articles number="第二十二条" title="（変電係の職務）">
+          <article_item>
+            変電係は、変電区長の命を受け、変電所等設備の保守の業務に従事する。
+          </article_item>
+        </articles>
+        <articles number="第二十三条" title="（電路区長の職務）">
+          <article_item>
+            電路区長は、電気長の命を受け、電路設備の保守の業務を統括し、その所属係員を監督する。
+          </article_item>
+        </articles>
+        <articles number="第二十四条" title="（電路係の職務）">
+          <article_item>
+            電路係は、電路区長の命を受け、電路設備の保守の業務に従事する。
+          </article_item>
+        </articles>
+        <articles number="第二十五条" title="（信号区長の職務）">
+          <article_item>
+            信号区長は、電気長の命を受け、信号保安設備の保守の業務を統括し、その所属係員を監督する。
+          </article_item>
+        </articles>
+        <articles number="第二十六条" title="（信号係の職務）">
+          <article_item>
+            信号係は、信号区長の命を受け、信号保安設備の保守の業務に従事する。
+          </article_item>
+        </articles>
+        <articles number="第二十七条" title="（通信区長の職務）">
+          <article_item>
+            通信区長は、電気長の命を受け、保安通信設備の保守の業務を統括し、その所属係員を監督する。
+          </article_item>
+        </articles>
+        <articles number="第二十八条" title="（通信係の職務）">
+          <article_item>
+            通信係は、通信区長の命を受け、保安通信設備の保守の業務に従事する。
+          </article_item>
+        </articles>
+        <articles number="第二十九条" title="（電力指令の職務）">
+          <article_item>
+            電力指令は、電気長の命を受け、鉄道事業の運営に要する電力の供給に関する業務を行う。
+          </article_item>
+        </articles>
+      </sho>
+      <sho title="第五章　車両係員">
+        <articles number="第三十条" title="（車両係員の職制）">
+          <article_item>
+            鉄道に、次の車両に関する業務を行う係員又はこれに相当する係員（以下「車両係員」という。）を置く。
+            　　　車両長<br></br>
+            検車区長<br></br>
+            検車係<br></br>
+            工場長<br></br>
+            修車係<br></br>
+          </article_item>
+          <article_item number="２">
+            第二条第二項の規定は、車両係員について準用する。
+          </article_item>
+        </articles>
+        <articles number="第三十一条" title="（車両長の職務）">
+          <article_item>
+            車両長は、車両に関する業務を掌理し、他の車両係員を監督する。
+          </article_item>
+        </articles>
+        <articles number="第三十二条" title="（検車区長の職務）">
+          <article_item>
+            検車区長は、車両長の命を受け、車両の点検の業務を統括し、その所属係員を監督する。
+          </article_item>
+        </articles>
+        <articles number="第三十三条" title="（検車係の職務）">
+          <article_item>
+            検車係は、検車区長の命を受け、車両の点検の業務に従事する。
+          </article_item>
+        </articles>
+        <articles number="第三十四条" title="（工場長の職務）">
+          <article_item>
+            工場長は、車両長の命を受け、車両の検修の業務を統括し、その所属係員を監督する。
+          </article_item>
+        </articles>
+        <articles number="第三十五条" title="（修車係の職務）">
+          <article_item>
+            修車係は、工場長の命を受け、車両の検修の業務に従事する。
+          </article_item>
+        </articles>
+      </sho>
+    </content>
+  </body>
+</law>

@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>原子力規制庁組織規則</title>
+    <defined>平成二十四年九月十九日原子力規制委員会規則第一号</defined>
+    <updated>平成二五年三月二九日原子力規制委員会規則第一号</updated>
+  </head>
+  <body>
+    <preamble><p>原子力規制委員会設置法（平成二十四年法律第四十七号）第二十七条第六項において準用する国家行政組織法（昭和二十三年法律第百二十号）第七条第六項及び第二十一条第五項並びに原子力規制委員会設置法及び原子力規制庁組織令（平成二十四年政令第二百三十号）の規定に基づき、並びに原子力規制委員会設置法及び原子力規制庁組織令を実施するため、原子力規制庁組織規則を次のように定める。</p></preamble>
+    <content>
+      <sho title="第一章　特別な職の設置等">
+        <articles number="第一条">
+          <article_item>
+            原子力規制庁に、緊急事態対策監一人、審議官三人及び原子力地域安全総括官一人を置く。
+          </article_item>
+          <article_item number="２">
+            緊急事態対策監は、原子力事故（原子力規制委員会設置法第四条第一項第十号に規定する原子力事故をいう。以下同じ。）による緊急の事態の発生の防止及び緊急の事態への対処に関する事務を総括整理する。
+          </article_item>
+          <article_item number="３">
+            審議官は、命を受けて、原子力規制委員会（以下「委員会」という。）の所掌事務に関する重要事項についての企画及び立案に参画し、関係事務を総括整理する。
+          </article_item>
+          <article_item number="４">
+            原子力地域安全総括官は、命を受けて、原子力事故により放出された放射性物質又は放射線による有害な影響からの原子力事業所の周辺地域の住民の保護のための方策、核燃料物質その他の放射性物質の防護その他の重要事項についての企画及び立案に参画する。
+          </article_item>
+        </articles>
+      </sho>
+      <sho title="第二章　課の設置等">
+        <articles number="第二条" title="（原子力規制庁に置く課等）">
+          <article_item>
+            原子力規制庁に、次の七課及び安全規制管理官五人を置く。
+            　総務課<br></br>
+            　政策評価・広聴広報課<br></br>
+            　国際課<br></br>
+            　技術基盤課<br></br>
+            　原子力防災課<br></br>
+            　監視情報課<br></br>
+            　放射線対策・保障措置課<br></br>
+          </article_item>
+        </articles>
+        <articles number="第三条" title="（総務課の所掌事務）">
+          <article_item>
+            総務課は、次に掲げる事務をつかさどる。
+            <go>
+              <go_item number="一">
+                機密に関すること。
+              </go_item>
+              <go_item number="二">
+                原子力規制庁の職員（以下「職員」という。）の給与、服務その他の人事並びに教養及び訓練に関すること。
+              </go_item>
+              <go_item number="三">
+                委員長の官印及び委員会印の保管に関すること。
+              </go_item>
+              <go_item number="四">
+                公文書類の接受、発送、編集及び保存に関すること。
+              </go_item>
+              <go_item number="五">
+                法令案その他の公文書類の審査及び進達に関すること。
+              </go_item>
+              <go_item number="六">
+                委員会の保有する情報の公開に関すること。
+              </go_item>
+              <go_item number="七">
+                委員会の保有する個人情報の保護に関すること。
+              </go_item>
+              <go_item number="八">
+                原子力規制庁の所掌事務に関する総合調整に関すること。
+              </go_item>
+              <go_item number="九">
+                国会との連絡に関すること。
+              </go_item>
+              <go_item number="十">
+                委員会の機構及び定員に関すること。
+              </go_item>
+              <go_item number="十一">
+                委員会の所掌に係る経費及び収入の予算、決算及び会計並びに会計の監査に関すること。
+              </go_item>
+              <go_item number="十二">
+                委員会所属の行政財産及び物品の管理に関すること。
+              </go_item>
+              <go_item number="十三">
+                職員の衛生、医療その他の福利厚生に関すること。
+              </go_item>
+              <go_item number="十四">
+                独立行政法人原子力安全基盤機構の組織及び運営一般に関すること。
+              </go_item>
+              <go_item number="十五">
+                エネルギー対策特別会計の電源開発促進勘定（電源利用対策及び原子力安全規制対策に関する部分に限る。次号において同じ。）の経理に関すること。
+              </go_item>
+              <go_item number="十六">
+                エネルギー対策特別会計の電源開発促進勘定に属する行政財産及び物品の管理に関すること。
+              </go_item>
+              <go_item number="十七">
+                東日本大震災復興特別会計の経理に関すること。
+              </go_item>
+              <go_item number="十八">
+                東日本大震災復興特別会計に属する国有財産の管理及び処分並びに物品の管理に関すること。
+              </go_item>
+              <go_item number="十九">
+                原子力の研究、開発及び利用（以下「原子力利用」という。）における安全の確保に関する研究者及び技術者の養成及び訓練（大学における教育及び研究に係るものを除く。）に関すること。
+              </go_item>
+              <go_item number="二十">
+                委員会の情報システムの整備及び管理に関すること。
+              </go_item>
+              <go_item number="二十一">
+                核燃料取扱主任者及び原子炉主任技術者の試験及び免状に関すること。
+              </go_item>
+              <go_item number="二十二">
+                官報掲載に関すること。
+              </go_item>
+              <go_item number="二十三">
+                委員会の所掌事務に関する法令案の作成、法令の適用並びに不服申立て及び訴訟に関する事務の総括に関すること。
+              </go_item>
+              <go_item number="二十四">
+                前各号に掲げるもののほか、原子力規制庁の所掌事務で他の所掌に属しないものに関すること。
+              </go_item>
+            </go>
+          </article_item>
+        </articles>
+        <articles number="第四条" title="（政策評価・広聴広報課の所掌事務）">
+          <article_item>
+            政策評価・広聴広報課は、次に掲げる事務をつかさどる。
+            <go>
+              <go_item number="一">
+                委員会の所掌事務に関する基本的な政策の企画及び立案に関すること（総務課及び技術基盤課の所掌に属するものを除く。）。
+              </go_item>
+              <go_item number="二">
+                委員会の会議の庶務に関すること。
+              </go_item>
+              <go_item number="三">
+                委員会の所掌事務に関する政策の評価に関すること。
+              </go_item>
+              <go_item number="四">
+                委員会の行政の考査に関すること。
+              </go_item>
+              <go_item number="五">
+                広聴に関すること。
+              </go_item>
+              <go_item number="六">
+                広報に関すること。
+              </go_item>
+              <go_item number="七">
+                委員会の所掌事務に係る地方公共団体との連絡に関する事務の総括に関すること。
+              </go_item>
+              <go_item number="八">
+                委員会の所掌事務の処理状況の国会に対する報告及びその概要の公表に関すること。
+              </go_item>
+              <go_item number="九">
+                核原料物質、核燃料物質及び原子炉の規制に関する法律（昭和三十二年法律第百六十六号。以下「規制法」という。）第六十六条の二第一項に規定する申告に関すること。
+              </go_item>
+              <go_item number="十">
+                独立行政法人評価委員会の庶務に関すること。
+              </go_item>
+            </go>
+          </article_item>
+        </articles>
+        <articles number="第五条" title="（国際課の所掌事務）">
+          <article_item>
+            国際課は、次に掲げる事務をつかさどる。
+            <go>
+              <go_item number="一">
+                委員会の所掌事務に関する国際機関、国際会議その他の国際的な枠組み並びに外国の行政機関及び団体に関する事務の総括に関すること。
+              </go_item>
+              <go_item number="二">
+                委員会の所掌事務に係る国際協力に関する事務の総括に関すること。
+              </go_item>
+            </go>
+          </article_item>
+        </articles>
+        <articles number="第六条" title="（技術基盤課の所掌事務）">
+          <article_item>
+            技術基盤課は、次に掲げる事務をつかさどる。
+            <go>
+              <go_item number="一">
+                委員会の所掌事務に関する基本的な政策のうち技術に関するものの企画及び立案に関すること。
+              </go_item>
+              <go_item number="二">
+                規制法の施行に関する基準の策定に関すること。
+              </go_item>
+              <go_item number="三">
+                委員会の所掌事務に関する政策の基礎となる事項の調査及び研究に関すること。
+              </go_item>
+              <go_item number="四">
+                原子炉安全専門審査会及び核燃料安全専門審査会の庶務に関すること。
+              </go_item>
+              <go_item number="五">
+                原子力利用における安全の確保のための技術に関する研究の推進に関すること。
+              </go_item>
+            </go>
+          </article_item>
+        </articles>
+        <articles number="第七条" title="（原子力防災課の所掌事務）">
+          <article_item>
+            原子力防災課は、次に掲げる事務をつかさどる。
+            <go>
+              <go_item number="一">
+                原子力災害対策指針の案の作成その他の委員会の所掌事務に関する原子力事故による災害の防止に関すること（監視情報課及び安全規制管理官の所掌に属するものを除く。）。
+              </go_item>
+              <go_item number="二">
+                原子力事故又は原子力施設に関する人の障害、原子力施設の故障等の事象が発生した場合の対処に関すること。
+              </go_item>
+              <go_item number="三">
+                核燃料物質その他の放射性物質の防護に関する関係行政機関の事務の調整に関すること。
+              </go_item>
+              <go_item number="四">
+                核燃料物質の防護のための規制に関すること。
+              </go_item>
+            </go>
+          </article_item>
+        </articles>
+        <articles number="第八条" title="（監視情報課の所掌事務）">
+          <article_item>
+            監視情報課は、次に掲げる事務をつかさどる。
+            <go>
+              <go_item number="一">
+                放射性物質又は放射線の水準の監視及び測定に関する基本的な方針の案の作成及び推進並びに関係行政機関の経費の配分計画に関すること。
+              </go_item>
+              <go_item number="二">
+                原子力事故の状況及び原子力事故により放出された放射性物質の拡散の状況の把握、予測及び公表に関すること。
+              </go_item>
+              <go_item number="三">
+                放射線による障害の防止に関する事務のうち放射性物質又は放射線の水準の監視及び測定に関すること。
+              </go_item>
+              <go_item number="四">
+                放射能水準の把握のための監視及び測定に関すること。
+              </go_item>
+            </go>
+          </article_item>
+        </articles>
+        <articles number="第九条" title="（放射線対策・保障措置課の所掌事務）">
+          <article_item>
+            放射線対策・保障措置課は、次に掲げる事務をつかさどる。
+            <go>
+              <go_item number="一">
+                放射線による障害の防止に関すること（原子力防災課及び監視情報課の所掌に属するものを除く。）。
+              </go_item>
+              <go_item number="二">
+                国際約束に基づく保障措置の実施のための規制その他の原子力の平和的利用の確保のための規制に関すること。
+              </go_item>
+            </go>
+          </article_item>
+        </articles>
+        <articles number="第十条" title="（安全規制管理官の職務）">
+          <article_item>
+            安全規制管理官は、命を受けて、次に掲げる事務（他課の所掌に属するものを除く。）を分掌する。
+            <go>
+              <go_item number="一">
+                原子力に係る製錬、加工、貯蔵、再処理及び廃棄の事業並びに原子炉に関する規制その他これらに関する安全の確保に関すること。
+              </go_item>
+              <go_item number="二">
+                核原料物質及び核燃料物質の使用に関する規制その他これらに関する安全の確保に関すること。
+              </go_item>
+            </go>
+          </article_item>
+        </articles>
+      </sho>
+      <sho title="第三章　課の内部組織等">
+        <articles number="第十一条" title="（法務室及び業務管理室並びに企画官）">
+          <article_item>
+            総務課に、法務室及び業務管理室並びに企画官二人を置く。
+          </article_item>
+          <article_item number="２">
+            法務室は、委員会の所掌事務に関する法令案の作成、法令の適用並びに不服申立て及び訴訟に関する事務の総括に関する事務をつかさどる。
+          </article_item>
+          <article_item number="３">
+            法務室に、室長を置く。
+          </article_item>
+          <article_item number="４">
+            業務管理室は、人事、文書、会計その他の業務管理に関する事務をつかさどる。
+          </article_item>
+          <article_item number="５">
+            業務管理室に、室長を置く。
+          </article_item>
+          <article_item number="６">
+            企画官は、命を受けて、総務課の所掌事務に関する特定事項の企画及び立案並びに調整に関する事務を行う。
+          </article_item>
+        </articles>
+        <articles number="第十二条" title="（企画官）">
+          <article_item>
+            政策評価・広聴広報課に、企画官一人を置く。
+          </article_item>
+          <article_item number="２">
+            企画官は、命を受けて、政策評価・広聴広報課の所掌事務に関する特定事項の企画及び立案並びに調整に関する事務を行う。
+          </article_item>
+        </articles>
+        <articles number="第十三条" title="（安全研究推進室及び企画官）">
+          <article_item>
+            技術基盤課に、安全研究推進室及び企画官一人を置く。
+          </article_item>
+          <article_item number="２">
+            安全研究推進室は、原子力利用における安全の確保のための技術に関する研究の推進に関する事務をつかさどる。
+          </article_item>
+          <article_item number="３">
+            安全研究推進室に、室長を置く。
+          </article_item>
+          <article_item number="４">
+            企画官は、命を受けて、技術基盤課の所掌事務に関する特定事項の企画及び立案並びに調整に関する事務を行う。
+          </article_item>
+        </articles>
+        <articles number="第十四条" title="（火災対策室、事故対処室及び核物質防護室並びに防災訓練推進官）">
+          <article_item>
+            原子力防災課に、火災対策室、事故対処室及び核物質防護室並びに防災訓練推進官一人を置く。
+          </article_item>
+          <article_item number="２">
+            火災対策室は、原子力利用に伴う火災対策に関する事務（事故対処室の所掌に属するものを除く。）をつかさどる。
+          </article_item>
+          <article_item number="３">
+            火災対策室に、室長を置く。
+          </article_item>
+          <article_item number="４">
+            事故対処室は、原子力事故又は原子力施設に関する人の障害、原子力施設の故障等の事象が発生した場合の対処に関する事務をつかさどる。
+          </article_item>
+          <article_item number="５">
+            事故対処室に、室長を置く。
+          </article_item>
+          <article_item number="６">
+            核物質防護室は、次に掲げる事務をつかさどる。
+            <go>
+              <go_item number="一">
+                核燃料物質その他の放射性物質の防護に関する関係行政機関の事務の調整に関すること。
+              </go_item>
+              <go_item number="二">
+                核燃料物質の防護のための規制に関すること。
+              </go_item>
+            </go>
+          </article_item>
+          <article_item number="７">
+            核物質防護室に、室長を置く。
+          </article_item>
+          <article_item number="８">
+            防災訓練推進官は、原子力事業者、地方公共団体及び国が実施する防災訓練の企画及び立案に係る技術的助言に関する事務を行う。
+          </article_item>
+        </articles>
+        <articles number="第十五条" title="（放射線環境対策室及び企画官）">
+          <article_item>
+            監視情報課に、放射線環境対策室及び企画官一人を置く。
+          </article_item>
+          <article_item number="２">
+            放射線環境対策室は、次に掲げる事務をつかさどる。
+            <go>
+              <go_item number="一">
+                放射線による障害の防止に関する事務のうち放射性物質又は放射線の水準の監視及び測定に関すること。
+              </go_item>
+              <go_item number="二">
+                放射能水準の把握のための監視及び測定に関すること。
+              </go_item>
+            </go>
+          </article_item>
+          <article_item number="３">
+            放射線環境対策室に、室長並びに環境放射能対策官一人及び地方放射線モニタリング対策官三人を置く。
+          </article_item>
+          <article_item number="４">
+            環境放射能対策官は、放射線環境対策室の所掌事務のうち専門的事項についての企画及び立案並びに調整に関する事務を行う。
+          </article_item>
+          <article_item number="５">
+            地方放射線モニタリング対策官は、特定の地方における放射性物質又は放射線の水準の監視及び測定並びに放射能水準の把握のための監視及び測定に関する事務のうち専門的事項に関する事務を行う。
+          </article_item>
+          <article_item number="６">
+            企画官は、命を受けて、監視情報課の所掌事務に関する特定事項の企画及び立案並びに調整に関する事務を行う。
+          </article_item>
+        </articles>
+        <articles number="第十六条" title="（放射線規制室及び保障措置室並びに企画官）">
+          <article_item>
+            放射線対策・保障措置課に、放射線規制室及び保障措置室並びに企画官一人を置く。
+          </article_item>
+          <article_item number="２">
+            放射線規制室は、放射性同位元素等による放射線障害の防止に関する法律（昭和三十二年法律第百六十七号）の施行に関する事務をつかさどる。
+          </article_item>
+          <article_item number="３">
+            放射線規制室に、室長及び廃止措置確認専門官二人を置く。
+          </article_item>
+          <article_item number="４">
+            廃止措置確認専門官は、放射性同位元素等による放射線障害の防止に関する法律の施行に関する事務のうち許可の取消し、使用の廃止等に伴う措置に関する専門的事項の調査、指導及び助言に関する事務を行う。
+          </article_item>
+          <article_item number="５">
+            保障措置室は、国際約束に基づく保障措置の実施のための規制その他の原子力の平和的利用の確保のための規制に関する事務をつかさどる。
+          </article_item>
+          <article_item number="６">
+            保障措置室に、室長を置く。
+          </article_item>
+          <article_item number="７">
+            企画官は、命を受けて、放射線対策・保障措置課の所掌事務に関する特定事項の企画及び立案並びに調整に関する事務を行う。
+          </article_item>
+        </articles>
+        <articles number="第十七条" title="（安全規制調整官、研究炉・使用施設規制企画官、特殊施設規制官及び安全管理調査官）">
+          <article_item>
+            原子力規制庁に、安全規制調整官十三人、研究炉・使用施設規制企画官一人、特殊施設規制官一人及び安全管理調査官二人を置く。
+          </article_item>
+          <article_item number="２">
+            安全規制調整官は、命を受けて、安全規制管理官のつかさどる職務のうち専門的事項についての企画及び立案並びに調整に関するものを助ける。
+          </article_item>
+          <article_item number="３">
+            研究炉・使用施設規制企画官は、安全規制管理官のつかさどる職務のうち試験研究の用に供する原子炉及び研究開発段階にある原子炉（発電の用に供するものを除く。）並びに核原料物質及び核燃料物質の使用に関する規制に関する企画及び立案並びに調整に関するものを助ける。
+          </article_item>
+          <article_item number="４">
+            特殊施設規制官は、安全規制管理官のつかさどる職務のうち特定原子力施設（規制法第六十四条の二第一項に規定する特定原子力施設をいう。）に関する企画及び立案並びに調整に関するものを助ける。
+          </article_item>
+          <article_item number="５">
+            安全管理調査官は、命を受けて、安全規制管理官のつかさどる職務のうち専門的事項についての調査に関するものを助ける。
+          </article_item>
+        </articles>
+      </sho>
+      <sho title="第四章　雑則">
+        <articles number="第十八条">
+          <article_item>
+            この規則に定めるもののほか、事務分掌その他組織の細目は、原子力規制庁長官が定める。
+          </article_item>
+        </articles>
+      </sho>
+    </content>
+  </body>
+</law>

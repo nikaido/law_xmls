@@ -1,0 +1,1424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>各種勲章及び大勲位菊花章頸飾の制式及び形状を定める内閣府令</title>
+    <defined>平成十五年五月一日内閣府令第五十四号</defined>
+  </head>
+  <body>
+    <preamble><p>勲章制定の件（明治八年太政官布告第五十四号）第六条の規定に基づき、各種勲章及び大勲位菊花章頸飾の制式及び形状を定める内閣府令を次のように定める。</p></preamble>
+    <content>
+      <articles number="第一条" title="（旭日章の制式及び形状）">
+        <article_item>
+          旭日章、その副章及びその略綬の制式及び形状は、次の表及び図のとおりとする。
+          表
+          <table>
+            <tr>
+              <td rowspan="2">
+                区分
+              </td>
+              <td colspan="5">
+                章
+              </td>
+              <td rowspan="2">
+                鈕
+              </td>
+              <td colspan="2">
+                綬
+              </td>
+            </tr>
+            <tr>
+              <td>
+                地金
+              </td>
+              <td colspan="2">
+                表面
+              </td>
+              <td>
+                裏面
+              </td>
+              <td>
+                寸法
+              </td>
+              <td>
+                図柄
+              </td>
+              <td>
+                幅
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="2">
+                旭日大綬章
+              </td>
+              <td rowspan="2">
+                銀
+              </td>
+              <td>
+                日
+              </td>
+              <td>
+                赤色七宝
+              </td>
+              <td rowspan="2">
+                表面と同様
+              </td>
+              <td rowspan="2">
+                径六十七ミリメートル
+              </td>
+              <td rowspan="2">
+                五七桐とし、花紫色七宝、葉緑色七宝とする。裏に「勲功旌章」の文字を刻する。
+              </td>
+              <td rowspan="2">
+                織地白色、双線紅色
+              </td>
+              <td rowspan="2">
+                男性に授与する場合は百ミリメートル。女性に授与する場合は七十九ミリメートル。
+              </td>
+            </tr>
+            <tr>
+              <td>
+                光線
+              </td>
+              <td>
+                金色と白色七宝
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="2">
+                旭日重光章及び旭日大綬章の副章
+              </td>
+              <td rowspan="2">
+                銀
+              </td>
+              <td>
+                日
+              </td>
+              <td>
+                赤色七宝
+              </td>
+              <td rowspan="2">
+                「勲功旌章」の文字を刻する。
+              </td>
+              <td rowspan="2">
+                径七十六ミリメートル
+              </td>
+              <td rowspan="2">
+                無鈕
+              </td>
+              <td rowspan="2">
+                無綬
+              </td>
+              <td rowspan="2">
+                　
+              </td>
+            </tr>
+            <tr>
+              <td>
+                光線
+              </td>
+              <td>
+                金色と白色七宝、銀色と白色七宝の二重
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="2">
+                旭日中綬章及び旭日重光章の副章
+              </td>
+              <td rowspan="2">
+                銀
+              </td>
+              <td>
+                日
+              </td>
+              <td>
+                赤色七宝
+              </td>
+              <td rowspan="2">
+                表面と同様
+              </td>
+              <td rowspan="2">
+                径五十五ミリメートル
+              </td>
+              <td rowspan="2">
+                五七桐とし、花紫色七宝、葉緑色七宝とする。裏に「勲功旌章」の文字を刻する。
+              </td>
+              <td rowspan="2">
+                織地白色、双線紅色
+              </td>
+              <td rowspan="2">
+                三十六ミリメートル
+              </td>
+            </tr>
+            <tr>
+              <td>
+                光線
+              </td>
+              <td>
+                金色と白色七宝
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="2">
+                旭日小綬章
+              </td>
+              <td rowspan="2">
+                銀
+              </td>
+              <td>
+                日
+              </td>
+              <td>
+                赤色七宝
+              </td>
+              <td rowspan="2">
+                金色とし、「勲功旌章」の文字を刻する。
+              </td>
+              <td rowspan="2">
+                径四十六ミリメートル
+              </td>
+              <td rowspan="2">
+                五七桐とし、花紫色七宝、葉緑色七宝とする。
+              </td>
+              <td rowspan="2">
+                織地白色、双線紅色。綵花を付着する。
+              </td>
+              <td rowspan="2">
+                三十六ミリメートル
+              </td>
+            </tr>
+            <tr>
+              <td>
+                光線
+              </td>
+              <td>
+                金色と白色七宝
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="2">
+                旭日双光章
+              </td>
+              <td rowspan="2">
+                銀
+              </td>
+              <td>
+                日
+              </td>
+              <td>
+                赤色七宝
+              </td>
+              <td rowspan="2">
+                「勲功旌章」の文字を刻する。
+              </td>
+              <td rowspan="2">
+                径四十六ミリメートル
+              </td>
+              <td rowspan="2">
+                五三桐とし、花紫色七宝、葉緑色七宝とする。
+              </td>
+              <td rowspan="2">
+                織地白色、双線紅色
+              </td>
+              <td rowspan="2">
+                三十六ミリメートル
+              </td>
+            </tr>
+            <tr>
+              <td>
+                光線
+              </td>
+              <td>
+                金色と白色七宝、銀色と白色七宝
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="2">
+                旭日単光章
+              </td>
+              <td rowspan="2">
+                銀
+              </td>
+              <td>
+                日
+              </td>
+              <td>
+                赤色七宝
+              </td>
+              <td rowspan="2">
+                「勲功旌章」の文字を刻する。
+              </td>
+              <td rowspan="2">
+                径三十九ミリメートル
+              </td>
+              <td rowspan="2">
+                五三桐とし、花紫色七宝、葉緑色七宝とする。
+              </td>
+              <td rowspan="2">
+                織地白色、双線紅色
+              </td>
+              <td rowspan="2">
+                三十六ミリメートル
+              </td>
+            </tr>
+            <tr>
+              <td>
+                光線
+              </td>
+              <td>
+                銀色と白色七宝
+              </td>
+            </tr>
+            <tr>
+              <td>
+                旭日章の略綬
+              </td>
+              <td colspan="8">
+                地白色、線及び縁紅色。直径七ミリメートル。旭日大綬章、旭日重光章及び旭日中綬章のものには翼を付着する。
+              </td>
+            </tr>
+          </table>
+          図（略）<br></br>
+          旭日大綬章<br></br>
+          旭日重光章及び旭日大綬章の副章<br></br>
+          旭日中綬章及び旭日重光章の副章<br></br>
+          旭日小綬章<br></br>
+          旭日双光章<br></br>
+          旭日単光章<br></br>
+          旭日大綬章の綬<br></br>
+          旭日中綬章及び旭日重光章の副章の綬<br></br>
+          旭日小綬章の綬<br></br>
+          旭日双光章及び旭日単光章の綬<br></br>
+          旭日章の略綬<br></br>
+          旭日大綬章　旭日重光章<br></br>
+          旭日中綬章　旭日小綬章<br></br>
+          旭日双光章　旭日単光章<br></br>
+        </article_item>
+      </articles>
+      <articles number="第二条" title="（瑞宝章の制式及び形状）">
+        <article_item>
+          瑞宝章、その副章及びその略綬の制式及び形状は、次の表及び図のとおりとする。
+          表
+          <table>
+            <tr>
+              <td rowspan="2">
+                区分
+              </td>
+              <td colspan="5">
+                章
+              </td>
+              <td rowspan="2">
+                鈕
+              </td>
+              <td colspan="2">
+                綬
+              </td>
+            </tr>
+            <tr>
+              <td>
+                地金
+              </td>
+              <td>
+                表面
+              </td>
+              <td>
+                　
+              </td>
+              <td>
+                裏面
+              </td>
+              <td>
+                寸法
+              </td>
+              <td>
+                図柄
+              </td>
+              <td>
+                幅
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="3">
+                瑞宝大綬章
+              </td>
+              <td rowspan="3">
+                銀
+              </td>
+              <td>
+                鏡
+              </td>
+              <td>
+                銀、地藍色七宝
+              </td>
+              <td rowspan="3">
+                金色とし、「勲功旌章」の文字を刻する。
+              </td>
+              <td rowspan="3">
+                径六十七ミリメートル
+              </td>
+              <td rowspan="3">
+                五七桐とし、花淡紫色七宝、葉白色七宝とする。
+              </td>
+              <td rowspan="3">
+                織地藍色、双線橙黄色
+              </td>
+              <td rowspan="3">
+                男性に授与する場合は百ミリメートル。女性に授与する場合は七十九ミリメートル。
+              </td>
+            </tr>
+            <tr>
+              <td>
+                連珠
+              </td>
+              <td>
+                紅色七宝
+              </td>
+            </tr>
+            <tr>
+              <td>
+                光線
+              </td>
+              <td>
+                金色と白色七宝の四条
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="4">
+                瑞宝重光章及び瑞宝大綬章の副章
+              </td>
+              <td rowspan="4">
+                銀
+              </td>
+              <td>
+                鏡
+              </td>
+              <td>
+                銀、地藍色七宝
+              </td>
+              <td rowspan="4">
+                金色とし、「勲功旌章」の文字を刻する。
+              </td>
+              <td rowspan="4">
+                径七十六ミリメートル
+              </td>
+              <td rowspan="4">
+                無鈕
+              </td>
+              <td rowspan="4">
+                無綬
+              </td>
+              <td rowspan="4">
+                　
+              </td>
+            </tr>
+            <tr>
+              <td>
+                連珠
+              </td>
+              <td>
+                紅色七宝
+              </td>
+            </tr>
+            <tr>
+              <td>
+                光線
+              </td>
+              <td>
+                金色と白色七宝の四条、銀色と白色七宝の四条
+              </td>
+            </tr>
+            <tr>
+              <td>
+                光線間
+              </td>
+              <td>
+                金色と藍色七宝
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="3">
+                瑞宝中綬章及び瑞宝重光章の副章
+              </td>
+              <td rowspan="3">
+                銀
+              </td>
+              <td>
+                鏡
+              </td>
+              <td>
+                銀、地藍色七宝
+              </td>
+              <td rowspan="3">
+                金色とし、「勲功旌章」の文字を刻する。
+              </td>
+              <td rowspan="3">
+                径五十五ミリメートル
+              </td>
+              <td rowspan="3">
+                五七桐とし、花淡紫色七宝、葉白色七宝とする。
+              </td>
+              <td rowspan="3">
+                織地藍色、双線橙黄色
+              </td>
+              <td rowspan="3">
+                三十六ミリメートル
+              </td>
+            </tr>
+            <tr>
+              <td>
+                連珠
+              </td>
+              <td>
+                紅色七宝
+              </td>
+            </tr>
+            <tr>
+              <td>
+                光線
+              </td>
+              <td>
+                金色と白色七宝の四条
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="3">
+                瑞宝小綬章
+              </td>
+              <td rowspan="3">
+                銀
+              </td>
+              <td>
+                鏡
+              </td>
+              <td>
+                銀、地藍色七宝
+              </td>
+              <td rowspan="3">
+                金色とし、「勲功旌章」の文字を刻する。
+              </td>
+              <td rowspan="3">
+                径四十六ミリメートル
+              </td>
+              <td rowspan="3">
+                五七桐とし、花淡紫色七宝、葉白色七宝とする。
+              </td>
+              <td rowspan="3">
+                織地藍色、双線橙黄色。綵花を付着する。
+              </td>
+              <td rowspan="3">
+                三十六ミリメートル
+              </td>
+            </tr>
+            <tr>
+              <td>
+                連珠
+              </td>
+              <td>
+                紅色七宝
+              </td>
+            </tr>
+            <tr>
+              <td>
+                光線
+              </td>
+              <td>
+                金色と白色七宝の四条
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="3">
+                瑞宝双光章
+              </td>
+              <td rowspan="3">
+                銀
+              </td>
+              <td>
+                鏡
+              </td>
+              <td>
+                銀、地藍色七宝
+              </td>
+              <td rowspan="3">
+                「勲功旌章」の文字を刻する。
+              </td>
+              <td rowspan="3">
+                径四十六ミリメートル
+              </td>
+              <td rowspan="3">
+                五三桐とし、花淡紫色七宝、葉白色七宝とする。
+              </td>
+              <td rowspan="3">
+                織地藍色、双線橙黄色
+              </td>
+              <td rowspan="3">
+                三十六ミリメートル
+              </td>
+            </tr>
+            <tr>
+              <td>
+                連珠
+              </td>
+              <td>
+                紅色七宝
+              </td>
+            </tr>
+            <tr>
+              <td>
+                光線
+              </td>
+              <td>
+                金色と白色七宝、銀色と白色七宝の四条
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="3">
+                瑞宝単光章
+              </td>
+              <td rowspan="3">
+                銀
+              </td>
+              <td>
+                鏡
+              </td>
+              <td>
+                銀、地藍色七宝
+              </td>
+              <td rowspan="3">
+                「勲功旌章」の文字を刻する。
+              </td>
+              <td rowspan="3">
+                径三十九ミリメートル
+              </td>
+              <td rowspan="3">
+                五三桐とし、花淡紫色七宝、葉白色七宝とする。
+              </td>
+              <td rowspan="3">
+                織地藍色、双線橙黄色
+              </td>
+              <td rowspan="3">
+                三十六ミリメートル
+              </td>
+            </tr>
+            <tr>
+              <td>
+                連珠
+              </td>
+              <td>
+                紅色七宝
+              </td>
+            </tr>
+            <tr>
+              <td>
+                光線
+              </td>
+              <td>
+                銀色と白色七宝の四条
+              </td>
+            </tr>
+            <tr>
+              <td>
+                瑞宝章の略綬
+              </td>
+              <td colspan="8">
+                地及び縁藍色、線橙黄色。直径七ミリメートル。瑞宝大綬章、瑞宝重光章及び瑞宝中綬章のものには翼を付着する。
+              </td>
+            </tr>
+          </table>
+          図（略）<br></br>
+          瑞宝大綬章<br></br>
+          瑞宝重光章及び瑞宝大綬章の副章<br></br>
+          瑞宝中綬章及び瑞宝重光章の副章<br></br>
+          瑞宝小綬章<br></br>
+          瑞宝双光章<br></br>
+          瑞宝単光章<br></br>
+          瑞宝大綬章の綬<br></br>
+          瑞宝中綬章及び瑞宝重光章の副章の綬<br></br>
+          瑞宝小綬章の綬<br></br>
+          瑞宝双光章及び瑞宝単光章の綬<br></br>
+          瑞宝章の略綬<br></br>
+          瑞宝大綬章　瑞宝重光章<br></br>
+          瑞宝中綬章　瑞宝小綬章<br></br>
+          瑞宝双光章　瑞宝単光章<br></br>
+        </article_item>
+      </articles>
+      <articles number="第三条" title="（桐花大綬章の制式及び形状）">
+        <article_item>
+          桐花大綬章、その副章及びその略綬の制式及び形状は、次の表及び図のとおりとする。
+          表
+          <table>
+            <tr>
+              <td rowspan="2">
+                区分
+              </td>
+              <td colspan="5">
+                章
+              </td>
+              <td rowspan="2">
+                鈕
+              </td>
+              <td colspan="2">
+                綬
+              </td>
+            </tr>
+            <tr>
+              <td>
+                地金
+              </td>
+              <td colspan="2">
+                表面
+              </td>
+              <td>
+                裏面
+              </td>
+              <td>
+                寸法
+              </td>
+              <td>
+                図柄
+              </td>
+              <td>
+                幅
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="3">
+                桐花大綬章
+              </td>
+              <td rowspan="3">
+                銀
+              </td>
+              <td>
+                日
+              </td>
+              <td>
+                赤色七宝
+              </td>
+              <td rowspan="3">
+                表面と同様
+              </td>
+              <td rowspan="3">
+                径七十六ミリメートル
+              </td>
+              <td rowspan="3">
+                五七桐とし、花紫色七宝、葉緑色七宝とする。裏に「勲功旌章」の文字を刻する。
+              </td>
+              <td rowspan="3">
+                織地紅色、双線白色
+              </td>
+              <td rowspan="3">
+                男性に授与する場合は百ミリメートル。女性に授与する場合は七十九ミリメートル。
+              </td>
+            </tr>
+            <tr>
+              <td>
+                光線
+              </td>
+              <td>
+                銀色と紅色七宝、金色と白色七宝の二重
+              </td>
+            </tr>
+            <tr>
+              <td>
+                桐花
+              </td>
+              <td>
+                紫色七宝
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="3">
+                桐花大綬章の副章
+              </td>
+              <td rowspan="3">
+                銀
+              </td>
+              <td>
+                日
+              </td>
+              <td>
+                赤色七宝
+              </td>
+              <td rowspan="3">
+                「勲功旌章」の文字を刻する。
+              </td>
+              <td rowspan="3">
+                径九十一ミリメートル
+              </td>
+              <td rowspan="3">
+                無鈕
+              </td>
+              <td rowspan="3">
+                無綬
+              </td>
+              <td rowspan="3">
+                　
+              </td>
+            </tr>
+            <tr>
+              <td>
+                光線
+              </td>
+              <td>
+                銀色と紅色七宝、金色と白色七宝の二重
+              </td>
+            </tr>
+            <tr>
+              <td>
+                桐花
+              </td>
+              <td>
+                紫色七宝
+              </td>
+            </tr>
+            <tr>
+              <td>
+                桐花大綬章の略綬
+              </td>
+              <td colspan="8">
+                地及び縁紅色、線白色。直径七ミリメートル。翼を付着する。
+              </td>
+            </tr>
+          </table>
+          図（略）<br></br>
+          桐花大綬章<br></br>
+          同副章<br></br>
+          同綬<br></br>
+          同略綬<br></br>
+        </article_item>
+      </articles>
+      <articles number="第四条" title="（大勲位菊花大綬章の制式及び形状）">
+        <article_item>
+          大勲位菊花大綬章、その副章及びその略綬の制式及び形状は、次の表及び図のとおりとする。
+          表
+          <table>
+            <tr>
+              <td rowspan="2">
+                区分
+              </td>
+              <td colspan="5">
+                章
+              </td>
+              <td rowspan="2">
+                鈕
+              </td>
+              <td colspan="2">
+                綬
+              </td>
+            </tr>
+            <tr>
+              <td>
+                地金
+              </td>
+              <td colspan="2">
+                表面
+              </td>
+              <td>
+                裏面
+              </td>
+              <td>
+                寸法
+              </td>
+              <td>
+                図柄
+              </td>
+              <td>
+                幅
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="3">
+                大勲位菊花大綬章
+              </td>
+              <td rowspan="3">
+                銀
+              </td>
+              <td>
+                日
+              </td>
+              <td>
+                赤色七宝
+              </td>
+              <td rowspan="3">
+                表面と同様
+              </td>
+              <td rowspan="3">
+                径七十六ミリメートル
+              </td>
+              <td rowspan="3">
+                菊花とし、黄色七宝とする。裏面に「大勲旌章」の文字を刻する。
+              </td>
+              <td rowspan="3">
+                紅紫織
+              </td>
+              <td rowspan="3">
+                男性に授与する場合は百ミリメートル。女性に授与する場合は七十九ミリメートル。
+              </td>
+            </tr>
+            <tr>
+              <td>
+                光線
+              </td>
+              <td>
+                金色と白色七宝
+              </td>
+            </tr>
+            <tr>
+              <td>
+                菊
+              </td>
+              <td>
+                花黄色七宝、葉緑色七宝
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="3">
+                大勲位菊花大綬章の副章
+              </td>
+              <td rowspan="3">
+                銀
+              </td>
+              <td>
+                日
+              </td>
+              <td>
+                赤色七宝
+              </td>
+              <td rowspan="3">
+                「大勲旌章」の文字を刻する。
+              </td>
+              <td rowspan="3">
+                径九十一ミリメートル
+              </td>
+              <td rowspan="3">
+                無鈕
+              </td>
+              <td rowspan="3">
+                無綬
+              </td>
+              <td rowspan="3">
+                　
+              </td>
+            </tr>
+            <tr>
+              <td>
+                光線
+              </td>
+              <td>
+                金色と白色七宝、銀色と白色七宝の二重
+              </td>
+            </tr>
+            <tr>
+              <td>
+                菊
+              </td>
+              <td>
+                花黄色七宝、葉緑色七宝
+              </td>
+            </tr>
+            <tr>
+              <td>
+                大勲位菊花大綬章の略綬
+              </td>
+              <td colspan="8">
+                地紅色、線及び縁紫色。直径七ミリメートル。翼を付着する。
+              </td>
+            </tr>
+          </table>
+          図（略）<br></br>
+          大勲位菊花大綬章<br></br>
+          同副章<br></br>
+          同綬<br></br>
+          同略綬<br></br>
+        </article_item>
+      </articles>
+      <articles number="第五条" title="（宝冠章の制式及び形状）">
+        <article_item>
+          宝冠章、その副章及びその略綬の制式及び形状は、次の表及び図のとおりとする。
+          表
+          <table>
+            <tr>
+              <td rowspan="2">
+                区分
+              </td>
+              <td colspan="4">
+                章
+              </td>
+              <td rowspan="2">
+                鈕
+              </td>
+              <td colspan="2">
+                綬
+              </td>
+            </tr>
+            <tr>
+              <td>
+                地金
+              </td>
+              <td colspan="2">
+                表面
+              </td>
+              <td>
+                寸法
+              </td>
+              <td>
+                図柄
+              </td>
+              <td>
+                幅
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="4">
+                宝冠大綬章
+              </td>
+              <td rowspan="4">
+                銀
+              </td>
+              <td>
+                宝冠
+              </td>
+              <td>
+                金色、地藍色七宝
+              </td>
+              <td rowspan="4">
+                長径三十七ミリメートル、短径三十二ミリメートル
+              </td>
+              <td rowspan="4">
+                桐とし、花紫色七宝、葉緑色七宝とする。
+              </td>
+              <td rowspan="4">
+                織地黄色、双線紅色
+              </td>
+              <td rowspan="4">
+                七十九ミリメートル
+              </td>
+            </tr>
+            <tr>
+              <td>
+                重廓
+              </td>
+              <td>
+                真珠
+              </td>
+            </tr>
+            <tr>
+              <td>
+                重廓間
+              </td>
+              <td>
+                竹枝緑色七宝、地濃紅色七宝
+              </td>
+            </tr>
+            <tr>
+              <td>
+                桜
+              </td>
+              <td>
+                花淡紅色七宝、葉緑色七宝
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="5">
+                宝冠大綬章の副章
+              </td>
+              <td rowspan="5">
+                銀
+              </td>
+              <td>
+                鳳
+              </td>
+              <td>
+                金色、地藍色七宝
+              </td>
+              <td rowspan="5">
+                径六十七ミリメートル
+              </td>
+              <td rowspan="5">
+                無鈕
+              </td>
+              <td rowspan="5">
+                無綬
+              </td>
+              <td rowspan="5">
+                　
+              </td>
+            </tr>
+            <tr>
+              <td>
+                重廓
+              </td>
+              <td>
+                真珠
+              </td>
+            </tr>
+            <tr>
+              <td>
+                重廓間
+              </td>
+              <td>
+                竹枝緑色七宝、地濃紅色七宝
+              </td>
+            </tr>
+            <tr>
+              <td>
+                光線
+              </td>
+              <td>
+                真珠の五条
+              </td>
+            </tr>
+            <tr>
+              <td>
+                桜
+              </td>
+              <td>
+                花淡紅色七宝、葉緑色七宝
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="4">
+                宝冠牡丹章
+              </td>
+              <td rowspan="4">
+                銀
+              </td>
+              <td>
+                宝冠
+              </td>
+              <td>
+                金色、地藍色七宝
+              </td>
+              <td rowspan="4">
+                長径三十四ミリメートル、短径二十九ミリメートル
+              </td>
+              <td rowspan="4">
+                牡丹とし、花白色七宝、葉緑色七宝とする。
+              </td>
+              <td rowspan="4">
+                織地黄色、双線紅色
+              </td>
+              <td rowspan="4">
+                三十六ミリメートル
+              </td>
+            </tr>
+            <tr>
+              <td>
+                重廓
+              </td>
+              <td>
+                真珠
+              </td>
+            </tr>
+            <tr>
+              <td>
+                重廓間
+              </td>
+              <td>
+                竹枝緑色七宝、地濃紅色七宝
+              </td>
+            </tr>
+            <tr>
+              <td>
+                桜
+              </td>
+              <td>
+                花淡紅色七宝、葉緑色七宝
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="4">
+                宝冠白蝶章
+              </td>
+              <td rowspan="4">
+                銀
+              </td>
+              <td>
+                宝冠
+              </td>
+              <td>
+                金色、地藍色七宝
+              </td>
+              <td rowspan="4">
+                長径三十四ミリメートル、短径二十九ミリメートル
+              </td>
+              <td rowspan="4">
+                蝶とし、白色七宝とする。
+              </td>
+              <td rowspan="4">
+                織地黄色、双線紅色
+              </td>
+              <td rowspan="4">
+                三十六ミリメートル
+              </td>
+            </tr>
+            <tr>
+              <td>
+                重廓
+              </td>
+              <td>
+                真珠
+              </td>
+            </tr>
+            <tr>
+              <td>
+                重廓間
+              </td>
+              <td>
+                竹枝緑色七宝、地濃紅色七宝
+              </td>
+            </tr>
+            <tr>
+              <td>
+                桜
+              </td>
+              <td>
+                花淡紅色七宝、葉緑色七宝
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="4">
+                宝冠藤花章
+              </td>
+              <td rowspan="4">
+                銀
+              </td>
+              <td>
+                宝冠
+              </td>
+              <td>
+                金色、地藍色七宝
+              </td>
+              <td rowspan="4">
+                長径三十二ミリメートル、短径二十七ミリメートル
+              </td>
+              <td rowspan="4">
+                藤花とし、紫色七宝とする。
+              </td>
+              <td rowspan="4">
+                織地黄色、双線紅色
+              </td>
+              <td rowspan="4">
+                三十六ミリメートル
+              </td>
+            </tr>
+            <tr>
+              <td>
+                重廓
+              </td>
+              <td>
+                真珠
+              </td>
+            </tr>
+            <tr>
+              <td>
+                重廓間
+              </td>
+              <td>
+                竹枝緑色七宝、地濃紅色七宝
+              </td>
+            </tr>
+            <tr>
+              <td>
+                桜
+              </td>
+              <td>
+                花淡紅色七宝、葉緑色七宝
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="4">
+                宝冠杏葉章
+              </td>
+              <td rowspan="4">
+                銀
+              </td>
+              <td>
+                宝冠
+              </td>
+              <td>
+                金色、地藍色七宝
+              </td>
+              <td rowspan="4">
+                長径三十二ミリメートル、短径二十七ミリメートル
+              </td>
+              <td rowspan="4">
+                杏葉とし、緑色七宝とする。
+              </td>
+              <td rowspan="4">
+                織地黄色、双線紅色
+              </td>
+              <td rowspan="4">
+                三十六ミリメートル
+              </td>
+            </tr>
+            <tr>
+              <td>
+                重廓
+              </td>
+              <td>
+                真珠
+              </td>
+            </tr>
+            <tr>
+              <td>
+                重廓間
+              </td>
+              <td>
+                竹枝緑色七宝、地濃紅色七宝
+              </td>
+            </tr>
+            <tr>
+              <td>
+                桜
+              </td>
+              <td>
+                花淡紅色七宝、葉緑色七宝
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="3">
+                宝冠波光章
+              </td>
+              <td rowspan="3">
+                銀
+              </td>
+              <td>
+                宝冠
+              </td>
+              <td>
+                金色
+              </td>
+              <td rowspan="3">
+                長径二十八ミリメートル、短径二十四ミリメートル
+              </td>
+              <td rowspan="3">
+                波紋とし、淡藍色七宝とする。
+              </td>
+              <td rowspan="3">
+                織地黄色、双線紅色
+              </td>
+              <td rowspan="3">
+                三十六ミリメートル
+              </td>
+            </tr>
+            <tr>
+              <td>
+                重廓間
+              </td>
+              <td>
+                竹枝銀色、地紅色七宝
+              </td>
+            </tr>
+            <tr>
+              <td>
+                桜
+              </td>
+              <td>
+                葉緑色七宝
+              </td>
+            </tr>
+            <tr>
+              <td>
+                宝冠章の略綬
+              </td>
+              <td colspan="7">
+                地及び縁黄色、線紅色。直径七ミリメートル。宝冠大綬章、宝冠牡丹章及び宝冠白蝶章のものには翼を付着する。
+              </td>
+            </tr>
+          </table>
+          図（略）<br></br>
+          宝冠大授章<br></br>
+          同副章<br></br>
+          宝冠牡丹章<br></br>
+          宝冠白蝶章<br></br>
+          宝冠藤花章<br></br>
+          宝冠杏葉章<br></br>
+          宝冠波光章<br></br>
+          宝冠大綬章の綬<br></br>
+          宝冠牡丹章、宝冠白蝶章、宝冠藤花章、宝冠杏葉章及び宝冠波光章の綬<br></br>
+          宝冠章の略綬<br></br>
+          宝冠大綬章　宝冠牡丹章<br></br>
+          宝冠白蝶章　宝冠藤花章<br></br>
+          宝冠杏葉章　宝冠波光章<br></br>
+        </article_item>
+      </articles>
+      <articles number="第六条" title="（大勲位菊花章頸飾の制式及び形状）">
+        <article_item>
+          大勲位菊花章頸飾の制式及び形状は、次の表及び図のとおりとする。
+          表
+          <table>
+            <tr>
+              <td colspan="3">
+                大勲位菊花章頸飾
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="2">
+                中央
+              </td>
+              <td colspan="2">
+                円形
+              </td>
+            </tr>
+            <tr>
+              <td>
+                菊
+              </td>
+              <td>
+                花金、葉緑色七宝
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="4">
+                連環
+              </td>
+              <td colspan="2">
+                楕円形
+              </td>
+            </tr>
+            <tr>
+              <td>
+                古篆明の字
+              </td>
+              <td rowspan="2">
+                金
+              </td>
+            </tr>
+            <tr>
+              <td>
+                古篆治の字
+              </td>
+            </tr>
+            <tr>
+              <td>
+                菊
+              </td>
+              <td>
+                花金、葉緑色七宝
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="2">
+                寸法
+              </td>
+              <td>
+                中央
+              </td>
+              <td>
+                径三十九ミリメートル
+              </td>
+            </tr>
+            <tr>
+              <td>
+                連環
+              </td>
+              <td>
+                長径二十八ミリメートル、短径二十四ミリメートル
+              </td>
+            </tr>
+          </table>
+          図（略）<br></br>
+        </article_item>
+      </articles>
+    </content>
+  </body>
+</law>
