@@ -3,7 +3,7 @@
   <head>
     <title>飼料の安全性の確保及び品質の改善に関する法律施行規則</title>
     <defined>昭和五十一年七月二十四日農林省令第三十六号</defined>
-    <updated>平成二五年六月二〇日農林水産省令第五〇号</updated>
+    <updated>平成二六年二月六日農林水産省令第七号</updated>
   </head>
   <body>
     <preamble><p>飼料の安全性の確保及び品質の改善に関する法律（昭和二十八年法律第三十五号）第二条第三項、第二条の三第一号、第二条の四第一項及び第二項（第四条第三項において準用する場合を含む。）、第二条の八第一項及び第三項、第三条第二項（第六項において準用する場合を含む。）及び第五項（第六項及び第八条第二項において準用する場合を含む。）、第四条第一項及び第二項、第五条第四項、第十二条第一号及び第二号、第十五条第一項、第十五条の七、第十八条第一項及び同項第四号並びに第二十一条第四項の規定に基づき、並びに同法を実施するため、飼料の安全性の確保及び品質の改善に関する法律施行規則を次のように定める。</p></preamble>
@@ -192,36 +192,33 @@
                 サリノマイシンナトリウム
               </go_item>
               <go_item number="九">
-                セデカマイシン
-              </go_item>
-              <go_item number="十">
                 センデュラマイシンナトリウム
               </go_item>
-              <go_item number="十一">
+              <go_item number="十">
                 ナラシン
               </go_item>
-              <go_item number="十二">
+              <go_item number="十一">
                 ノシヘプタイド
               </go_item>
-              <go_item number="十三">
+              <go_item number="十二">
                 バージニアマイシン
               </go_item>
-              <go_item number="十四">
+              <go_item number="十三">
                 ビコザマイシン
               </go_item>
-              <go_item number="十五">
+              <go_item number="十四">
                 フラボフォスフォリポール
               </go_item>
-              <go_item number="十六">
+              <go_item number="十五">
                 モネンシンナトリウム
               </go_item>
-              <go_item number="十七">
+              <go_item number="十六">
                 ラサロシドナトリウム
               </go_item>
-              <go_item number="十八">
+              <go_item number="十七">
                 硫酸コリスチン
               </go_item>
-              <go_item number="十九">
+              <go_item number="十八">
                 リン酸タイロシン
               </go_item>
             </go>

@@ -3,7 +3,7 @@
   <head>
     <title>児童福祉法施行規則</title>
     <defined>昭和二十三年三月三十一日厚生省令第十一号</defined>
-    <updated>平成二五年一一月二二日厚生労働省令第一二四号</updated>
+    <updated>平成二六年二月一四日厚生労働省令第九号</updated>
   </head>
   <body>
     <preamble><p>児童福祉法施行規則を次のように定める。</p></preamble>
@@ -1099,7 +1099,7 @@
                 処分の内容及び処分を行つた年月日
               </go_item>
               <go_item number="三">
-                不正の行為の内容
+                不正の行為の内容 
               </go_item>
             </go>
           </article_item>

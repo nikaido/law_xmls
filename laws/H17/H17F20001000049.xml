@@ -3,7 +3,7 @@
   <head>
     <title>試験研究の用に供する原子炉等に係る放射能濃度についての確認等に関する規則</title>
     <defined>平成十七年十一月三十日文部科学省令第四十九号</defined>
-    <updated>平成二五年一二月六日原子力規制委員会規則第一六号</updated>
+    <updated>平成二六年二月二八日原子力規制委員会規則第一号</updated>
   </head>
   <body>
     <preamble><p>核原料物質、核燃料物質及び原子炉の規制に関する法律（昭和三十二年法律第百六十六号）第六十一条の二第一項及び第二項の規定に基づき、並びに同法を実施するため、試験研究の用に供する原子炉等に係る放射能濃度についての確認等に関する規則を次のように定める。</p></preamble>
@@ -63,6 +63,11 @@
         </article_item>
         <article_item number="３">
           第一項の申請書の提出部数は、正本一通、副本一通及び写し一通とする。
+        </article_item>
+      </articles>
+      <articles number="第三条の二" title="（放射能濃度に関する確認実施要領書）">
+        <article_item>
+          原子力規制委員会は、前条の申請書の提出を受けた場合には、第二条各号に掲げる事項の確認の方法その他必要な事項を定めた当該申請に係る確認実施要領書を定めるものとする。
         </article_item>
       </articles>
       <articles number="第四条" title="（放射能濃度の確認等）">
@@ -141,7 +146,7 @@
           </go>
         </article_item>
         <article_item number="３">
-          第一項の申請書の提出部数は、正本一通、副本一通及び写し一通とする。
+          第一項の申請書の提出部数は、正本一通及び写し一通とする。
         </article_item>
       </articles>
       <articles number="第六条" title="（測定及び評価の方法の認可の基準）">
@@ -291,76 +296,19 @@
           </table>
         </article_item>
       </articles>
-      <articles number="第八条" title="（機構が行う確認）">
+      <articles number="第八条" title="（記録の保管）">
         <article_item>
-          法第六十一条の二第四項の規定により原子力規制委員会が独立行政法人原子力安全基盤機構（以下「機構」という。）に行わせる確認に関する事務は、放射能濃度確認対象物に係る放射能濃度の測定及び評価が第五条第一項の規定に基づき認可を受けた方法に従って行われているかどうかについて確認する事務とする。
+          削除
         </article_item>
       </articles>
-      <articles number="第九条" title="（機構が行う確認の通知書）">
+      <articles number="第九条" title="（記録の保管）">
         <article_item>
-          原子力規制委員会は、第三条第一項の申請書の提出を受けた場合には、次に掲げる事項を記載した通知書により、機構に対し、機構が行う当該確認に関する事務の実施について通知するものとする。
-          <go>
-            <go_item number="一">
-              確認を受ける者の氏名又は名称及び住所並びに法人にあっては、その代表者の氏名
-            </go_item>
-            <go_item number="二">
-              確認を受ける工場等の名称及び所在地
-            </go_item>
-            <go_item number="三">
-              確認を行う期日
-            </go_item>
-            <go_item number="四">
-              確認を行う場所
-            </go_item>
-            <go_item number="五">
-              確認の対象
-            </go_item>
-            <go_item number="六">
-              確認の方法
-            </go_item>
-          </go>
-        </article_item>
-        <article_item number="２">
-          前項の通知書には、次に掲げる書類の写しを添付するものとする。
-          <go>
-            <go_item number="一">
-              第三条第一項の申請書及び同条第二項の添付書類
-            </go_item>
-            <go_item number="二">
-              第五条第一項の申請書及び同条第二項の添付書類
-            </go_item>
-          </go>
-        </article_item>
-        <article_item number="３">
-          原子力規制委員会は、第一項の通知書に記載されている事項を変更したときは、速やかに、その旨を機構に通知するものとする。
+          削除
         </article_item>
       </articles>
-      <articles number="第十条" title="（確認結果の通知）">
+      <articles number="第十条" title="（記録の保管）">
         <article_item>
-          法第六十一条の二第五項の通知は、次に掲げる事項を記載した書面によって行うものとする。
-          <go>
-            <go_item number="一">
-              確認を受けた者の氏名又は名称及び住所並びに法人にあっては、その代表者の氏名
-            </go_item>
-            <go_item number="二">
-              確認を受けた工場等の名称及び所在地
-            </go_item>
-            <go_item number="三">
-              確認を行った年月日
-            </go_item>
-            <go_item number="四">
-              確認を行った場所
-            </go_item>
-            <go_item number="五">
-              確認の対象
-            </go_item>
-            <go_item number="六">
-              確認の方法
-            </go_item>
-            <go_item number="七">
-              確認の結果
-            </go_item>
-          </go>
+          削除
         </article_item>
       </articles>
       <articles number="第十一条" title="（フレキシブルディスクによる手続）">

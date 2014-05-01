@@ -3,7 +3,7 @@
   <head>
     <title>人事院規則一一―八（職員の定年）</title>
     <defined>昭和五十九年七月二日人事院規則一一―八</defined>
-    <updated>平成二五年八月五日人事院規則一一―八―三三</updated>
+    <updated>平成二六年二月二八日人事院規則一―六一</updated>
   </head>
   <body>
     <preamble><p>人事院は、国家公務員法（昭和二十二年法律第百二十号）に基づき、職員の定年に関し次の人事院規則を制定する。</p></preamble>
@@ -60,6 +60,17 @@
         </article_item>
         <article_item number="２">
           前項の職員の定年は、別表の上欄に掲げる職員の区分に応じ、それぞれ同表の下欄に掲げる年齢とする。
+        </article_item>
+        <article_item number="３">
+          第一項に定めるもののほか、当分の間、次の各号に掲げる原子力規制庁の職員を法第八十一条の二第二項第三号の規則で定める職員とし、これらの職員の定年は、それぞれ当該各号に定める年齢とする。
+          <go>
+            <go_item number="一">
+              原子力保安検査官（統括原子力保安検査官を除く。）、原子力施設検査官及び原子力防災専門官　年齢六十三年
+            </go_item>
+            <go_item number="二">
+              地域原子力規制総括調整官及び統括原子力保安検査官　年齢六十五年
+            </go_item>
+          </go>
         </article_item>
       </articles>
       <articles number="第五条" title="（定年に達している者の任用）">

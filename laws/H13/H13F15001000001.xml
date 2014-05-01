@@ -3,7 +3,7 @@
   <head>
     <title>経済産業省組織規則</title>
     <defined>平成十三年一月六日経済産業省令第一号</defined>
-    <updated>平成二五年六月二六日経済産業省令第三一号</updated>
+    <updated>平成二六年二月二五日経済産業省令第六号</updated>
   </head>
   <body>
     <preamble><p>国家行政組織法（昭和二十三年法律第百二十号）、経済産業省設置法（平成十一年法律第九十九号）及び経済産業省組織令（平成十二年政令第二百五十四号）の規定に基づき、並びに経済産業省設置法及び経済産業省組織令を実施するため、経済産業省組織規則を次のように定める。</p></preamble>
@@ -3119,15 +3119,29 @@
                 電力需給・流通政策室に、室長を置く。
               </article_item>
             </articles>
-            <articles number="第二百五十九条" title="（原子力国際協力推進室）">
+            <articles number="第二百五十九条" title="（原子力国際協力推進室及び原子力発電所事故収束対応室）">
               <article_item>
-                原子力政策課に、原子力国際協力推進室を置く。
+                原子力政策課に、原子力国際協力推進室及び原子力発電所事故収束対応室を置く。
               </article_item>
               <article_item number="２">
                 原子力国際協力推進室は、エネルギーとしての利用に関する原子力の国際協力に関する事務をつかさどる。
               </article_item>
               <article_item number="３">
                 原子力国際協力推進室に、室長を置く。
+              </article_item>
+              <article_item number="４">
+                原子力発電所事故収束対応室は、次に掲げる事務をつかさどる。
+                <go>
+                  <go_item number="一">
+                    エネルギーに関する原子力政策のうち原子力発電所の事故の収束に関すること。
+                  </go_item>
+                  <go_item number="二">
+                    エネルギーとしての利用に関する原子力の技術開発に関する事務のうち原子力発電所の事故の収束に関すること。
+                  </go_item>
+                </go>
+              </article_item>
+              <article_item number="５">
+                原子力発電所事故収束対応室に、室長を置く。
               </article_item>
             </articles>
             <articles number="第二百六十条" title="（放射性廃棄物等対策室並びに核燃料サイクル産業立地企画官、原子力発電立地企画官及び原子力広報官）">
