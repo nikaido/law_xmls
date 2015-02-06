@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>国有林野管理審議会令</title>
+    <defined>昭和三十九年七月一日政令第二百二十一号</defined>
+    <updated>平成二五年三月二七日政令第八四号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、農林省設置法（昭和二十四年法律第百五十三号）第六十九条の三第三項の規定に基づき、この政令を制定する。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（組織）">
+      <article_item number="第一条">
+        国有林野管理審議会（以下「審議会」という。）は、委員二十人以内で組織する。
+      </article_item>
+      <article_item number="２">
+        特別の事項を調査審議するために必要があるときは、審議会に臨時委員を置くことができる。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（組織）">
+      <article_item number="第二条">
+        委員及び臨時委員は、学識経験のある者及び関係行政機関又は地方公共団体の職員のうちから、森林管理局長が任命する。
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（組織）">
+      <article_item number="第三条">
+        学識経験のある者のうちから任命された委員の任期は、二年とする。ただし、補欠委員の任期は、前任者の残任期間とする。
+      </article_item>
+      <article_item number="２">
+        委員及び臨時委員は、再任されることができる。
+      </article_item>
+      <article_item number="３">
+        臨時委員は、当該特別の事項に関する調査審議が終了したときは、解任されるものとする。
+      </article_item>
+      <article_item number="４">
+        委員及び臨時委員は、非常勤とする。
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（組織）">
+      <article_item number="第四条">
+        審議会に会長を置き、委員の互選によつて定める。
+      </article_item>
+      <article_item number="２">
+        会長は、会務を総理する。
+      </article_item>
+      <article_item number="３">
+        会長に事故があるときは、あらかじめその指名する委員が、その職務を代理する。
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（庶務）">
+      <article_item number="第五条">
+        審議会の庶務は、森林管理局計画保全部において処理する。
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（雑則）">
+      <article_item number="第六条">
+        この政令に定めるもののほか、審議会の運営に関し必要な事項は、会長が審議会にはかつて定める。
+      </article_item>
+    </articles>
+    <articles title="（雑則）">
+      <article_item>
+        
+      </article_item>
+    </articles>
+  </body>
+</law>

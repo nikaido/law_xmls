@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>勲章佩用式</title>
+    <defined>明治二十一年十一月十七日勅令第七十六号</defined>
+    <updated>平成一四年八月一二日政令第二七七号</updated>
+  </head>
+  <body>
+    <articles number="第一条" title="（大勲位菊花章）">
+      <article_item number="第一条">
+        <br/>　　大勲位菊花章ハ頸飾ヲ以テ喉下ニ佩ヒ其副章ヲ左肋ニ佩フ大綬ヲ以テ佩フル時ハ右肩ヨリ左脇ヘ垂レ其副章ハ左肋ニ佩フ
+        </article_item>
+      </articles>
+      <articles number="第二条" title="（宝冠章）">
+        <article_item number="第二条">
+          宝冠章ノ佩用ハ次ニ定ムル所ニ依ル
+          <go>
+            <go_item number="一">
+              宝冠大綬章ハ大綬ヲ以テ右肩ヨリ左脇ヘ垂レ其副章ヲ左肋ニ佩フ
+            </go_item>
+            <go_item number="二">
+              宝冠牡丹章宝冠白蝶章宝冠藤花章宝冠杏葉章及宝冠波光章ハ結蝶状ノ綬ヲ以テ左肋ニ佩フ
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第三条" title="（桐花大綬章）">
+        <article_item number="第三条">
+          桐花大綬章ハ大綬ヲ以テ右肩ヨリ左脇ヘ垂レ其副章ヲ左肋ニ佩ブ
+        </article_item>
+      </articles>
+      <articles number="第四条" title="（旭日章）">
+        <article_item number="第四条">
+          旭日章ノ佩用ハ次ニ定ムル所ニ依ル
+          <go>
+            <go_item number="一">
+              旭日大綬章ハ大綬ヲ以テ右肩ヨリ左脇ヘ垂レ其副章ヲ左肋ニ佩フ
+            </go_item>
+            <go_item number="二">
+              旭日重光章ハ右肋ニ佩ヒ其副章ヲ中綬ヲ以テ喉下ニ佩フ
+            </go_item>
+            <go_item number="三">
+              旭日中綬章ハ中綬ヲ以テ喉下ニ佩フ
+            </go_item>
+            <go_item number="四">
+              旭日小綬章旭日双光章及旭日単光章ハ小綬ヲ以テ左肋ニ佩フ
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第五条" title="（瑞宝章）">
+        <article_item number="第五条">
+          瑞宝章ノ佩用ハ次ニ定ムル所ニ依ル
+          <go>
+            <go_item number="一">
+              瑞宝大綬章ハ大綬ヲ以テ右肩ヨリ左脇ヘ垂レ其副章ヲ左肋ニ佩フ
+            </go_item>
+            <go_item number="二">
+              瑞宝重光章ハ右肋ニ佩ビ其副章ヲ中綬ヲ以テ喉下ニ佩ブ
+            </go_item>
+            <go_item number="三">
+              瑞宝中綬章ハ中綬ヲ以テ喉下ニ佩フ
+            </go_item>
+            <go_item number="四">
+              瑞宝小綬章瑞宝双光章及瑞宝単光章ハ小綬ヲ以テ左肋ニ佩フ
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第六条" title="（勲章ノ併佩）">
+        <article_item number="第六条">
+          別種ノ勲章ハ之ヲ併佩スルコトヲ得其大綬章ハ之ヲ併佩セス
+        </article_item>
+      </articles>
+    </body>
+</law>

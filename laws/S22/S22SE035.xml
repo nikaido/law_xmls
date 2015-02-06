@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>最高検察庁の位置並びに最高検察庁以外の検察庁の名称及び位置を定める政令</title>
+    <defined>昭和二十二年五月三日政令第三十五号</defined>
+    <updated>平成一七年三月一九日政令第五七号</updated>
+  </head>
+  <body>
+    <articles number="第一条">
+      <article_item number="第一条">
+        最高検察庁は、これを東京都に置く。
+      </article_item>
+    </articles>
+    <articles number="第二条">
+      <article_item number="第二条">
+        別表第一表上欄記載の各高等裁判所に対応する各高等検察庁の名称及び位置を同表下欄記載の通り、別表第二表上欄記載の各地方裁判所に対応する各地方検察庁の名称及び位置を同表下欄記載の通り、別表第三表上欄記載の各簡易裁判所に対応する各区検察庁の名称及び位置を同表下欄記載の通りそれぞれ定める。
+      </article_item>
+    </articles>
+  </body>
+</law>

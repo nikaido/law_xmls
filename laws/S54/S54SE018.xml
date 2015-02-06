@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>水俣病の認定業務の促進に関する臨時措置法施行令</title>
+    <defined>昭和五十四年二月九日政令第十八号</defined>
+    <updated>平成一二年六月七日政令第三一三号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、水俣病の認定業務の促進に関する臨時措置法（昭和五十三年法律第百四号）第二条第六項及び第五条第一項の規定に基づき、この政令を制定する。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（審議会等で政令で定めるもの）">
+      <article_item number="第一条">
+        水俣病の認定業務の促進に関する臨時措置法（以下「法」という。）第二条第二項の審議会等で政令で定めるものは、臨時水俣病認定審査会とする。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（認定の効力）">
+      <article_item number="第二条">
+        法第二条第二項の規定による認定を受けた者は、同項の県知事等の公害健康被害の補償等に関する法律（昭和四十八年法律第百十一号）第四条第二項の規定による認定を受けた者とみなす。
+      </article_item>
+    </articles>
+  </body>
+</law>

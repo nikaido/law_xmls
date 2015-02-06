@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>保護区及び保護区ごとの保護司の定数に関する規則</title>
+    <defined>昭和四十八年三月二十日法務省令第二十二号</defined>
+    <updated>平成一九年一一月八日法務省令第六三号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        保護司法（昭和二十五年法律第二百四号）第十四条の規定に基づき、保護区及び保護区ごとの保護司の定数に関する規則を次のように定める。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（この規則の趣旨）">
+      <article_item number="第一条">
+        保護司法（以下「法」という。）第二条に規定する保護区及び保護区ごとの保護司の定数については、この規則の定めるところによる。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（権限の委任）">
+      <article_item number="第二条">
+        次の各号に掲げる法務大臣の権限は、法第二条第四項の規定に基づき、その保護区の区域を管轄する地方更生保護委員会（以下「地方委員会」という。）に委任する。
+        <go>
+          <go_item number="一">
+            法第二条第一項の規定による保護区を定める権限
+          </go_item>
+          <go_item number="二">
+            法第二条第三項の規定による保護区ごとの保護司の定数を定める権限
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（保護区の区域）">
+      <article_item number="第三条">
+        保護区の区域は、特別の事情がないかぎり、一又は二以上の市町村（特別区を含む。）の区域をもつて定めるものとする。この場合において、地方自治法（昭和二十二年法律第六十七号）第二百五十二条の二十第一項の規定による指定都市の区は、市とみなす。
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（地方委員会ごとの保護司の定数）">
+      <article_item number="第四条">
+        地方委員会は、保護区ごとの保護司の定数を定めるにあたつては、別表上欄に掲げる地方委員会ごとに同表下欄に掲げる保護司の定数をこえないものとする。
+      </article_item>
+      <article_item number="２">
+        別表上欄に掲げる地方委員会は、別表下欄に掲げる保護司の定数を変更する必要が生じたと認めるときは、法務大臣に対し、書面をもつてその旨を申し出るものとする。
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（保護観察所の長の申出）">
+      <article_item number="第五条">
+        保護観察所の長は、その管轄区域内の保護区又は保護区ごとの保護司の定数を変更する必要が生じたと認めるときは、地方委員会に対し、書面をもつてその旨を申し出るものとする。
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（地方委員会の決定）">
+      <article_item number="第六条">
+        地方委員会は、前条の申出があつた場合には、保護区又は保護区ごとの保護司の定数を変更するかどうかの決定をしなければならない。
+      </article_item>
+      <article_item number="２">
+        地方委員会は、前条の申出がない場合においても、特に必要があると認めるときは、前項の決定をすることができる。この場合には、その保護区の区域を管轄する保護観察所の長の意見を聞かなければならない。
+      </article_item>
+    </articles>
+    <articles number="第七条" title="（決定の通知）">
+      <article_item number="第七条">
+        地方委員会は、前条の規定により決定をしたときは、その保護区の区域を管轄する保護観察所の長に対し、書面をもつてその旨を通知しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第八条" title="（報告）">
+      <article_item number="第八条">
+        地方委員会は、毎年一月に、法務大臣に対し、前年におけるその管轄区域内の保護区及び保護区ごとの保護司の定数の変更の状況を書面をもつて報告しなければならない。
+      </article_item>
+    </articles>
+  </body>
+</law>

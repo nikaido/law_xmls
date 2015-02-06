@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>特殊開錠用具の所持の禁止等に関する法律施行令</title>
+    <defined>平成十五年八月一日政令第三百五十五号</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、特殊開錠用具の所持の禁止等に関する法律（平成十五年法律第六十五号）第二条第二号及び第三号並びに第七条の規定に基づき、この政令を制定する。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（特殊開錠用具）">
+      <article_item number="第一条">
+        特殊開錠用具の所持の禁止等に関する法律（以下「法」という。）第二条第二号の政令で定める器具は、次に掲げるものとする。
+        <go>
+          <go_item number="一">
+            ピッキング用具（法第二条第二号に規定するピッキング用具をいう。）
+          </go_item>
+          <go_item number="二">
+            破壊用シリンダー回し（特定の型式の建物錠のシリンダーに挿入して強制的に回転させることによりこれを破壊するための器具をいう。）
+          </go_item>
+          <go_item number="三">
+            ホールソー（ドリルに取り付けて用いる筒状ののこぎりをいう。）のシリンダー用軸（特定の型式の建物錠のシリンダーに挿入して用いるための軸をいう。）
+          </go_item>
+          <go_item number="四">
+            サムターン回し（建物錠が設けられている戸の外側から挿入して当該建物錠のサムターン（かんぬきの開閉を行うためのつまみをいう。以下同じ。）を回転させるための器具をいう。）
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（指定侵入工具）">
+      <article_item number="第二条">
+        法第二条第三号の政令で定める工具は、次に掲げるものとする。
+        <go>
+          <go_item number="一">
+            次のいずれにも該当するドライバー
+            <go>
+              <go_item number="イ">
+                先端部が平らで、その幅が〇・五センチメートル以上であること。
+              </go_item>
+              <go_item number="ロ">
+                長さ（専用の柄を取り付けることができるものにあっては、柄を取り付けたときの長さ）が十五センチメートル以上であること。
+              </go_item>
+            </go>
+          </go_item>
+          <go_item number="二">
+            次のいずれにも該当するバール
+            <go>
+              <go_item number="イ">
+                作用する部分のいずれかの幅が二センチメートル以上であること。
+              </go_item>
+              <go_item number="ロ">
+                長さが二十四センチメートル以上であること。
+              </go_item>
+            </go>
+          </go_item>
+          <go_item number="三">
+            ドリル（直径一センチメートル以上の刃が附属するものに限る。）
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（指定建物錠）">
+      <article_item number="第三条">
+        法第七条の政令で定める建物錠は、次に掲げるものとする。
+        <go>
+          <go_item number="一">
+            シリンダー錠
+          </go_item>
+          <go_item number="二">
+            シリンダー
+          </go_item>
+          <go_item number="三">
+            サムターン
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+  </body>
+</law>

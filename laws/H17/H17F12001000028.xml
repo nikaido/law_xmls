@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>船籍港の所在地を管轄する登記所が二以上ある船舶の管轄登記所を指定する省令</title>
+    <defined>平成十七年二月二十八日法務省令第二十八号</defined>
+    <updated>平成二一年一二月二五日法務省令第四七号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        船舶登記令（平成十七年政令第十一号）第四条第二項の規定に基づき、船籍港が数箇の登記所の管轄地に跨がる船舶の管轄登記所を指定する省令（昭和四十一年法務省令第四十一号）の全部を改正する省令を次のように定める。
+      </p>
+    </preamble>
+    <articles number="第一条">
+      <article_item number="第一条">
+        東京都の区のある地域を船籍港と定めた船舶の登記の事務は、東京法務局が取り扱う。
+      </article_item>
+      <article_item number="２">
+        神奈川県川崎市の区域を船籍港と定めた船舶の登記の事務は、横浜地方法務局川崎支局が取り扱う。
+      </article_item>
+    </articles>
+    <articles number="第二条">
+      <article_item number="第二条">
+        前条の場合を除くほか、船籍港の所在地を管轄する登記所が二以上あるときは、その船舶の登記の事務は、商業登記につき事務の委任を受けた登記所が取り扱う。
+      </article_item>
+    </articles>
+  </body>
+</law>

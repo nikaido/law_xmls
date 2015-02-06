@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>法務省関係構造改革特別区域法施行規則を廃止する省令</title>
+    <defined>平成二十一年五月一日法務省令第二十七号</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        構造改革特別区域法及び競争の導入による公共サービスの改革に関する法律の一部を改正する法律（平成二十一年法律第三十三号）の施行に伴い、法務省関係構造改革特別区域法施行規則を廃止する省令を次のように定める。
+      </p>
+    </preamble>
+    <articles>
+      <article_item>
+        法務省関係構造改革特別区域法施行規則（平成十五年法務省令第二十二号）は、廃止する。
+      </article_item>
+    </articles>
+  </body>
+</law>

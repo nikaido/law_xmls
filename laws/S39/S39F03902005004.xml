@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>自動車道事業報告規則</title>
+    <defined>昭和三十九年三月三十一日運輸省・建設省令第四号</defined>
+    <updated>平成一八年七月七日国土交通省令第七五号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        道路運送法（昭和二十六年法律第百八十三号）第百二十六条第一項の規定に基づき、自動車道事業報告規則を次のように定める。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（趣旨）">
+      <article_item number="第一条">
+        自動車道事業者及びその組織する団体の事業に関する報告については、この省令の定めるところによる。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（事業報告書及び供用実績報告書）">
+      <article_item number="第二条">
+        自動車道事業者は、国土交通大臣及びその経営する自動車道事業に係る路線が存する地域を管轄する地方運輸局長に、毎事業年度に係る事業報告書及び前年四月一日から三月三十一日までの期間に係る路線ごとの供用実績報告書をそれぞれ一通提出しなければならない。
+      </article_item>
+      <article_item number="２">
+        前項の事業報告書は、第一号様式による事業概況報告書及び自動車道事業会計規則（昭和三十九年運輸省建設省令第三号。以下「会計規則」という。）第四条第一項の規定による様式（会計規則別表第二第十一号様式、第十二号様式、第十五号様式及び第十六号様式を除く。）による財務諸表（用紙の大きさは、日本工業規格Ａ列四番）とし、前項の供用実績報告書は、第二号様式によるものとする。
+      </article_item>
+      <article_item number="３">
+        第一項の事業報告書の提出期限は、毎事業年度終了の日の翌日から起算して百日を経過した日の前日とし、同項の供用実績報告書の提出期限は、毎年五月三十一日とする。
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（臨時の報告）">
+      <article_item number="第三条">
+        自動車道事業者及びその組織する団体は、前条に定める報告書のほか、国土交通大臣からその事業に関する報告を求められたときは、報告書を提出しなければならない。
+      </article_item>
+      <article_item number="２">
+        国土交通大臣は、前項の報告を求める場合は、報告書の様式、報告書の提出期限その他必要な事項を明示するものとする。
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（報告書の経由）">
+      <article_item number="第四条">
+        この省令の規定により報告書を国土交通大臣に提出するときは、その住所の所在地を管轄する地方運輸局長を経由しなければならない。
+      </article_item>
+    </articles>
+    <articles title="（報告書の経由）">
+      <article_item>
+        
+      </article_item>
+    </articles>
+  </body>
+</law>

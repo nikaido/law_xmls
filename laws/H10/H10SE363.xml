@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>スポーツ振興投票の実施等に関する法律施行令</title>
+    <defined>平成十年十一月九日政令第三百六十三号</defined>
+    <updated>平成二五年一〇月一七日政令第二九七号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、スポーツ振興投票の実施等に関する法律（平成十年法律第六十三号）第十三条、第十八条第一項及び第三十一条第三項の規定に基づき、この政令を制定する。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（払戻金の比率）">
+      <article_item number="第一条">
+        スポーツ振興投票の実施等に関する法律（以下「法」という。）第十三条の政令で定める率は、百分の五十とする。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（払戻金の最高限度額）">
+      <article_item number="第二条">
+        法第十三条の政令で定める金額は、スポーツ振興投票ごとに、次の各号に掲げる合致の割合（合致投票券があるものに限る。以下この条において同じ。）の区分に応じ、当該各号に定める金額とする。
+        <go>
+          <go_item number="一">
+            最も高い合致の割合　二億五千万円（法第十四条第一項又は第二項に規定する加算金のあるときにあっては、五億円）を超えない範囲内で独立行政法人日本スポーツ振興センターが定める金額
+          </go_item>
+          <go_item number="二">
+            その他の合致の割合　当該合致の割合より高い直近の合致の割合について、法第八条第一項のスポーツ振興投票券一枚に対し払戻金として交付されるべき金額
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（業務を委託する金融機関）">
+      <article_item number="第三条">
+        法第十八条第一項の政令で定める金融機関は、次に掲げるものとする。
+        <go>
+          <go_item number="一">
+            銀行
+          </go_item>
+          <go_item number="二">
+            信用金庫及び信用金庫連合会
+          </go_item>
+          <go_item number="三">
+            労働金庫及び労働金庫連合会
+          </go_item>
+          <go_item number="四">
+            信用協同組合及び信用協同組合連合会
+          </go_item>
+          <go_item number="五">
+            農業協同組合及び農業協同組合連合会
+          </go_item>
+          <go_item number="六">
+            漁業協同組合、漁業協同組合連合会、水産加工業協同組合及び水産加工業協同組合連合会
+          </go_item>
+          <go_item number="七">
+            農林中央金庫
+          </go_item>
+          <go_item number="八">
+            保険会社及び保険業法（平成七年法律第百五号）第二条第七項に規定する外国保険会社等
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（審議会等で政令で定めるもの）">
+      <article_item number="第四条">
+        法第三十一条第三項の審議会等で政令で定めるものは、中央教育審議会とする。
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（法第四十条第一項第二号の政令で定める業務）">
+      <article_item number="第五条">
+        法第四十条第一項第二号の政令で定める業務は、次に掲げる業務とする。
+        <go>
+          <go_item number="一">
+            特定対象試合を開催すること。
+          </go_item>
+          <go_item number="二">
+            特定対象試合に係るサッカーチームの選手、監督及びコーチ並びに特定対象試合の審判員について法第十条第三項第三号に規定する登録及び当該登録の抹消を行うこと。
+          </go_item>
+          <go_item number="三">
+            特定対象試合の競技規則を定めること。
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+  </body>
+</law>

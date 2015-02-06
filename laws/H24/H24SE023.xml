@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>復興推進会議令</title>
+    <defined>平成二十四年二月一日政令第二十三号</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、復興庁設置法（平成二十三年法律第百二十五号）第十四条第八項の規定に基づき、この政令を制定する。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（議長）">
+      <article_item number="第一条">
+        議長は、会務を総理する。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（副議長）">
+      <article_item number="第二条">
+        副議長は、議長を助け、議長に事故があるときは、その職務を代理する。
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（庶務）">
+      <article_item number="第三条">
+        復興推進会議の庶務は、復興庁に置かれる統括官が処理する。
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（復興推進会議の運営）">
+      <article_item number="第四条">
+        前三条に定めるもののほか、議事の手続その他復興推進会議の運営に関し必要な事項は、議長が復興推進会議に諮って定める。
+      </article_item>
+    </articles>
+  </body>
+</law>

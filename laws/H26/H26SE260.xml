@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>がん登録等の推進に関する法律第十五条第二項の審議会等を定める政令</title>
+    <defined>平成二十六年七月十六日政令第二百六十号</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、がん登録等の推進に関する法律（平成二十五年法律第百十一号）第十五条第二項の規定に基づき、この政令を制定する。
+      </p>
+    </preamble>
+    <articles>
+      <article_item>
+        がん登録等の推進に関する法律第十五条第二項の審議会等で政令で定めるものは、厚生科学審議会とする。
+      </article_item>
+    </articles>
+  </body>
+</law>

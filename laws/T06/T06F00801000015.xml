@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>農業倉庫業法施行規則</title>
+    <defined>大正六年八月十五日農商務省令第十五号</defined>
+    <updated>平成二〇年一一月二八日農林水産省令第七三号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        農業倉庫業法施行規則左ノ通定ム
+      </p>
+    </preamble>
+    <articles number="第一条">
+      <article_item number="第一条">
+        農業倉庫業ノ認可申請書ニハ業務規程ノ外左ノ事項ヲ記載シタル書類ヲ添附スヘシ
+        <go>
+          <go_item number="一">
+            申請ノ理由
+          </go_item>
+          <go_item number="二">
+            倉庫ニ於テ取扱フヘキ物品ノ種類別数量ノ予定
+          </go_item>
+          <go_item number="三">
+            倉庫ノ所在地
+          </go_item>
+          <go_item number="四">
+            倉庫ノ棟数、建坪、主要ナル構造又ハ工事及収容力並倉庫経営ニ要スル敷地ノ面積ニ関スル事項
+          </go_item>
+          <go_item number="五">
+            倉庫及敷地ハ申請者ノ所有ニ係ルモノナリヤ否ヤノ別及所有ニ係ラサルモノニ付テハ其ノ使用ノ権利ニ関スル事項
+          </go_item>
+          <go_item number="六">
+            倉庫ハ既設ノモノナリヤ否ヤノ別並新ニ建築、改築又ハ修繕ヲ為スモノニ付テハ其ノ竣工ノ予定期日及既設ノモノニ付テハ建築ノ時期
+          </go_item>
+          <go_item number="七">
+            附属ノ設備ニ関スル事項
+          </go_item>
+          <go_item number="八">
+            貸付事業ヲ為ス場合ニ於テハ貸付金総額ノ予定及其ノ調達方法
+          </go_item>
+          <go_item number="九">
+            起業費及一箇年ノ収支概算
+          </go_item>
+          <go_item number="十">
+            申請者タル法人ニ於テ農業倉庫業開始ノ決定ヲ要スルモノニ在リテハ其ノ決定ヲ証スル書類
+          </go_item>
+          <go_item number="十一">
+            一般社団法人又ハ一般財団法人ニ在リテハ定款及財産目録
+          </go_item>
+          <go_item number="十二">
+            農業倉庫業法第一条第一項第二号ノ農業倉庫業者タラムトスル者ニ在リテハ其ノ区域内ニ於ケル農業協同組合及農業協同組合連合会ノ売却スル繭ノ数量
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第二条">
+      <article_item number="第二条">
+        農業倉庫業者ノ業務規程ニハ左ノ事項ヲ規定スヘシ
+        <go>
+          <go_item number="一">
+            事業ノ種類及農業倉庫業法第一条第三項ノ規定ニ依ル保管ヲ為スモノニ在リテハ其ノ旨
+          </go_item>
+          <go_item number="二">
+            保管スヘキ物品ノ名称
+          </go_item>
+          <go_item number="三">
+            農業倉庫業法第一条第三項ノ規定ニ依リ保管スヘキ物品ニ付保管ノ順位ヲ定メタルトキハ其ノ順位並同条第一項及第二項ノ規定ニ依ル保管上必要アルトキハ何時ニテモ同条第三項ノ規定ニ依ル保管物ノ出庫ヲ為サシメ得ヘキ旨及其ノ出庫ノ順位
+          </go_item>
+          <go_item number="四">
+            保管ノ方法及保管上特殊ノ作業ヲ為スモノニ在リテハ其ノ作業
+          </go_item>
+          <go_item number="五">
+            保管料ニ関スル規定
+          </go_item>
+          <go_item number="六">
+            保管期間ニ関スル規定
+          </go_item>
+          <go_item number="七">
+            連合農業倉庫業者又ハ倉庫営業者ニ受寄物ノ寄託ヲ為スモノニ在リテハ其ノ旨及寄託スヘキ連合農業倉庫業者又ハ倉庫営業者ノ名称
+          </go_item>
+          <go_item number="八">
+            受寄物ヲ連合農業倉庫業者ニ寄託スル場合ニ於ケル受寄物及農業倉庫証券ノ取扱並受寄物ヲ連合農業倉庫業者ニ引渡ス迄ノ間ニ於ケル危険ノ負担ニ関スル規定
+          </go_item>
+          <go_item number="九">
+            受寄物ノ入庫及出庫ニ関スル規定
+          </go_item>
+          <go_item number="十">
+            証券発行ニ関スル規定
+          </go_item>
+          <go_item number="十一">
+            保険ニ関スル定アルモノニ付テハ之ニ関スル規定
+          </go_item>
+          <go_item number="十二">
+            避クヘカラサル事由ニ依ル減量ノ負担ニ関スル規定
+          </go_item>
+          <go_item number="十三">
+            受寄物ノ検査ヲ為スモノニ在リテハ之ニ関スル規定
+          </go_item>
+          <go_item number="十四">
+            農業倉庫業法第二条ノ規定ニ依ル事業ヲ為スモノニ在リテハ之ニ関スル規定
+          </go_item>
+          <go_item number="十五">
+            農業協同組合又ハ農業協同組合連合会ニ於テ組合員又ハ所属組合若ハ所属連合会ニ非サル者ノ為ニ事業ヲ為スモノニ在リテハ之ニ関スル規定
+          </go_item>
+          <go_item number="十六">
+            剰余金又ハ損失金ニ関スル規定
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第三条">
+      <article_item number="第三条">
+        混合保管ヲ為ス農業倉庫業者ニ在リテハ前条ノ事項ノ外業務規程中ニ次ノ事項ヲ規定スヘシ
+        <go>
+          <go_item number="一">
+            混合保管ノ範囲
+          </go_item>
+          <go_item number="二">
+            受寄物ノ返還ニ関スル規定
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第四条">
+      <article_item number="第四条">
+        農業倉庫業法第四条第二項ニ規定スル農業協同組合連合会ヲ指定スルコト左ノ如シ<br/>　　　繭ノ販売事業ヲ行フ農業協同組合連合会
+      </article_item>
+    </articles>
+    <articles number="第五条">
+      <article_item number="第五条">
+        農業倉庫業者ハ農業倉庫業法第一条第三項ノ規定ニ依リ保管スル物品ニ付テハ同条第一項及第二項ノ規定ニ依リ保管スル物品ト区別シテ整理シタル帳簿ヲ備付クヘシ
+      </article_item>
+    </articles>
+    <articles number="第六条">
+      <article_item number="第六条">
+        連合農業倉庫業ノ認可申請書ニハ業務規程ノ外左ノ事項ヲ記載シタル書類ヲ添附スヘシ
+        <go>
+          <go_item number="一">
+            第一条第一号乃至第十号ニ掲クル事項
+          </go_item>
+          <go_item number="二">
+            申請者ノ会員又ハ所属組合若ハ所属連合会ニシテ農業倉庫業者又ハ連合農業倉庫業者タルモノノ数並ニ其ノ者ガ農業倉庫業法第一条第一項及第二項又ハ同法第十九条第一項及第二項ノ規定ニ依リ最近一年間ニ保管シタル物品ノ種類別数量及申請者ニ一年間ニ寄託スベキ物品ノ種類別数量ノ予定
+          </go_item>
+          <go_item number="三">
+            申請者ノ会員又ハ所属販売組合若ハ所属販売組合連合会ノ数並ニ農業倉庫業法第十九条第二項ノ規定ニ依リ寄託スルコトヲ得ル物品ニシテ其ノ者ガ農業倉庫業法ニ依リ寄託ヲ受ケタルモノヲ除キ最近一年間ニ売却シタルモノノ種類別数量及申請者ニ一年間ニ寄託スベキ物品ノ種類別数量ノ予定
+          </go_item>
+          <go_item number="四">
+            申請者ガ農業倉庫業法第十九条第一項及第二項ノ規定ニ依リ保管スルコトヲ得ベキ物品ノ倉庫建設予定地ニ於ケル種類別集散状況
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第七条">
+      <article_item number="第七条">
+        連合農業倉庫業者ノ業務規程ニハ左ノ事項ヲ規定スヘシ
+        <go>
+          <go_item number="一">
+            事業ノ種類及農業倉庫業法第十九条第三項ノ規定ニ依ル保管ヲ為スモノニ在リテハ其ノ旨
+          </go_item>
+          <go_item number="二">
+            第二条第二号、第四号乃至第十三号及第十六号ニ掲クル事項
+          </go_item>
+          <go_item number="三">
+            農業倉庫業法第十九条第三項ノ規定ニ依リ保管スヘキ物品ニ付保管ノ順位ヲ定メタルトキハ其ノ順位並同条第一項及第二項ノ規定ニ依ル保管上必要アルトキハ何時ニテモ同条第三項ノ規定ニ依ル保管物ノ出庫ヲ為サシメ得ヘキ旨及其ノ出庫ノ順位
+          </go_item>
+          <go_item number="四">
+            農業倉庫業法第二条（同法第二十六条第一項ノ規定ニ依リ準用）ノ規定ニ依ル事業ヲ為スモノニ在リテハ之ニ関スル規定
+          </go_item>
+          <go_item number="五">
+            会員又ハ所属組合若ハ所属連合会ニ非サル組合又ハ連合会ノ為ニ事業ヲ為スモノニ在リテハ之ニ関スル規定
+          </go_item>
+          <go_item number="六">
+            連合農業倉庫業者カ農業倉庫業法第二十四条ノ規定ニ依リ連合農業倉庫証券ト引換ニ受取リタル農業倉庫証券又ハ連合農業倉庫証券ノ取扱ニ関スル規定
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第八条">
+      <article_item number="第八条">
+        混合保管ヲ為ス連合農業倉庫業者ニ在リテハ前条ノ事項ノ外業務規程中ニ次ノ事項ヲ規定スベシ
+        <go>
+          <go_item number="一">
+            混合保管ノ範囲
+          </go_item>
+          <go_item number="二">
+            受寄物ノ返還ニ関スル規定
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第九条">
+      <article_item number="第九条">
+        農業倉庫業法第十九条第三項又ハ同法第二十一条第二項ニ規定スル営利ヲ目的トセザル法人ヲ指定スルコト左ノ如シ
+        <go>
+          <go_item number="一">
+            国
+          </go_item>
+          <go_item number="二">
+            森林組合
+          </go_item>
+          <go_item number="三">
+            生産森林組合
+          </go_item>
+          <go_item number="四">
+            水産業協同組合
+          </go_item>
+          <go_item number="五">
+            繭ノ販売事業ヲ行フ中小企業等協同組合
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第十条">
+      <article_item number="第十条">
+        農業倉庫業法第十九条第四項ノ規定ニ依リ連合農業倉庫業者ヲ指定スルコト左ノ如シ<br/>　　農業協同組合連合会
+      </article_item>
+    </articles>
+    <articles number="第十一条">
+      <article_item number="第十一条">
+        連合農業倉庫業者ハ農業倉庫業法第十九条第三項ノ規定ニ依リ保管スル物品ニ付テハ同条第一項及第二項ノ規定ニ依リ保管スル物品ト区別シ且営利ヲ目的トセザル法人ガ売却又ハ売却ノ斡旋ヲ為スモノト其ノ他ノモノト区別シテ整理シタル帳簿ヲ備付クヘシ
+      </article_item>
+    </articles>
+    <articles number="第十二条">
+      <article_item number="第十二条">
+        農業倉庫業者又ハ連合農業倉庫業者ニ非ザレバ其ノ名称中ニ農業倉庫又ハ連合農業倉庫ナル文字ヲ用ウルコトヲ得ズ
+      </article_item>
+    </articles>
+    <articles number="第十三条">
+      <article_item number="第十三条">
+        農業倉庫業者又ハ連合農業倉庫業者倉庫ノ所在地、棟数、建坪又ハ収容力ヲ変更シタルトキハ其ノ旨ヲ行政官庁ニ届出ヅベシ
+      </article_item>
+    </articles>
+    <articles number="第十四条">
+      <article_item number="第十四条">
+        農業倉庫業者又ハ連合農業倉庫業者事業ヲ休止又ハ廃止シタルトキハ其ノ事由ヲ具シ遅滞ナク其ノ旨ヲ行政官庁ニ届出ヅベシ休止シタル事業ヲ開始シタルトキ亦同ジ
+      </article_item>
+    </articles>
+    <articles number="第十五条">
+      <article_item number="第十五条">
+        農業倉庫業法第六条、第十三条及第十五条乃至第十七条（法第二十六条第一項ノ規定ニ依リ準用）並前二条ノ規定ニ依ル農林水産大臣ノ権限（地方農政局ノ管轄区域ヲ超エザル区域ヲ地区トスル農業協同組合又ハ農業協同組合連合会デ農業倉庫業者又ハ連合農業倉庫業者タルモノニ関スルモノニ限ル）ハ地方農政局長ニ委任ス
+      </article_item>
+    </articles>
+  </body>
+</law>

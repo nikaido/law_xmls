@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>大正四年法律第十八号（法人ノ役員処罰ニ関スル法律）</title>
+    <defined>大正四年六月二十一日法律第十八号</defined>
+    <updated>平成一七年七月二六日法律第八七号</updated>
+  </head>
+  <body>
+    <articles>
+      <article_item>
+        法人ノ業務ヲ執行スル社員、取締役、会計参与、執行役、理事、監査役又ハ監事ニシテ刑事訴追又ハ刑ノ執行ヲ免レシムル為合併其ノ他ノ方法ニ依リ法人ヲ消滅セシメタル者ハ五年以下ノ懲役ニ処ス
+      </article_item>
+    </articles>
+  </body>
+</law>

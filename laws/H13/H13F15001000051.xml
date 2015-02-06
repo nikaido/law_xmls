@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>資源の有効な利用の促進に関する法律施行令別表第三の十五の項の上欄に規定する石油ストーブに関する省令</title>
+    <defined>平成十三年三月二十八日経済産業省令第五十一号</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        資源の有効な利用の促進に関する法律施行令（平成三年政令第三百二十七号）別表第三の十五の項の上欄の規定に基づき、資源の有効な利用の促進に関する法律施行令別表第三の十五の項の上欄に規定する石油ストーブに関する省令を次のように定める。
+      </p>
+    </preamble>
+    <articles>
+      <article_item>
+        資源の有効な利用の促進に関する法律施行令別表第三の十五の項の上欄に規定する経済産業省令で定める石油ストーブは、次に掲げるものとする。
+        <go>
+          <go_item number="一">
+            開放式であってしん式自然対流式のもの
+          </go_item>
+          <go_item number="二">
+            開放式であってしん式強制対流式のもの
+          </go_item>
+          <go_item number="三">
+            気化式であって自然対流式のもの
+          </go_item>
+          <go_item number="四">
+            半密閉式のもの
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+  </body>
+</law>

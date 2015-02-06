@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>国税不服審判所組織規則</title>
+    <defined>昭和四十五年四月一日大蔵省令第十七号</defined>
+    <updated>平成二五年四月一日財務省令第二七号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        国税通則法（昭和三十七年法律第六十六号）第七十八条第五項並びに国税不服審判所組織令（昭和四十五年政令第五十号）第四条第一項及び第五条の規定に基づき、国税不服審判所組織規程を次のように定める。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（支部の名称、位置及び管轄区域）">
+      <article_item number="第一条">
+        国税不服審判所の支部（以下「支部」という。）の名称、位置及び管轄区域は、別表のとおりとする。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（国税審判官等の定数）">
+      <article_item number="第二条">
+        国税審判官及び国税副審判官の定数は、次のとおりとする。
+        <go>
+          <go_item number="一">
+            国税審判官　百八十一人
+          </go_item>
+          <go_item number="二">
+            国税副審判官　八十七人
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（国税審査官）">
+      <article_item number="第三条">
+        国税不服審判所に、国税審査官百八十一人以内を置く。
+      </article_item>
+      <article_item number="２">
+        国税審査官は、国税審判官の命を受けて、その事務を整理する。
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（管理室）">
+      <article_item number="第四条">
+        国税不服審判所に、管理室を置く。
+      </article_item>
+      <article_item number="２">
+        管理室においては、次の事務をつかさどる。
+        <go>
+          <go_item number="一">
+            国税不服審判所長の官印及び庁印を保管すること。
+          </go_item>
+          <go_item number="二">
+            人事及び機密に関すること。
+          </go_item>
+          <go_item number="三">
+            公文書類の審査及び進達を行うこと。
+          </go_item>
+          <go_item number="四">
+            文書の接受、発送、編集及び保存を行うこと。
+          </go_item>
+          <go_item number="五">
+            経費、会計事務、物品の管理及び庁内の取締りに関すること。
+          </go_item>
+          <go_item number="六">
+            国税不服審判所の事務の運営に関し必要な事項の企画及び立案をし、並びにその実施に係る指導監督に関する事務を行うこと。
+          </go_item>
+          <go_item number="七">
+            国税不服審判所の事務の処理に必要な一般資料の収集整理を行うこと。
+          </go_item>
+          <go_item number="八">
+            前各号に掲げるもののほか、国税不服審判所の事務で他の所掌に属しないものを行うこと。
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="３">
+        管理室に、室長を置く。
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（支部の内部組織）">
+      <article_item number="第五条">
+        支部に、国税審判官、国税副審判官及び国税審査官を置く。
+      </article_item>
+      <article_item number="２">
+        前項に掲げるもののほか、国税不服審判所沖縄事務所以外の各支部に、管理課を置く。
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（支部の管理課の事務）">
+      <article_item number="第六条">
+        支部の管理課においては、次の事務をつかさどる。
+        <go>
+          <go_item number="一">
+            首席国税審判官の官印を保管すること。
+          </go_item>
+          <go_item number="二">
+            人事及び機密に関すること。
+          </go_item>
+          <go_item number="三">
+            公文書類の審査及び進達を行うこと。
+          </go_item>
+          <go_item number="四">
+            文書の接受、発送、編集及び保存を行うこと。
+          </go_item>
+          <go_item number="五">
+            経費、会計事務、物品の管理及び庁内の取締りに関すること。
+          </go_item>
+          <go_item number="六">
+            支部の事務の運営に関し必要な事項の企画及び立案をすること。
+          </go_item>
+          <go_item number="七">
+            前各号に掲げるもののほか、支部の事務で他の所掌に属しないものを行うこと。
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第七条" title="（次席国税審判官を置く支部）">
+      <article_item number="第七条">
+        国税不服審判所組織令第二条第一項で規定する財務省令で定める支部は、東京国税不服審判所、名古屋国税不服審判所及び大阪国税不服審判所とする。
+      </article_item>
+    </articles>
+    <articles number="第八条" title="（次席国税審判官を置く支部）">
+      <article_item number="第八条">
+        この省令で定めるもののほか、事務分掌その他国税不服審判所の組織の細目は、国税庁長官が定める。
+      </article_item>
+    </articles>
+    <articles title="（次席国税審判官を置く支部）">
+      <article_item>
+        
+      </article_item>
+    </articles>
+  </body>
+</law>

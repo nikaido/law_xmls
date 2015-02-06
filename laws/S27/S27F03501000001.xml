@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>日本ユネスコ国内委員会運営規則</title>
+    <defined>昭和二十七年十月四日日本ユネスコ国内委員会規則第二号</defined>
+    <updated>平成二五年五月三一日規則第五号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        ユネスコ活動に関する法律（昭和二十七年法律第二百七号）第十九条の規定に基き、日本ユネスコ国内委員会運営規則を次のように定め、昭和二十七年九月十七日から適用する。
+      </p>
+    </preamble>
+    <section title="第一章　総則" type="Sho">
+      <articles number="第一条" title="（趣旨）">
+        <article_item number="第一条">
+          日本ユネスコ国内委員会（以下「国内委員会」という。）の会議の手続及び議決権の委任並びに小委員会の運営に関しては、この規則の定めるところによる。
+        </article_item>
+      </articles>
+    </section>
+    <section title="第二章　国内委員会の会議" type="Sho">
+      <articles number="第二条" title="（通常の会議）">
+        <article_item number="第二条">
+          国内委員会の会議（以下この章において「会議」という。）は、臨時に招集するものを除いては、毎年一月及び七月に招集する。但し、会長は、必要と認めるときは、他の時期に招集することができる。
+        </article_item>
+      </articles>
+      <articles number="第三条" title="（臨時の会議）">
+        <article_item number="第三条">
+          臨時の会議は、運営小委員会又は過半数の委員の請求があつたとき、その他会長が必要と認める場合に招集する。
+        </article_item>
+      </articles>
+      <articles number="第四条" title="（招集の通知）">
+        <article_item number="第四条">
+          会長は、第二条の規定による会議を招集するときは、その会議を開催する日の三十日前までに、前条の規定による臨時の会議を招集するときは、その会議を開催する日の七日前までに、それぞれ委員にその旨を通知するものとする。
+        </article_item>
+      </articles>
+      <articles number="第五条" title="（議事日程案）">
+        <article_item number="第五条">
+          会長は、運営小委員会の作成に係る議事日程案をあらかじめ、委員に通知するものとする。
+        </article_item>
+      </articles>
+      <articles number="第六条" title="（関係者からの意見の聴取）">
+        <article_item number="第六条">
+          会長は、委員又は運営小委員会の申出により、必要と認めるときは、政府職員その他の関係者を会議に出席させ、その意見をきくことができる。
+        </article_item>
+      </articles>
+      <articles number="第七条" title="（議長）">
+        <article_item number="第七条">
+          会長は、会議の議長となり、議事を整理する。
+        </article_item>
+      </articles>
+      <articles number="第八条" title="（会議の公開）">
+        <article_item number="第八条">
+          会議は、公開とする。但し、必要があるときは、議長は会議の議決を経て非公開とすることができる。
+        </article_item>
+      </articles>
+      <articles number="第九条" title="（議案の提出）">
+        <article_item number="第九条">
+          議案を提出しようとする者は、文書による案を作成し、あらかじめこれを運営小委員会に届け出なければならない。
+        </article_item>
+      </articles>
+      <articles number="第十条" title="（発言）">
+        <article_item number="第十条">
+          会議において発言しようとする者は、議長の許可を受けなければならない。
+        </article_item>
+      </articles>
+      <articles number="第十一条" title="（動議の提出）">
+        <article_item number="第十一条">
+          会議において動議を提出しようとする者は、文書又は口頭で議長に申し出なければならない。
+        </article_item>
+        <article_item number="２">
+          動議は、出席議員のうち五名以上の賛成がなければ議題とすることができない。
+        </article_item>
+      </articles>
+      <articles number="第十二条" title="（議決の方法）">
+        <article_item number="第十二条">
+          議決は、挙手又は無記名投票によって行う。但し、議決により、記名投票によって行うことができる。
+        </article_item>
+      </articles>
+      <articles number="第十三条" title="（議事録）">
+        <article_item number="第十三条">
+          事務総長は、会議の議事録を作成し、速かにこれを委員に送付しなければならない。
+        </article_item>
+        <article_item number="２">
+          前項の議事録には、少くとも次に掲げる事項を記載しなければならない。
+          <go>
+            <go_item number="一">
+              開催年月日及び場所
+            </go_item>
+            <go_item number="二">
+              開会及び閉会の時刻
+            </go_item>
+            <go_item number="三">
+              出席した委員の氏名
+            </go_item>
+            <go_item number="四">
+              議題
+            </go_item>
+            <go_item number="五">
+              審議経過の要領及び議決事項
+            </go_item>
+          </go>
+        </article_item>
+        <article_item number="３">
+          会議に出席した委員は、議事録の送付を受けた場合において必要と認めるときは、送付を受けた日から一週間以内に、当該議事録について修正を申し出ることができる。 
+        </article_item>
+        <article_item number="４">
+          議事録は、前項の規定による委員の申出があつた場合には、会長がこれを決定するものとし、委員から別段の申出がなかつた場合には、送付の日から二週間を経過した日に確定する。
+        </article_item>
+      </articles>
+      <articles number="第十四条" title="（決議の公表）">
+        <article_item number="第十四条">
+          事務総長は、会議において議決された事項を、適当な方法により公表するものとする。
+        </article_item>
+      </articles>
+    </section>
+    <section title="第三章　議決事項及び議決権の委任" type="Sho">
+      <articles number="第十五条" title="（国内委員会の議決事項）">
+        <article_item number="第十五条">
+          国内委員会の所掌事務及び権限のうち、左に掲げる事項については、国内委員会の議決を経なければならない。
+          <go>
+            <go_item number="一">
+              ユネスコ活動に関する法律（昭和二十七年法律第二百七号。以下「法」という。）第六条第一項各号に掲げる事項
+            </go_item>
+            <go_item number="二">
+              わが国におけるユネスコ活動の基本方針の策定に関する事項
+            </go_item>
+            <go_item number="三">
+              法第九条第一項の規定による国内委員会の委員の推薦に関する事項
+            </go_item>
+            <go_item number="四">
+              その他法、これに基く政令及びこの規則の規定並びに国内委員会の議決により国内委員会の議決を必要とされた事項
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第十六条" title="（議決権の委任）">
+        <article_item number="第十六条">
+          法第十七条の規定により、国内委員会の会議の議を経ることができない場合、国内委員会の議決を必要とする事項のうち、前条第二号、第三号（政府の職員である委員の補欠の委員の推薦に関する事項を除く。）及び運営小委員会の委員の指名に関して行う議決に関する事項を除き、運営小委員会又は運営小委員会と他の小委員会との合同の議決をもつて国内委員会の議決とすることができる。但し、国内委員会の会議の議決により、特に指定された事項については、この限りではない。
+        </article_item>
+        <article_item number="２">
+          前項の議決は、次の国内委員会の会議において承認を得なければならない。
+        </article_item>
+      </articles>
+      <articles number="第十七条" title="（合同の会議及び議決）">
+        <article_item number="第十七条">
+          運営小委員会は、前条の規定によって議決を行う場合において、必要と認めるとき又は他の小委員会の請求があったときは、他の小委員会と合同して会議を開き、議決を行うことができる。
+        </article_item>
+      </articles>
+      <articles number="第十八条" title="（議決事項の通知）">
+        <article_item number="第十八条">
+          事務総長は、第十六条又は前条の規定によって議決された事項を、速かに国内委員会の委員に通知しなければならない。
+        </article_item>
+      </articles>
+    </section>
+    <section title="第四章　運営小委員会" type="Sho">
+      <articles number="第十九条" title="（会議の招集）">
+        <article_item number="第十九条">
+          運営小委員会の会議（以下この章において「会議」という。）は、臨時に招集するものを除いては、毎年二回国内委員会の会議の前に委員長が招集する。
+        </article_item>
+        <article_item number="２">
+          臨時の会議は、委員長が必要と認める場合又は運営小委員会に属する三名以上の委員の請求があった場合に委員長が招集する。
+        </article_item>
+      </articles>
+      <articles number="第二十条" title="（議事日程）">
+        <article_item number="第二十条">
+          委員長は、議事日程を会議開催前に運営小委員会に属する委員に通知するものとする。
+        </article_item>
+      </articles>
+      <articles number="第二十一条" title="（関係者からの意見の聴取）">
+        <article_item number="第二十一条">
+          委員長は、必要と認めるときは、運営小委員会に属しない委員、政府職員その他の関係者を会議に出席させ、その意見をきくことができる。
+        </article_item>
+      </articles>
+      <articles number="第二十二条" title="（会議の手続）">
+        <article_item number="第二十二条">
+          第八条、第十条、第十一条第一項及び第十二条の規定は、会議に準用する。
+        </article_item>
+      </articles>
+      <articles number="第二十三条" title="（運営小委員会の議事録）">
+        <article_item number="第二十三条">
+          事務総長は、会議の議事録を作成し、速かにこれを運営小委員会に属する委員に送付しなければならない。
+        </article_item>
+        <article_item number="２">
+          前項の議事録は、委員長及び会議に出席した委員の確認を経て確定する。
+        </article_item>
+      </articles>
+      <articles number="第二十四条" title="（議決事項の報告）">
+        <article_item number="第二十四条">
+          委員長は、会議において議決した事項を、当該会議の終了後における最も近い国内委員会の会議において報告しなければならない。
+        </article_item>
+      </articles>
+    </section>
+    <section title="第五章　選考小委員会" type="Sho">
+      <articles number="第二十五条" title="（会議の招集）">
+        <article_item number="第二十五条">
+          選考小委員会の会議（以下この章において「会議」という。）は、国内委員会の委員の候補者を選考するため必要がある場合に、委員長が招集する。
+        </article_item>
+      </articles>
+      <articles number="第二十六条" title="（会議の非公開）">
+        <article_item number="第二十六条">
+          会議は、非公開とする。
+        </article_item>
+      </articles>
+      <articles number="第二十七条" title="（会議の手続等）">
+        <article_item number="第二十七条">
+          第十条、第十一条第一項、第十二条、第二十条、第二十一条、第二十三条及び第二十四条の規定は、会議に準用する。
+        </article_item>
+      </articles>
+      <articles number="第二十八条" title="（会議の手続等）">
+        <article_item number="第二十八条">
+          選考小委員会が委員の候補者を選考する場合、新しい候補者の数が任期満了委員の数の三分の一以上となるように選考しなければならない。
+        </article_item>
+      </articles>
+    </section>
+    <section title="第六章　専門小委員会" type="Sho">
+      <articles number="第二十九条" title="（会議の招集）">
+        <article_item number="第二十九条">
+          各専門小委員会の会議は、当該専門小委員会に係る事項を調査審議するため必要がある場合又は当該専門小委員会に属する二名以上の委員の請求があった場合に、当該専門小委員会の委員長が招集する。
+        </article_item>
+      </articles>
+      <articles number="第三十条" title="（会議の手続等）">
+        <article_item number="第三十条">
+          第八条、第十条、第十一条第一項、第十二条、第二十条、第二十一条、第二十三条及び第二十四条の規定は、各専門小委員会の会議に準用する。
+        </article_item>
+      </articles>
+      <articles number="第三十一条" title="（分科会）">
+        <article_item number="第三十一条">
+          各専門小委員会の委員長は、当該専門小委員会の運営上必要と認める場合は、当該専門小委員会に分科会を置くことができる。
+        </article_item>
+        <article_item number="２">
+          前項の分科会は、これに属する委員のうちからその互選により主査を定める。
+        </article_item>
+      </articles>
+    </section>
+    <section title="第七章　合同の会議その他" type="Sho">
+      <articles number="第三十二条" title="（合同の会議の手続等）">
+        <article_item number="第三十二条">
+          第八条、第十条、第十一条第一項、第十二条、第二十条、第二十一条、第二十三条及び第二十四条の規定は、運営小委員会と他の小委員会との合同の会議に準用する。
+        </article_item>
+      </articles>
+      <articles number="第三十三条" title="（特別委員会）">
+        <article_item number="第三十三条">
+          会長は、国内委員会の会議の運営上必要があるときは、国内委員会の会議の議を経て会長が指名する委員をもつて組織する特別委員会を設け、特別の事項を調査審議させることができる。
+        </article_item>
+      </articles>
+      <articles title="（特別委員会）">
+        <article_item>
+          
+        </article_item>
+      </articles>
+    </section>
+  </body>
+</law>

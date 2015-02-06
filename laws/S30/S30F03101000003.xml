@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>土じよう調査作業規程準則</title>
+    <defined>昭和三十年一月二十九日総理府令第三号</defined>
+    <updated>平成一二年八月一四日総理府令第一〇三号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        国土調査法第三条第二項の規定に基き、土じよう調査作業規程準則を次のように定める。
+      </p>
+    </preamble>
+    <section title="第一章　総則" type="Sho">
+      <articles number="第一条" title="（目的）">
+        <article_item number="第一条">
+          国土調査法（昭和二十六年法律第百八十号）第二条第二項の規定による土地分類調査の基準の設定のための調査（土地分類基本調査）のうち、土じようについての調査（以下「土じよう調査」という。）に関する作業規程の準則は、この省令の定めるところによる。
+        </article_item>
+      </articles>
+      <articles number="第二条" title="（土じよう調査の内容）">
+        <article_item number="第二条">
+          土じよう調査においては、主として国土の開発、保全及び利用の高度化に資するため、土じようをその成因、形態及び性状に基いて区分し、その分布を明らかにするための調査を行い、その結果を地図及び簿冊に作成するものとする。
+        </article_item>
+      </articles>
+      <articles number="第三条" title="（土じようの区分）">
+        <article_item number="第三条">
+          前条の土じようの区分は、統及び類とする。
+        </article_item>
+        <article_item number="２">
+          統とは、層の特徴及び配列が類似し、かつ、岩種及び堆積様式の類似した母材から生成した土じようの一群をいう。
+        </article_item>
+        <article_item number="３">
+          類とは、層の特徴及び配列がほぼ類似し、かつ、重要な生成因子を同じくする一以上の統をいう。
+        </article_item>
+        <article_item number="４">
+          統及び類の名称には地名を冠する。
+        </article_item>
+      </articles>
+      <articles number="第四条" title="（土じよう調査の作業）">
+        <article_item number="第四条">
+          土じよう調査の作業は、現地作業、分析作業及び整理作業とする。
+        </article_item>
+        <article_item number="２">
+          前項の作業は、測量法（昭和二十四年法律第百八十八号）第二十七条第二項の規定により国土交通大臣の刊行した五万分の一地形図（以下「地形図」という。）の図郭の区域ごとに行うものとする。ただし、作業を行おうとする区域が図郭の区域の一部である場合その他特別の理由がある場合には、図郭の区域の一部について行うことができる。
+        </article_item>
+      </articles>
+      <articles number="第五条" title="（既存資料のしゆう集整理）">
+        <article_item number="第五条">
+          土じよう調査の作業を実施する場合には、あらかじめ、既存の各種資料をしゆう集整理して、調査の正確を期するようにしなければならない。
+        </article_item>
+      </articles>
+      <articles number="第六条" title="（現地作業）">
+        <article_item number="第六条">
+          現地作業を分けて、概査及び精査とする。
+        </article_item>
+        <article_item number="２">
+          概査とは、土じよう分布の概況をは握するため、調査区域について踏査を行い、かつ、精査の日程を立案する作業をいう。
+        </article_item>
+        <article_item number="３">
+          精査とは、試坑を行う地点（以下「試坑点」という。）について、土じようの断面調査（以下「断面調査」という。）を行い、あわせて当該地点について付帯調査及びきき取り調査（以下「聴取調査」という。）を行い、その結果を第三条第一項の規定による土じようの区分に従つて区分し、土じようの分布状態を地形図に表示する作業をいう。
+        </article_item>
+      </articles>
+      <articles number="第七条" title="（分析作業）">
+        <article_item number="第七条">
+          分析作業とは、前条第三項の土じようの区分を明確にするため、現地において採取した試料について、理化学的分析を行う作業をいう。
+        </article_item>
+      </articles>
+      <articles number="第八条" title="（整理作業）">
+        <article_item number="第八条">
+          整理作業とは、現地作業及び分析作業の結果を基礎として、土じよう図及び土じよう説明書を作成する作業をいう。
+        </article_item>
+      </articles>
+      <articles number="第九条" title="（地図の接合）">
+        <article_item number="第九条">
+          地図は、隣接する地図と接合するように調製するものとする。
+        </article_item>
+      </articles>
+      <articles number="第十条" title="（地図における表示の方法）">
+        <article_item number="第十条">
+          現地作業における地形図の表示の様式及び整理作業における土じよう図の表示の様式は、別表五に定めるところによるものとする。ただし、同表に定めのないものについてはその旨を注記して、適宜の表現様式によることができる。
+        </article_item>
+      </articles>
+      <articles number="第十一条" title="（記録）">
+        <article_item number="第十一条">
+          現地作業及び分析作業に当つては、その作業についての記録を作成しておくものとする。
+        </article_item>
+      </articles>
+    </section>
+    <section title="第二章　現地作業" type="Sho">
+      <section title="第一節　概査" type="Setsu">
+        <articles number="第十二条" title="（調査区域の区分）">
+          <article_item number="第十二条">
+            概査に当つては、あらかじめ、地形調査の成果である地形分類図及び空中写真等に基き、地形、植生、気候等を考慮して、作業を行う区域を適当な調査地域に区分し、当該調査地域における土じようの分布概況をは握できるよう互に交さする二本以上の踏査経路を選定するものとする。
+          </article_item>
+          <article_item number="２">
+            前項の踏査経路の選定に当つては、隣接する調査地域との連けいをあわせ考慮するものとする。
+          </article_item>
+          <article_item number="３">
+            踏査に当つては、地形、植生等現地の状況に応じ、必要な箇所において土じよう断面の観察を行うものとする。
+          </article_item>
+          <article_item number="４">
+            踏査は、作業を行う地区の調査に従事する者全員で行うものとする。
+          </article_item>
+        </articles>
+      </section>
+      <section title="第二節　精査" type="Setsu">
+        <articles number="第十三条" title="（断面調査）">
+          <article_item number="第十三条">
+            断面調査においては、試坑点について、試坑を行い、土じようの色、土性等の状態により土じようの断面を幾つかの層に分け、そのおのおのの層について、次条第一項に掲げる事項を調査するものとする。
+          </article_item>
+          <article_item number="２">
+            農地、草地及び林地における試坑点の数は、原則として、農地及び草地においては〇・二五平方キロメートルにつき一点、林地においては一平方キロメートルにつき一点とする。
+          </article_item>
+          <article_item number="３">
+            試坑点の位置は、次に掲げる方法により選定するものとする。
+            <go>
+              <go_item number="一">
+                農地においては、原則として、地形図を〇・二五平方キロメートルの方眼に区画しその交点によるものとする。ただし、調査地域において土じようの母材、地形、排水及び植生等の条件を勘案して、その地域の土じようの特性を最もよく表わす地点を選定できる場合には、その地点によるものとする。
+              </go_item>
+              <go_item number="二">
+                林地及び草地においては、土じようの母材、地形、排水及び植生等の条件を勘案して、その地域の土じようの特性を最もよく表わす地点によるものとする。
+              </go_item>
+            </go>
+          </article_item>
+          <article_item number="４">
+            試坑の深さは、一メートルを基準とする。
+          </article_item>
+          <article_item number="５">
+            試坑点の位置は、一連番号を付して、地形図の上に表示するものとする。
+          </article_item>
+        </articles>
+        <articles number="第十四条" title="（断面調査における調査事項）">
+          <article_item number="第十四条">
+            断面調査は、次に掲げる事項につき、別表一の調査内容の調査を行うものとする。
+            <go>
+              <go_item number="一">
+                層
+              </go_item>
+              <go_item number="二">
+                層界
+              </go_item>
+              <go_item number="三">
+                土性
+              </go_item>
+              <go_item number="四">
+                礫
+              </go_item>
+              <go_item number="五">
+                色
+              </go_item>
+              <go_item number="六">
+                腐植の含量
+              </go_item>
+              <go_item number="七">
+                泥炭及び黒泥
+              </go_item>
+              <go_item number="八">
+                構造
+              </go_item>
+              <go_item number="九">
+                孔げき
+              </go_item>
+              <go_item number="十">
+                かたさ
+              </go_item>
+              <go_item number="十一">
+                粗密度
+              </go_item>
+              <go_item number="十二">
+                ねばり
+              </go_item>
+              <go_item number="十三">
+                斑紋、結核及び盤層
+              </go_item>
+              <go_item number="十四">
+                湿り及び湧水面
+              </go_item>
+              <go_item number="十五">
+                根
+              </go_item>
+              <go_item number="十六">
+                菌根及び菌糸
+              </go_item>
+              <go_item number="十七">
+                その他土じようを区分するために必要な事項
+              </go_item>
+            </go>
+          </article_item>
+          <article_item number="２">
+            断面調査に当つては、土じよう断面を写生し、特に必要と認める場合には、土じよう断面その他断面調査に必要な植生等の写真を撮影するものとする。
+          </article_item>
+        </articles>
+        <articles number="第十五条" title="（付帯調査）">
+          <article_item number="第十五条">
+            付帯調査は、次に掲げる事項につき、別表二の調査内容の調査を行うものとする。
+            <go>
+              <go_item number="一">
+                土地利用の状況
+              </go_item>
+              <go_item number="二">
+                植生
+              </go_item>
+              <go_item number="三">
+                地形
+              </go_item>
+              <go_item number="四">
+                地質
+              </go_item>
+              <go_item number="五">
+                傾斜の角度及び方向
+              </go_item>
+              <go_item number="六">
+                付近見取図
+              </go_item>
+              <go_item number="七">
+                その他土じようを区分するために必要な事項
+              </go_item>
+            </go>
+          </article_item>
+        </articles>
+        <articles number="第十六条" title="（聴取調査）">
+          <article_item number="第十六条">
+            聴取調査は、地下水位、自然条件及び生産物に関する事項等につき、別表三の調査内容の調査を行うものとする。
+          </article_item>
+        </articles>
+        <articles number="第十七条" title="（土じようの区分及び分布調査）">
+          <article_item number="第十七条">
+            現地における調査に当つては、試坑点におけるそれぞれの土じよう断面について、第三条第一項の規定による区分により比較検討を行い、同一の統及び類に属すると認められるものを取りまとめるものとする。
+          </article_item>
+          <article_item number="２">
+            前項の規定により取りまとめた統及び類において、相異なる統及び類に属する土じようのある地点間にあつては、土じようの母材、地形、排水の状態及び植生等を勘案して、簡易試坑又は試穿を行う地点を選定して土じよう断面の異同を識別し、その結果により界線を定めるものとする。
+          </article_item>
+          <article_item number="３">
+            統及び類の名称並びに前項の方法によつて定めた統及び類の分布の界線は、地形図の上に表示するものとする。
+          </article_item>
+        </articles>
+        <articles number="第十八条" title="（簡易試坑又は試穿の調査）">
+          <article_item number="第十八条">
+            前条第二項の規定による土じよう断面の異同の識別に当つては、第十四条及び第十五条に規定する事項のうち必要な調査を行うものとする。
+          </article_item>
+          <article_item number="２">
+            簡易試坑の深さは、六十センチメートルを基準とする。
+          </article_item>
+          <article_item number="３">
+            試穿の深さは、一メートルを基準とする。
+          </article_item>
+          <article_item number="４">
+            簡易試坑及び重要な試穿を行つた位置は、一連番号を付して地形図の上に表示するものとする。
+          </article_item>
+        </articles>
+        <articles number="第十九条" title="（既存の試坑点等の資料の利用）">
+          <article_item number="第十九条">
+            精査に当つては、既存の試坑点の資料で第十四条から第十六条までに規定するものと同等以上の精度を有すると認められるものがある場合には、当該既存の資料を用いることができる。
+          </article_item>
+          <article_item number="２">
+            前項の規定は、既存の簡易試坑又は重要な試穿の資料の場合に準用する。
+          </article_item>
+          <article_item number="３">
+            前二項の場合における既存の試坑、簡易試坑及び重要な試穿の位置は、地形図の上に表示するものとする。
+          </article_item>
+        </articles>
+        <articles number="第二十条" title="（分析試料及び柱状標本の採取）">
+          <article_item number="第二十条">
+            試坑を行つた地点については、原則として、土じようの各層につき、おおむね二キログラムの分析試料を採取し、特に必要と認める層については円筒採取をあわせ行うものとする。
+          </article_item>
+          <article_item number="２">
+            前項の場合において、必要があるときは柱状標本を採取するものとする。
+          </article_item>
+        </articles>
+      </section>
+    </section>
+    <section title="第三章　分析作業" type="Sho">
+      <articles number="第二十一条" title="（分析の方法）">
+        <article_item number="第二十一条">
+          分析作業に当つては、前条第一項の規定により採取した試料について、次に掲げる項目のうち必要なものにつき分析を行うものとする。
+          <go>
+            <go_item number="一">
+              粒径組成
+            </go_item>
+            <go_item number="二">
+              容積重及び容水量
+            </go_item>
+            <go_item number="三">
+              全炭素
+            </go_item>
+            <go_item number="四">
+              全窒素
+            </go_item>
+            <go_item number="五">
+              水素イオン濃度
+            </go_item>
+            <go_item number="六">
+              置換酸度
+            </go_item>
+            <go_item number="七">
+              置換容量
+            </go_item>
+            <go_item number="八">
+              置換性石灰
+            </go_item>
+            <go_item number="九">
+              珪ばん比
+            </go_item>
+            <go_item number="十">
+              燐酸吸収係数
+            </go_item>
+            <go_item number="十一">
+              その他土じようの特性を明らかにするため必要な事項
+            </go_item>
+          </go>
+        </article_item>
+        <article_item number="２">
+          前項の分析は、土じようの母材、地形、排水の状態及び植生等を勘案して、おおむね一平方キロメートルにつき一点の割合で、最も代表的な地点の試料について行うものとする。
+        </article_item>
+        <article_item number="３">
+          第一項の分析の方法は、別表四の定めるところによる。
+        </article_item>
+      </articles>
+      <articles number="第二十二条" title="（既存の分析結果の利用）">
+        <article_item number="第二十二条">
+          既存の試坑点についての分析結果で、前条の規定による分析結果と同等以上の精度を有すると認められるものがある場合には、当該既存の分析結果を用いることができる。
+        </article_item>
+      </articles>
+      <articles number="第二十三条" title="（分析結果による補正）">
+        <article_item number="第二十三条">
+          前二条の規定による分析結果により必要があると認めたときは、第十七条第三項の規定による地形図の表示を補正するものとする。
+        </article_item>
+      </articles>
+      <articles number="第二十四条" title="（試料の保管）">
+        <article_item number="第二十四条">
+          第二十一条第一項の規定により分析を行つたとき、その分析に使用しなかつた分析試料及び柱状標本は、保管しておくものとする。
+        </article_item>
+      </articles>
+    </section>
+    <section title="第四章　整理作業" type="Sho">
+      <articles number="第二十五条" title="（土じよう図の作成）">
+        <article_item number="第二十五条">
+          土じよう図は、地形図に第十三条第五項、第十七条第三項、第十八条第四項、第十九条第三項及び第二十三条の規定により地形図に表示した事項を転記して作成するものとする。
+        </article_item>
+      </articles>
+      <articles number="第二十六条" title="（土じよう説明書）">
+        <article_item number="第二十六条">
+          土じよう説明書は、土じようの区分及び分布並びにこれと土地利用との関係について別表六に定めるところにより記入し、土じようの特性を示す付表を添付するものとする。
+        </article_item>
+      </articles>
+      <articles title="（土じよう説明書）">
+        <article_item>
+          
+        </article_item>
+      </articles>
+    </section>
+  </body>
+</law>

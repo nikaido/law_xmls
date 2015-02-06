@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>社会保険診療報酬支払基金法施行令</title>
+    <defined>平成十一年十二月八日政令第三百九十五号</defined>
+    <updated>平成二三年三月三〇日政令第五五号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、社会保険診療報酬支払基金法（昭和二十三年法律第百二十九号）第二十二条の二の規定に基づき、この政令を制定する。
+      </p>
+    </preamble>
+    <articles>
+      <article_item>
+        社会保険診療報酬支払基金法第十五条第一項第一号の政令で定める月数は、おおむね百分の十五箇月とする。
+      </article_item>
+    </articles>
+  </body>
+</law>

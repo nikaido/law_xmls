@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>国の債権者代位権の行使に伴う現金又は有価証券の保管に関する政令</title>
+    <defined>昭和三十一年八月十四日政令第二百六十三号</defined>
+    <updated>昭和三一年一一月一〇日政令第三三七号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、会計法（昭和二十二年法律第三十五号）第三十三条の規定に基き、この政令を制定する。
+      </p>
+    </preamble>
+    <articles>
+      <article_item>
+        各省各庁の長（財政法（昭和二十二年法律第三十四号）第二十条第二項に規定する各省各庁の長をいう。）は、国が債権者として債務者に属する権利を代位して行うことにより受領すべき現金又は有価証券を保管することができる。
+      </article_item>
+    </articles>
+    <articles>
+      <article_item>
+        
+      </article_item>
+    </articles>
+  </body>
+</law>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>大正五年農商務省令第三十号（農商省主管歳入証券納付ニ関スル件）</title>
+    <defined>大正五年十二月二十八日農商務省令第三十号</defined>
+    <updated>昭和一八年一一月一五日農商省令第三号</updated>
+  </head>
+  <body>
+    <articles>
+      <article_item>
+        農商省主管ノ歳入ハ総テ証券ヲ以テ之ヲ納付スルコトヲ得
+      </article_item>
+    </articles>
+  </body>
+</law>

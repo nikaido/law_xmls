@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>船員災害防止協会の設立及び監督に関する規則</title>
+    <defined>昭和四十二年七月十五日厚生省・運輸省令第一号</defined>
+    <updated>平成一七年三月二九日厚生労働省・国土交通省令第四号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        船員災害防止協会等に関する法律（昭和四十二年法律第六十一号）第二十二条及び第二十五条の規定に基づき、並びに同法を実施するため、船員災害防止協会の設立及び監督に関する規則を次のように定める。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（法第三十四条の厚生労働省令・国土交通省令で定める率）">
+      <article_item number="第一条">
+        船員災害防止活動の促進に関する法律（昭和四十二年法律第六十一号。以下「法」という。）第三十四条の厚生労働省令・国土交通省令で定める率は、三分の一とする。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（法第三十七条の厚生労働省令・国土交通省令で定める事項）">
+      <article_item number="第二条">
+        法第三十七条の厚生労働省令・国土交通省令で定める事項は、次のとおりとする。
+        <go>
+          <go_item number="一">
+            発起人の氏名及び住所（法人その他の団体にあつては、その名称、代表者の氏名及び主たる事務所の所在地）
+          </go_item>
+          <go_item number="二">
+            役員となるべき者の氏名、住所及び略歴
+          </go_item>
+          <go_item number="三">
+            定款並びに創立総会の会議の日時及び場所についての公告に関する事項
+          </go_item>
+          <go_item number="四">
+            創立総会の議事の経過
+          </go_item>
+          <go_item number="五">
+            会員となる旨の申出をした船舶所有者及び船舶所有者の団体の数
+          </go_item>
+          <go_item number="六">
+            会員となる旨の申出をした船舶所有者が常時使用する船員の総数
+          </go_item>
+          <go_item number="七">
+            事業計画及び収支見積り
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（設立の認可の申請）">
+      <article_item number="第三条">
+        法第三十七条の設立の認可の申請は、定款及び前条各号の事項を記載した書面を添付した申請書を提出して行わなければならない。
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（成立の届出）">
+      <article_item number="第四条">
+        法第三十八条第二項の成立の届出は、登記事項証明書を添付した届出書を提出して行わなければならない。
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（定款の変更の認可の申請）">
+      <article_item number="第五条">
+        法第三十九条第二項の定款の変更の認可の申請は、次の事項を記載した書面を添付した申請書を提出して行わなければならない。
+        <go>
+          <go_item number="一">
+            変更の内容及び理由
+          </go_item>
+          <go_item number="二">
+            変更の議決をした総会又は総代会の議事の経過
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（法第四十四条第三項の厚生労働省令・国土交通省令で定める電磁的記録）">
+      <article_item number="第六条">
+        法第四十四条第三項の厚生労働省令・国土交通省令で定める電磁的記録は、電子計算機に備えられたファイル又は磁気ディスク、シー・ディー・ロムその他これらに準ずる方法により一定の事項を確実に記録しておくことができる物をもつて調製するファイルに記録したものとする。
+      </article_item>
+    </articles>
+    <articles number="第七条" title="（解散の届出）">
+      <article_item number="第七条">
+        法第五十一条第二項の解散の届出は、解散の議決をした総会の議事の経過を記載した書面を添付した届出書を提出して行わなければならない。
+      </article_item>
+    </articles>
+    <articles number="第八条" title="（証明書）">
+      <article_item number="第八条">
+        法第五十六条第二項の証明書は、別記様式によるものとする。
+      </article_item>
+    </articles>
+    <articles title="（証明書）">
+      <article_item>
+        
+      </article_item>
+    </articles>
+  </body>
+</law>

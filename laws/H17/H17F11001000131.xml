@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>外国人観光旅客の来訪地域の整備等の促進による国際観光の振興に関する法律第十二条の認定地域観光振興事業者及び施設を定める省令</title>
+    <defined>平成十七年八月十二日総務省令第百三十一号</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        外国人観光旅客の来訪地域の整備等の促進による国際観光の振興に関する法律（平成九年法律第九十一号）第十二条の規定に基づき、外国人観光旅客の来訪地域の整備等の促進による国際観光の振興に関する法律第十二条の認定地域観光振興事業者及び施設を定める省令を次のように定める。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（認定地域観光振興事業者の範囲）">
+      <article_item number="第一条">
+        外国人観光旅客の来訪地域の整備等の促進による国際観光の振興に関する法律（平成九年法律第九十一号。以下「法」という。）第十二条に規定する総務省令で定める認定地域観光振興事業者は、次に掲げる者とする。<br/>　地方公共団体が、資本金、基本金その他これらに準ずるものの二分の一以上を出資している民法（明治二十九年法律第八十九号）第三十四条の法人、株式会社又は有限会社
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（施設の範囲）">
+      <article_item number="第二条">
+        法第十二条に規定する総務省令で定める施設は、次に掲げる施設とする。
+        <go>
+          <go_item number="一">
+            教養文化施設
+          </go_item>
+          <go_item number="二">
+            スポーツ又はレクリエーション施設
+          </go_item>
+          <go_item number="三">
+            集会施設
+          </go_item>
+          <go_item number="四">
+            休養施設
+          </go_item>
+          <go_item number="五">
+            案内所
+          </go_item>
+          <go_item number="六">
+            案内標識
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+  </body>
+</law>

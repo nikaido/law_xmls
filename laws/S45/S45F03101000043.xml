@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>昭和四十五年国富調査のための家計資産調査規則　抄</title>
+    <defined>昭和四十五年十一月十日総理府令第四十三号</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        統計法第三条第二項及び第十二条第二項の規定に基づき、昭和四十五年国富調査のための家計資産調査規則を次のように定める。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（趣旨）">
+      <article_item number="第一条">
+        統計法（昭和二十二年法律第十八号。以下「法」という。）に基づく指定統計である昭和四十五年国富調査のための家計資産調査（指定統計第八十六号。以下「家計資産調査」という。）の施行に関しては、この府令の定めるところによる。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（調査の目的）">
+      <article_item number="第二条">
+        家計資産調査は、家計資産の保有の状況を明らかにし、昭和四十五年国富調査の基礎資料を得るとともに、家計の総合的分析に資することを目的とする。
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（定義）">
+      <article_item number="第三条">
+        この府令において「世帯」とは、住居及び家計を共にする者の集り、又は独立して家計を維持する単身者をいう。
+      </article_item>
+      <article_item number="２">
+        この府令において「世帯主」とは、世帯を主宰する者をいう。
+      </article_item>
+      <article_item number="３">
+        この府令において「家計資産」とは、世帯の所有する資産のうち、住宅（これに附属する諸設備を含む。以下同じ。）ならびに別表第一及び別表第二に定める品目（ただし、自動車以外の品目については、事業に使用するものを除く。）をいう。
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（調査の期日）">
+      <article_item number="第四条">
+        家計資産調査は、昭和四十六年二月二十八日現在によつて行なう。
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（調査の対象）">
+      <article_item number="第五条">
+        家計資産調査は、総理府統計局長が指定する昭和四十年国勢調査調査区内にある世帯のうちから、都道府県知事が選定する世帯（以下「調査世帯」という。）について行なう。
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（調査事項）">
+      <article_item number="第六条">
+        家計資産調査は、次の各号に掲げる事項について行なう。
+        <go>
+          <go_item number="一">
+            世帯に関する事項
+          </go_item>
+          <go_item number="二">
+            住宅に関する事項
+          </go_item>
+          <go_item number="三">
+            年間収入に関する事項
+          </go_item>
+          <go_item number="四">
+            住宅以外の家計資産品目に関する事項
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="２">
+        前項の調査事項の細目については、別記様式第一号から別記様式第七号までに定める調査票による。
+      </article_item>
+    </articles>
+    <articles number="第十四条" title="（調査票の使用）">
+      <article_item number="第十四条">
+        調査票は、法第十五条第一項の規定により、統計上の目的以外に使用してはならない。
+      </article_item>
+    </articles>
+    <articles number="第十五条" title="（調査関係書類の保存）">
+      <article_item number="第十五条">
+        総理府統計局長は、調査関係書類を、次の区分によつて保存しなければならない。<br/>
+        <table>
+          <tr>
+            <td>
+              関係書類名
+            </td>
+            <td>
+              保存期間
+            </td>
+          </tr>
+          <tr>
+            <td>
+              調査票
+            </td>
+            <td>
+              三年
+            </td>
+          </tr>
+          <tr>
+            <td>
+              結果表
+            </td>
+            <td>
+              永年
+            </td>
+          </tr>
+        </table>
+      </article_item>
+    </articles>
+    <articles title="（調査関係書類の保存）">
+      <article_item>
+        
+      </article_item>
+    </articles>
+  </body>
+</law>

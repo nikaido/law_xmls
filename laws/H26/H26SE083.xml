@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>平成二十六年度における児童手当法に基づき一般事業主から徴収する拠出金に係る拠出金率を定める政令</title>
+    <defined>平成二十六年三月二十六日政令第八十三号</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、児童手当法（昭和四十六年法律第七十三号）第二十一条第二項の規定に基づき、この政令を制定する。
+      </p>
+    </preamble>
+    <articles>
+      <article_item>
+        平成二十六年度における児童手当法第二十一条第一項の拠出金率は、千分の一・五とする。
+      </article_item>
+    </articles>
+  </body>
+</law>

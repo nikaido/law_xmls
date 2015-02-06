@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>明治二十八年勅令第百六十七号（標準時ニ関スル件）</title>
+    <defined>明治二十八年十二月二十八日勅令第百六十七号</defined>
+    <updated>昭和一二年九月二四日勅令第五二九号</updated>
+  </head>
+  <body>
+    <articles number="第一条">
+      <article_item number="第一条">
+        帝国従来ノ標準時ハ自今之ヲ中央標準時ト称ス
+      </article_item>
+    </articles>
+    <articles number="第二条">
+      <article_item number="第二条">
+        削除
+      </article_item>
+    </articles>
+    <articles number="第三条">
+      <article_item number="第三条">
+        本令ハ明治二十九年一月一日ヨリ施行ス
+      </article_item>
+    </articles>
+  </body>
+</law>

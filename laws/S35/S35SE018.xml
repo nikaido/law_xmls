@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>意匠法施行令</title>
+    <defined>昭和三十五年三月八日政令第十八号</defined>
+    <updated>平成一五年九月一〇日政令第三九八号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、意匠法（昭和三十四年法律第百二十五号）の規定に基づき、この政令を制定する。
+      </p>
+    </preamble>
+    <articles number="１">
+      <article_item number="１">
+        特許法施行令第一条（在外者の手続の特例）の規定は、意匠登録出願、請求その他意匠登録に関する手続に準用する。
+      </article_item>
+      <article_item number="２">
+        特許法施行令第三章（審査官、審判官及び審判書記官の資格）の規定は、審査官、審判官及び審判書記官の資格に準用する。
+      </article_item>
+      <article_item number="３">
+        特許法施行令第四章（工業所有権審議会）の規定は、登録意匠又はこれに類似する意匠についての裁定の手続に準用する。
+      </article_item>
+    </articles>
+    <articles>
+      <article_item>
+        
+      </article_item>
+    </articles>
+  </body>
+</law>

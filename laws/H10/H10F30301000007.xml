@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>国家公安委員会文書決裁規則</title>
+    <defined>平成十年三月十九日国家公安委員会規則第七号</defined>
+    <updated>平成一二年一二月二一日国家公安委員会規則第二一号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        警察法施行令（昭和二十九年政令第百五十一号）第十三条第一項の規定に基づき、国家公安委員会文書決裁規程（昭和三十四年国家公安委員会規程第一号）の全部を改正するこの規則を制定する。
+      </p>
+    </preamble>
+    <articles>
+      <article_item>
+        次に掲げる事項については、国家公安委員会の決裁を受けなければならない。
+        <go>
+          <go_item number="一">
+            法律案
+          </go_item>
+          <go_item number="二">
+            政令案
+          </go_item>
+          <go_item number="三">
+            内閣府令案
+          </go_item>
+          <go_item number="四">
+            国家公安委員会規則
+          </go_item>
+          <go_item number="五">
+            国家公安委員会告示で特に重要なもの
+          </go_item>
+          <go_item number="六">
+            請願書、建議書、陳情書等の処理で特に重要なもの
+          </go_item>
+          <go_item number="七">
+            警察庁長官の任免その他の人事及び給与に関すること。
+          </go_item>
+          <go_item number="八">
+            地方警務官の任免その他の人事及び給与に関すること。
+          </go_item>
+          <go_item number="九">
+            前各号に掲げるもののほか、警察の制度及び運営についての重要な施策に関すること。
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+  </body>
+</law>

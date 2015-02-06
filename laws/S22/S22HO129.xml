@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>財政融資資金の債権の条件変更等に関する法律</title>
+    <defined>昭和二十二年十一月四日法律第百二十九号</defined>
+    <updated>平成一四年七月三一日法律第九八号</updated>
+  </head>
+  <body>
+    <articles>
+      <article_item>
+        財政融資資金の融通を受けた者が、災害その他特殊の事由により、元利金の支払が著しく困難となつたときは、財務大臣は、財政制度等審議会の意見を聴いて、公共の利益のため必要があると認める場合に限り、その融通条件の変更又は延滞元利金の支払方法の変更をすることができる。
+      </article_item>
+    </articles>
+  </body>
+</law>

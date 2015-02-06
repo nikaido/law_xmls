@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>商法等の一部を改正する法律の施行に伴う関係法律の整備に関する法律　抄</title>
+    <defined>平成十二年五月三十一日法律第九十一号</defined>
+  </head>
+  <body>
+    <articles number="第一条" title="（民法の一部改正）">
+      <article_item number="第一条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（非訟事件手続法の一部改正）">
+      <article_item number="第二条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（公有水面埋立法の一部改正）">
+      <article_item number="第三条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（軌道法の一部改正）">
+      <article_item number="第四条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（信託業法の一部改正）">
+      <article_item number="第五条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（無尽業法の一部改正）">
+      <article_item number="第六条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第七条" title="（陸上交通事業調整法の一部改正）">
+      <article_item number="第七条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第八条" title="（金融機関の信託業務の兼営等に関する法律の一部改正）">
+      <article_item number="第八条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第九条" title="（私的独占の禁止及び公正取引の確保に関する法律の一部改正）">
+      <article_item number="第九条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第十条" title="（農業協同組合法の一部改正）">
+      <article_item number="第十条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第十一条" title="（食品衛生法の一部改正）">
+      <article_item number="第十一条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第十二条" title="（理容師法の一部改正）">
+      <article_item number="第十二条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第十三条" title="（証券取引法の一部改正）">
+      <article_item number="第十三条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第十四条" title="（農薬取締法の一部改正）">
+      <article_item number="第十四条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第十五条" title="（風俗営業等の規制及び業務の適正化等に関する法律の一部改正）">
+      <article_item number="第十五条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第十六条" title="（興行場法の一部改正）">
+      <article_item number="第十六条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第十七条" title="（旅館業法の一部改正）">
+      <article_item number="第十七条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第十八条" title="（公衆浴場法の一部改正）">
+      <article_item number="第十八条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第十九条" title="（自転車競技法の一部改正）">
+      <article_item number="第十九条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第二十条" title="（水産業協同組合法の一部改正）">
+      <article_item number="第二十条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第二十一条" title="（中小企業等協同組合法の一部改正）">
+      <article_item number="第二十一条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第二十二条" title="（協同組合による金融事業に関する法律の一部改正）">
+      <article_item number="第二十二条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第二十三条" title="（工業標準化法の一部改正）">
+      <article_item number="第二十三条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第二十四条" title="（海上運送法の一部改正）">
+      <article_item number="第二十四条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第二十五条" title="（漁業法の一部改正）">
+      <article_item number="第二十五条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第二十六条" title="（国際観光ホテル整備法の一部改正）">
+      <article_item number="第二十六条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第二十七条" title="（肥料取締法の一部改正）">
+      <article_item number="第二十七条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第二十八条" title="（電波法の一部改正）">
+      <article_item number="第二十八条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第二十九条" title="（放送法の一部改正）">
+      <article_item number="第二十九条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第三十条" title="（火薬類取締法の一部改正）">
+      <article_item number="第三十条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第三十一条" title="（農林物資の規格化及び品質表示の適正化に関する法律の一部改正）">
+      <article_item number="第三十一条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第三十二条" title="（船主相互保険組合法の一部改正）">
+      <article_item number="第三十二条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第三十三条" title="（漁船法の一部改正）">
+      <article_item number="第三十三条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第三十四条" title="（建築基準法の一部改正）">
+      <article_item number="第三十四条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第三十五条" title="（クリーニング業法の一部改正）">
+      <article_item number="第三十五条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第三十六条" title="（小型自動車競走法の一部改正）">
+      <article_item number="第三十六条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第三十七条" title="（採石法の一部改正）">
+      <article_item number="第三十七条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第三十八条" title="（有線ラジオ放送業務の運用の規正に関する法律の一部改正）">
+      <article_item number="第三十八条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第三十九条" title="（港湾運送事業法の一部改正）">
+      <article_item number="第三十九条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第四十条" title="（道路運送法の一部改正）">
+      <article_item number="第四十条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第四十一条" title="（道路運送車両法の一部改正）">
+      <article_item number="第四十一条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第四十二条" title="（投資信託及び投資法人に関する法律の一部改正）">
+      <article_item number="第四十二条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第四十三条" title="（高圧ガス保安法の一部改正）">
+      <article_item number="第四十三条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第四十四条" title="（信用金庫法の一部改正）">
+      <article_item number="第四十四条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第四十五条" title="（モーターボート競走法の一部改正）">
+      <article_item number="第四十五条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第四十六条" title="（森林法の一部改正）">
+      <article_item number="第四十六条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第四十七条" title="（内航海運業法の一部改正）">
+      <article_item number="第四十七条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第四十八条" title="（会社更生法の一部改正）">
+      <article_item number="第四十八条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第四十九条" title="（長期信用銀行法の一部改正）">
+      <article_item number="第四十九条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第五十条" title="（農地法の一部改正）">
+      <article_item number="第五十条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第五十一条" title="（航空法の一部改正）">
+      <article_item number="第五十一条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第五十二条" title="（航空機製造事業法の一部改正）">
+      <article_item number="第五十二条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第五十三条" title="（旅行業法の一部改正）">
+      <article_item number="第五十三条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第五十四条" title="（電源開発促進法の一部改正）">
+      <article_item number="第五十四条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第五十五条" title="（武器等製造法の一部改正）">
+      <article_item number="第五十五条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第五十六条" title="（労働金庫法の一部改正）">
+      <article_item number="第五十六条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第五十七条" title="（農業機械化促進法の一部改正）">
+      <article_item number="第五十七条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第五十八条" title="（ガス事業法の一部改正）">
+      <article_item number="第五十八条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第五十九条" title="（倉庫業法の一部改正）">
+      <article_item number="第五十九条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第六十条" title="（工業用水法の一部改正）">
+      <article_item number="第六十条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第六十一条" title="（特定多目的ダム法の一部改正）">
+      <article_item number="第六十一条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第六十二条" title="（高速自動車国道法の一部改正）">
+      <article_item number="第六十二条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第六十三条" title="（有線放送電話に関する法律の一部改正）">
+      <article_item number="第六十三条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第六十四条" title="（美容師法の一部改正）">
+      <article_item number="第六十四条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第六十五条" title="（下水道法の一部改正）">
+      <article_item number="第六十五条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第六十六条" title="（企業担保法の一部改正）">
+      <article_item number="第六十六条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第六十七条" title="（首都圏の既成市街地における工業等の制限に関する法律の一部改正）">
+      <article_item number="第六十七条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第六十八条" title="（工場立地法の一部改正）">
+      <article_item number="第六十八条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第六十九条" title="（自動車ターミナル法の一部改正）">
+      <article_item number="第六十九条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第七十条" title="（小売商業調整特別措置法の一部改正）">
+      <article_item number="第七十条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第七十一条" title="（薬事法の一部改正）">
+      <article_item number="第七十一条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第七十二条" title="（割賦販売法の一部改正）">
+      <article_item number="第七十二条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第七十三条" title="（電気用品安全法の一部改正）">
+      <article_item number="第七十三条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第七十四条" title="（建築物用地下水の採取の規制に関する法律の一部改正）">
+      <article_item number="第七十四条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第七十五条" title="（石油業法の一部改正）">
+      <article_item number="第七十五条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第七十六条" title="（行政不服審査法の一部改正）">
+      <article_item number="第七十六条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第七十七条" title="（共同溝の整備等に関する特別措置法の一部改正）">
+      <article_item number="第七十七条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第七十八条" title="（中小企業投資育成株式会社法の一部改正）">
+      <article_item number="第七十八条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第七十九条" title="（商業登記法の一部改正）">
+      <article_item number="第七十九条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第八十条" title="（近畿圏の既成都市区域における工場等の制限に関する法律の一部改正）">
+      <article_item number="第八十条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第八十一条" title="（漁業災害補償法の一部改正）">
+      <article_item number="第八十一条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第八十二条" title="（河川法の一部改正）">
+      <article_item number="第八十二条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第八十三条" title="（電気事業法の一部改正）">
+      <article_item number="第八十三条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第八十四条" title="（液化石油ガスの保安の確保及び取引の適正化に関する法律の一部改正）">
+      <article_item number="第八十四条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第八十五条" title="（砂利採取法の一部改正）">
+      <article_item number="第八十五条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第八十六条" title="（金融機関の合併及び転換に関する法律の一部改正）">
+      <article_item number="第八十六条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第八十七条" title="（大気汚染防止法の一部改正）">
+      <article_item number="第八十七条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第八十八条" title="（騒音規制法の一部改正）">
+      <article_item number="第八十八条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第八十九条" title="（電気工事業の業務の適正化に関する法律の一部改正）">
+      <article_item number="第八十九条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第九十条" title="（海洋汚染及び海上災害の防止に関する法律の一部改正）">
+      <article_item number="第九十条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第九十一条" title="（廃棄物の処理及び清掃に関する法律の一部改正）">
+      <article_item number="第九十一条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第九十二条" title="（水質汚濁防止法の一部改正）">
+      <article_item number="第九十二条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第九十三条" title="（外国証券業者に関する法律の一部改正）">
+      <article_item number="第九十三条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第九十四条" title="（預金保険法の一部改正）">
+      <article_item number="第九十四条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第九十五条" title="（卸売市場法の一部改正）">
+      <article_item number="第九十五条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第九十六条" title="（労働安全衛生法の一部改正）">
+      <article_item number="第九十六条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第九十七条" title="（熱供給事業法の一部改正）">
+      <article_item number="第九十七条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第九十八条" title="（石油パイプライン事業法の一部改正）">
+      <article_item number="第九十八条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第九十九条" title="（有線テレビジョン放送法の一部改正）">
+      <article_item number="第九十九条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第百条" title="（消費生活用製品安全法の一部改正）">
+      <article_item number="第百条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第百一条" title="（瀬戸内海環境保全特別措置法の一部改正）">
+      <article_item number="第百一条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第百二条" title="（石油コンビナート等災害防止法の一部改正）">
+      <article_item number="第百二条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第百三条" title="（石油備蓄法の一部改正）">
+      <article_item number="第百三条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第百四条" title="（振動規制法の一部改正）">
+      <article_item number="第百四条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第百五条" title="（揮発油等の品質の確保等に関する法律の一部改正）">
+      <article_item number="第百五条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第百六条" title="（中小企業倒産防止共済法の一部改正）">
+      <article_item number="第百六条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第百七条" title="（銀行法の一部改正）">
+      <article_item number="第百七条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第百八条" title="（深海底鉱業暫定措置法の一部改正）">
+      <article_item number="第百八条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第百九条" title="（株券等の保管及び振替に関する法律の一部改正）">
+      <article_item number="第百九条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第百十条" title="（関西国際空港株式会社法の一部改正）">
+      <article_item number="第百十条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第百十一条" title="（湖沼水質保全特別措置法の一部改正）">
+      <article_item number="第百十一条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第百十二条" title="（たばこ事業法の一部改正）">
+      <article_item number="第百十二条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第百十三条" title="（日本たばこ産業株式会社法の一部改正）">
+      <article_item number="第百十三条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第百十四条" title="（日本電信電話株式会社等に関する法律の一部改正）">
+      <article_item number="第百十四条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第百十五条" title="（電気通信事業法の一部改正）">
+      <article_item number="第百十五条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第百十六条" title="（特定都市鉄道整備促進特別措置法の一部改正）">
+      <article_item number="第百十六条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第百十七条" title="（旅客鉄道株式会社及び日本貨物鉄道株式会社に関する法律の一部改正）">
+      <article_item number="第百十七条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第百十八条" title="（鉄道事業法の一部改正）">
+      <article_item number="第百十八条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第百十九条" title="（特定物質の規制等によるオゾン層の保護に関する法律の一部改正）">
+      <article_item number="第百十九条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第百二十条" title="（金融先物取引法の一部改正）">
+      <article_item number="第百二十条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第百二十一条" title="（貨物運送取扱事業法の一部改正）">
+      <article_item number="第百二十一条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第百二十二条" title="（貨物自動車運送事業法の一部改正）">
+      <article_item number="第百二十二条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第百二十三条" title="（前払式証票の規制等に関する法律の一部改正）">
+      <article_item number="第百二十三条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第百二十四条" title="（特定通信・放送開発事業実施円滑化法の一部改正）">
+      <article_item number="第百二十四条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第百二十五条" title="（食鳥処理の事業の規制及び食鳥検査に関する法律の一部改正）">
+      <article_item number="第百二十五条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第百二十六条" title="（計量法の一部改正）">
+      <article_item number="第百二十六条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第百二十七条" title="（特定債権等に係る事業の規制に関する法律の一部改正）">
+      <article_item number="第百二十七条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第百二十八条" title="（主要食糧の需給及び価格の安定に関する法律の一部改正）">
+      <article_item number="第百二十八条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第百二十九条" title="（電線共同溝の整備等に関する特別措置法の一部改正）">
+      <article_item number="第百二十九条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第百三十条" title="（中小企業の創造的事業活動の促進に関する臨時措置法の一部改正）">
+      <article_item number="第百三十条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第百三十一条" title="（保険業法の一部改正）">
+      <article_item number="第百三十一条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第百三十二条" title="（塩事業法の一部改正）">
+      <article_item number="第百三十二条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第百三十三条" title="（金融機関等の更生手続の特例等に関する法律の一部改正）">
+      <article_item number="第百三十三条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第百三十四条" title="（南極地域の環境の保護に関する法律の一部改正）">
+      <article_item number="第百三十四条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第百三十五条" title="（中部国際空港の設置及び管理に関する法律の一部改正）">
+      <article_item number="第百三十五条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第百三十六条" title="（大規模小売店舗立地法の一部改正）">
+      <article_item number="第百三十六条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第百三十七条" title="（特定家庭用機器再商品化法の一部改正）">
+      <article_item number="第百三十七条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第百三十八条" title="（美術品の美術館における公開の促進に関する法律の一部改正）">
+      <article_item number="第百三十八条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第百三十九条" title="（資産の流動化に関する法律の一部改正）">
+      <article_item number="第百三十九条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第百四十条" title="（債権管理回収業に関する特別措置法の一部改正）">
+      <article_item number="第百四十条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第百四十一条" title="（金融機能の再生のための緊急措置に関する法律の一部改正）">
+      <article_item number="第百四十一条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第百四十二条" title="（新事業創出促進法の一部改正）">
+      <article_item number="第百四十二条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第百四十三条" title="（住宅の品質確保の促進等に関する法律の一部改正）">
+      <article_item number="第百四十三条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第百四十四条" title="（ダイオキシン類対策特別措置法の一部改正）">
+      <article_item number="第百四十四条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第百四十五条" title="（産業活力再生特別措置法の一部改正）">
+      <article_item number="第百四十五条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第百四十六条" title="（産業活力再生特別措置法の一部改正に伴う経過措置）">
+      <article_item number="第百四十六条">
+        前条の規定の施行前に同条の規定による改正前の産業活力再生特別措置法第十条第二項の決議がされた場合における当該決議に係る営業の全部の譲受けについては、なお従前の例による。
+      </article_item>
+    </articles>
+    <articles number="第百四十七条" title="（新事業創出促進法の一部を改正する法律の一部改正）">
+      <article_item number="第百四十七条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第百四十八条" title="（アルコール事業法の一部改正）">
+      <article_item number="第百四十八条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第百四十九条" title="（道路運送法及びタクシー業務適正化臨時措置法の一部を改正する法律の一部改正）">
+      <article_item number="第百四十九条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第百五十条" title="（大深度地下の公共的使用に関する特別措置法の一部改正）">
+      <article_item number="第百五十条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第百五十一条" title="（旧特定新規事業実施円滑化臨時措置法の一部改正）">
+      <article_item number="第百五十一条">
+        新事業創出促進法の一部を改正する法律附則第五条第二項の規定によりなおその効力を有するものとされる旧特定新規事業実施円滑化臨時措置法（平成元年法律第五十九号）の一部を次のように改正する。<br/>　　　第八条第一項中「第二百八十条ノ十九第一項」を「第二百十条ノ二第二項第三号に規定する契約に基づき譲渡するために自己の株式を買い受ける場合及び同法第二百八十条ノ十九第一項」に、「同条第三項」を「同法第二百十条ノ二及び第二百八十条ノ十九」に、「同項」を「同法第二百十条ノ二第四項及び第二百八十条ノ十九第三項」に改め、同条第二項中「商法」の下に「第二百十条ノ二第二項又は」を加える。
+      </article_item>
+    </articles>
+  </body>
+</law>

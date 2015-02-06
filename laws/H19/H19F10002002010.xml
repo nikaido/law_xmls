@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>社債等登録法施行規則及び信託会社が信託財産として所有する登録社債等の登録方法等に関する命令を廃止する命令</title>
+    <defined>平成十九年十二月十四日内閣府・法務省令第十号</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        証券決済制度等の改革による証券市場の整備のための関係法律の整備等に関する法律（平成十四年法律第六十五号）の施行に伴い、社債等登録法施行規則及び信託会社が信託財産として所有する登録社債等の登録方法等に関する命令を廃止する命令を次のように定める。
+      </p>
+    </preamble>
+    <articles>
+      <article_item>
+        次に掲げる命令は、廃止する。
+        <go>
+          <go_item number="一">
+            社債等登録法施行規則（昭和十七年大蔵省・司法省令第一号）
+          </go_item>
+          <go_item number="二">
+            信託会社が信託財産として所有する登録社債等の登録方法等に関する命令（平成十三年内閣府・法務省令第一号）
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+  </body>
+</law>

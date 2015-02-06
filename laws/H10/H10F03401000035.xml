@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>政府が承継した日本国有鉄道清算事業団債務に係る国債の取扱い等に関する省令</title>
+    <defined>平成十年三月三十日大蔵省令第三十五号</defined>
+    <updated>平成一二年八月二一日大蔵省令第六九号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        国債に関する法律（明治三十九年法律第三十四号）第一条第一項及び第二項の規定に基づき、政府が承継した日本国有鉄道清算事業団債務に係る国債の取扱い等に関する省令を次のように定める。 
+      </p>
+    </preamble>
+    <articles number="第一条" title="（承継国債の告示）">
+      <article_item number="第一条">
+        財務大臣は、日本国有鉄道清算事業団の債務の負担の軽減を図るために平成九年度において緊急に講ずべき特別措置に関する法律（平成九年法律第七十三号）第二条第一項又は日本国有鉄道清算事業団の債務等の処理に関する法律（平成十年法律第百三十六号）第二条第一項の規定により、政府が日本国有鉄道清算事業団の債務を承継したときは、その承継した債務に係る国債（以下「承継国債」という。）について、遅滞なく次に掲げる事項を告示するものとする。
+        <go>
+          <go_item number="一">
+            名称及び記号
+          </go_item>
+          <go_item number="二">
+            額面総額
+          </go_item>
+          <go_item number="三">
+            額面金額の種類
+          </go_item>
+          <go_item number="四">
+            利率
+          </go_item>
+          <go_item number="五">
+            利子支払期
+          </go_item>
+          <go_item number="六">
+            償還期限
+          </go_item>
+          <go_item number="七">
+            償還金額
+          </go_item>
+          <go_item number="八">
+            その他必要な事項
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（承継国債取扱店の設置）">
+      <article_item number="第二条">
+        日本銀行は、承継国債の元金償還及び利子支払その他承継国債に関する事務を取り扱う代理店（以下「承継国債取扱店」という。）を設けることができる。
+      </article_item>
+      <article_item number="２">
+        日本銀行は、承継国債取扱店を設置し又は廃止しようとするときは、あらかじめ、その店舗の所在地及び名称を財務大臣に届け出なければならない。
+      </article_item>
+      <article_item number="３">
+        日本銀行は、承継国債取扱店の店舗の所在地又は名称に変更があったときは、その旨を財務大臣に報告しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（承継国債証券の滅失又は紛失の場合の国債規則の不適用）">
+      <article_item number="第三条">
+        承継国債については、国債規則（大正十一年大蔵省令第三十一号）第六十一条及び第六十二条の規定は適用しない。
+      </article_item>
+    </articles>
+  </body>
+</law>

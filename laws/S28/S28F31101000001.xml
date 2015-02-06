@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>公安審査委員会審査規則</title>
+    <defined>昭和二十八年七月二十五日公安審査委員会規則第一号</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        破壊活動防止法（昭和二十七年法律第二百四十号）第二十六条の規定に基き、公安審査委員会審査規則を次のように定める。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（用語の略称）">
+      <article_item number="第一条">
+        この規則においては、それぞれ左の各号に定める略称を用いる。
+        <go>
+          <go_item number="一">
+            「法」とは、破壊活動防止法をいう。
+          </go_item>
+          <go_item number="二">
+            「委員会」とは、公安審査委員会をいう。
+          </go_item>
+          <go_item number="三">
+            「委員長」及び「委員」とは、公安審査委員会の委員長及び委員をいう。
+          </go_item>
+          <go_item number="四">
+            「職員」とは、公安審査委員会の委員補佐及び事務局におかれる職員をいう。
+          </go_item>
+          <go_item number="五">
+            「被請求団体」とは、公安調査庁長官から処分の請求をされた団体をいう。
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（処分請求書の記載要件）">
+      <article_item number="第二条">
+        処分請求書には、法第二十条第一項に規定する事項の外、左に掲げる事項を記載しなければならない。
+        <go>
+          <go_item number="一">
+            被請求団体の名称
+          </go_item>
+          <go_item number="二">
+            被請求団体の主たる事務所の所在地
+          </go_item>
+          <go_item number="三">
+            被請求団体の代表者又は主幹者の氏名、年齢、職業及び住所又は居所
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="２">
+        前項第一号に掲げる事項が明らかでないときは、その団体を特定するに足りる事項を記載しなければならない。
+      </article_item>
+      <article_item number="３">
+        第一項第二号及び第三号に掲げる事項が明らかでないときは、その旨を記載しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（添附書類）">
+      <article_item number="第三条">
+        法第二十条第二項に規定する証拠及び調書については、目録を作成し、且つ、請求の原因たる事実を証すべき証拠については、証拠と証明すべき事実との関係を明らかにした書面を、被請求団体の提出した証拠については、証拠とそれによつて被請求団体が証明すべく主張した事実との関係を明らかにした書面を添附しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（意見書）">
+      <article_item number="第四条">
+        被請求団体の提出する意見書には、左の事項を記載し、代表者又は主幹者が署名押印しなければならない。
+        <go>
+          <go_item number="一">
+            被請求団体の名称、主たる事務所の所在地並びに代表者又は主幹者の氏名及び住所又は居所
+          </go_item>
+          <go_item number="二">
+            意見の趣旨及び理由
+          </go_item>
+          <go_item number="三">
+            意見書提出の年月日
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（調書の作成）">
+      <article_item number="第五条">
+        法第二十二条第二項各号に掲げる処分をした場合においては、調書を作成するものとする。
+      </article_item>
+      <article_item number="２">
+        前項の調書には、左の事項を記載しなければならない。
+        <go>
+          <go_item number="一">
+            被請求団体の名称
+          </go_item>
+          <go_item number="二">
+            処分の要領
+          </go_item>
+          <go_item number="三">
+            処分をした年月日及び場所
+          </go_item>
+          <go_item number="四">
+            処分に関与した者の官職氏名
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（処分の結果に対する意見）">
+      <article_item number="第六条">
+        委員会は、法第二十二条第二項各号に掲げる処分をした場合において、その結果につき、必要があると認めるときは、日時及び場所を定めて公安調査庁長官又はその指定する公安調査庁の職員及び被請求団体の役職員（代理人を含む。）双方よりそれぞれ三人以内に限り出頭して意見を述べる機会を与えることができる。
+      </article_item>
+      <article_item number="２">
+        被請求団体の役職員が前項に規定する期日に代理人を出頭させようとするときは、役職員と代理人との連署による選任書を提出しなければならない。
+      </article_item>
+      <article_item number="３">
+        第一項に規定する期日は、公安調査庁及び被請求団体に、郵便その他適宜の方法によつて通知しなければならない。但し、被請求団体の事務所が知れないときは、この限りでない。
+      </article_item>
+    </articles>
+    <articles number="第七条" title="（処分の結果に対する意見）">
+      <article_item number="第七条">
+        前条第一項に規定する期日の経過については、調書を作成するものとする。
+      </article_item>
+      <article_item number="２">
+        前項の調書には、左の事項を記載しなければならない。
+        <go>
+          <go_item number="一">
+            被請求団体の名称
+          </go_item>
+          <go_item number="二">
+            出頭した者の氏名、年齢、職業及び住所又は居所並びに資格
+          </go_item>
+          <go_item number="三">
+            期日の経過の要領
+          </go_item>
+          <go_item number="四">
+            年月日及び場所
+          </go_item>
+          <go_item number="五">
+            関与した者の官職氏名
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第八条" title="（書類の作成）">
+      <article_item number="第八条">
+        委員会の審査手続に関する書類は、特別の定のある場合を除いては委員会の事務局におかれる職員が作成し、作成者及び委員長が署名押印しなければならない。
+      </article_item>
+      <article_item number="２">
+        法第二十二条第三項の規定により、委員又は職員が処分をした場合には、その委員又は職員は、その調書に署名押印するものとする。
+      </article_item>
+      <article_item number="３">
+        書類には、毎葉に契印し、且つ、文字を加え、削り又は欄外に記入したときは、作成者がこれに認印し、その字数を記載しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第九条" title="（決定書）">
+      <article_item number="第九条">
+        決定書は、決定に関与した委員長及び委員が作成する。
+      </article_item>
+      <article_item number="２">
+        決定書には、左の事項を記載し、決定に関与した委員長及び委員が署名押印しなければならない。
+        <go>
+          <go_item number="一">
+            主文
+          </go_item>
+          <go_item number="二">
+            理由
+          </go_item>
+          <go_item number="三">
+            被請求団体の名称、主たる事務所の所在地並びに代表者又は主幹者の氏名、年齢、職業及び住所又は居所
+          </go_item>
+          <go_item number="四">
+            委員会の表示
+          </go_item>
+          <go_item number="五">
+            年月日
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="３">
+        第二条第二項及び第三項の規定は、前項第三号の事項について準用する。
+      </article_item>
+      <article_item number="４">
+        決定書に委員長が署名押印することができないときは、決定に関与した委員の一人がその事由を附記して署名押印し、委員が署名押印することができないときは、委員長がその事由を附記して署名押印しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第十条" title="（証票）">
+      <article_item number="第十条">
+        法第二十二条第四項に規定する証票は、別記様式のとおりとする。
+      </article_item>
+    </articles>
+    <articles title="（証票）">
+      <article_item>
+        
+      </article_item>
+    </articles>
+  </body>
+</law>

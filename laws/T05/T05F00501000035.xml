@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>大正五年司法省令第三十五号（司法省主管歳入証券納付ニ関スル件）</title>
+    <defined>大正五年十二月二十九日司法省令第三十五号</defined>
+    <updated>大正一一年六月二日司法省令第一四号</updated>
+  </head>
+  <body>
+    <articles number="第一条">
+      <article_item number="第一条">
+        司法省主管ノ歳入ハ別段ノ規定アルモノヲ除クノ外証券ヲ以テ之ヲ納付スルコトヲ得
+      </article_item>
+    </articles>
+    <articles number="第二条">
+      <article_item number="第二条">
+        政府以外ノ者ノ振出シタル小切手又ハ為替手形ハ罰金、科料、過料、刑事追徴金、訴訟費用及非訟事件ノ費用ノ納付ニ之ヲ使用スルコトヲ得ス
+      </article_item>
+    </articles>
+  </body>
+</law>

@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>昭和四十五年国富調査のための地方公共団体資産調査規則　抄</title>
+    <defined>昭和四十五年八月十四日総理府令第二十九号</defined>
+    <updated>平成一二年八月一四日総理府令第九三号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        統計法第三条第二項の規定に基づき、昭和四十五年国富調査のための地方公共団体資産調査規則を次のように定める。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（目的）">
+      <article_item number="第一条">
+        統計法（昭和二十二年法律第十八号）に基づく指定統計である昭和四十五年国富調査のための地方公共団体資産調査（指定統計第八十九号。以下「地方公共団体資産調査」という。）の施行に関しては、この府令の定めるところによる。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（調査の目的）">
+      <article_item number="第二条">
+        地方公共団体資産調査は、地方公共団体の所有する資産の状況を調査し、国富推計の基礎資料を作成することを目的とする。
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（用語の定義）">
+      <article_item number="第三条">
+        この府令において、次の各号に掲げる用語の定義は、それぞれ当該各号に定めるところによる。
+        <go>
+          <go_item number="一">
+            地方公共団体　地方自治法（昭和二十二年法律第六十七号）第一条の三に規定する地方公共団体をいう。
+          </go_item>
+          <go_item number="二">
+            資産　有形固定資産及びたな卸資産をいう。
+          </go_item>
+          <go_item number="三">
+            有形固定資産　建物、構築物、機械及び装置、船舶、車両及び運搬具、器具及び備品並びにその他の有形財産で内閣総理大臣の定めるものをいう。
+          </go_item>
+          <go_item number="四">
+            たな卸資産　商品、原材料、製品、半製品、仕掛り品及び貯蔵品をいう。
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（調査の期日）">
+      <article_item number="第四条">
+        地方公共団体資産調査は、昭和四十五年十二月三十一日現在によつて行なう。
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（調査の客体）">
+      <article_item number="第五条">
+        地方公共団体資産調査は、都道府県、内閣総理大臣が指定する市町村（東京都の区のある地域については区。以下「調査対象市町村」という。）並びに調査対象市町村の区域内に主たる事務所を有する地方公共団体の組合、財産区及び地方開発事業団（以下「その他の調査対象団体」という。）について行なう。
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（調査の事項）">
+      <article_item number="第六条">
+        地方公共団体資産調査は、次の各号に掲げる事項について行なう。
+        <go>
+          <go_item number="一">
+            地方公営企業資産以外の資産に関する事項
+            <go>
+              <go_item number="(一)">
+                地方公共団体に関する事項
+                <go>
+                  <go_item number="イ">
+                    名称及び所在地
+                  </go_item>
+                  <go_item number="ロ">
+                    業務の内容
+                  </go_item>
+                </go>
+              </go_item>
+              <go_item number="(二)">
+                固定財産に関する事項
+                <go>
+                  <go_item number="イ">
+                    品目名
+                  </go_item>
+                  <go_item number="ロ">
+                    構造又は用途
+                  </go_item>
+                  <go_item number="ハ">
+                    取得時期
+                  </go_item>
+                  <go_item number="ニ">
+                    取得価額
+                  </go_item>
+                </go>
+              </go_item>
+              <go_item number="(三)">
+                器具、備品に関する事項
+                <go>
+                  <go_item number="イ">
+                    品目名
+                  </go_item>
+                  <go_item number="ロ">
+                    取得時期
+                  </go_item>
+                  <go_item number="ハ">
+                    数量又は取得価額
+                  </go_item>
+                </go>
+              </go_item>
+              <go_item number="(四)">
+                たな卸資産に関する事項
+                <go>
+                  <go_item number="イ">
+                    品目名
+                  </go_item>
+                  <go_item number="ロ">
+                    数量
+                  </go_item>
+                  <go_item number="ハ">
+                    帳簿価額
+                  </go_item>
+                </go>
+              </go_item>
+            </go>
+          </go_item>
+          <go_item number="二">
+            地方公営企業資産に関する事項
+            <go>
+              <go_item number="(一)">
+                地方公営企業体に関する事項
+                <go>
+                  <go_item number="イ">
+                    名称
+                  </go_item>
+                  <go_item number="ロ">
+                    主たる事務所の所在地
+                  </go_item>
+                  <go_item number="ハ">
+                    資本金又は出資金
+                  </go_item>
+                  <go_item number="ニ">
+                    設立時期
+                  </go_item>
+                  <go_item number="ホ">
+                    事業の概要
+                  </go_item>
+                  <go_item number="ヘ">
+                    従業者数
+                  </go_item>
+                  <go_item number="ト">
+                    有形固定資産の内訳
+                  </go_item>
+                </go>
+              </go_item>
+              <go_item number="(二)">
+                有形固定資産（賃借資産を除く。）に関する事項
+                <go>
+                  <go_item number="イ">
+                    資産の種類
+                  </go_item>
+                  <go_item number="ロ">
+                    資産の構造、用途その他の細目
+                  </go_item>
+                  <go_item number="ハ">
+                    使用状況
+                  </go_item>
+                  <go_item number="ニ">
+                    耐用年数
+                  </go_item>
+                  <go_item number="ホ">
+                    取得時期及び取得価額
+                  </go_item>
+                </go>
+              </go_item>
+              <go_item number="(三)">
+                賃借資産に関する事項
+                <go>
+                  <go_item number="イ">
+                    資産の種類
+                  </go_item>
+                  <go_item number="ロ">
+                    資産の構造、用途その他の細目
+                  </go_item>
+                  <go_item number="ハ">
+                    数量
+                  </go_item>
+                  <go_item number="ニ">
+                    賃借の時期
+                  </go_item>
+                  <go_item number="ホ">
+                    使用状況
+                  </go_item>
+                </go>
+              </go_item>
+              <go_item number="(四)">
+                たな卸資産に関する事項
+                <go>
+                  <go_item number="イ">
+                    資産項目名
+                  </go_item>
+                  <go_item number="ロ">
+                    価額
+                  </go_item>
+                  <go_item number="ハ">
+                    たな卸の方法及び評価方法
+                  </go_item>
+                </go>
+              </go_item>
+            </go>
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="２">
+        前項の調査事項の細目については、内閣総理大臣が定める調査票による。
+      </article_item>
+    </articles>
+    <articles number="第七条" title="（申告の義務及び方法）">
+      <article_item number="第七条">
+        内閣総理大臣は、都道府県知事に調査票を配布するものとし、都道府県知事は、内閣総理大臣の定めるところにより、調査対象市町村の長及びその他の調査対象団体の代表者に調査票を配布するものとする。
+      </article_item>
+      <article_item number="２">
+        前項の調査票を配布された都道府県知事、調査対象市町村の長及びその他の調査対象団体の代表者は、前条に規定する事項について申告しなければならない。
+      </article_item>
+      <article_item number="３">
+        前項の規定による申告は、配布された調査票に所定の事項を記入したうえ、都道府県知事にあつては内閣総理大臣に、調査対象市町村の長及びその他の調査対象団体の代表者にあつては都道府県知事に、当該調査票を提出することにより行なう。
+      </article_item>
+    </articles>
+    <articles number="第八条" title="（調査票の審査、整理及び提出）">
+      <article_item number="第八条">
+        都道府県知事は、前条第三項の規定により調査対象市町村の長及びその他の調査対象団体の代表者から提出された調査票並びに当該都道府県の調査票の内容を審査、整理して、内閣総理大臣の定める期日までに提出しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第九条" title="（集計及び公表）">
+      <article_item number="第九条">
+        内閣総理大臣は、調査票を審査し、評価額を算定して集計し、すみやかにその結果を公表するものとする。
+      </article_item>
+    </articles>
+    <articles number="第十条" title="（調査の執行）">
+      <article_item number="第十条">
+        都道府県知事は、内閣総理大臣の指揮監督を受けて、その管轄区域内の地方公共団体資産調査の執行をつかさどる。
+      </article_item>
+    </articles>
+    <articles number="第十一条" title="（統計従事者）">
+      <article_item number="第十一条">
+        地方公共団体資産調査には、統計法第十条第三項ただし書の規定により、同条第一項及び第二項に定める者以外の者も従事させることができる。
+      </article_item>
+    </articles>
+    <articles number="第十二条" title="（調査票の使用）">
+      <article_item number="第十二条">
+        調査票は、統計法第十五条第一項の規定により、統計上の目的以外に使用してはならない。
+      </article_item>
+    </articles>
+    <articles number="第十三条" title="（関係書類の保存）">
+      <article_item number="第十三条">
+        地方公共団体資産調査の関係書類は、次の区分によつて保存しなければならない。<br/>
+        <table>
+          <tr>
+            <td>
+              関係書類名
+            </td>
+            <td>
+              保存期間
+            </td>
+            <td>
+              保存責任者
+            </td>
+          </tr>
+          <tr>
+            <td>
+              調査票
+            </td>
+            <td>
+              次回調査まで
+            </td>
+            <td>
+              内閣総理大臣
+            </td>
+          </tr>
+          <tr>
+            <td>
+              調査票を集録した磁気テープ
+            </td>
+            <td>
+              永久
+            </td>
+            <td>
+              内閣総理大臣
+            </td>
+          </tr>
+          <tr>
+            <td>
+              結果原表
+            </td>
+            <td>
+              永久
+            </td>
+            <td>
+              内閣総理大臣
+            </td>
+          </tr>
+        </table>
+      </article_item>
+    </articles>
+    <articles title="（関係書類の保存）">
+      <article_item>
+        
+      </article_item>
+    </articles>
+  </body>
+</law>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>明治三十九年勅令第百三十七号（国債償還ノ為抽籤執行ノ場合ニ於ケル立会者ニ関スル件）</title>
+    <defined>明治三十九年六月六日勅令第百三十七号</defined>
+    <updated>平成一二年六月七日政令第三〇七号</updated>
+  </head>
+  <body>
+    <articles>
+      <article_item>
+        国債償還ノ為抽籤ヲ執行スルトキハ財務省官吏三名以上会計検査院官吏二名以上及日本銀行役員二名以上ノ立会ヲ要ス
+      </article_item>
+    </articles>
+  </body>
+</law>

@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>少年院及び少年鑑別所組織規則</title>
+    <defined>平成十三年一月六日法務省令第四号</defined>
+    <updated>平成二六年三月二八日法務省令第八号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        法務省設置法（平成十一年法律第九十三号）第十条第三項及び第十一条第三項の規定に基づき、並びに同法を実施するため、少年院及び少年鑑別所組織規程の全部を改正する命令を次のように定める。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（少年院の名称及び位置）">
+      <article_item number="第一条">
+        少年院の名称及び位置は、別表第一のとおりとする。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（院長及び次長）">
+      <article_item number="第二条">
+        少年院に、院長及び次長一人を置く。
+      </article_item>
+      <article_item number="２">
+        院長は、少年院の事務を掌理する。
+      </article_item>
+      <article_item number="３">
+        次長は、院長を助け、少年院の事務を整理し、院長に事故のあるとき、又は院長が欠けたときは、その職務を代理する。
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（少年院に置く課等）">
+      <article_item number="第三条">
+        少年院に、次の二課を置く。<br/>　　庶務課<br/>医務課
+      </article_item>
+      <article_item number="２">
+        前項に掲げる課のほか、少年院に、首席専門官一人を置く。
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（少年院の庶務課の所掌事務）">
+      <article_item number="第四条">
+        少年院の庶務課は、次に掲げる事務をつかさどる。
+        <go>
+          <go_item number="一">
+            公文書類の接受、発送、編集及び保存に関すること。
+          </go_item>
+          <go_item number="二">
+            人事に関すること。
+          </go_item>
+          <go_item number="三">
+            経理に関すること。
+          </go_item>
+          <go_item number="四">
+            統計に関すること。
+          </go_item>
+          <go_item number="五">
+            給養に関すること。
+          </go_item>
+          <go_item number="六">
+            領置に関すること。
+          </go_item>
+          <go_item number="七">
+            前各号に掲げるもののほか、少年院の所掌事務で他の所掌に属しないものに関すること。
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（少年院の医務課の所掌事務）">
+      <article_item number="第五条">
+        少年院の医務課は、次に掲げる事務をつかさどる。
+        <go>
+          <go_item number="一">
+            心身の保健指導に関すること。
+          </go_item>
+          <go_item number="二">
+            健康診査及び防疫に関すること。
+          </go_item>
+          <go_item number="三">
+            医療及び看護に関すること。
+          </go_item>
+          <go_item number="四">
+            養護者の生活指導に関すること。
+          </go_item>
+          <go_item number="五">
+            薬剤及び医用器材に関すること。
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（少年院の首席専門官の職務）">
+      <article_item number="第六条">
+        少年院の首席専門官は、次に掲げる事務をつかさどる。
+        <go>
+          <go_item number="一">
+            入院、退院及び仮退院に関すること。
+          </go_item>
+          <go_item number="二">
+            個性及び環境の調査並びに分類に関すること。
+          </go_item>
+          <go_item number="三">
+            矯正教育に関すること。
+          </go_item>
+          <go_item number="四">
+            処遇に関すること。
+          </go_item>
+          <go_item number="五">
+            面会及び通信に関すること。
+          </go_item>
+          <go_item number="六">
+            保安に関すること。
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第七条" title="（教育調査官）">
+      <article_item number="第七条">
+        多摩少年院に教育調査官二人を、榛名女子学園、関東医療少年院、久里浜少年院、神奈川医療少年院、瀬戸少年院、浪速少年院及び和泉学園にそれぞれ教育調査官一人を置く。
+      </article_item>
+      <article_item number="２">
+        教育調査官は、命を受けて、矯正教育に関する事務のうち特定事項に係るものを調査し、企画する事務をつかさどる。
+      </article_item>
+    </articles>
+    <articles number="第八条" title="（分院の名称及び位置）">
+      <article_item number="第八条">
+        少年院の分院の名称及び位置は、別表第二のとおりとする。
+      </article_item>
+    </articles>
+    <articles number="第九条" title="（分院長）">
+      <article_item number="第九条">
+        分院に、分院長を置く。
+      </article_item>
+    </articles>
+    <articles number="第十条" title="（分院の首席専門官）">
+      <article_item number="第十条">
+        分院に、首席専門官一人を置く。
+      </article_item>
+      <article_item number="２">
+        分院の首席専門官は、第六条第一項各号に掲げる事務をつかさどる。
+      </article_item>
+    </articles>
+    <articles number="第十一条" title="（少年院の統括専門官）">
+      <article_item number="第十一条">
+        少年院及びその分院を通じて統括専門官百三十九人以内を置く。
+      </article_item>
+      <article_item number="２">
+        少年院及びその分院の統括専門官の配置は、法務大臣が定める。
+      </article_item>
+      <article_item number="３">
+        統括専門官は、第六条第一項各号に掲げる事務のうち、院長の指定する分担に係る事務を統括する。
+      </article_item>
+    </articles>
+    <articles number="第十二条" title="（少年鑑別所の名称及び位置）">
+      <article_item number="第十二条">
+        少年鑑別所の名称及び位置は、別表第三のとおりとする。
+      </article_item>
+    </articles>
+    <articles number="第十三条" title="（所長及び次長）">
+      <article_item number="第十三条">
+        少年鑑別所に、所長を置く。
+      </article_item>
+      <article_item number="２">
+        所長は、少年鑑別所の事務を掌理する。
+      </article_item>
+      <article_item number="３">
+        札幌少年鑑別所、仙台少年鑑別所、さいたま少年鑑別所、千葉少年鑑別所、東京少年鑑別所、八王子少年鑑別所、横浜少年鑑別所、名古屋少年鑑別所、京都少年鑑別所、大阪少年鑑別所、神戸少年鑑別所、広島少年鑑別所、高松少年鑑別所、福岡少年鑑別所及び那覇少年鑑別所に、それぞれ次長一人を置く。
+      </article_item>
+      <article_item number="４">
+        次長は、所長を助け、少年鑑別所の事務を整理し、所長に事故のあるとき、又は所長が欠けたときは、その職務を代理する。
+      </article_item>
+    </articles>
+    <articles number="第十四条" title="（少年鑑別所に置く課等）">
+      <article_item number="第十四条">
+        少年鑑別所に、庶務課を置く。
+      </article_item>
+      <article_item number="２">
+        前項の課のほか、少年鑑別所（函館少年鑑別所、山形少年鑑別所、福井少年鑑別所及び鳥取少年鑑別所を除く。）に、それぞれ首席専門官一人を置く。
+      </article_item>
+    </articles>
+    <articles number="第十五条" title="（少年鑑別所の庶務課の所掌事務）">
+      <article_item number="第十五条">
+        少年鑑別所の庶務課は、次に掲げる事務をつかさどる。
+        <go>
+          <go_item number="一">
+            公文書類の接受、発送、編集及び保存に関すること。
+          </go_item>
+          <go_item number="二">
+            人事に関すること。
+          </go_item>
+          <go_item number="三">
+            経理に関すること。
+          </go_item>
+          <go_item number="四">
+            統計に関すること。
+          </go_item>
+          <go_item number="五">
+            給養に関すること。
+          </go_item>
+          <go_item number="六">
+            領置に関すること。
+          </go_item>
+          <go_item number="七">
+            前各号に掲げるもののほか、少年鑑別所の所掌事務で他の所掌に属しないものに関すること。
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第十六条" title="（少年鑑別所の首席専門官の職務）">
+      <article_item number="第十六条">
+        少年鑑別所の首席専門官は、次に掲げる事務（次条第一項に掲げる少年鑑別所に置かれる首席専門官にあっては、第一号から第四号までに掲げる事務）をつかさどる。
+        <go>
+          <go_item number="一">
+            入所及び退所に関すること。
+          </go_item>
+          <go_item number="二">
+            観護に関すること。
+          </go_item>
+          <go_item number="三">
+            鑑別に関すること。
+          </go_item>
+          <go_item number="四">
+            面会及び通信に関すること。
+          </go_item>
+          <go_item number="五">
+            保健、衛生、防疫、医療及び薬剤に関すること。
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第十七条" title="（医務課を置く少年鑑別所及びその所掌事務）">
+      <article_item number="第十七条">
+        第十四条の課のほか、札幌少年鑑別所、仙台少年鑑別所、さいたま少年鑑別所、千葉少年鑑別所、東京少年鑑別所、八王子少年鑑別所、横浜少年鑑別所、静岡少年鑑別所、名古屋少年鑑別所、京都少年鑑別所、大阪少年鑑別所、神戸少年鑑別所、広島少年鑑別所、高松少年鑑別所、福岡少年鑑別所、長崎少年鑑別所及び那覇少年鑑別所に、医務課を置く。
+      </article_item>
+      <article_item number="２">
+        医務課は、前条第五号に掲げる事務をつかさどる。
+      </article_item>
+    </articles>
+    <articles number="第十七条の二" title="（地域非行防止調整官）">
+      <article_item number="第十七条の二">
+        東京少年鑑別所及び大阪少年鑑別所に、それぞれ地域非行防止調整官一人を置く。
+      </article_item>
+      <article_item number="２">
+        地域非行防止調整官は、命を受けて、観護及び鑑別に関する事務のうち特定事項に係るものを企画し、調整する事務をつかさどる。
+      </article_item>
+    </articles>
+    <articles number="第十八条" title="（分所の名称及び位置）">
+      <article_item number="第十八条">
+        少年鑑別所の分所の名称及び位置は、別表第四のとおりとする。
+      </article_item>
+    </articles>
+    <articles number="第十九条" title="（分所長）">
+      <article_item number="第十九条">
+        分所に、分所長を置く。
+      </article_item>
+    </articles>
+    <articles number="第二十条" title="（分所に置く課等）">
+      <article_item number="第二十条">
+        分所に、庶務課及び医務課並びに首席専門官一人を置く。
+      </article_item>
+      <article_item number="２">
+        分所の庶務課は、第十五条第一号から第六号までに掲げる事務のほか、少年鑑別所の分所の所掌事務で他の所掌に属しないものに関する事務をつかさどる。
+      </article_item>
+      <article_item number="３">
+        分所の医務課は、第十六条第五号に掲げる事務をつかさどる。
+      </article_item>
+      <article_item number="４">
+        分所の首席専門官は、第十六条第一号から第四号までに掲げる事務をつかさどる。
+      </article_item>
+    </articles>
+    <articles number="第二十一条" title="（少年鑑別所の統括専門官）">
+      <article_item number="第二十一条">
+        少年鑑別所及びその分所を通じて統括専門官百二十三人以内を置く。
+      </article_item>
+      <article_item number="２">
+        少年鑑別所及びその分所の統括専門官の配置は、法務大臣が定める。
+      </article_item>
+      <article_item number="３">
+        統括専門官は、第十六条各号（第十七条第一項に掲げる少年鑑別所及びその分所に置かれる統括専門官にあっては、第十六条第一号から第四号まで）に掲げる事務のうち、所長の指定する分担に係る事務を統括する。
+      </article_item>
+    </articles>
+    <articles number="第二十二条" title="（雑則）">
+      <article_item number="第二十二条">
+        この省令に定めるもののほか、少年院又は少年鑑別所に関し必要な事項は、院長又は所長が定める。
+      </article_item>
+      <article_item number="２">
+        院長又は所長は、前項の規定に基づき、事務分掌その他組織の細目を定めようとするときは、法務大臣の承認を受けなければならない。
+      </article_item>
+    </articles>
+  </body>
+</law>

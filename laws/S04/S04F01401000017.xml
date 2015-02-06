@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>昭和四年逓信省令第十七号（船舶積量ニ関シ独逸国船舶取扱ニ関スル件）</title>
+    <defined>昭和四年六月一日逓信省令第十七号</defined>
+  </head>
+  <body>
+    <articles>
+      <article_item>
+        独逸国相当官憲ニ於テ千八百九十五年七月一日以後交付シタル船舶積量測度ニ関スル証書ヲ有スル独逸国船舶ハ帝国諸港ニ於テ其ノ積量ヲ測度スルコトナク其ノ証書ニ記載スル噸数ハ日本船舶ノ噸数ト同一ナリト看做ス
+      </article_item>
+    </articles>
+    <articles number="○１">
+      <article_item number="○１">
+        本令ハ公布ノ日ヨリ之ヲ施行ス
+      </article_item>
+      <article_item number="○２">
+        明治三十三年九月逓信省令第七十四号ハ本令施行ノ日ヨリ之ヲ廃止ス
+      </article_item>
+    </articles>
+  </body>
+</law>

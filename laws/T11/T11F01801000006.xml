@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>大正十一年閣令第六号（官庁執務時間並休暇ニ関スル件）</title>
+    <defined>大正十一年七月四日閣令第六号</defined>
+    <updated>平成二六年五月二九日総務省令第五二号</updated>
+  </head>
+  <body>
+    <articles number="１">
+      <article_item number="１">
+        官庁ノ執務時間ハ日曜日及休日ヲ除キ午前八時三十分ヨリ午後五時迄トス但シ土曜日ハ午後零時三十分迄トス
+      </article_item>
+      <article_item number="２">
+        土地ノ状況ニ依リ又ハ事務ノ性質上必要アル場合ニ於テハ主務大臣ハ内閣総理大臣ノ許可ヲ得テ前項ノ執務時間ノ変更、繰替又ハ延長ヲ為スコトヲ得
+      </article_item>
+      <article_item number="３">
+        事務ノ状況ニ依リ必要アルトキハ執務時間外ト雖執務スヘキモノトス
+      </article_item>
+      <article_item number="４">
+        本属長官ハ療養ノ必要其ノ他特別ノ事情アル所属職員ヲシテ遅参又ハ早退セシムルコトヲ得
+      </article_item>
+      <article_item number="５">
+        本属長官ハ所属職員ニ対シ七月二十一日ヨリ八月三十一日迄ノ間ニ於テ事務ノ繁閑ヲ計リ二十日以内ノ休暇ヲ与フルコトヲ得但シ事務ノ都合ニ依リ当該期間内ニ於テ休暇ヲ与フルコトヲ得サル場合ニ於テハ他ノ期間ニ於テ之ヲ与フルコトヲ妨ケス
+      </article_item>
+      <article_item number="６">
+        現業其ノ他特別ノ事務ヲ所掌スル官庁ノ執務時間及休暇ニ付テハ主務大臣別ニ之ヲ定ムルコトヲ得
+      </article_item>
+    </articles>
+  </body>
+</law>

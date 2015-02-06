@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>交通巡視員の服制に関する規則</title>
+    <defined>昭和四十五年九月十一日国家公安委員会規則第七号</defined>
+    <updated>平成一四年七月五日国家公安委員会規則第一八号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        警察法（昭和二十九年法律第百六十二号）第七十条の規定に基づき、交通巡視員の服制および服装に関する規則を次のように定める。
+      </p>
+    </preamble>
+    <articles number="第一条">
+      <article_item number="第一条">
+        交通巡視員の被服及び装備品のうち別表に掲げるものの色、地質又は材質及び制式は、同表のとおりとする。
+      </article_item>
+    </articles>
+    <articles number="第二条">
+      <article_item number="第二条">
+        交通巡視員は、勤務中は、制服、制帽、制服用ワイシャツ、ネクタイ、ベルト及び靴を着用し、帯革、交通巡視員章及び識別章を着装しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第三条">
+      <article_item number="第三条">
+        前２条に定めるもののほか、着用期間、服装の一部省略その他交通巡視員の服制に関し必要な事項は、警視総監及び道府県警察本部長（以下「所轄庁の長」という。）が定めるものとする。
+      </article_item>
+    </articles>
+  </body>
+</law>

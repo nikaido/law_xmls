@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>人事院規則一七―四（規則の制定改廃に関する職員団体からの要請）</title>
+    <defined>平成二十六年五月二十九日人事院規則一七―四</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        人事院は、国家公務員法に基づき、人事院規則の制定改廃に関する職員団体からの要請に関し次の人事院規則を制定する。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（書面の提出）">
+      <article_item number="第一条">
+        登録された職員団体は、法第百八条の五の二第一項の規定に基づいて規則を制定し、又は改廃することを要請する場合には、その代表者を通じて、次に掲げる事項を記載した書面を提出しなければならない。
+        <go>
+          <go_item number="一">
+            当該職員団体の名称、主な事務所の所在地並びに代表者の当該職員団体における役職名及び氏名
+          </go_item>
+          <go_item number="二">
+            当該要請が法第百八条の五の二第一項の規定に基づくものである旨
+          </go_item>
+          <go_item number="三">
+            当該要請の内容
+          </go_item>
+          <go_item number="四">
+            当該要請の理由
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（公表の方法）">
+      <article_item number="第二条">
+        法第百八条の五の二第二項の規定による公表は、人事院の庁舎において一般の閲覧に供する方法、インターネットの利用その他適切な方法により行うものとする。
+      </article_item>
+    </articles>
+  </body>
+</law>

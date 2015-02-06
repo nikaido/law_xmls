@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>原子力損害賠償支援資金事務取扱規則</title>
+    <defined>平成二十三年八月十日財務省令第五十六号</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        原子力損害賠償支援機構法（平成二十三年法律第九十四号）の施行に伴い、及び特別会計に関する法律（平成十九年法律第二十三号）第九十二条の二第四項の規定に基づき、原子力損害賠償支援資金事務取扱規則を次のように定める。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（通則）">
+      <article_item number="第一条">
+        特別会計に関する法律（平成十九年法律第二十三号。以下「法」という。）第九十二条の二第一項に規定する原子力損害賠償支援資金（以下「資金」という。）の経理の手続については、他の法令に定めるもののほか、この省令の定めるところによる。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（資金の受払い）">
+      <article_item number="第二条">
+        資金は、法第九十二条の二第二項の規定による繰入金をもって受けとし、同条第三項の規定による繰入金をもって払いとして経理する。
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（資金受払簿）">
+      <article_item number="第三条">
+        経済産業大臣は、別紙書式の原子力損害賠償支援資金受払簿を備え、前条に規定する資金の受払いを登記しなければならない。
+      </article_item>
+    </articles>
+  </body>
+</law>

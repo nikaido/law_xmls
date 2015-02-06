@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>大正十年法律第百二号（定年ニ因ル退職判事検察官ノ恩給ニ関スル法律）</title>
+    <defined>大正十年五月十八日法律第百二号</defined>
+    <updated>昭和二二年四月一六日法律第六一号</updated>
+  </head>
+  <body>
+    <articles number="○１">
+      <article_item number="○１">
+        本法施行ノ際現ニ判事又ハ検事ノ本官ニ在職スル者本法施行後引続キ判事又ハ検察官トシテ在職シ年齢六十年ニ達シタル後退職シ又ハ其ノ官ヲ免セラレ恩給ヲ受クヘキ場合ニ於テハ其ノ恩給年額ハ恩給法中文官ノ普通恩給ニ関スル規定ニ依リ計算シタル年額ニ其ノ百分ノ三十ニ相当スル金額ヲ加ヘタルモノトス
+      </article_item>
+      <article_item number="○２">
+        前項ノ規定ノ適用ニ付テハ判事検察官相互ニ転任シタル場合ハ引続キ在職シタルモノト看做ス
+      </article_item>
+    </articles>
+  </body>
+</law>

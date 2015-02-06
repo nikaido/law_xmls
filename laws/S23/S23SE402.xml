@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>会社等臨時措置法等を廃止する政令　抄</title>
+    <defined>昭和二十三年十二月三十一日政令第四百二号</defined>
+    <updated>昭和二四年四月三〇日法律第四七号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、ポツダム宣言の受諾に伴い発する命令に関する件（昭和二十年勅令第五百四十二号）に基き、この政令を制定する。
+      </p>
+    </preamble>
+    <articles>
+      <article_item>
+        会社等臨時措置法（昭和十九年法律第三号）及び会社等臨時措置法施行令（昭和十九年勅令第百四十二号）は、廃止する。
+      </article_item>
+    </articles>
+  </body>
+</law>

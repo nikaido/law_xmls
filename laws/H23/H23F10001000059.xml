@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>沖縄科学技術大学院大学学園法施行規則</title>
+    <defined>平成二十三年十月三十一日内閣府令第五十九号</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        沖縄科学技術大学院大学学園法（平成二十一年法律第七十六号）第九条第一項、第十一条及び第十二条第一項の規定に基づき、並びに同法を実施するため、沖縄科学技術大学院大学学園法施行規則を次のように定める。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（事業計画の作成）">
+      <article_item number="第一条">
+        沖縄科学技術大学院大学学園法（以下「法」という。）第九条第一項に規定する事業計画には、次に掲げる事項に関する計画を記載しなければならない。
+        <go>
+          <go_item number="一">
+            沖縄科学技術大学院大学における教育研究に関する事項
+          </go_item>
+          <go_item number="二">
+            沖縄科学技術大学院大学学園（以下「学園」という。）の業務運営における適切性及び透明性の確保並びにその効率化に関する事項
+          </go_item>
+          <go_item number="三">
+            学園の財政基盤の強化に関する事項
+          </go_item>
+          <go_item number="四">
+            前三号に掲げるもののほか、学園の業務に関する事項
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（事業計画の認可の申請）">
+      <article_item number="第二条">
+        学園は、法第九条第一項前段の規定により事業計画の認可を受けようとするときは、事業計画を記載した申請書に次に掲げる書類を添付して、当該会計年度開始三十日前までに、内閣総理大臣に提出しなければならない。
+        <go>
+          <go_item number="一">
+            収支予算書
+          </go_item>
+          <go_item number="二">
+            前会計年度の予定貸借対照表及び予定損益計算書
+          </go_item>
+          <go_item number="三">
+            当該会計年度の予定貸借対照表及び予定損益計算書
+          </go_item>
+          <go_item number="四">
+            前三号に掲げるもののほか、事業計画の参考となる書類
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="２">
+        学園は、法第九条第一項後段の規定により事業計画の変更の認可を受けようとするときは、次に掲げる事項を記載した申請書に当該変更後の事業計画を添えて、内閣総理大臣に提出しなければならない。この場合において、当該変更が前項の規定により当該事業計画の認可を申請するときに添付した同項各号の書類の変更を伴うときは、当該変更後の書類を添付しなければならない。
+        <go>
+          <go_item number="一">
+            変更しようとする事項
+          </go_item>
+          <go_item number="二">
+            変更しようとする年月日
+          </go_item>
+          <go_item number="三">
+            変更の理由
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（借入れの認可の申請）">
+      <article_item number="第三条">
+        学園は、法第十条の規定により弁済期限が一年を超える資金の借入れの認可を受けようとするときは、次に掲げる事項を記載した申請書を内閣総理大臣に提出しなければならない。
+        <go>
+          <go_item number="一">
+            借入れを必要とする理由
+          </go_item>
+          <go_item number="二">
+            借入金の額
+          </go_item>
+          <go_item number="三">
+            借入先
+          </go_item>
+          <go_item number="四">
+            借入金の利率
+          </go_item>
+          <go_item number="五">
+            借入金の償還の方法及び期限
+          </go_item>
+          <go_item number="六">
+            利息の支払の方法及び期限
+          </go_item>
+          <go_item number="七">
+            その他必要な事項
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（重要な財産の範囲）">
+      <article_item number="第四条">
+        法第十一条に規定する内閣府令で定める重要な財産は、土地及び建物並びに内閣総理大臣が指定するその他の財産とする。
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（重要な財産の譲渡等の認可の申請）">
+      <article_item number="第五条">
+        学園は、法第十一条の規定により重要な財産を譲り受け、譲渡し、交換し、又は担保に供すること（以下「譲渡等」という。）について、認可を受けようとするときは、次に掲げる事項を記載した申請書に譲渡等を証する書面を添付して、内閣総理大臣に提出しなければならない。
+        <go>
+          <go_item number="一">
+            譲渡等に係る財産の内容及び評価額
+          </go_item>
+          <go_item number="二">
+            譲渡等の条件
+          </go_item>
+          <go_item number="三">
+            譲渡等の方法
+          </go_item>
+          <go_item number="四">
+            学園の業務運営上支障がない旨及びその理由
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（会計の原則）">
+      <article_item number="第六条">
+        学園の会計については、この府令の定めるところにより、この府令に定めのないものについては、一般に公正妥当と認められる企業会計の基準に従うものとする。
+      </article_item>
+      <article_item number="２">
+        金融庁組織令（平成十年政令第三百九十二号）第二十四条第一項に規定する企業会計審議会により公表された企業会計の基準は、前項に規定する一般に公正妥当と認められる企業会計の基準に該当するものとする。
+      </article_item>
+      <article_item number="３">
+        学園に適用する会計の基準として内閣総理大臣が別に公示する沖縄科学技術大学院大学学園会計基準は、第一項に規定する一般に公正妥当と認められる企業会計の基準に優先して適用されるものとする。
+      </article_item>
+    </articles>
+    <articles number="第七条" title="（償却資産の指定等）">
+      <article_item number="第七条">
+        内閣総理大臣は、学園が業務のため取得しようとしている償却資産についてその減価に対応すべき収益の獲得が予定されないと認められる場合には、その取得までの間に限り、当該償却資産を指定することができる。
+      </article_item>
+      <article_item number="２">
+        前項の指定を受けた資産の減価償却については、減価償却費は計上せず、資産の減価額と同額を拠出剰余金に対する控除として計上するものとする。
+      </article_item>
+    </articles>
+  </body>
+</law>

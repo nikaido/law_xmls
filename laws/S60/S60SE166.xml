@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>電子情報処理組織による登記事務処理の円滑化のための措置等に関する法律第五条第二項の審議会等を定める政令</title>
+    <defined>昭和六十年六月七日政令第百六十六号</defined>
+    <updated>平成一二年六月七日政令第三〇五号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、電子情報処理組織による登記事務処理の円滑化のための措置等に関する法律（昭和六十年法律第三十三号）第五条第二項の規定に基づき、この政令を制定する。
+      </p>
+    </preamble>
+    <articles>
+      <article_item>
+        電子情報処理組織による登記事務処理の円滑化のための措置等に関する法律第五条第二項の審議会等で政令で定めるものは、法制審議会とする。
+      </article_item>
+    </articles>
+  </body>
+</law>

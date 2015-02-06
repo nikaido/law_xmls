@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>総合研究開発機構法施行規則及び総合研究開発機構の財務及び会計に関する内閣府令を廃止する内閣府令</title>
+    <defined>平成十九年八月八日内閣府令第五十八号</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        総合研究開発機構法（昭和四十八年法律第五十一号）の廃止に伴い、総合研究開発機構法施行規則及び総合研究開発機構の財務及び会計に関する内閣府令を廃止する内閣府令を次のように定める。
+      </p>
+    </preamble>
+    <articles>
+      <article_item>
+        次に掲げる内閣府令は廃止する。
+        <go>
+          <go_item number="一">
+            総合研究開発機構法施行規則（昭和四十八年総理府令第六十九号）
+          </go_item>
+          <go_item number="二">
+            総合研究開発機構の財務及び会計に関する内閣府令（昭和四十九年総理府令第九号）
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+  </body>
+</law>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>理科教育振興法施行令</title>
+    <defined>昭和二十九年十二月十六日政令第三百十一号</defined>
+    <updated>平成一九年三月二二日政令第五五号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、理科教育振興法（昭和二十八年法律第百八十六号）第九条第一項及び第十一条の規定に基き、この政令を制定する。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（審議会等で政令で定めるもの）">
+      <article_item number="第一条">
+        理科教育振興法（以下「法」という。）第九条第一項の審議会等で政令で定めるものは、中央教育審議会とする。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（設備の基準）">
+      <article_item number="第二条">
+        法第九条第一項の規定に基づき同項第一号に掲げる設備について政令で定める基準は、学校の種類別及び部別に応じ、別表第一から第三までに掲げる設備で理科教育（法第二条に規定する「理科教育」をいう。）のために通常必要なものとする。
+      </article_item>
+      <article_item number="２">
+        前項の基準に関する細目は、中央教育審議会の議を経て、文部科学省令で定める。
+      </article_item>
+    </articles>
+    <articles title="（設備の基準）">
+      <article_item>
+        
+      </article_item>
+    </articles>
+  </body>
+</law>
