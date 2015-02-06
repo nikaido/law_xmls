@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>昭和二十年勅令第六百九十九号（位、勲章等ノ返上ノ請願ニ関スル件）</title>
+    <defined>昭和二十年十二月七日勅令第六百九十九号</defined>
+  </head>
+  <body>
+    <articles>
+      <article_item>
+        有位者又ハ勲章、記章若ハ褒章ヲ有スル者特別ノ事情アル場合ニ於テハ其ノ位又ハ勲章、記章若ハ褒章ノ返上ヲ請願スルコトヲ得
+      </article_item>
+    </articles>
+  </body>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>国民生活等の混乱を回避するための地方税法の一部を改正する法律　抄</title>
+    <defined>平成二十年三月三十一日法律第十号</defined>
+  </head>
+  <body>
+    <articles number="第一条" title="（趣旨）">
+      <article_item number="第一条">
+        この法律は、平成二十年度の税制改正に係る地方税法等の一部を改正する法律案の法律としての施行が平成二十年四月一日後となる場合に備え、その際の国民生活等の混乱を回避する観点から、同年三月三十一日に期限の到来する地方税における非課税等特別措置のうち当該措置に係る納税義務の成立時期等に照らしてその期限を延長する必要性が認められるものの一部について、その期限を暫定的に同年五月三十一日まで延長する措置を講ずるため、地方税法（昭和二十五年法律第二百二十六号）の一部改正について定めるものとする。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（地方税法の一部改正）">
+      <article_item number="第二条">
+        略
+      </article_item>
+    </articles>
+  </body>
+</law>

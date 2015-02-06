@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>廃棄物の処理及び清掃に関する法律施行令別表第三の三第二十四号に規定する有機塩素化合物を定める省令</title>
+    <defined>昭和五十一年二月二十六日総理府令第六号</defined>
+    <updated>平成一二年八月一四日総理府令第九四号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        廃棄物の処理及び清掃に関する法律施行令（昭和四十六年政令第三百号）別表の九の項の規定に基づき、廃棄物の処理及び清掃に関する法律施行令別表の九の項に規定する有機塩素化合物を定める総理府令を次のように定める。
+      </p>
+    </preamble>
+    <articles>
+      <article_item>
+        廃棄物の処理及び清掃に関する法律施行令（昭和四十六年政令第三百号）別表第三の三第二十四号の環境省令で定める有機塩素化合物は、次のとおりとする。
+        <go>
+          <go_item number="一">
+            ポリジクロロブタジエン
+          </go_item>
+          <go_item number="二">
+            ポリプロピレン塩素化物
+          </go_item>
+          <go_item number="三">
+            ポリブタジエン塩素化物
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+  </body>
+</law>

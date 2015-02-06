@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>重要無形文化財又は選定保存技術の保持者等の氏名変更等の届出に関する規則</title>
+    <defined>昭和三十年六月三十日文化財保護委員会規則第二号</defined>
+    <updated>平成一七年三月二八日文部科学省令第一一号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        文化財保護法（昭和二十五年法律第二百十四号）第五十六条の五の規定に基き、重要無形文化財の保持者の氏名変更等の届出に関する規則を次のように定める。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（重要無形文化財の保持者に関し届出を要する場合）">
+      <article_item number="第一条">
+        文化財保護法（以下「法」という。）第七十三条に規定する文部科学省令の定める事由は、次に掲げるものとする。
+        <go>
+          <go_item number="一">
+            保持者が氏名、芸名、雅号等を変更したとき。
+          </go_item>
+          <go_item number="二">
+            保持者が住所を変更したとき。
+          </go_item>
+          <go_item number="三">
+            保持者について、その保持する重要無形文化財の保存に影響を及ぼす心身の故障が生じたとき。
+          </go_item>
+          <go_item number="四">
+            保持者が死亡したとき。
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（重要無形文化財の保持者の氏名変更等の届出書の記載事項）">
+      <article_item number="第二条">
+        前条第一号又は第二号の場合の届出の書面には、次に掲げる事項を記載するものとする。
+        <go>
+          <go_item number="一">
+            重要無形文化財の名称
+          </go_item>
+          <go_item number="二">
+            認定年月日
+          </go_item>
+          <go_item number="三">
+            変更前の氏名、芸名、雅号等又は住所
+          </go_item>
+          <go_item number="四">
+            変更後の氏名、芸名、雅号等又は住所
+          </go_item>
+          <go_item number="五">
+            変更の年月日
+          </go_item>
+          <go_item number="六">
+            その他参考となるべき事項
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="２">
+        前条第三号の場合の届出の書面には、次に掲げる事項を記載するものとする。
+        <go>
+          <go_item number="一">
+            重要無形文化財の名称
+          </go_item>
+          <go_item number="二">
+            認定年月日
+          </go_item>
+          <go_item number="三">
+            心身の故障の生じた年月日
+          </go_item>
+          <go_item number="四">
+            心身故障の状況
+          </go_item>
+          <go_item number="五">
+            その他参考となるべき事項
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="３">
+        前条第四号の場合の届出の書面には、次に掲げる事項を記載するものとする。
+        <go>
+          <go_item number="一">
+            重要無形文化財の名称
+          </go_item>
+          <go_item number="二">
+            認定年月日
+          </go_item>
+          <go_item number="三">
+            死亡の年月日
+          </go_item>
+          <go_item number="四">
+            死亡の理由
+          </go_item>
+          <go_item number="五">
+            その他参考となるべき事項
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（重要無形文化財の保持団体の名称変更等の届出書の記載事項）">
+      <article_item number="第三条">
+        法第七十三条の規定による保持団体が名称又は事務所の所在地を変更したときの届出の書面には、次に掲げる事項を記載するものとする。
+        <go>
+          <go_item number="一">
+            重要無形文化財の名称
+          </go_item>
+          <go_item number="二">
+            認定年月日
+          </go_item>
+          <go_item number="三">
+            変更前の名称又は事務所の所在地
+          </go_item>
+          <go_item number="四">
+            変更後の名称又は事務所の所在地
+          </go_item>
+          <go_item number="五">
+            変更の年月日
+          </go_item>
+          <go_item number="六">
+            その他参考となるべき事項
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="２">
+        法第七十三条の規定による保持団体が代表者を変更し、又は構成員に異動を生じたときの届出の書面には、次に掲げる事項を記載するものとする。
+        <go>
+          <go_item number="一">
+            重要無形文化財の名称
+          </go_item>
+          <go_item number="二">
+            認定年月日
+          </go_item>
+          <go_item number="三">
+            保持団体の名称及び事務所の所在地
+          </go_item>
+          <go_item number="四">
+            旧代表者又は旧構成員の氏名及び住所
+          </go_item>
+          <go_item number="五">
+            新代表者又は新構成員の氏名及び住所
+          </go_item>
+          <go_item number="六">
+            新代表者又は新構成員の生年月日及び経歴
+          </go_item>
+          <go_item number="七">
+            変更又は異動の年月日
+          </go_item>
+          <go_item number="八">
+            変更又は異動の理由
+          </go_item>
+          <go_item number="九">
+            その他参考となるべき事項
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="３">
+        法第七十三条の規定による保持団体が解散（消滅を含む。以下同じ。）したときの届出の書面には、次に掲げる事項を記載するものとする。
+        <go>
+          <go_item number="一">
+            重要無形文化財の名称
+          </go_item>
+          <go_item number="二">
+            認定年月日
+          </go_item>
+          <go_item number="三">
+            保持団体の名称及び事務所の所在地
+          </go_item>
+          <go_item number="四">
+            解散の年月日
+          </go_item>
+          <go_item number="五">
+            解散の理由
+          </go_item>
+          <go_item number="六">
+            その他参考となるべき事項
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（選定保存技術に関し届出を要する場合及び届出書の記載事項）">
+      <article_item number="第四条">
+        法第百四十九条において準用する法第七十三条の規定による届出については、前三条の規定を準用する。
+      </article_item>
+    </articles>
+  </body>
+</law>

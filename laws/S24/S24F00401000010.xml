@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>公証人定員規則</title>
+    <defined>昭和二十四年六月一日法務府令第十号</defined>
+    <updated>平成二六年六月二七日法務省令第二四号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        公証人定員規則を次のように定める。
+      </p>
+    </preamble>
+    <articles>
+      <article_item>
+        公証人の定員は、別表のとおりとする。
+      </article_item>
+    </articles>
+  </body>
+</law>

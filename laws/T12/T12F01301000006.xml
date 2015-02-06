@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>軌道係員規程</title>
+    <defined>大正十二年十二月二十九日鉄道省令第六号</defined>
+    <updated>昭和六二年三月二七日運輸省令第二九号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        軌道係員規程左ノ通定ム
+      </p>
+    </preamble>
+    <articles number="第一条">
+      <article_item number="第一条">
+        軌道係員ノ職制ニ付テハ鉄道係員職制（昭和六十二年運輸省令第十三号）ノ規定ヲ準用ス
+      </article_item>
+    </articles>
+    <articles number="第二条">
+      <article_item number="第二条">
+        旅客及公衆ニ対シ職務ヲ行フ軌道係員ハ一定ノ制服ヲ着クヘシ
+      </article_item>
+    </articles>
+  </body>
+</law>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>明治三十二年法律第五十号（外国人ノ署名捺印及無資力証明ニ関スル法律）</title>
+    <defined>明治三十二年三月十日法律第五十号</defined>
+    <updated>大正一五年四月二四日法律第七一号</updated>
+  </head>
+  <body>
+    <articles number="第一条">
+      <article_item number="第一条">
+        法令ノ規定ニ依リ署名、捺印スヘキ場合ニ於テハ外国人ハ署名スルヲ以テ足ル
+      </article_item>
+      <article_item number="○２">
+        捺印ノミヲ為スヘキ場合ニ於テハ外国人ハ署名ヲ以テ捺印ニ代フルコトヲ得
+      </article_item>
+    </articles>
+    <articles number="第二条">
+      <article_item number="第二条">
+        削除
+      </article_item>
+    </articles>
+  </body>
+</law>

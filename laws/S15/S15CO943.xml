@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>昭和十五年勅令第九百四十三号（農村負債整理組合法第八条ノ規定ニ依リ同法第十一条ノ事業ヲ行フコトヲ得ル法人ヲ定ムルノ件）</title>
+    <defined>昭和十五年十二月二十七日勅令第九百四十三号</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        朕農村負債整理組合法第八条ノ規定ニ依リ同法第十一条ノ事業ヲ行フコトヲ得ル法人ヲ定ムルノ件ヲ裁可シ茲ニ之ヲ公布セシム
+      </p>
+    </preamble>
+    <articles>
+      <article_item>
+        農村負債整理組合法第八条ノ規定ニ依リ同法第十一条ノ事業ヲ行フコトヲ得ル法人左ノ通定ム<br/>　農事実行組合<br/>　漁業協同組合<br/>　出資漁業会
+      </article_item>
+    </articles>
+  </body>
+</law>

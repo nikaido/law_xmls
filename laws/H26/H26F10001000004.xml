@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>特定個人情報保護委員会事務局組織規則</title>
+    <defined>平成二十六年一月六日内閣府令第四号</defined>
+    <updated>平成二六年七月一〇日内閣府令第五三号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号）第六章の規定及び特定個人情報保護委員会事務局組織令（平成二十五年政令第三百一号）を実施するため、特定個人情報保護委員会事務局組織規則を次のように定める。
+      </p>
+    </preamble>
+    <articles number="１">
+      <article_item number="１">
+        特定個人情報保護委員会の事務局総務課に、企画官二人及び調査官一人を置く。
+      </article_item>
+      <article_item number="２">
+        企画官は、命を受けて、総務課の所掌事務のうち特定事項の調査、企画及び立案を行う。
+      </article_item>
+      <article_item number="３">
+        調査官は、命を受けて、総務課の所掌事務のうち専門的事項の調査、企画及び立案を行う。
+      </article_item>
+    </articles>
+  </body>
+</law>

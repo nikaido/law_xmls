@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>国会議員互助年金法施行規則を廃止する等の省令　抄</title>
+    <defined>平成十八年三月三十日総務省令第四十九号</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        国会議員互助年金法施行令（昭和三十三年政令第百四十三号）の廃止に伴い、及び行政手続等における情報通信の技術の利用に関する法律（平成十四年法律第百五十一号）の規定に基づき、この省令を次のように定める。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（国会議員互助年金法施行規則の廃止）">
+      <article_item number="第一条">
+        国会議員互助年金法施行規則（昭和三十三年総理府令第四十一号）は、廃止する。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（総務省関係法令に係る行政手続等における情報通信の技術の利用に関する法律施行規則の一部改正）">
+      <article_item number="第二条">
+        略
+      </article_item>
+    </articles>
+  </body>
+</law>

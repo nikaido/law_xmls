@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>アルコール事業法の施行に伴う関係政令の整備に関する政令</title>
+    <defined>平成十二年八月三十日政令第四百十六号</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、アルコール事業法（平成十二年法律第三十六号）の施行に伴い、及び関係法律の規定に基づき、この政令を制定する。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（アルコール専売事業特別会計法施行令等の廃止）">
+      <article_item number="第一条">
+        次に掲げる政令は、廃止する。
+        <go>
+          <go_item number="一">
+            アルコール専売事業特別会計法施行令（昭和二十二年政令第二百九十四号）
+          </go_item>
+          <go_item number="二">
+            アルコール専売法施行令（昭和三十年政令第百二十七号）
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（国有財産法施行令の一部改正）">
+      <article_item number="第二条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（関税法施行令の一部改正）">
+      <article_item number="第三条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（国の債権の管理等に関する法律施行令の一部改正）">
+      <article_item number="第四条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（国家公務員宿舎法施行令の一部改正）">
+      <article_item number="第五条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（法人税法施行令の一部改正）">
+      <article_item number="第六条">
+        略
+      </article_item>
+    </articles>
+  </body>
+</law>

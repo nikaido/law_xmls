@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>明治四十一年勅令第二百十七号（刑法施行前ニ公布シタル命令ニ関スル件）</title>
+    <defined>明治四十一年九月二十四日勅令第二百十七号</defined>
+  </head>
+  <body>
+    <articles>
+      <article_item>
+        刑法施行法中他ノ法律ニ関スル規定ハ刑法施行前ニ公布シタル命令ニ之ヲ準用ス
+      </article_item>
+    </articles>
+  </body>
+</law>

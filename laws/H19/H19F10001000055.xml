@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>有価証券に係る投資顧問業の規制等に関する法律施行規則等を廃止する内閣府令</title>
+    <defined>平成十九年八月七日内閣府令第五十五号</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        証券取引法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律（平成十八年法律第六十六号）の施行に伴い、有価証券に係る投資顧問業の規制等に関する法律施行規則等を廃止する内閣府令を次のように定める。
+      </p>
+    </preamble>
+    <articles>
+      <article_item>
+        次に掲げる府令は、廃止する。
+        <go>
+          <go_item number="一">
+            有価証券に係る投資顧問業の規制等に関する法律施行規則（昭和六十一年大蔵省令第五十四号）
+          </go_item>
+          <go_item number="二">
+            抵当証券業の規制等に関する法律施行規則（昭和六十三年大蔵省令第三十五号）
+          </go_item>
+          <go_item number="三">
+            金融先物取引法施行規則（平成元年大蔵省令第十八号）
+          </go_item>
+          <go_item number="四">
+            外国証券業者に関する内閣府令（平成十年総理府・大蔵省令第三十七号）
+          </go_item>
+          <go_item number="五">
+            金融先物取引業者の自己資本規制に関する内閣府令（平成十七年内閣府令第七十六号）
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+  </body>
+</law>

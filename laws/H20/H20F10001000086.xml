@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>官民人材交流センター組織規則</title>
+    <defined>平成二十年十二月二十五日内閣府令第八十六号</defined>
+    <updated>平成二六年五月二九日内閣府令第四三号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        官民人材交流センター令（平成二十年政令第三百九十一号）第二条の規定に基づき、官民人材交流センター組織規則を次のように定める。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（官民人材交流センターに置かれる課等）">
+      <article_item number="第一条">
+        官民人材交流センター（以下「センター」という。）に、総務課、法令等遵守担当室及び主任調整官二人を置く。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（総務課の所掌事務）">
+      <article_item number="第二条">
+        総務課は、次の事務をつかさどる。
+        <go>
+          <go_item number="一">
+            センターの官印及びセンター印の保管に関すること。
+          </go_item>
+          <go_item number="二">
+            センターの所掌事務に関する総合調整に関すること。
+          </go_item>
+          <go_item number="三">
+            センターの職員の人事に関すること。
+          </go_item>
+          <go_item number="四">
+            センターの所掌に係る会計及び会計の監査に関すること。
+          </go_item>
+          <go_item number="五">
+            センター所属の物品の管理に関すること。
+          </go_item>
+          <go_item number="六">
+            公文書類の接受、発送、編集及び保存に関すること。
+          </go_item>
+          <go_item number="七">
+            センターの保有する情報の公開に関すること。
+          </go_item>
+          <go_item number="八">
+            センターの保有する個人情報の保護に関すること。
+          </go_item>
+          <go_item number="九">
+            広報に関すること。
+          </go_item>
+          <go_item number="十">
+            国家公務員法（昭和二十二年法律第百二十号）第十八条の五第一項に定める職員の離職に際しての離職後の就職の援助（以下「再就職支援」という。）に関する事務のうち、再就職支援の依頼の受付けに関すること。
+          </go_item>
+          <go_item number="十一">
+            国家公務員法第十八条の五第二項に定める官民の人材交流の円滑な実施のための支援に関すること。
+          </go_item>
+          <go_item number="十二">
+            前各号に掲げるもののほか、センターの所掌事務で他の所掌に属しないものに関すること。
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（法令等遵守担当室の所掌事務）">
+      <article_item number="第三条">
+        法令等遵守担当室は、次の事務をつかさどる。
+        <go>
+          <go_item number="一">
+            再就職支援に関する事務に係る法令等の遵守（以下「法令等遵守」という。）に関すること。
+          </go_item>
+          <go_item number="二">
+            再就職支援に関する事務に係る法令等遵守についての情報の収集及び調査に関すること。
+          </go_item>
+          <go_item number="三">
+            再就職等監視委員会その他の行政機関に対し、再就職支援に関する事務の公正性及び透明性を確保するため、必要な情報の提供を行うこと。
+          </go_item>
+          <go_item number="四">
+            再就職支援に関する事務に係る法令等遵守について必要な措置を検討すること。
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="２">
+        法令等遵守担当室に、室長を置く。
+      </article_item>
+      <article_item number="３">
+        室長は、非常勤とする。
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（主任調整官の職務）">
+      <article_item number="第四条">
+        主任調整官は、命を受けて、再就職支援に関する事務を行う（総務課の所掌に属するものを除く。）。
+      </article_item>
+    </articles>
+  </body>
+</law>

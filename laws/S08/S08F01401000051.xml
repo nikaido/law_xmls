@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>国際信号旗ノ寸法ニ関スル件</title>
+    <defined>昭和八年十二月二十三日逓信省令第五十一号</defined>
+    <updated>昭和四四年三月一九日運輸省令第一号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        国際信号旗ノ寸法ニ関スル件左ノ通定ム
+      </p>
+    </preamble>
+    <articles>
+      <article_item>
+        政府間海事協議機関ノ採択セル国際信号書掲載ノ国際信号旗ハ左ノ寸法ノモノノ中何レカヲ使用スベシ<br/>　文字旗<br/>　数字旗<br/>　第一代表旗<br/>　第二代表旗<br/>　第三代表旗
+      </article_item>
+    </articles>
+  </body>
+</law>

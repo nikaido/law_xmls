@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>港湾整備促進法施行令</title>
+    <defined>昭和二十八年九月十五日政令第二百八十号</defined>
+    <updated>平成一二年六月七日政令第三一二号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、港湾整備促進法（昭和二十八年法律第百七十号）第二条及び第十一条の規定に基き、この政令を制定する。
+      </p>
+    </preamble>
+    <articles>
+      <article_item>
+        港湾整備促進法第二条に規定する地方港湾は、別表のとおりとする。
+      </article_item>
+    </articles>
+  </body>
+</law>

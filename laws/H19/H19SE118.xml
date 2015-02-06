@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>モーターボート競走法の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令　抄</title>
+    <defined>平成十九年三月三十一日政令第百十八号</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、モーターボート競走法の一部を改正する法律（平成十九年法律第十六号）の施行に伴い、並びに同法附則第四条第五項及び第十三条第六項並びに関係法律の規定に基づき、この政令を制定する。
+      </p>
+    </preamble>
+    <section title="第一章　関係政令の整備" type="Sho">
+      <articles number="第一条" title="（地方財政法施行令の一部改正）">
+        <article_item number="第一条">
+          略
+        </article_item>
+      </articles>
+      <articles number="第二条" title="（モーターボート競走法施行令の一部改正）">
+        <article_item number="第二条">
+          略
+        </article_item>
+      </articles>
+      <articles number="第三条" title="（銃砲刀剣類所持等取締法施行令の一部改正）">
+        <article_item number="第三条">
+          略
+        </article_item>
+      </articles>
+      <articles number="第四条" title="（風俗営業等の規制及び業務の適正化等に関する法律施行令の一部改正）">
+        <article_item number="第四条">
+          略
+        </article_item>
+      </articles>
+      <articles number="第五条" title="（行政手続等における情報通信の技術の利用に関する法律施行令の一部改正）">
+        <article_item number="第五条">
+          略
+        </article_item>
+      </articles>
+      <articles number="第六条" title="（有限責任事業組合契約に関する法律施行令の一部改正）">
+        <article_item number="第六条">
+          略
+        </article_item>
+      </articles>
+      <articles number="第七条" title="（有限責任事業組合契約に関する法律施行令の一部改正）">
+        <article_item number="第七条">
+          略
+        </article_item>
+      </articles>
+      <articles number="第八条" title="（有限責任事業組合契約に関する法律施行令の一部改正）">
+        <article_item number="第八条">
+          略
+        </article_item>
+      </articles>
+    </section>
+    <section title="第二章　経過措置" type="Sho">
+      <articles number="第九条" title="（日本船舶振興会の解散の登記の嘱託等）">
+        <article_item number="第九条">
+          モーターボート競走法の一部を改正する法律（次条第一項において「法」という。）附則第四条第一項の規定により日本船舶振興会が解散したときは、国土交通大臣は、遅滞なく、その解散の登記を登記所に嘱託しなければならない。
+        </article_item>
+        <article_item number="２">
+          登記官は、前項の規定による嘱託に係る解散の登記をしたときは、その登記記録を閉鎖しなければならない。
+        </article_item>
+      </articles>
+      <articles number="第十条" title="（モーターボート競走会及び全国モーターボート競走会連合会の解散の登記の嘱託等）">
+        <article_item number="第十条">
+          法附則第十三条第一項の規定によりモーターボート競走会及び全国モーターボート競走会連合会が解散したときは、国土交通大臣は、遅滞なく、その解散の登記を登記所に嘱託しなければならない。
+        </article_item>
+        <article_item number="２">
+          登記官は、前項の規定による嘱託に係る解散の登記をしたときは、その登記記録を閉鎖しなければならない。
+        </article_item>
+      </articles>
+    </section>
+  </body>
+</law>

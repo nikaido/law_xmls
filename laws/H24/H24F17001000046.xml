@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>農林水産省関係構造改革特別区域法施行規則</title>
+    <defined>平成二十四年九月五日農林水産省令第四十六号</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        構造改革特別区域法施行令（平成十五年政令第七十八号）第六条第二号の規定に基づき、農林水産省関係構造改革特別区域法施行規則を次のように定める。
+      </p>
+    </preamble>
+    <articles>
+      <article_item>
+        構造改革特別区域法施行令第六条第二号の農林水産省令で定める方法は、書類審査、筆記試験又は口述試験の実施による方法とする。
+      </article_item>
+    </articles>
+  </body>
+</law>

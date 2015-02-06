@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>金融機能強化審査会令</title>
+    <defined>平成十六年七月二十三日政令第二百四十一号</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、金融機能の強化のための特別措置に関する法律（平成十六年法律第百二十八号）第五十三条の規定に基づき、この政令を制定する。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（議事）">
+      <article_item number="第一条">
+        金融機能強化審査会は、委員の過半数が出席しなければ、会議を開き、議決することができない。
+      </article_item>
+      <article_item number="２">
+        金融機能強化審査会の議事は、委員で会議に出席したものの過半数で決し、可否同数のときは、会長の決するところによる。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（庶務）">
+      <article_item number="第二条">
+        金融機能強化審査会の庶務は、金融庁監督局総務課において処理する。
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（雑則）">
+      <article_item number="第三条">
+        この政令に定めるもののほか、議事の手続その他金融機能強化審査会の運営に関し必要な事項は、会長が金融機能強化審査会に諮って定める。
+      </article_item>
+    </articles>
+  </body>
+</law>

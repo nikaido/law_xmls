@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>国税犯則取締法施行規則</title>
+    <defined>明治三十三年三月二十三日勅令第五十二号</defined>
+    <updated>平成二一年三月三一日政令第一〇七号</updated>
+  </head>
+  <body>
+    <articles number="第一条">
+      <article_item number="第一条">
+        国税犯則取締法ニ於テ間接国税ト称スルハ左ノ国税トス
+        <go>
+          <go_item number="一">
+            消費税法（昭和六十三年法律第百八号）第四十七条第二項ニ規定スル課税貨物ニ課サルル消費税
+          </go_item>
+          <go_item number="二">
+            酒税
+          </go_item>
+          <go_item number="三">
+            たばこ税
+          </go_item>
+          <go_item number="四">
+            揮発油税
+          </go_item>
+          <go_item number="五">
+            地方揮発油税
+          </go_item>
+          <go_item number="六">
+            石油ガス税
+          </go_item>
+          <go_item number="七">
+            石油石炭税
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第二条">
+      <article_item number="第二条">
+        収税官吏物件、帳簿、書類等ヲ差押又ハ領置シタル場合ニ於テ所有者、所持者又ハ官公署ヲシテ保管セシムルトキハ之ニ封印ヲ為シ又ハ其ノ他ノ方法ヲ以テ差押又ハ領置ヲ明白ニスヘシ
+      </article_item>
+    </articles>
+    <articles number="第三条">
+      <article_item number="第三条">
+        差押目録又ハ領置目録ニハ物件ノ品名、数量、帳簿、書類ノ名称、箇数、差押又ハ領置ノ場所及時、所持者ノ住所又ハ居所、氏名ヲ記載スヘシ
+      </article_item>
+    </articles>
+    <articles number="第四条">
+      <article_item number="第四条">
+        収税官吏物件、帳簿、書類等ヲ差押又ハ領置シタル場合ニ於テ之ヲ官公署ニ送致スルトキハ差押目録又ハ領置目録ノ謄本ヲ其ノ所持者ニ交付スヘシ
+      </article_item>
+    </articles>
+    <articles number="第五条">
+      <article_item number="第五条">
+        収税官吏官公署ヲシテ差押物件又ハ領置物件ノ保管ヲ為サシムルトキハ其ノ旨ヲ差押又ハ領置当時ノ所持者ニ通知スヘシ
+      </article_item>
+    </articles>
+    <articles number="第六条">
+      <article_item number="第六条">
+        国税庁長官、国税局長又ハ税務署長国税犯則取締法第七条ニ依リ差押物件又ハ領置物件ヲ公売スルトキハ物件ノ品名、数量、公売ノ事由、公売ノ場所及時其ノ他必要ノ事項ヲ公告スヘシ
+      </article_item>
+    </articles>
+    <articles number="第七条">
+      <article_item number="第七条">
+        国税庁長官、国税局長又ハ税務署長国税犯則取締法第七条ニ依リ差押物件又ハ領置物件ノ公売代金ヲ供託シタルトキハ其ノ金額ト共ニ其ノ旨ヲ差押又ハ領置当時ノ所持者ニ通知スヘシ
+      </article_item>
+    </articles>
+    <articles number="第七条ノ二">
+      <article_item number="第七条ノ二">
+        国税犯則取締法第八条第三項ノ国税ヲ定ムルコト左ノ如シ
+        <go>
+          <go_item number="一">
+            課税貨物ニ課サルル消費税
+          </go_item>
+          <go_item number="二">
+            酒税
+          </go_item>
+          <go_item number="三">
+            石油ガス税
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第八条">
+      <article_item number="第八条">
+        収税官吏質問、検査、領置、臨検、捜索又ハ差押ヲ為シタルトキ調製スル顛末書ニハ質問、検査、領置、臨検、捜索又ハ差押ノ事実、場所及時並答弁ノ要領ヲ記載スヘシ
+      </article_item>
+    </articles>
+    <articles number="第九条">
+      <article_item number="第九条">
+        国税犯則取締法第十四条ノ通告ハ通告書ヲ送達シテ之ヲ為スヘシ
+      </article_item>
+    </articles>
+    <articles number="第十条">
+      <article_item number="第十条">
+        通告書ノ送達ハ使丁ニ依リテ之ヲ為シ其ノ受領証ヲ徴スヘシ但シ配達証明郵便又ハ民間事業者による信書の送達に関する法律（平成十四年法律第九十九号）第二条第六項ニ規定スル一般信書便事業者若ハ同条第九項ニ規定スル特定信書便事業者ニ依ル同条第二項ニ規定スル信書便ノ役務ノウチ配達証明郵便ニ準ズルモノトシテ財務大臣ノ定ムルモノヲ以テ送達ヲ為スコトヲ得
+      </article_item>
+    </articles>
+    <articles number="第十一条">
+      <article_item number="第十一条">
+        国税局長又ハ税務署長国税犯則取締法第十九条ニ依リ犯則ノ心証ヲ得サル旨ヲ犯則嫌疑者ニ通知スル場合ニ於テ同法第七条ニ依リ供託シタル金額アルトキハ供託書ノ正本ニ供託金ヲ受取ルヘキ事由ヲ証スヘキ書面ヲ添付シ之ヲ差押又ハ領置当時ノ物件所持者ニ交付スヘシ
+      </article_item>
+    </articles>
+    <articles number="第十二条">
+      <article_item number="第十二条">
+        犯則事件ノ調査及処分ニ関スル書類（国税犯則取締法第二条第一項又ハ第二項ノ許可ノ請求ニ関スル書類ヲ除ク）ニハ毎葉契印スベシ
+      </article_item>
+      <article_item number="○２">
+        犯則事件ノ調査及処分ニ関スル書類ニ付キ文字ノ挿入、削除又ハ欄外ノ記入ヲ為シタルトキハ之ニ認印スベシ
+      </article_item>
+      <article_item number="○３">
+        文字ヲ削除スルトキハ其ノ字体ヲ存シ置キ其ノ範囲ヲ明ラカニスベシ
+      </article_item>
+    </articles>
+    <articles number="第十三条">
+      <article_item number="第十三条">
+        収税官吏ハ直接ト間接トヲ問ハス差押物件、領置物件又ハ没収物件ヲ買受クルコトヲ得ス
+      </article_item>
+    </articles>
+  </body>
+</law>

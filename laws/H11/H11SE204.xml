@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>中小企業総合事業団法の施行に伴う関係政令の整備に関する政令　抄</title>
+    <defined>平成十一年六月二十三日政令第二百四号</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、中小企業総合事業団法（平成十一年法律第十九号）の施行に伴い、及び関係法律の規定に基づき、この政令を制定する。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（中小企業信用保険公庫法施行令等の廃止）">
+      <article_item number="第一条">
+        次の政令は、廃止する。
+        <go>
+          <go_item number="一">
+            中小企業信用保険公庫法施行令（昭和三十三年政令第二百四号）
+          </go_item>
+          <go_item number="二">
+            繊維産業構造改善臨時措置法施行令（昭和四十九年政令第二百四十六号）
+          </go_item>
+          <go_item number="三">
+            中小企業事業団法施行令（昭和五十五年政令第二百四十一号）
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+  </body>
+</law>

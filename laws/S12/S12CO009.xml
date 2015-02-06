@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>文化勲章令</title>
+    <defined>昭和十二年二月十一日勅令第九号</defined>
+  </head>
+  <body>
+    <articles>
+      <article_item>
+        文化勲章ハ文化ノ発達ニ関シ勲績卓絶ナル者ニ之ヲ賜フ
+        <table>
+          <tr>
+            <td colspan="2">文化勲章製式
+            </td>
+          </tr>
+          <tr>
+            <td>
+              章
+            </td>
+            <td>
+              金橘花径六・六糎<br/>花弁白色盛上七宝、重廓間蕊金地濃藍色七宝、曲玉白色七宝、地赤色七宝
+            </td>
+          </tr>
+          <tr>
+            <td>
+              鈕
+            </td>
+            <td>
+              金橘葉実<br/>葉緑色七宝、実淡緑色七宝
+            </td>
+          </tr>
+          <tr>
+            <td>
+              環
+            </td>
+            <td>
+              金小形橢円
+            </td>
+          </tr>
+          <tr>
+            <td>
+              綬
+            </td>
+            <td>
+              幅三・七糎<br/>織地淡紫色
+            </td>
+          </tr>
+        </table><br/>　　文化勲章<br/><br/><br/><br/>　　文化勲章綬<br/><br/><br/><br/>　　文化勲章略綬（淡紫色径一糎図ノ如キ同色ノ翼ヲ附ス）<br/><br/><br/><br/>　文化勲章ハ綬ヲ以テ胸部中央ニ之ヲ佩ブ
+      </article_item>
+    </articles>
+  </body>
+</law>

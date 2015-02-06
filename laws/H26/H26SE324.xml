@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>内水面漁業の振興に関する法律施行令</title>
+    <defined>平成二十六年十月一日政令第三百二十四号</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、内水面漁業の振興に関する法律（平成二十六年法律第百三号）第二十八条第一項及び同条第五項において準用する同法第二十六条第四項の規定に基づき、この政令を制定する。
+      </p>
+    </preamble>
+    <articles>
+      <article_item>
+        内水面漁業の振興に関する法律（以下「法」という。）第二十八条第一項の政令で定める養殖業は、うなぎ養殖業とする。
+      </article_item>
+    </articles>
+  </body>
+</law>

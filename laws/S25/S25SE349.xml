@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>検察官特別考試令</title>
+    <defined>昭和二十五年十二月十一日政令第三百四十九号</defined>
+    <updated>平成一七年一一月二八日政令第三五一号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、法務府設置法（昭和二十二年法律第百九十三号）第十三条第二項及び検察庁法（昭和二十二年法律第六十一号）第十八条第三項の規定に基き、この政令を制定する。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（検察官特別考試）">
+      <article_item number="第一条">
+        検察庁法第十八条第三項の考試は、検察官特別考試と称し、この政令の定めるところにより行う。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（検察官特別考試の実施機関）">
+      <article_item number="第二条">
+        検察官特別考試は、検察官・公証人特別任用等審査会（以下「審査会」という。）が行うものとする。
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（考試の施行）">
+      <article_item number="第三条">
+        検察官特別考試は、毎年一回以上行うものとする。
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（願書）">
+      <article_item number="第四条">
+        検察官特別考試を受けようとする者は、検事長を経由して審査会に願書を提出しなければならない。
+      </article_item>
+      <article_item number="２">
+        検事長は、前項の願書を受け取つたときは、その者について考査書を作成し、願書とともにこれを審査会に送付しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（試験の種類）">
+      <article_item number="第五条">
+        検察官特別考試は、筆記及び口述の方法により行う。
+      </article_item>
+      <article_item number="２">
+        筆記試験に合格した者でなければ、口述試験を受けることはできない。
+      </article_item>
+      <article_item number="３">
+        司法試験に合格した者に対しては、その申請により、検察の実務についての筆記試験及び口述試験以外の筆記試験及び口述試験を免除する。
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（筆記試験の科目）">
+      <article_item number="第六条">
+        筆記試験は、次の七科目について行う。
+        <go>
+          <go_item number="一">
+            憲法
+          </go_item>
+          <go_item number="二">
+            民法
+          </go_item>
+          <go_item number="三">
+            商法　
+          </go_item>
+          <go_item number="四">
+            民事訴訟法
+          </go_item>
+          <go_item number="五">
+            刑法
+          </go_item>
+          <go_item number="六">
+            刑事訴訟法
+          </go_item>
+          <go_item number="七">
+            検察の実務
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第七条" title="（筆記試験の免除）">
+      <article_item number="第七条">
+        筆記試験に合格した者に対しては、その申請により、次回の筆記試験を免除する。
+      </article_item>
+    </articles>
+    <articles number="第八条" title="（口述試験）">
+      <article_item number="第八条">
+        口述試験は、第六条第一号及び第五号から第七号までに掲げる科目について行う。
+      </article_item>
+      <article_item number="２">
+        検察の実務についての口述試験は、考査書の記載を参考として行うものとする。
+      </article_item>
+    </articles>
+    <articles number="第九条" title="（合格証書）">
+      <article_item number="第九条">
+        検察官特別考試の合格者には、合格証書を付与する。
+      </article_item>
+    </articles>
+    <articles number="第十条" title="（不正受験）">
+      <article_item number="第十条">
+        不正の手段によつて検察官特別考試を受け、若しくは受けようとした者又はこの政令若しくは審査会の定める細則に違反した者に対しては、その試験を停止し、又は合格の決定を取り消すことができる。
+      </article_item>
+    </articles>
+  </body>
+</law>

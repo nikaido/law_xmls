@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>消防施設強化促進法施行令</title>
+    <defined>昭和二十八年七月二十七日政令第百二十四号</defined>
+    <updated>平成一四年二月八日政令第二七号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、消防施設強化促進法（昭和二十八年法律第八十七号）第三条の規定に基き、この政令を制定する。
+      </p>
+    </preamble>
+    <articles>
+      <article_item>
+        消防施設強化促進法（以下「法」という。）第三条の規定により国が補助を行うことができる消防施設は、次に掲げるものとする。
+        <go>
+          <go_item number="一">
+            機械器具<br/>　　　消防ポンプ自動車、手引動力ポンプ及び小型動力ポンプ
+          </go_item>
+          <go_item number="二">
+            設備<br/>　　　火災報知機、消防専用電話装置及び防火水そう
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+  </body>
+</law>

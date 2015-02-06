@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>明治八年太政官布告第百三号（裁判事務心得）　抄</title>
+    <defined>明治八年六月八日太政官布告第百三号</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        今般裁判事務心得左ノ通相定候条此旨布告候事
+      </p>
+    </preamble>
+    <articles number="第三条">
+      <article_item number="第三条">
+        一民事ノ裁判ニ成文ノ法律ナキモノハ習慣ニ依リ習慣ナキモノハ条理ヲ推考シテ裁判スヘシ
+      </article_item>
+    </articles>
+    <articles number="第四条">
+      <article_item number="第四条">
+        一裁判官ノ裁判シタル言渡ヲ以テ将来ニ例行スル一般ノ定規トスルコトヲ得ス
+      </article_item>
+    </articles>
+    <articles number="第五条">
+      <article_item number="第五条">
+        一頒布セル布告布達ヲ除クノ外諸官省随時事ニ就テノ指令ハ将来裁判所ノ準拠スヘキ一般ノ定規トスルコトヲ得ス
+      </article_item>
+    </articles>
+  </body>
+</law>

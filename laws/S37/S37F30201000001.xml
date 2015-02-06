@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>下請代金支払遅延等防止法第四条の二の規定による遅延利息の率を定める規則</title>
+    <defined>昭和三十七年五月十五日公正取引委員会規則第一号</defined>
+    <updated>昭和四五年五月八日公正取引委員会規則第一号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        下請代金支払遅延等防止法（昭和三十一年法律第百二十号）第四条の二の規定に基づき、この規則を定める。
+      </p>
+    </preamble>
+    <articles>
+      <article_item>
+        下請代金支払遅延等防止法第四条の二の規定による下請代金の支払遅延に対する遅延利息の率は、年十四・六パーセントとする。
+      </article_item>
+    </articles>
+  </body>
+</law>

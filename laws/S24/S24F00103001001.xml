@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>都道府県に勤務する政府職員の勤務時間及び休憩時間等に関する命令</title>
+    <defined>昭和二十四年二月二十八日総理庁・厚生省・労働省令第一号</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        政府職員の勤務時間に関する総理庁令（昭和二十四年総理庁令第一号）第二項の規定に基き、都道府県に勤務する政府職員の勤務時間及び休憩時間等に関する命令を次のように定める。
+      </p>
+    </preamble>
+    <articles>
+      <article_item>
+        都道府県に勤務する政府職員の勤務時間及び休憩時間等は、当該都道府県職員の勤務時間及び休憩時間等の例による。
+      </article_item>
+    </articles>
+  </body>
+</law>

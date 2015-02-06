@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>死因究明等推進会議事務局組織規則</title>
+    <defined>平成二十四年九月十四日内閣府令第五十七号</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        死因究明等推進会議令（平成二十四年政令第二百三十七号）第三条の規定に基づき、死因究明等推進会議事務局組織規則を次のように定める。
+      </p>
+    </preamble>
+    <articles number="１">
+      <article_item number="１">
+        死因究明等推進会議の事務局に、企画官二人（関係のある他の職を占める者をもって充てられるものとする。）を置く。
+      </article_item>
+      <article_item number="２">
+        企画官は、命を受けて、局務のうち特定事項の調査、企画及び立案を行う。
+      </article_item>
+    </articles>
+  </body>
+</law>

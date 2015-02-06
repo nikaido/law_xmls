@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>消防施設強化促進法第五条の規定に基く補助金の交付申請書の提出に関する総理府令</title>
+    <defined>昭和三十三年五月二十一日総理府令第三十九号</defined>
+    <updated>平成一四年二月八日総務省令第一一号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        消防施設強化促進法第五条の規定に基き、補助金の交付申請書の提出に関する総理府令を次のように定める。
+      </p>
+    </preamble>
+    <articles number="１">
+      <article_item number="１">
+        消防施設強化促進法（昭和二十八年法律第八十七号）第五条の規定により提出する補助金の交付申請書には、次に掲げる事項を記載しなければならない。
+        <go>
+          <go_item number="一">
+            市町村名及び市町村長の氏名
+          </go_item>
+          <go_item number="二">
+            補助事業の目的
+          </go_item>
+          <go_item number="三">
+            補助事業の内容
+          </go_item>
+          <go_item number="四">
+            補助事業の経費の配分、この配分された経費の額に対応する基準額及びこの基準額ごとの交付を受けようとする補助金の額
+          </go_item>
+          <go_item number="五">
+            契約の方法、契約予定日及び補助事業の完了予定日
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="２">
+        前項に規定する交付申請書の様式及び当該交付申請書に添付すべき書類は、消防庁長官が定める。
+      </article_item>
+    </articles>
+  </body>
+</law>

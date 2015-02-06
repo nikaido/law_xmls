@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>大正十二年勅令第二百九十九号（政府ニ於テ物品ノ販売ヲ問屋業者ニ委託スルコトヲ得ル場合ニ関スル件）</title>
+    <defined>大正十二年六月七日勅令第二百九十九号</defined>
+    <updated>昭和一四年一一月一一日勅令第七六七号</updated>
+  </head>
+  <body>
+    <articles>
+      <article_item>
+        政府ニ於テ物品ヲ販売又ハ買入スルトキハ左ノ場合ニ限リ問屋業者ニ其ノ販売又ハ買入ヲ委託スルコトヲ得
+        <go>
+          <go_item number="一">
+            輸出ノ目的ヲ以テ物品ヲ販売スルトキ
+          </go_item>
+          <go_item number="二">
+            専売品又ハ其ノ副産物ヲ販売スルトキ
+          </go_item>
+          <go_item number="三">
+            林産物又ハ鉱産物ヲ販売スルトキ
+          </go_item>
+          <go_item number="四">
+            米穀ヲ販売又ハ買入スルトキ但シ買入ニ付テハ米穀需給調節特別会計ニ属セシムル為特ニ必要アル場合ニ限ル
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+  </body>
+</law>

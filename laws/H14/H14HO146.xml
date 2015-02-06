@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>中小企業総合事業団法及び機械類信用保険法の廃止等に関する法律　抄</title>
+    <defined>平成十四年十二月十一日法律第百四十六号</defined>
+  </head>
+  <body>
+    <articles number="第一条" title="（中小企業総合事業団法及び機械類信用保険法の廃止）">
+      <article_item number="第一条">
+        次に掲げる法律は、廃止する。
+        <go>
+          <go_item number="一">
+            中小企業総合事業団法（平成十一年法律第十九号）
+          </go_item>
+          <go_item number="二">
+            機械類信用保険法（昭和三十六年法律第百五十六号）
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第二条">
+      <article_item number="第二条">
+        削除
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（民間事業者の能力の活用による特定施設の整備の促進に関する臨時措置法の一部改正）">
+      <article_item number="第三条">
+        略
+      </article_item>
+    </articles>
+  </body>
+</law>

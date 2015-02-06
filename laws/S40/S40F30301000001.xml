@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>国家公安委員会公印規則</title>
+    <defined>昭和四十年四月一日国家公安委員会規則第一号</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        国家公安委員会公印規則を次のように定める。
+      </p>
+    </preamble>
+    <articles number="１">
+      <article_item number="１">
+        国家公安委員会委員長および国家公安委員会の公印の制式は、次のとおりとする。<br/>　図（略）
+      </article_item>
+      <article_item number="２">
+        国家公安委員会委員長および国家公安委員会の公印の保管その他必要な事項は、警察庁長官が定める。
+      </article_item>
+    </articles>
+  </body>
+</law>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>工業標準化法に基づく公示による検査に関する省令等を廃止する省令</title>
+    <defined>平成十七年六月十五日厚生労働省・農林水産省・経済産業省・国土交通省令第九号</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        工業標準化法の一部を改正する法律（平成十六年法律第九十五号）の施行に伴い、工業標準化法に基づく公示による検査に関する省令等を廃止する省令を次のように定める。
+      </p>
+    </preamble>
+    <articles>
+      <article_item>
+        次に掲げる省令は、廃止する。
+        <go>
+          <go_item number="一">
+            工業標準化法に基づく公示による検査に関する省令（昭和五十五年厚生省・通商産業省・運輸省令第二号）
+          </go_item>
+          <go_item number="二">
+            工業標準化法に基づく指定認定機関等に関する省令（平成九年厚生省・通商産業省・運輸省令第三号）
+          </go_item>
+          <go_item number="三">
+            工業標準化法に基づく表示認定等に関する省令（平成十二年厚生省・農林水産省・通商産業省・運輸省令第二号）
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+  </body>
+</law>

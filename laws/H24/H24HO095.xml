@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>衆議院小選挙区選出議員の選挙区間における人口較差を緊急に是正するための公職選挙法及び衆議院議員選挙区画定審議会設置法の一部を改正する法律　抄</title>
+    <defined>平成二十四年十一月二十六日法律第九十五号</defined>
+    <updated>平成二五年六月二八日法律第六八号</updated>
+  </head>
+  <body>
+    <articles number="第一条" title="（趣旨）">
+      <article_item number="第一条">
+        この法律は、衆議院小選挙区選出議員の選挙区をめぐる現状に鑑み、平成二十二年の国勢調査の結果に基づく衆議院小選挙区選出議員の選挙区の改定案（以下「今次の改定案」という。）の作成に当たり、各選挙区間における人口較差を緊急に是正するため、公職選挙法（昭和二十五年法律第百号）及び衆議院議員選挙区画定審議会設置法（平成六年法律第三号）の一部改正について定めるものとする。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（公職選挙法の一部改正）">
+      <article_item number="第二条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（衆議院議員選挙区画定審議会設置法の一部改正）">
+      <article_item number="第三条">
+        略
+      </article_item>
+    </articles>
+  </body>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>商品投資販売業者の許可及び監督に関する命令を廃止する命令</title>
+    <defined>平成十九年八月九日内閣府・農林水産省・経済産業省令第二号</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        証券取引法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律（平成十八年法律第六十六号）の施行に伴い、商品投資販売業者の許可及び監督に関する命令を廃止する命令を次のように定める。
+      </p>
+    </preamble>
+    <articles>
+      <article_item>
+        商品投資販売業者の許可及び監督に関する命令（平成四年大蔵省・農林水産省・通商産業省令第一号）は、廃止する。
+      </article_item>
+    </articles>
+  </body>
+</law>

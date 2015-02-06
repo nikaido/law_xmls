@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>国家安全保障会議設置法</title>
+    <defined>昭和六十一年五月二十七日法律第七十一号</defined>
+    <updated>平成二六年四月一八日法律第二二号</updated>
+  </head>
+  <body>
+    <articles number="第一条" title="（設置）">
+      <article_item number="第一条">
+        我が国の安全保障（以下「国家安全保障」という。）に関する重要事項を審議する機関として、内閣に、国家安全保障会議（以下「会議」という。）を置く。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（所掌事務等）">
+      <article_item number="第二条">
+        会議は、次の事項について審議し、必要に応じ、内閣総理大臣に対し、意見を述べる。 
+        <go>
+          <go_item number="一">
+            国防の基本方針
+          </go_item>
+          <go_item number="二">
+            防衛計画の大綱
+          </go_item>
+          <go_item number="三">
+            前号の計画に関連する産業等の調整計画の大綱
+          </go_item>
+          <go_item number="四">
+            武力攻撃事態等（武力攻撃事態及び武力攻撃予測事態をいう。以下この条において同じ。）への対処に関する基本的な方針
+          </go_item>
+          <go_item number="五">
+            武力攻撃事態等への対処に関する重要事項
+          </go_item>
+          <go_item number="六">
+            周辺事態への対処に関する重要事項
+          </go_item>
+          <go_item number="七">
+            自衛隊法（昭和二十九年法律第百六十五号）第三条第二項第二号の自衛隊の活動に関する重要事項
+          </go_item>
+          <go_item number="八">
+            国防に関する重要事項（前各号に掲げるものを除く。）
+          </go_item>
+          <go_item number="九">
+            国家安全保障に関する外交政策及び防衛政策の基本方針並びにこれらの政策に関する重要事項（前各号に掲げるものを除く。）
+          </go_item>
+          <go_item number="十">
+            重大緊急事態（武力攻撃事態等、周辺事態及び次項の規定により第七号又は第八号に掲げる重要事項としてその対処措置につき諮るべき事態以外の緊急事態であつて、我が国の安全に重大な影響を及ぼすおそれがあるもののうち、通常の緊急事態対処体制によつては適切に対処することが困難な事態をいう。第三項において同じ。）への対処に関する重要事項
+          </go_item>
+          <go_item number="十一">
+            その他国家安全保障に関する重要事項
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="２">
+        内閣総理大臣は、前項第一号から第四号までに掲げる事項並びに同項第五号から第八号まで及び第十号に掲げる事項のうち内閣総理大臣が必要と認めるものについては、会議に諮らなければならない。
+      </article_item>
+      <article_item number="３">
+        第一項の場合において、会議は、武力攻撃事態等、周辺事態及び重大緊急事態に関し、同項第四号から第六号まで又は第十号に掲げる事項について審議した結果、特に緊急に対処する必要があると認めるときは、迅速かつ適切な対処が必要と認められる措置について内閣総理大臣に建議することができる。
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（組織）">
+      <article_item number="第三条">
+        会議は、議長及び議員で組織する。
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（議長）">
+      <article_item number="第四条">
+        議長は、内閣総理大臣をもつて充てる。
+      </article_item>
+      <article_item number="２">
+        議長は、会務を総理する。
+      </article_item>
+      <article_item number="３">
+        議長に事故があるとき、又は議長が欠けたときは、内閣法（昭和二十二年法律第五号）第九条の規定によりあらかじめ指定された国務大臣（順位を定めて二以上の国務大臣が指定されているときは、最先順位の国務大臣）をもつて充てられる議員がその職務を代理する。
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（議員）">
+      <article_item number="第五条">
+        議員は、次の各号に掲げる事項の区分に応じ、当該各号に定める国務大臣をもつて充てる。
+        <go>
+          <go_item number="一">
+            第二条第一項第一号から第八号まで及び第十一号に掲げる事項　前条第三項に規定する国務大臣、総務大臣、外務大臣、財務大臣、経済産業大臣、国土交通大臣、防衛大臣、内閣官房長官及び国家公安委員会委員長
+          </go_item>
+          <go_item number="二">
+            第二条第一項第九号に掲げる事項　外務大臣、防衛大臣及び内閣官房長官
+          </go_item>
+          <go_item number="三">
+            第二条第一項第十号に掲げる事項　内閣官房長官及び事態の種類に応じてあらかじめ内閣総理大臣により指定された国務大臣
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="２">
+        議長は、前項の規定にかかわらず、第二条第一項第四号から第六号までに掲げる事項に関し、事態の分析及び評価について特に集中して審議する必要があると認める場合には、議長、外務大臣、防衛大臣、内閣官房長官及び事態の種類に応じてあらかじめ内閣総理大臣により指定された国務大臣によつて事案について審議を行うことができる。
+      </article_item>
+      <article_item number="３">
+        議長は、必要があると認めるときは、前二項に規定する者のほか、これらの規定に規定する国務大臣以外の国務大臣を、議案を限つて、議員として、臨時に会議に参加させることができる。
+      </article_item>
+      <article_item number="４">
+        前三項の場合において、議員が不在のときは、緊急の場合その他やむを得ない事由のある場合に限り、そのあらかじめ指名する副大臣（内閣官房副長官を含む。第七条第二項において同じ。）がその職務を代行することができる。
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（資料提供等）">
+      <article_item number="第六条">
+        内閣官房長官及び関係行政機関の長は、会議の定めるところにより、会議に対し、国家安全保障に関する資料又は情報であつて、会議の審議に資するものを、適時に提供するものとする。
+      </article_item>
+      <article_item number="２">
+        前項に定めるもののほか、内閣官房長官及び関係行政機関の長は、議長の求めに応じて、会議に対し、国家安全保障に関する資料又は情報の提供及び説明その他必要な協力を行わなければならない。
+      </article_item>
+    </articles>
+    <articles number="第七条" title="（服務）">
+      <article_item number="第七条">
+        議長及び議員は、非常勤とする。
+      </article_item>
+      <article_item number="２">
+        議長及び議員並びに議長又は議員であつた者、第五条第四項の規定により副大臣として議員の職務を代行した者、次条の規定により関係者として会議に出席した者並びに第九条第三項の委員長及び当該委員長であつた者は、その職務に関して知ることのできた秘密を他に漏らしてはならない。
+      </article_item>
+    </articles>
+    <articles number="第八条" title="（関係者の出席）">
+      <article_item number="第八条">
+        内閣官房副長官及び国家安全保障担当内閣総理大臣補佐官（内閣法第二十二条第三項の規定により国家安全保障に関する重要政策を担当する者として指定された内閣総理大臣補佐官をいう。）は、会議に出席し、議長の許可を受けて意見を述べることができる。
+      </article_item>
+      <article_item number="２">
+        前項に定めるもののほか、議長は、必要があると認めるときは、統合幕僚長その他の関係者を会議に出席させ、意見を述べさせることができる。
+      </article_item>
+    </articles>
+    <articles number="第九条" title="（事態対処専門委員会）">
+      <article_item number="第九条">
+        会議に、事態対処専門委員会（以下この条において「委員会」という。）を置く。
+      </article_item>
+      <article_item number="２">
+        委員会は、第二条第一項第四号から第八号まで及び第十号に掲げる事項（同項第七号及び第八号に掲げる事項については、その対処措置につき諮るべき事態に係るものに限る。）の審議を迅速かつ的確に実施するため、必要な事項に関する調査及び分析を行い、その結果に基づき、会議に進言する。
+      </article_item>
+      <article_item number="３">
+        委員会は、委員長及び委員をもつて組織する。
+      </article_item>
+      <article_item number="４">
+        委員長は、内閣官房長官をもつて充てる。
+      </article_item>
+      <article_item number="５">
+        委員は、内閣官房及び関係行政機関の職員のうちから、内閣総理大臣が任命する。
+      </article_item>
+    </articles>
+    <articles number="第十条" title="（幹事）">
+      <article_item number="第十条">
+        会議に、幹事を置く。
+      </article_item>
+      <article_item number="２">
+        幹事は、内閣官房及び関係行政機関の職員のうちから、内閣総理大臣が任命する。
+      </article_item>
+      <article_item number="３">
+        幹事は、会議の所掌事務について、議長及び議員を補佐する。
+      </article_item>
+    </articles>
+    <articles number="第十一条" title="（議事）">
+      <article_item number="第十一条">
+        会議の議事に関し必要な事項は、議長が会議の議を経て定める。
+      </article_item>
+    </articles>
+    <articles number="第十二条" title="（事務）">
+      <article_item number="第十二条">
+        会議の事務は、国家安全保障局において処理する。
+      </article_item>
+    </articles>
+    <articles number="第十三条" title="（主任の大臣）">
+      <article_item number="第十三条">
+        会議に係る事項については、内閣法にいう主任の大臣は、内閣総理大臣とする。
+      </article_item>
+    </articles>
+    <articles number="第十四条" title="（委任規定）">
+      <article_item number="第十四条">
+        この法律に定めるもののほか、会議に関し必要な事項は、政令で定める。
+      </article_item>
+    </articles>
+  </body>
+</law>

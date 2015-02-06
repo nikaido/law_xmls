@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>警察法第十二条の三第一項に規定する専門委員に関する規則</title>
+    <defined>昭和五十五年十二月十九日国家公安委員会規則第七号</defined>
+    <updated>平成二〇年一〇月七日国家公安委員会規則第一九号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        警察法施行令（昭和二十九年政令第百五十一号）第一条第五項の規定に基づき、警察法第十二条の二第一項に規定する専門委員に関する規則を次のように定める。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（専門委員の調査審議）">
+      <article_item number="第一条">
+        国家公安委員会は、都道府県公安委員会が行つた犯罪被害者等給付金及びオウム真理教犯罪被害者等を救済するための給付金の支給に関する法律（平成二十年法律第八十号）第三条第一項に規定する給付金の支給に係る裁定についての審査請求があつた場合には、当該審査請求に係る専門の事項について専門委員に調査審議させるものとする。
+      </article_item>
+      <article_item number="２">
+        前項の調査審議に関し必要な事項は、専門委員が協議して定める。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（専門委員に関する庶務）">
+      <article_item number="第二条">
+        専門委員に関する庶務は、警察庁長官官房給与厚生課において処理する。
+      </article_item>
+    </articles>
+  </body>
+</law>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>国外における旅券手数料の額を定める省令</title>
+    <defined>平成十八年二月十七日外務省令第四号</defined>
+    <updated>平成二六年一二月二六日外務省令第一六号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        旅券法（昭和二十六年法律第二百六十七号）第二十条第四項及び旅券法施行令（平成元年政令第百二十二号）第三条第一項の規定に基づき、国外における旅券手数料の額を定める省令を次のように定める。
+      </p>
+    </preamble>
+    <articles>
+      <article_item>
+        国外における旅券手数料の額は、別表に定める額とする。
+      </article_item>
+    </articles>
+  </body>
+</law>

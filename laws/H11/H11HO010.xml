@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>有価証券取引税法及び取引所税法を廃止する法律</title>
+    <defined>平成十一年三月三十一日法律第十号</defined>
+  </head>
+  <body>
+    <articles number="第一条" title="（有価証券取引税法の廃止）">
+      <article_item number="第一条">
+        有価証券取引税法（昭和二十八年法律第百二号）は、廃止する。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（取引所税法の廃止）">
+      <article_item number="第二条">
+        取引所税法（平成二年法律第二十二号）は、廃止する。
+      </article_item>
+    </articles>
+  </body>
+</law>

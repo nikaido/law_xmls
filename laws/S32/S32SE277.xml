@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>美容師法施行令</title>
+    <defined>昭和三十二年八月三十一日政令第二百七十七号</defined>
+    <updated>平成二六年一〇月二九日政令第三四九号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、美容師法（昭和三十二年法律第百六十三号）第三条第四項、第四条第四項及び第五項並びに第七条の規定に基き、この政令を制定する。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（都道府県が処理する事務）">
+      <article_item number="第一条">
+        美容師法（以下「法」という。）第四条第五項の規定により都道府県知事が行うこととする事務は、次のとおりとする。
+        <go>
+          <go_item number="一">
+            美容師養成施設の指定を行うに必要な調査に関する事務
+          </go_item>
+          <go_item number="二">
+            指定を受けた美容師養成施設に関する指定取消理由の有無の調査に関する事務
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（受験手数料）">
+      <article_item number="第二条">
+        法第四条の十八第一項の政令で定める受験手数料の額は、筆記試験については一万二千五百円とし、実技試験については一万二千五百円とする。
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（登録等の手数料）">
+      <article_item number="第三条">
+        法第五条の四第二項の政令で定める手数料の額は、次の各号に掲げる者の区分に応じ、それぞれ当該各号に定める額とする。
+        <go>
+          <go_item number="一">
+            美容師の登録を受けようとする者　　　　　五千八百円
+          </go_item>
+          <go_item number="二">
+            美容師免許証又は美容師免許証明書の記載事項の変更を受けようとする者　　　　　　　　　　　　三千七百五十円
+          </go_item>
+          <go_item number="三">
+            美容師免許証又は美容師免許証明書の再交付を受けようとする者　　　　　　　　　四千百五十円
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（美容所以外の場所で業務を行うことができる場合）">
+      <article_item number="第四条">
+        美容師が法第七条ただし書の規定により美容所以外の場所において業を行うことができる場合は、次のとおりとする。
+        <go>
+          <go_item number="一">
+            疾病その他の理由により、美容所に来ることができない者に対して美容を行う場合
+          </go_item>
+          <go_item number="二">
+            婚礼その他の儀式に参列する者に対してその儀式の直前に美容を行う場合
+          </go_item>
+          <go_item number="三">
+            前二号のほか、都道府県（地域保健法（昭和二十二年法律第百一号）第五条第一項の規定に基づく政令で定める市（以下「保健所を設置する市」という。）又は特別区にあつては、市又は特別区）が条例で定める場合
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（業務停止に関する通知）">
+      <article_item number="第五条">
+        都道府県知事、保健所を設置する市の市長又は特別区の区長は、法第十条第二項の規定により業務停止の処分を行つたときは、厚生労働大臣に厚生労働省令で定める事項を通知しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（事務の区分）">
+      <article_item number="第六条">
+        第一条の規定により都道府県が処理することとされている事務は、地方自治法（昭和二十二年法律第六十七号）第二条第九項第一号に規定する第一号法定受託事務とする。
+      </article_item>
+    </articles>
+  </body>
+</law>

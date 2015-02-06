@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>社会教育法施行令</title>
+    <defined>昭和二十四年七月二十二日政令第二百八十号</defined>
+    <updated>平成一二年六月七日政令第三〇八号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、社会教育法（昭和二十四年法律第二百七号）の規定に基き、及びこれを実施するため、この政令を制定する。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（広報宣伝に要する経費についての協議）">
+      <article_item number="第一条">
+        社会教育法（以下「法」という。）第七条の規定により、地方公共団体の長又は他の行政庁が教育委員会に対し、広報宣伝の実施を依頼し、又は実施の協力を求める場合には、その教育委員会と協議して、これらに要する経費について必要な措置を講じなければならない。
+      </article_item>
+    </articles>
+    <articles number="第一条の二" title="（審議会等で政令で定めるもの）">
+      <article_item number="第一条の二">
+        法第十三条の審議会等で政令で定めるものは、中央教育審議会とする。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（公民館の施設、設備に要する経費の範囲）">
+      <article_item number="第二条">
+        法第三十五条第一項に規定する公民館の施設、設備に要する経費の範囲は、次に掲げるものとする。
+        <go>
+          <go_item number="一">
+            施設費<br/>　　　　　　　　施設の建築に要する本工事費、附帯工事費及び事務費
+          </go_item>
+          <go_item number="二">
+            設備費<br/>　　　　　　　　公民館に備え付ける図書及び社会教育のための器材器具の購入に要する経費
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（公民館に対する都道府県補助についての報告）">
+      <article_item number="第三条">
+        都道府県が法第三十七条に規定する補助をする場合には、文部科学大臣は、同条の規定により、当該都道府県の教育委員会に対して、次に掲げる事項について報告を求めることができる。
+        <go>
+          <go_item number="一">
+            公民館の設置運営の概況
+          </go_item>
+          <go_item number="二">
+            公民館運営費補助額の明細
+          </go_item>
+          <go_item number="三">
+            公民館運営費補助に関する都道府県の条例又は補助の方法
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+  </body>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>民間事業者の能力の活用による特定施設の整備の促進に関する臨時措置法及び輸入の促進及び対内投資事業の円滑化に関する臨時措置法を廃止する法律</title>
+    <defined>平成十八年四月二十六日法律第三十一号</defined>
+  </head>
+  <body>
+    <articles>
+      <article_item>
+        次に掲げる法律は、廃止する。
+        <go>
+          <go_item number="一">
+            民間事業者の能力の活用による特定施設の整備の促進に関する臨時措置法（昭和六十一年法律第七十七号）
+          </go_item>
+          <go_item number="二">
+            輸入の促進及び対内投資事業の円滑化に関する臨時措置法（平成四年法律第二十二号）
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+  </body>
+</law>

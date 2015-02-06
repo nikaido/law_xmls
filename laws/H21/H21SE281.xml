@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>子ども・若者育成支援推進本部令</title>
+    <defined>平成二十一年十二月九日政令第二百八十一号</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、子ども・若者育成支援推進法（平成二十一年法律第七十一号）第三十三条の規定に基づき、この政令を制定する。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（庶務）">
+      <article_item number="第一条">
+        子ども・若者育成支援推進本部（次条において「本部」という。）の庶務は、内閣府本府に置かれる政策統括官が処理する。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（本部の運営）">
+      <article_item number="第二条">
+        前条に定めるもののほか、本部の運営に関し必要な事項は、子ども・若者育成支援推進本部長が本部に諮って定める。
+      </article_item>
+    </articles>
+  </body>
+</law>

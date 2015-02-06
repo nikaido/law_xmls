@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>検察庁法施行令第二条第一項第十三号から第十六号までの検察官の職務と密接な関連を有する職を定める省令</title>
+    <defined>平成六年一月二十一日法務省令第二号</defined>
+    <updated>平成二一年三月二三日法務省令第六号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        検察庁法施行令（昭和二十二年政令第三十四号）第二条第一項第十三号及び第十四号の規定に基づき、検察庁法施行令第二条第一項第十三号及び第十四号の検察官の職務と密接な関連を有する職を定める省令を次のように定める。
+      </p>
+    </preamble>
+    <articles number="第一条">
+      <article_item number="第一条">
+        検察庁法施行令（昭和二十二年政令第三十四号。以下「令」という。）第二条第一項第十三号の職は、次に掲げる者の職とする。
+        <go>
+          <go_item number="一">
+            上席審査専門官
+          </go_item>
+          <go_item number="二">
+            審査専門官
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第二条">
+      <article_item number="第二条">
+        令第二条第一項第十四号の職は、次に掲げる者の職とする。
+        <go>
+          <go_item number="一">
+            特別国税査察官
+          </go_item>
+          <go_item number="二">
+            統括国税査察官
+          </go_item>
+          <go_item number="三">
+            国税査察官
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第三条">
+      <article_item number="第三条">
+        令第二条第一項第十五号の職は、次に掲げる者の職とする。
+        <go>
+          <go_item number="一">
+            統括特別調査官
+          </go_item>
+          <go_item number="二">
+            主任証券取引特別調査官
+          </go_item>
+          <go_item number="三">
+            証券取引特別調査官
+          </go_item>
+          <go_item number="四">
+            統括証券取引特別調査官
+          </go_item>
+          <go_item number="五">
+            上席証券取引特別調査官
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第四条">
+      <article_item number="第四条">
+        令第二条第一項第十六号の職は、次に掲げる者の職とする。
+        <go>
+          <go_item number="一">
+            統括審理官
+          </go_item>
+          <go_item number="二">
+            特別審理官
+          </go_item>
+          <go_item number="三">
+            犯則調査官
+          </go_item>
+          <go_item number="四">
+            審理官
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+  </body>
+</law>

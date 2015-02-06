@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>学校図書館法附則第二項の学校の規模を定める政令</title>
+    <defined>平成九年六月十一日政令第百八十九号</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、学校図書館法（昭和二十八年法律第百八十五号）附則第二項の規定に基づき、この政令を制定する。
+      </p>
+    </preamble>
+    <articles>
+      <article_item>
+        学校図書館法附則第二項の政令で定める規模以下の学校は、学級の数（通信制の課程を置く高等学校にあっては、学級の数と通信制の課程の生徒の数を三百で除して得た数（一未満の端数を生じたときは、一に切り上げる。）とを合計した数）が十一以下の学校とする。
+      </article_item>
+    </articles>
+  </body>
+</law>

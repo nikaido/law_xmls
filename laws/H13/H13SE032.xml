@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>農水産業協同組合の再生手続の特例等に関する法律施行令</title>
+    <defined>平成十三年二月十五日政令第三十二号</defined>
+    <updated>平成一九年八月三日政令第二三三号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、農水産業協同組合の再生手続の特例等に関する法律（平成十二年法律第九十五号）第二条第二項及び第四十七条の規定に基づき、この政令を制定する。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（貯金等債権から除かれるもの）">
+      <article_item number="第一条">
+        農水産業協同組合の再生手続の特例等に関する法律（以下「法」という。）第二条第二項に規定する政令で定めるものは、農水産業協同組合貯金保険法施行令（昭和四十八年政令第二百一号）第二十四条に規定する貯金等とする。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（内閣総理大臣から金融庁長官に委任されない権限）">
+      <article_item number="第二条">
+        法第四十七条に規定する政令で定めるものは、法第二十九条第一項の規定による破産手続開始の申立てとする。
+      </article_item>
+    </articles>
+  </body>
+</law>

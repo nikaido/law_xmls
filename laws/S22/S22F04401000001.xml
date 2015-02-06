@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>会計検査院規則の公布に関する規則</title>
+    <defined>昭和二十二年五月三日会計検査院規則第一号</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        会計検査院規則の公布に関する規則を次のように定める。
+      </p>
+    </preamble>
+    <articles number="第一条">
+      <article_item number="第一条">
+        会計検査院規則には、会計検査院長が年月日を記入して、これに署名する。
+      </article_item>
+    </articles>
+    <articles number="第二条">
+      <article_item number="第二条">
+        会計検査院規則は、官報で、これを公布する。
+      </article_item>
+    </articles>
+    <articles number="第三条">
+      <article_item number="第三条">
+        会計検査院規則は、特に施行期日を定めない場合には、公布の日から起算し二十日を経て、これを施行する。
+      </article_item>
+    </articles>
+  </body>
+</law>

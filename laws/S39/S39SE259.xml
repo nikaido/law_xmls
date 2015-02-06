@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>万国著作権条約の実施に伴う著作権法の特例に関する法律施行令</title>
+    <defined>昭和三十九年七月十八日政令第二百五十九号</defined>
+    <updated>平成一七年二月一八日政令第二四号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、万国著作権条約の実施に伴う著作権法の特例に関する法律（昭和三十一年法律第八十六号）第五条第一項、第七条及び第十二条の規定に基づき、この政令を制定する。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（翻訳物の発行の許可の申請）">
+      <article_item number="第一条">
+        万国著作権条約の実施に伴う著作権法の特例に関する法律（以下「法」という。）第五条第一項の規定による翻訳物の発行の許可（以下「翻訳物の発行の許可」という。）を受けようとする者は、次に掲げる事項を記載した申請書を文化庁長官に提出しなければならない。
+        <go>
+          <go_item number="一">
+            申請者の氏名又は名称及び住所又は居所並びに法人にあつては代表者の氏名
+          </go_item>
+          <go_item number="二">
+            原著作物の題号
+          </go_item>
+          <go_item number="三">
+            原著作物に掲げられた原著作者の氏名（原著作者の氏名が掲げられていないときは、その旨）
+          </go_item>
+          <go_item number="四">
+            原著作物に掲げられた発行者の氏名又は名称
+          </go_item>
+          <go_item number="五">
+            原著作物が最初に発行された国（二以上の国で同時に発行されたときは、そのすべての国。以下同じ。）
+          </go_item>
+          <go_item number="六">
+            前号の国が万国著作権条約の締約国又は文学的及び美術的著作物の保護に関するベルヌ条約により創設された国際同盟の加盟国以外の国であるときは、原著作者の国籍（原著作者が法第九条に規定する無国籍者又は亡命者であるときは、その旨）
+          </go_item>
+          <go_item number="七">
+            原著作物の最初の発行の日の属する年
+          </go_item>
+          <go_item number="八">
+            原著作物の最初の発行の日の属する年の翌年から起算して七年を経過した時までに、翻訳権を有する者又はその者の許諾を得た者により、日本語による翻訳物が発行されず、又は発行されたが絶版になつている旨
+          </go_item>
+          <go_item number="九">
+            法第五条第一項各号のいずれかに該当する旨
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="２">
+        前項の申請書には、次に掲げる資料を添付しなければならない。
+        <go>
+          <go_item number="一">
+            申請者の戸籍の謄本又は抄本、登記事項証明書その他申請者が日本国民であることを証する資料
+          </go_item>
+          <go_item number="二">
+            原著作物が最初に発行された国を証する資料
+          </go_item>
+          <go_item number="三">
+            原著作物の最初の発行の日の属する年を証する資料
+          </go_item>
+          <go_item number="四">
+            原著作物の最初の発行の日の属する年の翌年から起算して七年を経過した時までに、翻訳権を有する者又はその者の許諾を得た者により、日本語による翻訳物が発行されず、又は発行されたが絶版になつていることを疎明する資料
+          </go_item>
+          <go_item number="五">
+            法第五条第一項各号のいずれかに該当することを証する資料
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（翻訳物の発行の許可の告示）">
+      <article_item number="第二条">
+        文化庁長官は、翻訳物の発行の許可をしたときは、その旨を官報に告示する。
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（翻訳物の発行の許可の拒否）">
+      <article_item number="第三条">
+        文化庁長官は、翻訳物の発行の許可を拒否しようとする場合には、あらかじめ、申請者に拒否の理由を通知し、弁明及び有利な証拠の提出の機会を与えなければならない。
+      </article_item>
+      <article_item number="２">
+        文化庁長官は、翻訳物の発行の許可を拒否する場合には、理由を附した書面をもつて申請者にその旨を通知しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（補償額の認可の申請）">
+      <article_item number="第四条">
+        法第五条第一項ただし書の規定による補償額の認可（以下「補償額の認可」という。）を受けようとする者は、次に掲げる事項を記載した申請書を文化庁長官に提出しなければならない。
+        <go>
+          <go_item number="一">
+            申請者の氏名又は名称及び住所又は居所並びに法人にあつては代表者の氏名
+          </go_item>
+          <go_item number="二">
+            原著作物の題号及び原著作物に掲げられた原著作者の氏名（原著作者の氏名が掲げられていないときは、その旨）
+          </go_item>
+          <go_item number="三">
+            翻訳物の発行の許可を受けた日
+          </go_item>
+          <go_item number="四">
+            補償額
+          </go_item>
+          <go_item number="五">
+            翻訳物の発行方法
+          </go_item>
+          <go_item number="六">
+            翻訳物の発行部数、定価その他補償額の算定の基礎となつた事項
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（補償額の認可の申請）">
+      <article_item number="第五条">
+        補償額の認可を受けた者は、補償額の算定の基礎となつた事項を変更しようとするときは、次に掲げる事項を記載した申請書を文化庁長官に提出して、補償額の変更の認可を受けなければならない。
+        <go>
+          <go_item number="一">
+            申請者の氏名又は名称及び住所又は居所並びに法人にあつては代表者の氏名
+          </go_item>
+          <go_item number="二">
+            補償額の認可を受けた日
+          </go_item>
+          <go_item number="三">
+            補償額の認可を受けた額
+          </go_item>
+          <go_item number="四">
+            変更の認可を受けようとする補償額
+          </go_item>
+          <go_item number="五">
+            補償額の算定の基礎となつた事項の変更の内容
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（補償額の認可の申請）">
+      <article_item number="第六条">
+        第二条及び第三条の規定は、補償額の認可及び補償額の変更の認可について準用する。
+      </article_item>
+    </articles>
+    <articles number="第七条" title="（補償額の支払及び供託）">
+      <article_item number="第七条">
+        法第五条第一項ただし書の規定により支払い、又は供託しなければならない補償額は、補償額の認可を受けた額の全部とする。ただし、翻訳物の発行が数次に分けて行なわれる場合には、補償額の認可を受けた額のうち当該発行に対応する額とする。
+      </article_item>
+    </articles>
+    <articles number="第八条" title="（補償額の供託）">
+      <article_item number="第八条">
+        補償額の認可を受けた者は、次に掲げる場合には、補償額を供託することができる。
+        <go>
+          <go_item number="一">
+            翻訳権を有する者が補償額の受領を拒み、又は受領することができない場合
+          </go_item>
+          <go_item number="二">
+            翻訳権を有する者を確知することができない場合
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="２">
+        前項の規定による補償額の供託は、補償額の認可を受けた者の住所又は居所のもよりの供託所にしなければならない。
+      </article_item>
+    </articles>
+    <articles number="第九条" title="（翻訳物に掲げる事項）">
+      <article_item number="第九条">
+        翻訳物の発行の許可に係る翻訳物には、次に掲げる事項を掲げなければならない。
+        <go>
+          <go_item number="一">
+            原著作物の題号及び原著作物に掲げられた原著作者の氏名（原著作者の氏名が掲げられていないときは、その旨）
+          </go_item>
+          <go_item number="二">
+            原著作物に掲げられた発行者の氏名又は名称
+          </go_item>
+          <go_item number="三">
+            原著作物の最初の発行の日の属する年
+          </go_item>
+          <go_item number="四">
+            翻訳物の発行者の氏名又は名称及び住所又は居所並びに法人にあつては代表者の氏名
+          </go_item>
+          <go_item number="五">
+            翻訳物の発行の許可に係る翻訳物である旨及び翻訳物の発行の許可を受けた日
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+  </body>
+</law>

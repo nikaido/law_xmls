@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>明治三十四年勅令第百八十八号（船舶信号ニ関スル件）</title>
+    <defined>明治三十四年十月五日勅令第百八十八号</defined>
+    <updated>昭和二〇年五月一九日勅令第三〇七号</updated>
+  </head>
+  <body>
+    <articles>
+      <article_item>
+        日本船舶ハ運輸省ニ於テ発行スル船舶信号書ニ拠リ普通信号ヲ為スヘシ
+      </article_item>
+    </articles>
+  </body>
+</law>

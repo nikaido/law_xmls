@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>郵便法第七十三条の審議会等を定める政令</title>
+    <defined>平成十五年三月二十八日政令第八十三号</defined>
+    <updated>平成二〇年七月二日政令第二一四号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、郵便法（昭和二十二年法律第百六十五号）第七十五条の八の規定に基づき、この政令を制定する。
+      </p>
+    </preamble>
+    <articles>
+      <article_item>
+        郵便法第七十三条の審議会等で政令で定めるものは、情報通信行政・郵政行政審議会とする。
+      </article_item>
+    </articles>
+  </body>
+</law>

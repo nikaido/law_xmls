@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>軌道抵当取扱規則</title>
+    <defined>明治四十二年七月二十一日閣令第六号</defined>
+    <updated>平成一二年一一月二九日運輸省令第三九号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        軌道抵当取扱規則左ノ通定ム
+      </p>
+    </preamble>
+    <articles number="第一条">
+      <article_item number="第一条">
+        軌道抵当ノ取扱ニ関シテハ鉄道抵当法施行規則（明治三十八年逓信省令第三十七号）ヲ準用ス
+      </article_item>
+    </articles>
+    <articles number="第二条">
+      <article_item number="第二条">
+        軌道財団設定ノ認可申請書ハ国土交通大臣宛トシ之ヲ差出スヘシ
+      </article_item>
+    </articles>
+    <articles number="第三条">
+      <article_item number="第三条">
+        削除
+      </article_item>
+    </articles>
+    <articles number="第四条">
+      <article_item number="第四条">
+        抵当権ノ登録ニ関スル申請書及軌道財団目録ニ関スル書類ハ国土交通大臣宛トシ之ヲ差出スヘシ
+      </article_item>
+    </articles>
+    <articles number="第五条">
+      <article_item number="第五条">
+        削除
+      </article_item>
+    </articles>
+    <articles number="第六条">
+      <article_item number="第六条">
+        削除
+      </article_item>
+    </articles>
+    <articles number="第七条">
+      <article_item number="第七条">
+        削除
+      </article_item>
+    </articles>
+    <articles number="第八条">
+      <article_item number="第八条">
+        競落人ニ依リテ発起セラレタル会社又ハ競落人タル会社ヨリ差出ス許可ノ申請書ハ国土交通大臣宛トスヘシ
+      </article_item>
+    </articles>
+    <articles number="第九条">
+      <article_item number="第九条">
+        管理人推薦ノ申立書、計算書及配当報告書ハ国土交通大臣宛トシ之ヲ差出スヘシ
+      </article_item>
+    </articles>
+  </body>
+</law>

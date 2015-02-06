@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>悪臭防止法施行令　抄</title>
+    <defined>昭和四十七年五月三十日政令第二百七号</defined>
+    <updated>平成二三年一一月二八日政令第三六四号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、悪臭防止法（昭和四十六年法律第九十一号）第二条、第十八条及び附則第二項の規定に基づき、この政令を制定する。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（特定悪臭物質）">
+      <article_item number="第一条">
+        悪臭防止法（以下「法」という。）第二条第一項の政令で定める物質は、次に掲げる物質とする。
+        <go>
+          <go_item number="一">
+            アンモニア
+          </go_item>
+          <go_item number="二">
+            メチルメルカプタン
+          </go_item>
+          <go_item number="三">
+            硫化水素
+          </go_item>
+          <go_item number="四">
+            硫化メチル
+          </go_item>
+          <go_item number="五">
+            二硫化メチル
+          </go_item>
+          <go_item number="六">
+            トリメチルアミン
+          </go_item>
+          <go_item number="七">
+            アセトアルデヒド
+          </go_item>
+          <go_item number="八">
+            プロピオンアルデヒド
+          </go_item>
+          <go_item number="九">
+            ノルマルブチルアルデヒド
+          </go_item>
+          <go_item number="十">
+            イソブチルアルデヒド
+          </go_item>
+          <go_item number="十一">
+            ノルマルバレルアルデヒド
+          </go_item>
+          <go_item number="十二">
+            イソバレルアルデヒド
+          </go_item>
+          <go_item number="十三">
+            イソブタノール
+          </go_item>
+          <go_item number="十四">
+            酢酸エチル
+          </go_item>
+          <go_item number="十五">
+            メチルイソブチルケトン
+          </go_item>
+          <go_item number="十六">
+            トルエン
+          </go_item>
+          <go_item number="十七">
+            スチレン
+          </go_item>
+          <go_item number="十八">
+            キシレン
+          </go_item>
+          <go_item number="十九">
+            プロピオン酸
+          </go_item>
+          <go_item number="二十">
+            ノルマル酪酸
+          </go_item>
+          <go_item number="二十一">
+            ノルマル吉草酸
+          </go_item>
+          <go_item number="二十二">
+            イソ吉草酸
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（手数料）">
+      <article_item number="第二条">
+        法第十三条第五項の手数料の額は、同条第一項の試験を受けようとする者については一万八千円、同項の適性検査を受けようとする者については九千円とする。
+      </article_item>
+    </articles>
+  </body>
+</law>
