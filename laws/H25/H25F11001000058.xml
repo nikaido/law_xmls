@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>国家公務員退職手当法の規定による早期退職希望者の募集及び認定の制度に係る書面の様式等を定める内閣官房令</title>
+    <defined>平成二十五年五月二十四日総務省令第五十八号</defined>
+    <updated>平成二六年五月二九日総務省令第五二号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        国家公務員退職手当法（昭和二十八年法律第百八十二号）及び国家公務員退職手当法施行令（昭和二十八年政令第二百十五号）の規定に基づき、国家公務員退職手当法の規定による早期退職希望者の募集及び認定の制度に係る書面の様式等を定める省令を次のように定める。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（応募及び応募の取下げの様式）">
+      <article_item number="第一条">
+        国家公務員退職手当法（以下「法」という。）第八条の二第三項の規定による応募（以下「応募」という。）は、別記様式第一の申請書によるものとする。
+      </article_item>
+      <article_item number="２">
+        法第八条の二第三項の規定による応募の取下げは、別記様式第二の申請書によるものとする。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（認定をし、又はしない旨の決定の通知の様式）">
+      <article_item number="第二条">
+        法第八条の二第六項の規定による通知は、次の各号の区分に応じて当該各号に定める通知書によるものとする。
+        <go>
+          <go_item number="一">
+            法第八条の二第五項の規定による認定（以下「認定」という。）をする旨の決定をしたとき　別記様式第三
+          </go_item>
+          <go_item number="二">
+            認定をしない旨の決定をしたとき　別記様式第四
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（退職すべき期日の通知の様式）">
+      <article_item number="第三条">
+        法第八条の二第七項の規定による通知（以下「第七項通知」という。）は、別記様式第五の通知書によるものとする。ただし、前条第一号に定める通知書により第七項通知を併せて行った場合は、別記様式第五の通知書を省略することができる。
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（内閣総理大臣に対する送付及び報告）">
+      <article_item number="第四条">
+        法第八条の二第九項の規定による送付及び報告は、次の各号に掲げる機関（当該機関が所管する特定独立行政法人（独立行政法人通則法（平成十一年法律第百三号）第二条第二項に規定する特定独立行政法人をいう。）を含む。）ごとに、毎年四月中に、前年度に認定を受けた応募をした職員の数及び当該認定に係る全ての募集実施要項（法第八条の二第二項に規定する募集実施要項をいう。以下同じ。）（同条第五項に規定する必要な方法を周知した場合にあっては、当該方法を含む。）について、別記様式第六により行うものとする。
+        <go>
+          <go_item number="一">
+            衆議院事務局（衆議院法制局及び裁判官訴追委員会事務局を含む。）
+          </go_item>
+          <go_item number="二">
+            参議院事務局（参議院法制局及び裁判官弾劾裁判所事務局を含む。）
+          </go_item>
+          <go_item number="三">
+            国立国会図書館
+          </go_item>
+          <go_item number="四">
+            会計検査院
+          </go_item>
+          <go_item number="五">
+            人事院
+          </go_item>
+          <go_item number="六">
+            内閣官房（内閣法制局を含む。）
+          </go_item>
+          <go_item number="七">
+            内閣府本府
+          </go_item>
+          <go_item number="八">
+            宮内庁
+          </go_item>
+          <go_item number="九">
+            公正取引委員会
+          </go_item>
+          <go_item number="十">
+            国家公安委員会
+          </go_item>
+          <go_item number="十一">
+            金融庁
+          </go_item>
+          <go_item number="十二">
+            消費者庁
+          </go_item>
+          <go_item number="十三">
+            総務省
+          </go_item>
+          <go_item number="十四">
+            法務省
+          </go_item>
+          <go_item number="十五">
+            外務省
+          </go_item>
+          <go_item number="十六">
+            財務省
+          </go_item>
+          <go_item number="十七">
+            文部科学省
+          </go_item>
+          <go_item number="十八">
+            厚生労働省
+          </go_item>
+          <go_item number="十九">
+            農林水産省
+          </go_item>
+          <go_item number="二十">
+            経済産業省
+          </go_item>
+          <go_item number="二十一">
+            国土交通省
+          </go_item>
+          <go_item number="二十二">
+            環境省
+          </go_item>
+          <go_item number="二十三">
+            防衛省
+          </go_item>
+          <go_item number="二十四">
+            最高裁判所
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（募集実施要項の記載事項）">
+      <article_item number="第五条">
+        国家公務員退職手当法施行令（以下「施行令」という。）第九条の五第一項第七号の内閣官房令で定める事項は、次に掲げるものとする。
+        <go>
+          <go_item number="一">
+            法第八条の二第三項各号に掲げる職員が応募をすることはできない旨
+          </go_item>
+          <go_item number="二">
+            法第八条の二第五項の規定により認定をしない旨の決定をする場合がある旨
+          </go_item>
+          <go_item number="三">
+            認定を行った後遅滞なく、退職すべき期間のいずれかの日から退職すべき期日を定め、第七項通知を行うこととなる旨（募集実施要項に退職すべき期間を記載した場合に限る。）
+          </go_item>
+          <go_item number="四">
+            施行令第九条の七第一項の規定により募集の期間を延長する場合があるときは、その旨
+          </go_item>
+          <go_item number="五">
+            施行令第九条の八第一項の規定により退職すべき期日を繰り上げ、又は繰り下げる場合があるときは、その旨
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（退職すべき期日の繰上げ又は繰下げに係る同意の様式）">
+      <article_item number="第六条">
+        施行令第九条の八第一項の規定による同意は、次の各号の区分に応じて当該各号に定める同意書によるものとする。
+        <go>
+          <go_item number="一">
+            退職すべき期日を繰り上げるとき　別記様式第七
+          </go_item>
+          <go_item number="二">
+            退職すべき期日を繰り下げるとき　別記様式第八
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第七条" title="（新たに定めた退職すべき期日の通知の様式）">
+      <article_item number="第七条">
+        施行令第九条の八第二項の規定による新たに定めた退職すべき期日の通知は、別記様式第九の通知書によるものとする。
+      </article_item>
+    </articles>
+  </body>
+</law>

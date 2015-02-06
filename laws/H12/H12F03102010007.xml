@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>首都圏近郊緑地保全法施行規則</title>
+    <defined>平成十二年十二月十五日総理府・建設省令第七号</defined>
+    <updated>平成一六年一二月一五日国土交通省令第九九号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        首都圏近郊緑地保全法（昭和四十一年法律第百一号）第八条第一項及び第十五条並びに首都圏近郊緑地保全法施行令（昭和四十二年政令第十三号）第一条の規定に基づき、首都圏近郊緑地保全法施行規則を次のように定める。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（収用委員会に対する裁決申請書の様式）">
+      <article_item number="第一条">
+        首都圏近郊緑地保全法施行令第一条の国土交通省令で定める様式は、別記様式のとおりとする。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（保全区域における行為の届出の手続）">
+      <article_item number="第二条">
+        首都圏近郊緑地保全法（以下「法」という。）第七条第一項の規定による届出は、都県知事（地方自治法（昭和二十二年法律第六十七号）第二百五十二条の十九第一項の指定都市においては、その長）の定めるところにより、書面を提出してしなければならない。
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（法第八条第三項第三号の国土交通省令で定める基準）">
+      <article_item number="第三条">
+        法第八条第三項第三号の国土交通省令で定める基準は、次に掲げるものとする。
+        <go>
+          <go_item number="一">
+            管理協定区域は、その境界が明確に定められていなければならない。
+          </go_item>
+          <go_item number="二">
+            管理協定区域内の近郊緑地の管理の方法に関する事項は、除伐、間伐、枯損した木竹又は危険な木竹の伐採、枝打ち、病害虫の防除その他これらに類する事項で、近郊緑地の保全に関連して必要とされるものでなければならない。
+          </go_item>
+          <go_item number="三">
+            管理協定区域内の近郊緑地の保全に関連して必要とされる施設の整備に関する事項は、防火施設、管理用通路、さくその他これらに類する施設の整備に関する事項で、近郊緑地の適正な保全に資するものでなければならない。
+          </go_item>
+          <go_item number="四">
+            管理協定の有効期間は、五年以上二十年以下でなければならない。
+          </go_item>
+          <go_item number="五">
+            管理協定に違反した場合の措置は、違反した者に対して不当に重い負担を課するものであってはならない。
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（管理協定の公告）">
+      <article_item number="第四条">
+        法第九条第一項（法第十二条において準用する場合を含む。）の規定による公告は、次に掲げる事項について、公報、掲示その他の方法で行うものとする。
+        <go>
+          <go_item number="一">
+            管理協定の名称
+          </go_item>
+          <go_item number="二">
+            管理協定区域
+          </go_item>
+          <go_item number="三">
+            管理協定の有効期間
+          </go_item>
+          <go_item number="四">
+            管理協定区域内の近郊緑地の保全に関連して必要とされる施設が定められたときは、その施設
+          </go_item>
+          <go_item number="五">
+            管理協定の縦覧場所
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（管理協定の締結等の公告）">
+      <article_item number="第五条">
+        前条の規定は、法第十一条（法第十二条において準用する場合を含む。）の規定による公告について準用する。
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（権限の委任）">
+      <article_item number="第六条">
+        法第五条第二項の規定による国土交通大臣の権限（近郊緑地特別保全地区に関する都市計画の決定又は変更に同意しようとする場合に限る。）は、地方整備局長に委任する。
+      </article_item>
+    </articles>
+  </body>
+</law>

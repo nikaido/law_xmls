@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>国旗及び国歌に関する法律</title>
+    <defined>平成十一年八月十三日法律第百二十七号</defined>
+  </head>
+  <body>
+    <articles number="第一条" title="（国旗）">
+      <article_item number="第一条">
+        国旗は、日章旗とする。
+      </article_item>
+      <article_item number="２">
+        日章旗の制式は、別記第一のとおりとする。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（国歌）">
+      <article_item number="第二条">
+        国歌は、君が代とする。
+      </article_item>
+      <article_item number="２">
+        君が代の歌詞及び楽曲は、別記第二のとおりとする。
+      </article_item>
+    </articles>
+  </body>
+</law>

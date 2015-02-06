@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>民間事業者による信書の送達に関する法律第三十七条の審議会等を定める政令</title>
+    <defined>平成十五年三月二十八日政令第九十一号</defined>
+    <updated>平成二〇年七月二日政令第二一四号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、民間事業者による信書の送達に関する法律（平成十四年法律第九十九号）第三十七条の規定に基づき、この政令を制定する。
+      </p>
+    </preamble>
+    <articles>
+      <article_item>
+        民間事業者による信書の送達に関する法律第三十七条の審議会等で政令で定めるものは、情報通信行政・郵政行政審議会とする。
+      </article_item>
+    </articles>
+  </body>
+</law>

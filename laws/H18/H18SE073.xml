@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>国会議員互助年金法施行令を廃止する等の政令　抄</title>
+    <defined>平成十八年三月二十九日政令第七十三号</defined>
+    <updated>平成一九年九月二〇日政令第二九二号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、国会議員互助年金法（昭和三十三年法律第七十号）の廃止に伴い、及び関係法律の規定に基づき、この政令を制定する。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（国会議員互助年金法施行令の廃止）">
+      <article_item number="第一条">
+        国会議員互助年金法施行令（昭和三十三年政令第百四十三号）は、廃止する。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（厚生年金保険法施行令の一部改正）">
+      <article_item number="第二条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（国家公務員共済組合法施行令の一部改正）">
+      <article_item number="第三条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（国民年金法施行令の一部改正）">
+      <article_item number="第四条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（地方公務員等共済組合法施行令の一部改正）">
+      <article_item number="第五条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（特別児童扶養手当等の支給に関する法律施行令の一部改正）">
+      <article_item number="第六条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第七条" title="（国民年金法等の一部を改正する法律の施行に伴う経過措置に関する政令の一部改正）">
+      <article_item number="第七条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第八条" title="（厚生年金保険法等の一部を改正する法律の施行に伴う経過措置に関する政令の一部改正）">
+      <article_item number="第八条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第九条" title="（日本郵政公社法施行令の一部改正）">
+      <article_item number="第九条">
+        略
+      </article_item>
+    </articles>
+  </body>
+</law>

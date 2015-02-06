@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>明治三十一年勅令第九十号（閏年ニ関スル件）</title>
+    <defined>明治三十一年五月十一日勅令第九十号</defined>
+  </head>
+  <body>
+    <articles>
+      <article_item>
+        神武天皇即位紀元年数ノ四ヲ以テ整除シ得ヘキ年ヲ閏年トス但シ紀元年数ヨリ六百六十ヲ減シテ百ヲ以テ整除シ得ヘキモノノ中更ニ四ヲ以テ商ヲ整除シ得サル年ハ平年トス
+      </article_item>
+    </articles>
+  </body>
+</law>

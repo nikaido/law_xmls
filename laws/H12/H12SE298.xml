@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>国土審議会令</title>
+    <defined>平成十二年六月七日政令第二百九十八号</defined>
+    <updated>平成二四年六月二七日政令第一七〇号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、国土交通省設置法（平成十一年法律第百号）第十二条の規定に基づき、この政令を制定する。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（専門委員）">
+      <article_item number="第一条">
+        国土審議会（以下「審議会」という。）に、専門の事項を調査させるため必要があるときは、専門委員を置くことができる。
+      </article_item>
+      <article_item number="２">
+        専門委員は、当該専門の事項に関し学識経験のある者のうちから、国土交通大臣が任命する。
+      </article_item>
+      <article_item number="３">
+        専門委員は、その者の任命に係る当該専門の事項に関する調査が終了したときは、解任されるものとする。
+      </article_item>
+      <article_item number="４">
+        専門委員は、非常勤とする。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（分科会）">
+      <article_item number="第二条">
+        審議会に、次の表の上欄に掲げる分科会を置き、これらの分科会の所掌事務は、審議会の所掌事務のうち、それぞれ同表の下欄に掲げる法律の規定により審議会の権限に属させられた事項を処理することとする。
+        <table>
+          <tr>
+            <td>
+              名称
+            </td>
+            <td>
+              法律の規定
+            </td>
+          </tr>
+          <tr>
+            <td rowspan="5">土地政策分科会
+            </td>
+            <td>
+              国土利用計画法（昭和四十九年法律第九十二号）第十三条第二項
+            </td>
+          </tr>
+          <tr>
+            <td>
+              土地基本法（平成元年法律第八十四号）第十条第三項及び第十九条
+            </td>
+          </tr>
+          <tr>
+            <td>
+              地価公示法（昭和四十四年法律第四十九号）第二十六条の二
+            </td>
+          </tr>
+          <tr>
+            <td>
+              国土調査法（昭和二十六年法律第百八十号）第十二条
+            </td>
+          </tr>
+          <tr>
+            <td>
+              国土調査促進特別措置法（昭和三十七年法律第百四十三号）第三条第一項（同条第六項において準用する場合を含む。）
+            </td>
+          </tr>
+          <tr>
+            <td>
+              北海道開発分科会
+            </td>
+            <td>
+              北海道開発法（昭和二十五年法律第百二十六号）第四条
+            </td>
+          </tr>
+          <tr>
+            <td>
+              水資源開発分科会
+            </td>
+            <td>
+              水資源開発促進法（昭和三十六年法律第二百十七号）第三条第一項、第四条第一項（同条第五項において準用する場合を含む。）並びに第六条第一項及び第二項
+            </td>
+          </tr>
+          <tr>
+            <td>
+              豪雪地帯対策分科会
+            </td>
+            <td>
+              豪雪地帯対策特別措置法（昭和三十七年法律第七十三号）第二条第一項及び第二項、第三条第一項（同条第四項において準用する場合を含む。）並びに第五条
+            </td>
+          </tr>
+        </table>
+      </article_item>
+      <article_item number="２">
+        前項の表の上欄に掲げる分科会に属すべき委員及び特別委員は、国土交通大臣が指名する。
+      </article_item>
+      <article_item number="３">
+        分科会に属すべき専門委員は、会長が指名する。
+      </article_item>
+      <article_item number="４">
+        分科会に、分科会長を置く。分科会長は、当該分科会に属する委員のうちから当該分科会に属する委員及び特別委員がこれを選挙する。
+      </article_item>
+      <article_item number="５">
+        分科会長は、当該分科会の事務を掌理する。
+      </article_item>
+      <article_item number="６">
+        分科会長に事故があるときは、当該分科会に属する委員又は特別委員のうちから分科会長があらかじめ指名する者が、その職務を代理する。
+      </article_item>
+      <article_item number="７">
+        審議会は、その定めるところにより、分科会の議決をもって審議会の議決とすることができる。
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（部会）">
+      <article_item number="第三条">
+        審議会及び分科会は、その定めるところにより、部会を置くことができる。
+      </article_item>
+      <article_item number="２">
+        部会に属すべき委員、特別委員及び専門委員は、会長（分科会に置かれる部会にあっては、分科会長）が指名する。
+      </article_item>
+      <article_item number="３">
+        部会に、部会長を置き、当該部会に属する委員及び特別委員の互選により選任する。
+      </article_item>
+      <article_item number="４">
+        部会長は、当該部会の事務を掌理する。
+      </article_item>
+      <article_item number="５">
+        部会長に事故があるときは、当該部会に属する委員又は特別委員のうちから部会長があらかじめ指名する者が、その職務を代理する。
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（幹事）">
+      <article_item number="第四条">
+        審議会に、幹事を置く。
+      </article_item>
+      <article_item number="２">
+        幹事は、関係行政機関の職員のうちから、国土交通大臣が任命する。
+      </article_item>
+      <article_item number="３">
+        幹事は、審議会の所掌事務について、委員を補佐する。
+      </article_item>
+      <article_item number="４">
+        幹事は、非常勤とする。
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（議事）">
+      <article_item number="第五条">
+        審議会は、委員及び議事に関係のある特別委員の二分の一以上が出席しなければ、会議を開き、議決することができない。
+      </article_item>
+      <article_item number="２">
+        審議会の議事は、委員及び議事に関係のある特別委員で会議に出席したものの過半数で決し、可否同数のときは、会長の決するところによる。
+      </article_item>
+      <article_item number="３">
+        前二項の規定は、分科会及び部会の議事に準用する。
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（庶務）">
+      <article_item number="第六条">
+        審議会の庶務は、国土交通省国土政策局総務課において総括し、及び処理する。ただし、次の表の上欄に掲げる分科会に係るものについては、それぞれ同表の下欄に掲げる課において処理する。
+        <table>
+          <tr>
+            <td>
+              分科会
+            </td>
+            <td>
+              課
+            </td>
+          </tr>
+          <tr>
+            <td>
+              土地政策分科会
+            </td>
+            <td>
+              国土交通省土地・建設産業局総務課
+            </td>
+          </tr>
+          <tr>
+            <td>
+              北海道開発分科会
+            </td>
+            <td>
+              国土交通省北海道局総務課
+            </td>
+          </tr>
+          <tr>
+            <td>
+              水資源開発分科会
+            </td>
+            <td>
+              国土交通省水管理・国土保全局水資源部水資源政策課
+            </td>
+          </tr>
+          <tr>
+            <td>
+              豪雪地帯対策分科会
+            </td>
+            <td>
+              国土交通省国土政策局地方振興課
+            </td>
+          </tr>
+        </table>
+      </article_item>
+    </articles>
+    <articles number="第七条" title="（雑則）">
+      <article_item number="第七条">
+        この政令に定めるもののほか、議事の手続その他審議会の運営に関し必要な事項は、会長が審議会に諮って定める。
+      </article_item>
+    </articles>
+  </body>
+</law>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>厚生年金保険制度及び農林漁業団体職員共済組合制度の統合を図るための農林漁業団体職員共済組合法等を廃止する等の法律　抄</title>
+    <defined>平成十三年七月四日法律第百一号</defined>
+    <updated>平成二六年六月一一日法律第六四号</updated>
+  </head>
+  <body>
+    <articles number="第一条" title="（農林漁業団体職員共済組合法等の廃止）">
+      <article_item number="第一条">
+        次に掲げる法律は、廃止する。
+        <go>
+          <go_item number="一">
+            農林漁業団体職員共済組合法（昭和三十三年法律第九十九号）
+          </go_item>
+          <go_item number="二">
+            昭和四十四年度以後における農林漁業団体職員共済組合からの年金の額の改定に関する法律（昭和四十四年法律第九十七号）
+          </go_item>
+          <go_item number="三">
+            昭和六十二年度及び昭和六十三年度における農林漁業団体職員共済組合法の年金の額の改定の特例に関する法律（昭和六十二年法律第七十三号）
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（厚生年金保険法の一部改正）">
+      <article_item number="第二条">
+        略
+      </article_item>
+    </articles>
+  </body>
+</law>

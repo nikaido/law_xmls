@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>電気通信紛争処理委員会事務局組織規則</title>
+    <defined>平成十三年十一月二十九日総務省令第百五十四号</defined>
+    <updated>平成二三年六月二九日総務省令第七八号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        電気通信事業紛争処理委員会令（平成十三年政令第三百六十二号）第四条第二項の規定に基づき、電気通信事業紛争処理委員会事務局組織規則を次のように定める。
+      </p>
+    </preamble>
+    <articles number="１">
+      <article_item number="１">
+        電気通信紛争処理委員会の事務局に、紛争処理調査官を置く。
+      </article_item>
+      <article_item number="２">
+        紛争処理調査官は、命を受けて、電気通信事業、電波の利用又は放送の業務に係る紛争の処理に関する重要事項についての調査、企画及び立案を行う。
+      </article_item>
+    </articles>
+  </body>
+</law>

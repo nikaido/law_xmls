@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>放射線審議会令</title>
+    <defined>昭和三十三年五月二十一日政令第百三十五号</defined>
+    <updated>平成二四年九月一四日政令第二三五号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、放射線障害防止の技術的基準に関する法律（昭和三十三年法律第百六十二号）第十一条の規定に基き、この政令を制定する。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（専門委員）">
+      <article_item number="第一条">
+        放射線審議会（以下「審議会」という。）に、専門の事項を調査させるため、専門委員を置くことができる。
+      </article_item>
+      <article_item number="２">
+        専門委員は、放射線障害の防止に関し学識経験のある者のうちから、原子力規制委員会委員長が任命する。
+      </article_item>
+      <article_item number="３">
+        専門委員は、非常勤とする。
+      </article_item>
+      <article_item number="４">
+        専門委員は、当該専門の事項に関する調査を終了したときは、解任されるものとする。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（部会）">
+      <article_item number="第二条">
+        審議会に、その所掌事務を分掌させるため、その定めるところにより、部会を置く。
+      </article_item>
+      <article_item number="２">
+        部会に属すべき委員及び専門委員は、会長が指名する。
+      </article_item>
+      <article_item number="３">
+        部会に部会長を置き、その部会に属する委員のうちから互選された者がこれに当る。
+      </article_item>
+      <article_item number="４">
+        部会長は、部会の事務を掌理する。
+      </article_item>
+      <article_item number="５">
+        部会長に事故があるときは、あらかじめその指名する委員がその職務を代理する。
+      </article_item>
+      <article_item number="６">
+        審議会は、その定めるところにより、部会の議決をもつて審議会の議決とすることができる。
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（議事）">
+      <article_item number="第三条">
+        審議会は、委員の過半数が出席しなければ、会議を開き、議決することができない。
+      </article_item>
+      <article_item number="２">
+        審議会の議事は、出席した委員の過半数で決し、可否同数のときは、会長の決するところによる。
+      </article_item>
+      <article_item number="３">
+        前二項の規定は、部会の議事について準用する。
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（庶務）">
+      <article_item number="第四条">
+        審議会の庶務は、原子力規制委員会原子力規制庁において処理する。
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（雑則）">
+      <article_item number="第五条">
+        この政令に定めるもののほか、議事の手続その他審議会の運営に関し必要な事項は、会長が審議会に諮つて定める。
+      </article_item>
+    </articles>
+  </body>
+</law>

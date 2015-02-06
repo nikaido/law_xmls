@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>農林水産省定員規則</title>
+    <defined>平成十三年一月六日農林水産省令第二十七号</defined>
+    <updated>平成二六年三月三一日農林水産省令第二五号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        行政機関職員定員令（昭和四十四年政令第百二十一号）第二条第二項の規定に基づき、及び同令を実施するため、農林水産省定員規則を次のように定める。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（本省及び各外局別の定員）">
+      <article_item number="第一条">
+        農林水産省の本省及び各外局別の定員は、次の表のとおりとする。
+        <table>
+          <tr>
+            <td>
+              区分
+            </td>
+            <td>
+              定員
+            </td>
+            <td>
+              備考
+            </td>
+          </tr>
+          <tr>
+            <td>
+              本省
+            </td>
+            <td>
+              一六、六一七人
+            </td>
+            <td>
+              　
+            </td>
+          </tr>
+          <tr>
+            <td>
+              林野庁
+            </td>
+            <td>
+              四、八七九人
+            </td>
+            <td>
+              　
+            </td>
+          </tr>
+          <tr>
+            <td>
+              水産庁
+            </td>
+            <td>
+              八八三人
+            </td>
+            <td>
+              　
+            </td>
+          </tr>
+          <tr>
+            <td>
+              合計
+            </td>
+            <td>
+              二二、三七九人
+            </td>
+            <td>
+              　
+            </td>
+          </tr>
+        </table>
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（本省及び各外局の各内部部局、各施設等機関、特別の機関及び各地方支分部局別の定員）">
+      <article_item number="第二条">
+        本省及び各外局の各内部部局、各施設等機関、特別の機関及び各地方支分部局別の定員は、前条に定める本省又は各外局別の定員の範囲内において、農林水産大臣が別に定める。
+      </article_item>
+    </articles>
+  </body>
+</law>

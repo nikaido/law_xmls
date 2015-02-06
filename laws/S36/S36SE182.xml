@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>選挙制度審議会令</title>
+    <defined>昭和三十六年六月八日政令第百八十二号</defined>
+    <updated>平成一二年六月七日政令第三〇三号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、選挙制度審議会設置法（昭和三十六年法律第百十九号）第十条の規定に基づき、この政令を制定する。
+      </p>
+    </preamble>
+    <articles number="第一条">
+      <article_item number="第一条">
+        選挙制度審議会（以下「審議会」という。）の会議は、会長が招集する。
+      </article_item>
+      <article_item number="２">
+        審議会の会議は、委員及び議事に関係のある特別委員の三分の一以上が出席しなければ、開くことができない。
+      </article_item>
+      <article_item number="３">
+        審議会の議事は、出席した委員及び議事に関係のある特別委員の過半数で決し、可否同数のときは、会長の決するところによる。
+      </article_item>
+    </articles>
+    <articles number="第二条">
+      <article_item number="第二条">
+        審議会の庶務は、内閣府大臣官房企画調整課において総務省自治行政局選挙部選挙課の協力を得て処理する。
+      </article_item>
+    </articles>
+    <articles number="第三条">
+      <article_item number="第三条">
+        前二条に定めるもののほか、審議会の議事の手続その他審議会の運営に関し必要な事項は、会長が審議会に諮つて定める。
+      </article_item>
+    </articles>
+  </body>
+</law>

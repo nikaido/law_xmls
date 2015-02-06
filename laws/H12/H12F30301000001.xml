@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>警察職員の職務倫理及び服務に関する規則</title>
+    <defined>平成十二年一月二十五日国家公安委員会規則第一号</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        警察法施行令（昭和二十九年政令第百五十一号）第十三条第一項の規定に基づき、警察職員の職務倫理及び服務に関する規則を次のように定める。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（目的）">
+      <article_item number="第一条">
+        この規則は、警察職員が保持すべき職務に係る倫理（以下「職務倫理」という。）及び警察職員の服務の基準を定めることを目的とする。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（職務倫理）">
+      <article_item number="第二条">
+        警察職員は、警察の任務が国民から負託されたものであることを自覚し、国民の信頼にこたえることができるよう、高い倫理観の涵養に努め、職務倫理を保持しなければならない。
+      </article_item>
+      <article_item number="２">
+        前項の職務倫理の基本は、次に掲げる事項とする。
+        <go>
+          <go_item number="一">
+            誇りと使命感を持って、国家と国民に奉仕すること。
+          </go_item>
+          <go_item number="二">
+            人権を尊重し、公正かつ親切に職務を執行すること。
+          </go_item>
+          <go_item number="三">
+            規律を厳正に保持し、相互の連帯を強めること。
+          </go_item>
+          <go_item number="四">
+            人格を磨き、能力を高め、自己の充実に努めること。
+          </go_item>
+          <go_item number="五">
+            清廉にして、堅実な生活態度を保持すること。
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（服務の根本基準）">
+      <article_item number="第三条">
+        警察職員は、全体の奉仕者として公共の利益のために勤務し、かつ、その職務の遂行に当たっては、不偏不党かつ公平中正を旨とし、全力を挙げてこれに専念しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（法令等の厳守）">
+      <article_item number="第四条">
+        警察職員は、その職務の遂行に当たっては、法令、条例、規則及び上司の職務上の命令を厳守し、その権限を濫用してはならない。
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（信用失墜行為の禁止）">
+      <article_item number="第五条">
+        警察職員は、国民の信頼及び協力が警察の任務を遂行する上で不可欠であることを自覚し、その職の信用を傷つけ、又は警察の不名誉となるような行為をしてはならない。
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（個人に関する情報の保護）">
+      <article_item number="第六条">
+        警察職員は、職務上個人に関する情報の取扱いが多いことを自覚し、正当な理由なく、職務上知り得た個人に関する情報を漏らしてはならない。
+      </article_item>
+    </articles>
+    <articles number="第七条" title="（職務の公正の保持）">
+      <article_item number="第七条">
+        警察職員は、職務に支障を及ぼすおそれがあると認められる金銭、物品その他の財産上の利益の供与若しくは供応接待を受け、又は職務に利害関係を有する者と職務の公正が疑われるような方法で交際してはならない。
+      </article_item>
+    </articles>
+  </body>
+</law>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>総合的な国土の形成を図るための国土総合開発法等の一部を改正する等の法律　抄</title>
+    <defined>平成十七年七月二十九日法律第八十九号</defined>
+  </head>
+  <body>
+    <articles number="第一条" title="（国土総合開発法の一部改正）">
+      <article_item number="第一条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（国土利用計画法の一部改正）">
+      <article_item number="第二条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（首都圏整備法の一部改正）">
+      <article_item number="第三条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（近畿圏整備法の一部改正）">
+      <article_item number="第四条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（中部圏開発整備法の一部改正）">
+      <article_item number="第五条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（東北開発促進法等の廃止）">
+      <article_item number="第六条">
+        次に掲げる法律は、廃止する。
+        <go>
+          <go_item number="一">
+            東北開発促進法（昭和三十二年法律第百十号）
+          </go_item>
+          <go_item number="二">
+            九州地方開発促進法（昭和三十四年法律第六十号）
+          </go_item>
+          <go_item number="三">
+            四国地方開発促進法（昭和三十五年法律第六十三号）
+          </go_item>
+          <go_item number="四">
+            北陸地方開発促進法（昭和三十五年法律第百七十一号）
+          </go_item>
+          <go_item number="五">
+            中国地方開発促進法（昭和三十五年法律第百七十二号）
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+  </body>
+</law>

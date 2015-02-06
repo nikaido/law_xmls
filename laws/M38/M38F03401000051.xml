@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>明治三十八年大蔵省令第五十一号（印紙貼用方ノ件）</title>
+    <defined>明治三十八年十一月十六日大蔵省令第五十一号</defined>
+    <updated>大正九年六月二四日大蔵省令第二一号</updated>
+  </head>
+  <body>
+    <articles>
+      <article_item>
+        収入印紙ヲ以テ手数料ヲ納ムルトキハ其金額ニ相当スル印紙ヲ願書其他ノ書類ニ貼付スヘシ 
+      </article_item>
+    </articles>
+  </body>
+</law>

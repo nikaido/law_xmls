@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>新産業都市建設促進法等を廃止する法律の施行に伴う関係政令の整備等に関する政令　抄</title>
+    <defined>平成十三年三月三十日政令第百四十九号</defined>
+    <updated>平成一七年三月三一日政令第九四号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、新産業都市建設促進法等を廃止する法律（平成十三年法律第十四号）の施行に伴い、及び関係法律の規定に基づき、この政令を制定する。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（新産業都市建設促進法施行令等の廃止）">
+      <article_item number="第一条">
+        次に掲げる政令は、廃止する。
+        <go>
+          <go_item number="一">
+            新産業都市建設促進法施行令（昭和三十七年政令第三百四号）
+          </go_item>
+          <go_item number="二">
+            工業整備特別地域整備促進法施行令（昭和三十九年政令第二百七十九号）
+          </go_item>
+          <go_item number="三">
+            新産業都市建設及び工業整備特別地域整備のための国の財政上の特別措置に関する法律施行令（昭和四十年政令第二百七十二号）
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（地方財政法施行令の一部改正）">
+      <article_item number="第二条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（首都圏の近郊整備地帯及び都市開発区域の整備に関する法律施行令の一部改正）">
+      <article_item number="第三条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（産炭地域振興臨時措置法施行令の一部改正）">
+      <article_item number="第四条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（都市計画法施行令の一部改正）">
+      <article_item number="第五条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（農地所有者等賃貸住宅建設融資利子補給臨時措置法施行令の一部改正）">
+      <article_item number="第六条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第七条" title="（農村地域工業等導入促進法施行令の一部改正）">
+      <article_item number="第七条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第八条" title="（農住組合法施行令の一部改正）">
+      <article_item number="第八条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第九条" title="（財政構造改革の推進に関する特別措置法施行令の一部改正）">
+      <article_item number="第九条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第十条" title="（雇用・能力開発機構法施行令の一部改正）">
+      <article_item number="第十条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第十一条" title="（総務省組織令の一部改正）">
+      <article_item number="第十一条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第十二条" title="（国土審議会令の一部改正）">
+      <article_item number="第十二条">
+        略
+      </article_item>
+    </articles>
+  </body>
+</law>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>元号法</title>
+    <defined>昭和五十四年六月十二日法律第四十三号</defined>
+  </head>
+  <body>
+    <articles number="１">
+      <article_item number="１">
+        元号は、政令で定める。
+      </article_item>
+      <article_item number="２">
+        元号は、皇位の継承があつた場合に限り改める。
+      </article_item>
+    </articles>
+  </body>
+</law>

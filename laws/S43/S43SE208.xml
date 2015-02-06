@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>小笠原諸島の復帰に伴う郵政省関係法律の適用の暫定措置に関する政令　抄</title>
+    <defined>昭和四十三年六月二十四日政令第二百八号</defined>
+    <updated>昭和五八年三月二九日政令第三九号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、小笠原諸島の復帰に伴う法令の適用の暫定措置等に関する法律（昭和四十三年法律第八十三号）第八条第六号の規定に基づき、この政令を制定する。
+      </p>
+    </preamble>
+    <articles number="第四条" title="（有線電気通信法及び公衆電気通信法施行法関係）">
+      <article_item number="第四条">
+        有線電気通信法及び公衆電気通信法施行法（昭和二十八年法律第九十八号）第十三条の規定は、法の施行の際現に小笠原諸島において戦災により滅失している加入電話を復旧する場合に準用する。
+      </article_item>
+    </articles>
+  </body>
+</law>

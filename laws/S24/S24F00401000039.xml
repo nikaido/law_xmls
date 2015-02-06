@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>不動産登記嘱託職員を指定する府令</title>
+    <defined>昭和二十四年八月三日法務府令第三十九号</defined>
+    <updated>平成一二年一二月二八日法務省令第四六号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        不動産登記嘱託職員を指定する府令を次のように定める。
+      </p>
+    </preamble>
+    <articles>
+      <article_item>
+        法務省所管の不動産登記嘱託職員として次の職員を指定する。<br/>　　　法務省大臣官房施設課長<br/>検事総長<br/>検事長<br/>検事正<br/>法務局長<br/>地方法務局長<br/>矯正管区長<br/>刑務所長<br/>少年刑務所長<br/>拘置所長<br/>少年院長<br/>少年鑑別所長<br/>婦人補導院長<br/>地方更生保護委員会委員長<br/>保護観察所長<br/>入国者収容所長<br/>地方入国管理局長<br/>矯正研修所長<br/>公安調査庁長官<br/>公安調査局長
+      </article_item>
+    </articles>
+  </body>
+</law>

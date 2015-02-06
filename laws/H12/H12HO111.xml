@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>社会福祉の増進のための社会福祉事業法等の一部を改正する等の法律　抄</title>
+    <defined>平成十二年六月七日法律第百十一号</defined>
+  </head>
+  <body>
+    <articles number="第十四条" title="（公益質屋法の廃止）">
+      <article_item number="第十四条">
+        公益質屋法（昭和二年法律第三十五号）は、廃止する。
+      </article_item>
+    </articles>
+  </body>
+</law>

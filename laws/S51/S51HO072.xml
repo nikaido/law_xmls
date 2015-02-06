@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>国際連合大学本部に関する国際連合と日本国との間の協定の実施に伴う特別措置法</title>
+    <defined>昭和五十一年六月二十二日法律第七十二号</defined>
+    <updated>平成一九年六月二七日法律第九六号</updated>
+  </head>
+  <body>
+    <articles number="第一条" title="（定義）">
+      <article_item number="第一条">
+        この法律において「協定」とは、国際連合大学本部に関する国際連合と日本国との間の協定をいう。
+      </article_item>
+      <article_item number="２">
+        この法律において「大学」とは、千九百七十二年十二月十一日の国際連合総会決議に基づき設立された国際連合大学をいう。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（国有の財産の無償使用）">
+      <article_item number="第二条">
+        国は、協定を実施するため、国有の財産（国有財産法（昭和二十三年法律第七十三号）第二条第一項に規定する国有財産、物品管理法（昭和三十一年法律第百十三号）第二条第一項に規定する物品及び国有財産法の適用を受けない国有の権利をいう。）を大学の用に供する必要があるときは、無償で、大学に対して当該財産を使用させることができる。
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（名称の使用制限）">
+      <article_item number="第三条">
+        大学でない者は、国際連合大学という名称又はこれに類似する名称を用いてはならない。
+      </article_item>
+      <article_item number="２">
+        前項の規定に違反して、国際連合大学という名称又はこれに類似する名称を用いた者は、一万円以下の過料に処する。
+      </article_item>
+      <article_item number="３">
+        学校教育法（昭和二十二年法律第二十六号）第百三十五条第一項の規定は、大学には適用しない。
+      </article_item>
+    </articles>
+  </body>
+</law>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>通貨の単位及び貨幣の発行等に関する法律施行規則</title>
+    <defined>昭和六十三年三月二十三日大蔵省令第七号</defined>
+    <updated>平成一五年三月三一日財務省令第四七号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        通貨の単位及び貨幣の発行等に関する法律（昭和六十二年法律第四十二号）第八条、附則第六条及び附則第七条の規定に基づき、並びに同法を実施するため、通貨の単位及び貨幣の発行等に関する法律施行規則を次のように定める
+      </p>
+    </preamble>
+    <articles number="第一条" title="（貨幣の引換事務の取扱機関等）">
+      <article_item number="第一条">
+        通貨の単位及び貨幣の発行等に関する法律（以下「法」という。）第八条の規定による貨幣の引換えに関する事務は、日本銀行がその本店及び支店において行い、その事務に要する経費は日本銀行が負担する。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（貨幣の引換事務の取扱機関等）">
+      <article_item number="第二条">
+        前条の貨幣の引換えは、模様の認識ができ、かつ、量目が通貨の単位及び貨幣の発行等に関する法律施行令（昭和六十三年政令第五十号）（以下この条において「令」という。）第一条又は第二条に定める量目の二分の一を超えるものについて行うものとする。ただし、金を素材とする貨幣の引換えは、模様の認識ができ、かつ、量目が令第一条又は第二条に定める量目の百分の九十八以上のものについて行うものとする。
+      </article_item>
+      <article_item number="２">
+        前条の貨幣の引換えは、災害その他やむを得ない事由により量目が減少した貨幣にあつては、模様の認識ができるものについて行うものとする。
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（貨幣の引換事務の取扱機関等）">
+      <article_item number="第三条">
+        削除
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（旧金貨幣の引換事務の取扱店）">
+      <article_item number="第四条">
+        法附則第三条に規定する旧金貨幣（以下「旧金貨幣」という。）の引換えは、日本銀行本店及び支店（以下「引換事務取扱店」という。）において行うものとする。
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（旧金貨幣の引換手続）">
+      <article_item number="第五条">
+        法附則第四条の規定により旧金貨幣の引換えを請求しようとする者は、当該旧金貨幣に引換えのための請求書を添えて引換事務取扱店に提出しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（引換事務取扱店の日計表）">
+      <article_item number="第六条">
+        引換事務取扱店は、旧金貨幣の引換えに関する事項を記録するため、日計表を作成しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第七条" title="（引換事務取扱店の備付帳簿）">
+      <article_item number="第七条">
+        引換事務取扱店は、旧金貨幣の引換えに伴う旧金貨幣の受入れを記録するため、帳簿を備え付けなければならない。
+      </article_item>
+    </articles>
+    <articles number="第八条" title="（引換事務の報告）">
+      <article_item number="第八条">
+        日本銀行本店は、法附則第四条から第六条までに規定する旧金貨幣の引換えに関する報告書を、翌月末日までに財務大臣に提出しなければならない。
+      </article_item>
+    </articles>
+  </body>
+</law>

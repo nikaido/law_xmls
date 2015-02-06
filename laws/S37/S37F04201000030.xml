@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>都市の美観風致を維持するための樹木の保存に関する法律施行規則</title>
+    <defined>昭和三十七年十月十五日建設省令第三十号</defined>
+    <updated>昭和六一年三月二九日建設省令第二号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        都市の美観風致を維持するための樹木の保存に関する法律（昭和三十七年法律第百四十二号）第四条及び第七条の規定に基づき、都市の美観風致を維持するための樹木の保存に関する法律施行規則を次のように定める。
+      </p>
+    </preamble>
+    <articles number="１">
+      <article_item number="１">
+        都市の美観風致を維持するための樹木の保存に関する法律第七条に規定する保存樹及び保存樹林に関する台帳（以下「台帳」という。）には、保存樹及び保存樹林につき、少なくとも次の各号に掲げる事項を記載するものとする。
+        <go>
+          <go_item number="一">
+            指定番号及び指定の年月日
+          </go_item>
+          <go_item number="二">
+            所在地
+          </go_item>
+          <go_item number="三">
+            所有者の氏名（法人にあつては、その名称及び代表者の氏名）及び住所
+          </go_item>
+          <go_item number="四">
+            保存樹にあつては、樹種及び幹の周囲、高さ又は枝葉の面積
+          </go_item>
+          <go_item number="五">
+            保存樹林にあつては、主要な樹種及び面積又はいけがきの長さ
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="２">
+        台帳の記載事項に変更があつたときは、市町村長は、速やかにこれを訂正しなければならない。
+      </article_item>
+    </articles>
+  </body>
+</law>

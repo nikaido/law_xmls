@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>環境省定員規則</title>
+    <defined>平成二十四年九月二十一日環境省令第二十八号</defined>
+    <updated>平成二六年一〇月一日環境省令第二七号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        原子力規制委員会設置法（平成二十四年法律第四十七号）の施行に伴い、環境省定員規則を次のように定める。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（本省及び原子力規制委員会の定員）">
+      <article_item number="第一条">
+        環境省の本省及び原子力規制委員会の定員は、次の表のとおりとする。
+        <table>
+          <tr>
+            <td>
+              区分
+            </td>
+            <td>
+              定員
+            </td>
+            <td>
+              備考
+            </td>
+          </tr>
+          <tr>
+            <td>
+              本省
+            </td>
+            <td>
+              一、七九八人
+            </td>
+            <td>
+              うち、一人は、特別職の職員の定員とする。
+            </td>
+          </tr>
+          <tr>
+            <td>
+              原子力規制委員会
+            </td>
+            <td>
+              九五九人
+            </td>
+            <td>
+              事務局及び施設等機関の職員の定員とする。
+            </td>
+          </tr>
+          <tr>
+            <td>
+              合計
+            </td>
+            <td>
+              二、七五七人
+            </td>
+            <td>
+              　
+            </td>
+          </tr>
+        </table>
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（本省及び原子力規制委員会の各内部部局、各施設等機関及び地方支分部局別の定員）">
+      <article_item number="第二条">
+        本省及び原子力規制委員会の各内部部局、各施設等機関及び地方支分部局別の定員は、前条に定める本省又は原子力規制委員会の定員の範囲内において、環境大臣が別に定める。
+      </article_item>
+    </articles>
+  </body>
+</law>

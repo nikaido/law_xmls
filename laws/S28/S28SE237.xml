@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>水難救護法施行令</title>
+    <defined>昭和二十八年八月三十一日政令第二百三十七号</defined>
+    <updated>平成一一年一〇月二七日政令第三三六号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、水難救護法（明治三十二年法律第九十五号）第三十条ノ二の規定に基き、この政令を制定する。
+      </p>
+    </preamble>
+    <articles>
+      <article_item>
+        水難救護法第二十七条第一項の政令で定める沈没品は、沈没船舶及び沈没船舶内にある物品であつて、同法第二十五条第一項の保管が沈没した状態で行われるものとする。
+      </article_item>
+    </articles>
+  </body>
+</law>

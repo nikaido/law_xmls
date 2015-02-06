@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>大正四年勅令第百五十四号（大礼記念章制定ノ件）</title>
+    <defined>大正四年八月十二日勅令第百五十四号</defined>
+  </head>
+  <body>
+    <articles number="第一条">
+      <article_item number="第一条">
+        大礼記念ノ表章トシテ記念章ヲ設ク
+      </article_item>
+    </articles>
+    <articles number="第二条">
+      <article_item number="第二条">
+        記念章ノ図式左ノ如シ<br/>　　　章　銀円形径一寸輪廓内表面上部ニ金菊御紋、両側縁ニ桜橘枝ト万歳旛交架ノ図、裏面ニ大礼記念章大正四年十一月ノ文字ヲ識ス<br/>環　銀彎形<br/>綬　織地幅一寸二分、中央紅色、両縁白色紅線<br/>　　記念章ハ綬ヲ以テ左肋ニ佩フ
+      </article_item>
+    </articles>
+    <articles number="第三条">
+      <article_item number="第三条">
+        記念章ハ左ニ掲クル者ニ之ヲ授与ス
+        <go>
+          <go_item number="一">
+            践祚ノ式ニ召サレタル者
+          </go_item>
+          <go_item number="二">
+            即位礼及大嘗祭ノ式ニ召サレタル者
+          </go_item>
+          <go_item number="三">
+            各所在地ニ於テ饗饌ヲ賜リタル者
+          </go_item>
+          <go_item number="四">
+            大礼ノ事務及大礼ニ伴フ要務ニ関与シタル者
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第四条">
+      <article_item number="第四条">
+        記念章ハ本人ニ限リ終身之ヲ佩用シ子孫ヲシテ之ヲ保存セシム
+      </article_item>
+    </articles>
+    <articles number="第五条">
+      <article_item number="第五条">
+        記念章ヲ授与セラルヘキ者其ノ授与前死亡シタルトキハ之ヲ其ノ家督相続人又ハ戸主ニ交付シテ保存セシム<br/>　　　　　大礼記念章ノ図<br/><br/><br/>
+      </article_item>
+    </articles>
+  </body>
+</law>

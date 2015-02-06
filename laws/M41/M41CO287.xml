@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>明治四十一年勅令第二百八十七号（政府ニ納ムヘキ保証金其ノ他ノ担保ニ充用スル国債ノ価格ニ関スル件）</title>
+    <defined>明治四十一年十一月二十八日勅令第二百八十七号</defined>
+    <updated>平成一二年六月七日政令第三〇七号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        朕政府ニ納ムヘキ保証金其ノ他ノ担保ニ充用スル国債ノ価格ニ関スル件ヲ裁可シ茲ニ之ヲ公布セシム
+      </p>
+    </preamble>
+    <articles number="○１">
+      <article_item number="○１">
+        政府ニ納ムヘキ保証金其ノ他ノ担保ニ充用スル国債ノ価格ハ其ノ債権金額ニ依ル
+      </article_item>
+      <article_item number="○２">
+        割引ノ方法ヲ以テ発行シタル国債ニシテ保証金其ノ他ノ担保ニ充用ノ日ヨリ五年以内ニ償還期限ノ到来セサルモノニ付テハ発行価格ニ財務大臣ノ定ムル所ニ依リ発行価格ト額面金額トノ差額ノ一部ニ相当スル金額ヲ加算シタル金額ヲ以テ其ノ国債ノ債権金額ト看做ス
+      </article_item>
+      <article_item number="○３">
+        明治三十八年勅令第二十号ハ之ヲ廃止ス
+      </article_item>
+    </articles>
+  </body>
+</law>

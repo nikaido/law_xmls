@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>明治四十二年法律第八号（登録国債ノ担保充用ニ関スル法律）</title>
+    <defined>明治四十二年三月二十二日法律第八号</defined>
+  </head>
+  <body>
+    <articles>
+      <article_item>
+        法令ノ規定ニ依リ担保トシテ国債証券ヲ供託又ハ寄託スル場合ニ於テハ証券ヲ発行セサル登録国債ニ付テ担保ノ登録ヲ受ケ之ニ代フルコトヲ得
+      </article_item>
+    </articles>
+  </body>
+</law>

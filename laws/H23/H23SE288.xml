@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>海外の美術品等の我が国における公開の促進に関する法律施行令</title>
+    <defined>平成二十三年九月十四日政令第二百八十八号</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、海外の美術品等の我が国における公開の促進に関する法律（平成二十三年法律第十五号）第二条第二号並びに第三条第一項及び第五項の規定に基づき、この政令を制定する。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（学術上優れた価値を有する動産で政令で定めるもの）">
+      <article_item number="第一条">
+        海外の美術品等の我が国における公開の促進に関する法律（以下「法」という。）第二条第二号の政令で定める動産は、次に掲げるものとする。
+        <go>
+          <go_item number="一">
+            化石
+          </go_item>
+          <go_item number="二">
+            希少な岩石、鉱物、植物又は動物の標本
+          </go_item>
+          <go_item number="三">
+            前二号に掲げるもののほか、これらに準ずる程度に学術上優れた価値を有するものとして文部科学省令で定める動産
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（指定の要件）">
+      <article_item number="第二条">
+        法第三条第一項本文の政令で定める要件は、次の各号のいずれにも該当するものであることとする。
+        <go>
+          <go_item number="一">
+            国際文化交流の振興の観点から我が国における公開の円滑化を図る必要性が高いと認められること。
+          </go_item>
+          <go_item number="二">
+            文化財の不法な輸出入等の規制等に関する法律（平成十四年法律第八十一号）第三条第二項の規定により特定外国文化財として指定されたものでないこと。
+          </go_item>
+          <go_item number="三">
+            我が国において販売することを目的とするものでないこと。
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（強制執行等をすることができる場合）">
+      <article_item number="第三条">
+        法第三条第一項ただし書の政令で定める場合は、次に掲げる場合とする。
+        <go>
+          <go_item number="一">
+            法第三条第一項の指定に係る海外の美術品等（次号において「指定美術品等」という。）を公開するため貸与した者の申立てにより、強制執行、仮差押え及び仮処分をする場合
+          </go_item>
+          <go_item number="二">
+            前号に規定する者から指定美術品等を借り受けた者の申立て（同号に規定する者の同意を得て行うものに限る。）により、強制執行、仮差押え及び仮処分をする場合
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（指定の取消しができる場合）">
+      <article_item number="第四条">
+        法第三条第五項の政令で定める場合は、不正の手段により同条第一項の指定を受けた場合とする。
+      </article_item>
+    </articles>
+  </body>
+</law>

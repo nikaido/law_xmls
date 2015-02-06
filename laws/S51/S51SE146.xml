@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>植物防疫法施行令</title>
+    <defined>昭和五十一年六月十一日政令第百四十六号</defined>
+    <updated>平成一五年一月三一日政令第二八号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、植物防疫法（昭和二十五年法律第百五十一号）第三十二条第七項及び第三十四条第二項の規定に基づき、この政令を制定する。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（病害虫防除所の基準）">
+      <article_item number="第一条">
+        法第三十二条第五項の政令で定める基準は、双眼実体顕微鏡、理化学用の滅菌器その他有害動物又は有害植物の種類を迅速かつ的確に識別するために必要なものとして農林水産大臣の定める設備又は器具を有するものであることとする。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（交付金の交付基準）">
+      <article_item number="第二条">
+        法第三十五条第二項の政令で定める基準は、次のとおりとする。
+        <go>
+          <go_item number="一">
+            当該予算総額の四割は、各都道府県の農家数に応じて各都道府県に配分する。
+          </go_item>
+          <go_item number="二">
+            当該予算総額の二割は、各都道府県の農地面積に応じて各都道府県に配分する。
+          </go_item>
+          <go_item number="三">
+            当該予算総額の二割は、各都道府県の市町村数に応じて各都道府県に配分する。
+          </go_item>
+          <go_item number="四">
+            当該予算総額の二割は、有害動物又は有害植物のまん延に対処するためその他農業生産の安全及び助長を図るため緊急に植物の検疫、防除及び発生予察事業を行うことを必要とする都道府県に配分する。
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+  </body>
+</law>

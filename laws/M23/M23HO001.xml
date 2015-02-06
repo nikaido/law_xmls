@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>保管金規則</title>
+    <defined>明治二十三年一月七日法律第一号</defined>
+    <updated>昭和四二年五月三一日法律第二三号</updated>
+  </head>
+  <body>
+    <articles number="第一条">
+      <article_item number="第一条">
+        法律勅令又ハ従来ノ規則ニ依リ政府ニ於テ保管スル公有金私有金ハ左ノ計算法ニ従ヒ満五年ヲ過キテ払戻ノ請求ナキトキハ政府ノ所得トス但別ニ法律ヲ以テ失権ノ期限ヲ定メタルモノハ各其定ムル所ニ依ル<br/>　　　第一　保管義務解除ノ期アルモノハ其義務ヲ解除シタル翌日ヨリ起算ス<br/>第二　保管義務解除ノ期ナキモノハ保管ノ翌日ヨリ起算ス<br/>第三　訴訟事件ノ為ニ払戻ヲ請求スル能ハサル場合ニ於テハ裁判確定ノ翌日ヨリ起算ス
+      </article_item>
+    </articles>
+    <articles number="第二条">
+      <article_item number="第二条">
+        保管金ハ法律勅令又ハ従来ノ規則若クハ契約ニ依ルノ外利子ヲ付セス
+      </article_item>
+    </articles>
+    <articles number="第三条">
+      <article_item number="第三条">
+        保管金ノ証書ハ売買譲与又ハ書入質入スルコトヲ得ス
+      </article_item>
+    </articles>
+  </body>
+</law>

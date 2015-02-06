@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>高速自動車国道の路線を指定する政令</title>
+    <defined>昭和三十二年八月三十日政令第二百七十五号</defined>
+    <updated>平成二〇年一月一八日政令第六号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、高速自動車国道法（昭和三十二年法律第七十九号）第四条第一項の規定に基き、この政令を制定する。
+      </p>
+    </preamble>
+    <articles>
+      <article_item>
+        高速自動車国道の路線名、起点、終点及び重要な経過地は、別表のとおりとする。
+      </article_item>
+    </articles>
+  </body>
+</law>

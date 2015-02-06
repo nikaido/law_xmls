@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>自動車損害賠償保障事業賦課金等の金額を定める政令</title>
+    <defined>昭和三十年十二月一日政令第三百十六号</defined>
+    <updated>平成二五年三月二七日政令第九〇号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、自動車損害賠償保障法（昭和三十年法律第九十七号）第七十八条第一項（同条第二項において準用する場合を含む。）及び第七十九条の規定に基き、この政令を制定する。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（自動車損害賠償保障事業賦課金の金額）">
+      <article_item number="第一条">
+        自動車損害賠償保障法（以下「法」という。）第七十八条の規定により保険会社又は組合が納付しなければならない自動車損害賠償保障事業賦課金の金額は、締結した責任保険又は責任共済の契約ごとに、別表第一の式により算出した金額とする。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（過怠金の金額）">
+      <article_item number="第二条">
+        法第七十九条の規定により政府が徴収することができる過怠金の金額は、自動車一両ごとに、別表第二の式により算出した金額とする。
+      </article_item>
+    </articles>
+  </body>
+</law>

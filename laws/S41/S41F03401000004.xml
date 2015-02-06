@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>石油ガス税法施行規則</title>
+    <defined>昭和四十一年一月二十四日大蔵省令第四号</defined>
+    <updated>平成二六年七月九日財務省令第五六号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        石油ガス税法施行令第四条第三項第三号の規定に基づき、及び石油ガス税法を実施するため、石油ガス税法施行規則を次のように定める。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（自動車に取り付けられない石油ガス容器に係る承認の申請等）">
+      <article_item number="第一条">
+        石油ガス税法施行令（昭和四十一年政令第五号。以下「令」という。）第一条第二項の承認を受けようとする者は、次に掲げる事項を記載した申請書を当該税務署長に提出しなければならない。
+        <go>
+          <go_item number="一">
+            申請者の住所（住所がない場合には、居所。以下同じ。）及び氏名又は名称
+          </go_item>
+          <go_item number="二">
+            当該容器に石油ガスを充てんする場所の所在地及び名称
+          </go_item>
+          <go_item number="三">
+            当該容器の記号及び番号並びにその構造を示す図面
+          </go_item>
+          <go_item number="四">
+            当該容器に充てんされる石油ガスの用途
+          </go_item>
+          <go_item number="五">
+            その他参考となるべき事項
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="２">
+        令第一条第二項の表示は、当該容器の見やすい所にするものとし、その様式及び形式並びに表示方法は、国税庁長官が定める。
+      </article_item>
+      <article_item number="３">
+        令第一条第二項の承認を受けた者は、その承認の取消しを求めようとするときは、次に掲げる事項を記載した書面により、当該税務署長に申請しなければならない。
+        <go>
+          <go_item number="一">
+            申請者の住所及び氏名又は名称
+          </go_item>
+          <go_item number="二">
+            当該容器の記号及び番号
+          </go_item>
+          <go_item number="三">
+            承認の取消しを必要とする理由
+          </go_item>
+          <go_item number="四">
+            その他参考となるべき事項
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="４">
+        税務署長は、前項の申請があつたときは、当該容器に係る令第一条第二項の承認を取り消すものとする。
+      </article_item>
+      <article_item number="５">
+        税務署長は、第一項の申請書の提出があつた場合において、承認をするときは、その申請者に対し、その旨を書面で通知するものとする。その承認を取り消す場合も、また同様とする。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（液容量及び液比重による重量の計算方法の承認をしないことができる場合）">
+      <article_item number="第二条">
+        令第四条第三項第三号に規定する財務省令で定める石油ガスの充てん場は、同条第一項第一号及び第二号の計算方法を併用する石油ガスの充てん場とする。
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（移出に係る課税石油ガスの特定用途免税に係る移入証明書等の作成方法）">
+      <article_item number="第三条">
+        石油ガス税法（昭和四十年法律第百五十六号。以下「法」という。）第十二条第一項の規定に該当する課税石油ガスを移入した者は、当該課税石油ガスの移入に係る事項を記載した書類を複写する方法により二通作成し、一通を同条第二項に規定する移入されたことを証する書類として、他の一通を同条第四項に規定する書類として、それぞれ用いるものとする。
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（自動車用の石油ガス容器である旨の表示についての指定）">
+      <article_item number="第四条">
+        国税庁長官は、法第二十二条の表示につき、必要な事項を指定することができる。
+      </article_item>
+    </articles>
+  </body>
+</law>

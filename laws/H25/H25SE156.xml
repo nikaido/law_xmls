@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>平成二十五年分として交付すべき政党交付金の交付時期の特例に関する政令</title>
+    <defined>平成二十五年五月十六日政令第百五十六号</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、政党助成法（平成六年法律第五号）第十二条の規定に基づき、この政令を制定する。
+      </p>
+    </preamble>
+    <articles>
+      <article_item>
+        平成二十五年分として交付すべき政党交付金に係る政党助成法第十一条第一項の規定の適用については、同項中「四月」とあるのは、「五月」とする。
+      </article_item>
+    </articles>
+  </body>
+</law>

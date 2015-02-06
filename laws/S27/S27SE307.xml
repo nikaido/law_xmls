@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>企業会計審議会令</title>
+    <defined>昭和二十七年七月三十一日政令第三百七号</defined>
+    <updated>平成一二年六月七日政令第三〇三号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、大蔵省設置法（昭和二十四年法律第百四十四号）第十七条第二項の規定に基き、この政令を制定する。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（趣旨）">
+      <article_item number="第一条">
+        この政令は、金融庁組織令（平成十年政令第三百九十二号）第二十四条第二項に定めるもののほか、企業会計審議会（以下「審議会」という。）に関し必要な事項を定めるものとする。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（組織）">
+      <article_item number="第二条">
+        審議会は、会長及び委員十九人以内で組織する。
+      </article_item>
+      <article_item number="２">
+        審議会に、特別の事項を調査審議させるため必要があるときは、臨時委員を置くことができる。
+      </article_item>
+      <article_item number="３">
+        審議会に、専門の事項を調査させるため必要があるときは、専門委員を置くことができる。
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（会長の職務）">
+      <article_item number="第三条">
+        会長は、審議会の会務を総理し、審議会を代表する。
+      </article_item>
+      <article_item number="２">
+        会長に事故があるときは、あらかじめ会長の指名する委員が、その職務を代理する。
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（会長、委員、臨時委員及び専門委員の任命）">
+      <article_item number="第四条">
+        会長、委員及び臨時委員は、学識経験のある者のうちから、金融庁長官が任命する。
+      </article_item>
+      <article_item number="２">
+        専門委員は、当該専門の事項に関し学識経験のある者のうちから、金融庁長官が任命する。
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（会長及び委員の任期等）">
+      <article_item number="第五条">
+        会長及び委員の任期は、二年とする。ただし、補欠の会長又は委員の任期は、前任者の残任期間とする。
+      </article_item>
+      <article_item number="２">
+        会長及び委員は、再任されることができる。
+      </article_item>
+      <article_item number="３">
+        臨時委員は、その者の任命に係る当該特別の事項に関する調査審議が終了したときは、解任されるものとする。
+      </article_item>
+      <article_item number="４">
+        専門委員は、その者の任命に係る当該専門の事項に関する調査が終了したときは、解任されるものとする。
+      </article_item>
+      <article_item number="５">
+        会長、委員、臨時委員及び専門委員は、非常勤とする。
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（部会）">
+      <article_item number="第六条">
+        審議会は、その定めるところにより、部会を置くことができる。
+      </article_item>
+      <article_item number="２">
+        部会に属すべき委員、臨時委員及び専門委員は、会長が指名する。
+      </article_item>
+      <article_item number="３">
+        部会に、部会長を置き、当該部会に属する委員のうちから会長が指名する。
+      </article_item>
+      <article_item number="４">
+        部会長は、当該部会の事務を掌理する。
+      </article_item>
+      <article_item number="５">
+        部会長に事故があるときは、当該部会に属する委員のうちから部会長があらかじめ指名する者が、その職務を代理する。
+      </article_item>
+    </articles>
+    <articles number="第七条" title="（幹事）">
+      <article_item number="第七条">
+        審議会に、幹事を置く。
+      </article_item>
+      <article_item number="２">
+        幹事は、関係行政機関の職員及び学識経験のある者のうちから、金融庁長官が任命する。
+      </article_item>
+      <article_item number="３">
+        幹事は、審議会の所掌事務について、委員、臨時委員及び専門委員を補佐する。
+      </article_item>
+      <article_item number="４">
+        幹事は、非常勤とする。
+      </article_item>
+    </articles>
+    <articles number="第八条" title="（議事）">
+      <article_item number="第八条">
+        審議会は、委員及び議事に関係のある臨時委員の過半数が出席しなければ、会議を開き、議決することができない。
+      </article_item>
+      <article_item number="２">
+        審議会の議事は、委員及び議事に関係のある臨時委員で会議に出席したものの過半数で決し、可否同数のときは、会長の決するところによる。
+      </article_item>
+      <article_item number="３">
+        前二項の規定は、部会の議事について準用する。
+      </article_item>
+    </articles>
+    <articles number="第九条" title="（資料の提出等の要求）">
+      <article_item number="第九条">
+        審議会は、その所掌事務を遂行するため必要があると認めるときは、関係行政機関の長に対し、資料の提出、意見の開陳、説明その他必要な協力を求めることができる。
+      </article_item>
+    </articles>
+    <articles number="第十条" title="（庶務）">
+      <article_item number="第十条">
+        審議会の庶務は、金融庁総務企画局市場課において処理する。
+      </article_item>
+    </articles>
+    <articles number="第十一条" title="（雑則）">
+      <article_item number="第十一条">
+        この政令に定めるもののほか、議事の手続その他審議会の運営に関し必要な事項は、会長が審議会に諮つて定める。
+      </article_item>
+    </articles>
+  </body>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>特定通常実施権登録令施行規則を廃止する省令</title>
+    <defined>平成二十四年三月三十日経済産業省令第二十九号</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        特許法等の一部を改正する法律（平成二十三年法律第六十三号）及び特許法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令（平成二十三年政令第三百七十号）の施行に伴い、特定通常実施権登録令施行規則を廃止する省令を次のように定める。
+      </p>
+    </preamble>
+    <articles>
+      <article_item>
+        特定通常実施権登録令施行規則（平成二十年経済産業省令第六十五号）は、廃止する。
+      </article_item>
+    </articles>
+  </body>
+</law>

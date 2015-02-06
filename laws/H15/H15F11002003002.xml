@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>簡易生命保険積立金出納取扱規程等を廃止する省令</title>
+    <defined>平成十五年三月三十一日総務省・財務省令第二号</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        日本郵政公社法施行法（平成十四年法律第九十八号）の施行に伴い、簡易生命保険積立金出納取扱規程等を廃止する省令を次のように定める。
+      </p>
+    </preamble>
+    <articles>
+      <article_item>
+        次に掲げる省令は、廃止する。
+        <go>
+          <go_item number="一">
+            簡易生命保険積立金出納取扱規程（昭和二十八年大蔵・郵政省令第一号）
+          </go_item>
+          <go_item number="二">
+            郵便貯金資金出納取扱規則（昭和六十二年大蔵省・郵政省令第一号）
+          </go_item>
+          <go_item number="三">
+            郵便振替資金出納取扱規則（平成十三年総務省・財務省令第三号）
+          </go_item>
+          <go_item number="四">
+            電子情報処理組織を使用して処理する場合における特定郵便振替受払事務の取扱いの特例に関する省令（平成十四年総務省・財務省令第一号）
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+  </body>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>昭和二十二年司法省令第九十号（家事審判法施行法等の施行に伴う関係省令の整理に関する件）　抄</title>
+    <defined>昭和二十二年十二月二十七日司法省令第九十号</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        家事審判法施行法等の施行に伴う関係省令の整理に関する件を次のように定める。
+      </p>
+    </preamble>
+    <articles number="第一条">
+      <article_item number="第一条">
+        左に掲げる省令は、これを廃止する。<br/>　　　明治三十一年司法省令第八号<br/>明治三十一年司法省令第九号（禁治産及び準禁治産に関する公告方）<br/>大正五年司法省令第十四号（非訟事件手続法第二条第三項の規定による管轄裁判所指定）<br/>昭和十四年司法省令第二十四号（人事調停法による手数料は収入印紙を以て納付せしむることを得るの件）
+      </article_item>
+    </articles>
+  </body>
+</law>

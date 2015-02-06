@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>財政法第三条の特例に関する法律</title>
+    <defined>昭和二十三年四月十四日法律第二十七号</defined>
+    <updated>平成一四年七月三一日法律第九八号</updated>
+  </head>
+  <body>
+    <articles>
+      <article_item>
+        政府は、現在の経済緊急事態の存続する間に限り、財政法（昭和二十二年法律第三十四号）第三条に規定する価格、料金等は、法律の定め又は国会の議決を経なくても、これを決定し、又は改定することができる。
+      </article_item>
+    </articles>
+  </body>
+</law>

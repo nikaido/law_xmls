@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>人事院規則二―一四（人事院の職員の定員）</title>
+    <defined>平成十八年三月九日人事院規則二―一四</defined>
+    <updated>平成二六年五月二九日人事院規則一―六二</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        人事院は、国家公務員法（昭和二十二年法律第百二十号）に基づき、人事院の職員の定員に関し次の人事院規則を制定する。
+      </p>
+    </preamble>
+    <articles>
+      <article_item>
+        人事院の職員（常勤を要しない職員を除く。以下同じ。）の定員は、六百三十人（うち十二人は、国家公務員倫理審査会事務局の職員の定員とする。）とする。
+      </article_item>
+    </articles>
+  </body>
+</law>

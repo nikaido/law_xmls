@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>鉱山保安協議会令</title>
+    <defined>平成十六年十月二十七日政令第三百三十号</defined>
+    <updated>平成二四年九月一四日政令第二三五号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、鉱山保安法（昭和二十四年法律第七十号）第五十七条の規定に基づき、この政令を制定する。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（組織）">
+      <article_item number="第一条">
+        中央鉱山保安協議会（以下「中央協議会」という。）は、委員三十人以内で組織する。
+      </article_item>
+      <article_item number="２">
+        地方鉱山保安協議会（以下「地方協議会」という。）は、委員二十人以内で組織する。
+      </article_item>
+      <article_item number="３">
+        中央協議会及び地方協議会（以下「協議会」という。）に、専門の事項を調査させるため必要があるときは、専門委員を置くことができる。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（専門委員の任命等）">
+      <article_item number="第二条">
+        中央協議会又は地方協議会の専門委員は、鉱山における保安に関し優れた識見を有する者のうちから、それぞれ経済産業大臣又は産業保安監督部長が任命する。
+      </article_item>
+      <article_item number="２">
+        専門委員は、その者の任命に係る当該専門の事項に関する調査が終了したときは、解任されるものとする。
+      </article_item>
+      <article_item number="３">
+        専門委員は、非常勤とする。
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（部会）">
+      <article_item number="第三条">
+        協議会は、その定めるところにより、部会を置くことができる。
+      </article_item>
+      <article_item number="２">
+        部会に属すべき委員及び専門委員は、会長が指名する。
+      </article_item>
+      <article_item number="３">
+        部会に部会長を置き、当該部会に属する委員の互選により選任する。
+      </article_item>
+      <article_item number="４">
+        部会長は、当該部会の事務を掌理する。
+      </article_item>
+      <article_item number="５">
+        部会長に事故があるときは、当該部会に属する委員のうちから部会長があらかじめ指名する者が、その職務を代理する。
+      </article_item>
+      <article_item number="６">
+        協議会は、その定めるところにより、部会の議決をもって協議会の議決とすることができる。
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（議事）">
+      <article_item number="第四条">
+        中央協議会は、学識経験のある者である委員、鉱業権者を代表する者である委員及び鉱山労働者を代表する者である委員のそれぞれの過半数が出席しなければ、会議を開き、議決することができない。
+      </article_item>
+      <article_item number="２">
+        地方協議会は、委員の過半数が出席しなければ、会議を開き、議決することができない。
+      </article_item>
+      <article_item number="３">
+        協議会の議事は、委員で会議に出席したものの過半数で決し、可否同数のときは、会長の決するところによる。
+      </article_item>
+      <article_item number="４">
+        部会は、委員の過半数が出席しなければ、会議を開き、議決することができない。
+      </article_item>
+      <article_item number="５">
+        第三項の規定は、部会の議事に準用する。
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（資料の提出等の要求）">
+      <article_item number="第五条">
+        協議会は、その所掌事務を遂行するため必要があると認めるときは、関係行政機関の長に対し、資料の提出、意見の表明、説明その他必要な協力を求めることができる。
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（庶務）">
+      <article_item number="第六条">
+        中央協議会の庶務は経済産業省商務情報政策局鉱山・火薬類監理官において、地方協議会の庶務は産業保安監督部において、処理する。
+      </article_item>
+    </articles>
+    <articles number="第七条" title="（雑則）">
+      <article_item number="第七条">
+        この政令に規定するもののほか、議事の手続その他協議会の運営に関し必要な事項は、会長が協議会に諮って定める。
+      </article_item>
+    </articles>
+  </body>
+</law>

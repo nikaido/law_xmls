@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>東京湾横断道路事業会計規則</title>
+    <defined>昭和六十三年一月二十一日建設省令第一号</defined>
+    <updated>平成二一年四月一日国土交通省令第三〇号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        東京湾横断道路の建設に関する特別措置法（昭和六十一年法律第四十五号）第六条の規定に基づき、東京湾横断道路事業会計規則を次のように定める。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（趣旨）">
+      <article_item number="第一条">
+        東京湾横断道路の建設に関する特別措置法第六条の規定による会計の整理については、この省令の定めるところによる。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（事業年度）">
+      <article_item number="第二条">
+        東京湾横断道路建設事業者の事業年度は、一年とし、その始期は、四月一日とする。
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（会計原則）">
+      <article_item number="第三条">
+        東京湾横断道路建設事業者は、次に掲げる基準に従つてその会計を処理しなければならない。
+        <go>
+          <go_item number="一">
+            その事業の経営成績及び財政状態について、真実な内容を表示すること。
+          </go_item>
+          <go_item number="二">
+            すべての取引につき、正規の簿記の原則に従い、正確な会計帳簿を作成すること。
+          </go_item>
+          <go_item number="三">
+            その事業の経営及び財政の状況を正確に判断することができるように必要な会計事実を明りように表示すること。
+          </go_item>
+          <go_item number="四">
+            会計方針を毎期継続して適用し、みだりにこれを変更しないこと。
+          </go_item>
+          <go_item number="五">
+            その他一般に公正妥当と認められる会計の原則に従うこと。
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（勘定科目）">
+      <article_item number="第四条">
+        東京湾横断道路建設事業者は、別表第一に定める勘定科目により会計を整理しなければならない。
+      </article_item>
+      <article_item number="２">
+        東京湾横断道路建設事業者は、別表第一に定める勘定科目により会計を整理することができない特別の理由があるときは、前項の規定にかかわらず、国土交通大臣の承認を受けて、別表第一に定める勘定科目と異なる勘定科目により会計を整理することができる。
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（財務諸表）">
+      <article_item number="第五条">
+        東京湾横断道路建設事業者は、別表第二に定める様式により当該事業年度に係る財務諸表を作成しなければならない。
+      </article_item>
+      <article_item number="２">
+        東京湾横断道路建設事業者は、別表第二の明細表の事項以外に貸借対照表及び損益計算書の記載を補足する重要な事項があるときは、前項の規定によるほか、当該重要な事項の明細書を財務諸表として作成しなければならない。
+      </article_item>
+      <article_item number="３">
+        東京湾横断道路建設事業者は、前二項の規定により財務諸表を作成することができない特別の理由があるときは、前二項の規定にかかわらず、国土交通大臣の承認を受けて、別表第二に定める様式と異なる様式により財務諸表を作成し、又は前項の規定による明細書を作成しないことができる。
+      </article_item>
+    </articles>
+  </body>
+</law>

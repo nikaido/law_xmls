@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>石炭鉱業の構造調整の完了等に伴う関係法律の整備等に関する法律　抄</title>
+    <defined>平成十二年三月三十一日法律第十六号</defined>
+    <updated>平成二四年九月五日法律第七六号</updated>
+  </head>
+  <body>
+    <articles number="第一条" title="（臨時石炭鉱害復旧法の一部改正）">
+      <article_item number="第一条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（臨時石炭鉱害復旧法等の廃止）">
+      <article_item number="第二条">
+        次に掲げる法律は、廃止する。
+        <go>
+          <go_item number="一">
+            臨時石炭鉱害復旧法
+          </go_item>
+          <go_item number="二">
+            石炭鉱業構造調整臨時措置法（昭和三十年法律第百五十六号）
+          </go_item>
+          <go_item number="三">
+            炭鉱労働者等の雇用の安定等に関する臨時措置法（昭和三十四年法律第百九十九号）
+          </go_item>
+          <go_item number="四">
+            石炭鉱害賠償等臨時措置法（昭和三十八年法律第九十七号）
+          </go_item>
+          <go_item number="五">
+            石炭鉱業経理規制臨時措置法（昭和三十八年法律第百四十五号）
+          </go_item>
+          <go_item number="六">
+            産炭地域における中小企業者についての中小企業信用保険に関する特別措置等に関する法律（昭和三十八年法律第百六十六号）
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（産炭地域振興臨時措置法の一部改正）">
+      <article_item number="第三条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（産炭地域振興臨時措置法の一部改正）">
+      <article_item number="第四条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（地域振興整備公団法の一部改正）">
+      <article_item number="第五条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（地域振興整備公団法の一部改正）">
+      <article_item number="第六条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第七条" title="（石炭並びに石油及びエネルギー需給構造高度化対策特別会計法の一部改正）">
+      <article_item number="第七条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第八条" title="（石炭並びに石油及びエネルギー需給構造高度化対策特別会計法の一部改正）">
+      <article_item number="第八条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第九条" title="（石炭並びに石油及びエネルギー需給構造高度化対策特別会計法の一部改正）">
+      <article_item number="第九条">
+        略
+      </article_item>
+    </articles>
+    <articles number="第十条" title="（石油代替エネルギーの開発及び導入の促進に関する法律の一部改正）">
+      <article_item number="第十条">
+        略
+      </article_item>
+    </articles>
+  </body>
+</law>
