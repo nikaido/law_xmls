@@ -3,7 +3,7 @@
   <head>
     <title>補助金等に係る予算の執行の適正化に関する法律施行令</title>
     <defined>昭和三十年九月二十六日政令第二百五十五号</defined>
-    <updated>平成二六年一〇月二二日政令第三四一号</updated>
+    <updated>平成二七年二月一二日政令第四四号</updated>
   </head>
   <body>
     <preamble>
@@ -18,7 +18,7 @@
     </articles>
     <articles number="第二条" title="（補助金等とする給付金の指定）">
       <article_item number="第二条">
-        法第二条第一項第四号に規定する給付金で政令で定めるものは、次に掲げるもの（第四十六号から第百五十七号までにあつては、当該各号に掲げる予算の目又はこれに準ずるものの経費の支出によるもの）とする。  
+        法第二条第一項第四号に規定する給付金で政令で定めるものは、次に掲げるもの（第四十六号から第百六十九号までにあつては、当該各号に掲げる予算の目又はこれに準ずるものの経費の支出によるもの）とする。  
         <go>
           <go_item number="一">
             農業災害補償法（昭和二十二年法律第百八十五号）第百五十条の三第一項に規定する交付金
@@ -490,6 +490,42 @@
           </go_item>
           <go_item number="百五十七">
             水産基盤整備事業後進地域特例法適用団体補助率差額
+          </go_item>
+          <go_item number="百五十八">
+            地域再生戦略交付金
+          </go_item>
+          <go_item number="百五十九">
+            地域活性化・地域住民生活等緊急支援交付金
+          </go_item>
+          <go_item number="百六十">
+            地域女性活躍推進交付金
+          </go_item>
+          <go_item number="百六十一">
+            地方消費者行政推進交付金
+          </go_item>
+          <go_item number="百六十二">
+            生活基盤施設耐震化等交付金
+          </go_item>
+          <go_item number="百六十三">
+            保育所等整備交付金
+          </go_item>
+          <go_item number="百六十四">
+            森林整備加速化・林業再生整備交付金
+          </go_item>
+          <go_item number="百六十五">
+            森林整備加速化・林業再生推進交付金
+          </go_item>
+          <go_item number="百六十六">
+            廃棄物処理施設整備交付金
+          </go_item>
+          <go_item number="百六十七">
+            鳥獣捕獲等事業交付金
+          </go_item>
+          <go_item number="百六十八">
+            福島原子力災害復興交付金
+          </go_item>
+          <go_item number="百六十九">
+            中間貯蔵施設整備等影響緩和交付金
           </go_item>
         </go>
       </article_item>

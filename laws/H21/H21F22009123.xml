@@ -3,7 +3,7 @@
   <head>
     <title>人事院規則九―一二三（本府省業務調整手当） </title>
     <defined>平成二十一年二月二日人事院規則九―一二三</defined>
-    <updated>平成二六年八月二九日人事院規則九―一二三―一九</updated>
+    <updated>平成二七年一月二〇日人事院規則九―一二三―二〇</updated>
   </head>
   <body>
     <preamble>
@@ -157,18 +157,18 @@
             内閣官房の業務であって、次に掲げるもの
             <go>
               <go_item number="イ">
-                地域活性化統合事務局の地方連絡室の業務
-              </go_item>
-              <go_item number="ロ">
                 アイヌ総合政策室北海道分室の業務
               </go_item>
-              <go_item number="ハ">
+              <go_item number="ロ">
                 沖縄連絡室沖縄分室の業務
               </go_item>
-              <go_item number="ニ">
+              <go_item number="ハ">
                 内閣衛星情報センターの副センター及び受信管制局の業務
               </go_item>
             </go>
+          </go_item>
+          <go_item number="二の二">
+            内閣府地方創生推進室の地方連絡室の業務
           </go_item>
           <go_item number="三">
             宮内庁の埼玉鴨場及び新浜鴨場並びに御用邸管理事務所の業務
