@@ -3,7 +3,7 @@
   <head>
     <title>国土地理院組織規則</title>
     <defined>平成十三年一月六日国土交通省令第二十号</defined>
-    <updated>平成二六年三月二六日国土交通省令第二五号</updated>
+    <updated>平成二七年四月一〇日国土交通省令第三一号</updated>
   </head>
   <body>
     <preamble>
@@ -30,6 +30,33 @@
       </article_item>
       <article_item number="２">
         参事官は、命を受けて、国土地理院の所掌事務に関する重要事項の企画及び立案に参画する。
+      </article_item>
+    </articles>
+    <articles number="第三条の二" title="（監査官）">
+      <article_item number="第三条の二">
+        国土地理院に、監査官二人以内を置く。
+      </article_item>
+      <article_item number="２">
+        監査官のうち一人は、主任監査官とする。
+      </article_item>
+      <article_item number="３">
+        監査官は、命を受けて、国土地理院の事務の運営、官紀の保持、不正行為の防止に関し、所要の監査を行う。
+      </article_item>
+    </articles>
+    <articles number="第三条の三" title="（適正業務管理官）">
+      <article_item number="第三条の三">
+        国土地理院に、適正業務管理官一人を置く。
+      </article_item>
+      <article_item number="２">
+        適正業務管理官は、命を受けて、国土地理院の所掌事務のうち、法令を遵守させるための指導その他の業務の適正な遂行を確保するための措置に関する特定事項に係るものを整理する。
+      </article_item>
+    </articles>
+    <articles number="第三条の四" title="（防災企画調整官）">
+      <article_item number="第三条の四">
+        国土地理院に、防災企画調整官一人を置く。
+      </article_item>
+      <article_item number="２">
+        防災企画調整官は、命を受けて、国土地理院の所掌事務に関する防災に関する重要事項に係るものを整理する。
       </article_item>
     </articles>
     <articles number="第四条" title="（国土地理院に置く部等）">
@@ -121,14 +148,6 @@
       </article_item>
       <article_item number="２">
         調査官は、命を受けて、総務部の所掌事務の一部を整理する。
-      </article_item>
-    </articles>
-    <articles number="第七条の二" title="（適正業務指導官）">
-      <article_item number="第七条の二">
-        総務部に、適正業務指導官一人を置く。
-      </article_item>
-      <article_item number="２">
-        適正業務指導官は、国土地理院の事務に係る法令等の遵守に関する事務その他の国土地理院の事務の運営の指導及び改善に関する事務を整理する。
       </article_item>
     </articles>
     <articles number="第八条" title="（人事計画官）">
@@ -347,29 +366,16 @@
         研究企画官は、技術に関する研究の企画及び立案（地理空間情報政策調整官の所掌に属するものを除く。）並びに総括に関する事務を整理する。
       </article_item>
     </articles>
-    <articles number="第十九条の二" title="（防災企画官）">
+    <articles number="第十九条の二" title="（地理空間情報政策調整官）">
       <article_item number="第十九条の二">
-        企画部に、防災企画官一人を置く。
-      </article_item>
-      <article_item number="２">
-        防災企画官は、国土地理院の所掌事務に関する防災に係る事項の企画及び立案並びに総括に関する事務を整理する。
-      </article_item>
-    </articles>
-    <articles number="第十九条の三">
-      <article_item number="第十九条の三">
-        削除
-      </article_item>
-    </articles>
-    <articles number="第十九条の四" title="（地理空間情報政策調整官）">
-      <article_item number="第十九条の四">
         企画部に、地理空間情報政策調整官一人を置く。
       </article_item>
       <article_item number="２">
         地理空間情報政策調整官は、技術に関する事項のうち、地理空間情報及び測量に関する政策の企画及び立案並びに渉外に関する事項（地理地殻活動研究センターの所掌に属するものを除く。）の総括に関する事務を整理する。
       </article_item>
     </articles>
-    <articles number="第十九条の五" title="（国際観測企画官）">
-      <article_item number="第十九条の五">
+    <articles number="第十九条の三" title="（国際観測企画官）">
+      <article_item number="第十九条の三">
         企画部に、国際観測企画官一人を置く。
       </article_item>
       <article_item number="２">
@@ -462,7 +468,7 @@
     </articles>
     <articles number="第二十八条" title="（防災推進室の所掌事務）">
       <article_item number="第二十八条">
-        防災推進室は、国土地理院の所掌事務に関する防災に係る事項の企画及び立案並びに調整に関する事務をつかさどる（防災企画官の所掌に属するものを除く。）。
+        防災推進室は、国土地理院の所掌事務に関する防災に係る事項の企画及び立案並びに調整に関する事務をつかさどる。
       </article_item>
     </articles>
     <articles number="第二十九条" title="（測地部の所掌事務）">
@@ -1323,7 +1329,7 @@
     </articles>
     <articles number="第六十四条" title="（地理地殻活動研究センターに置く課等）">
       <article_item number="第六十四条">
-        地理地殻活動研究センターに、次の一課及び三室並びに地理地殻活動総括研究官一人を置く。<br/>研究管理課<br/>地殻変動研究室<br/>宇宙測地研究室<br/>地理情報解析研究室 
+        地理地殻活動研究センターに、次の一課及び三室並びに地理地殻活動総括研究官及び測量新技術研究官それぞれ一人を置く。<br/>研究管理課<br/>地殻変動研究室<br/>宇宙測地研究室<br/>地理情報解析研究室 
       </article_item>
     </articles>
     <articles number="第六十五条" title="（研究管理課の所掌事務）">
@@ -1384,23 +1390,17 @@
         地理地殻活動総括研究官は、命を受けて、重要な研究の企画及び立案並びに調整に関する事務をつかさどる。
       </article_item>
     </articles>
-    <articles number="第七十条" title="（試験考査委員）">
+    <articles number="第七十条" title="（測量新技術研究官の職務）">
       <article_item number="第七十条">
+        測量新技術研究官は、命を受けて、地理地殻活動研究センターの所掌事務に係る新技術の研究に関する企画及び立案並びに調整に関する事務で重要事項に関するものをつかさどる。
+      </article_item>
+    </articles>
+    <articles number="第七十一条" title="（試験考査委員）">
+      <article_item number="第七十一条">
         国土地理院に、試験考査委員を置く。
       </article_item>
       <article_item number="２">
         試験考査委員は、測量法に基づいて院長が行う測量士試験及び測量士補試験について院長を助ける。
-      </article_item>
-    </articles>
-    <articles number="第七十一条" title="（監査官）">
-      <article_item number="第七十一条">
-        国土地理院に、監査官二人以内を置く。
-      </article_item>
-      <article_item number="２">
-        監査官のうち一人は、主任監査官とする。
-      </article_item>
-      <article_item number="３">
-        監査官は、命を受けて、国土地理院の事務の運営、官紀の保持、不正行為の防止に関し、所要の監査を行う。
       </article_item>
     </articles>
     <articles number="第七十二条" title="（建設専門官）">
@@ -1427,13 +1427,8 @@
         調査員は、命を受けて、国土地理院の所掌事務に関する専門的事項に関する調査を行う。
       </article_item>
     </articles>
-    <articles number="第七十五条">
+    <articles number="第七十五条" title="（地方測量部等）">
       <article_item number="第七十五条">
-        削除
-      </article_item>
-    </articles>
-    <articles number="第七十六条" title="（地方測量部等）">
-      <article_item number="第七十六条">
         国土地理院の地方測量部及び支所の名称、位置及び管轄区域は、次のとおりとする。
         <table>
           <tr>
@@ -1563,7 +1558,7 @@
         地方測量部及び支所は、国土地理院の所掌事務のうち、基本測量、公共測量その他の測量及び地震予知その他の防災に関する事務の一部を分掌する。
       </article_item>
       <article_item number="３">
-        関東地方測量部及び近畿地方測量部に前項に規定する事務のうち第四十二条第四号に規定するものの一部を分掌させる場合においては、第一項の規定中管轄区域に係る部分は適用しない。
+        地方測量部及び支所に前項に規定する事務のうち第四十二条第四号に規定するものの一部を分掌させる場合においては、第一項の規定中管轄区域に係る部分は適用しない。
       </article_item>
       <article_item number="４">
         地方測量部及び支所に、地方測量部長及び支所長を置く。
@@ -1575,8 +1570,8 @@
         地方測量部に、次に掲げる課を置く。<br/>　　管理課<br/>　　測量課<br/>　　防災課（関東地方測量部に限る。）
       </article_item>
     </articles>
-    <articles number="第七十七条" title="（雑則）">
-      <article_item number="第七十七条">
+    <articles number="第七十六条" title="（雑則）">
+      <article_item number="第七十六条">
         この省令に定めるもののほか、国土地理院に関し必要な事項は、院長が定める。
       </article_item>
     </articles>

@@ -3,7 +3,7 @@
   <head>
     <title>国土交通大学校組織規則</title>
     <defined>平成十三年一月六日国土交通省令第十四号</defined>
-    <updated>平成二四年六月二九日国土交通省令第六三号</updated>
+    <updated>平成二七年四月一〇日国土交通省令第三〇号</updated>
   </head>
   <body>
     <preamble>
@@ -189,12 +189,12 @@
     </articles>
     <articles number="第十七条" title="（建設部に置く科等）">
       <article_item number="第十七条">
-        建設部に、次の三科並びに事業高度化推進研修官及び環境安全技術研修官それぞれ一人を置く。<br/>　　建設企画科<br/>建設第一科<br/>建設第二科
+        建設部に、次の三科及び環境安全技術研修官一人を置く。<br/>　　建設企画科<br/>建設第一科<br/>建設第二科
       </article_item>
     </articles>
     <articles number="第十八条" title="（建設企画科の所掌事務）">
       <article_item number="第十八条">
-        建設企画科は、土木に係る建設技術に関する研修（建設第一科及び建設第二科並びに事業高度化推進研修官及び環境安全技術研修官の所掌に属するものを除く。）を行うことをつかさどる。
+        建設企画科は、土木に係る建設技術に関する研修（建設第一科及び建設第二科並びに環境安全技術研修官の所掌に属するものを除く。）を行うことをつかさどる。
       </article_item>
     </articles>
     <articles number="第十九条" title="（建設第一科の所掌事務）">
@@ -207,58 +207,53 @@
         建設第二科は、土木工事の施工に関する技術及び建設機械類に関する技術に関する研修を行うことをつかさどる。
       </article_item>
     </articles>
-    <articles number="第二十一条" title="（事業高度化推進研修官の職務）">
+    <articles number="第二十一条" title="（環境安全技術研修官の職務）">
       <article_item number="第二十一条">
-        事業高度化推進研修官は、命を受けて、土木事業の高度化を図るための情報システムの活用に関する特定事項についての研修を行うことをつかさどる。
-      </article_item>
-    </articles>
-    <articles number="第二十二条" title="（環境安全技術研修官の職務）">
-      <article_item number="第二十二条">
         環境安全技術研修官は、命を受けて、環境及び安全施工技術に関する特定事項についての研修を行うことをつかさどる。
       </article_item>
     </articles>
-    <articles number="第二十三条" title="（測量部の所掌事務）">
-      <article_item number="第二十三条">
-        測量部は、測量に関する研修及び地理に関する情報（環境に関するものを含む。第三十条において同じ。）に関する研修を行うことをつかさどる。
+    <articles number="第二十二条" title="（測量部の所掌事務）">
+      <article_item number="第二十二条">
+        測量部は、測量に関する研修及び地理に関する情報（環境に関するものを含む。第二十九条において同じ。）に関する研修を行うことをつかさどる。
       </article_item>
     </articles>
-    <articles number="第二十四条" title="（測量部に置く科等）">
-      <article_item number="第二十四条">
+    <articles number="第二十三条" title="（測量部に置く科等）">
+      <article_item number="第二十三条">
         測量部に、次の四科並びに測量新技術研修官及び環境・防災情報研修官それぞれ一人を置く。<br/>　　測量企画科<br/>基本測量科<br/>地理空間情報科<br/>先端測量技術科
       </article_item>
     </articles>
-    <articles number="第二十五条" title="（測量企画科の所掌事務）">
-      <article_item number="第二十五条">
+    <articles number="第二十四条" title="（測量企画科の所掌事務）">
+      <article_item number="第二十四条">
         測量企画科は、測量の実施の企画及び立案に関する研修を行うことをつかさどる。
       </article_item>
     </articles>
-    <articles number="第二十六条" title="（基本測量科の所掌事務）">
-      <article_item number="第二十六条">
+    <articles number="第二十五条" title="（基本測量科の所掌事務）">
+      <article_item number="第二十五条">
         基本測量科は、基礎的な測量技術に関する研修を行うことをつかさどる。
       </article_item>
     </articles>
-    <articles number="第二十七条" title="（地理空間情報科の所掌事務）">
-      <article_item number="第二十七条">
+    <articles number="第二十六条" title="（地理空間情報科の所掌事務）">
+      <article_item number="第二十六条">
         地理空間情報科は、地図、空中写真、基準点成果その他地理に関する資料の数値化情報の処理に係る技術及び地理情報システムに関する研修（環境・防災情報研修官の所掌に属するものを除く。）を行うことをつかさどる。
       </article_item>
     </articles>
-    <articles number="第二十八条" title="（先端測量技術科の所掌事務）">
-      <article_item number="第二十八条">
+    <articles number="第二十七条" title="（先端測量技術科の所掌事務）">
+      <article_item number="第二十七条">
         先端測量技術科は、先端的な測量技術に関する研修（測量新技術研修官の所掌に属するものを除く。）を行うことをつかさどる。
       </article_item>
     </articles>
-    <articles number="第二十九条" title="（測量新技術研修官の職務）">
-      <article_item number="第二十九条">
+    <articles number="第二十八条" title="（測量新技術研修官の職務）">
+      <article_item number="第二十八条">
         測量新技術研修官は、命を受けて、測量に関する高度な技術に関する特定事項についての研修を行うことをつかさどる。
       </article_item>
     </articles>
-    <articles number="第三十条" title="（環境・防災情報研修官の職務）">
-      <article_item number="第三十条">
+    <articles number="第二十九条" title="（環境・防災情報研修官の職務）">
+      <article_item number="第二十九条">
         環境・防災情報研修官は、命を受けて、地理に関する情報に関する特定事項についての研修を行うことをつかさどる。
       </article_item>
     </articles>
-    <articles number="第三十条の二" title="（建設専門官）">
-      <article_item number="第三十条の二">
+    <articles number="第三十条" title="（建設専門官）">
+      <article_item number="第三十条">
         国土交通大学校に、建設専門官一人を置く。
       </article_item>
       <article_item number="２">

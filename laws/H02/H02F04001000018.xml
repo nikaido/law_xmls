@@ -3,7 +3,7 @@
   <head>
     <title>無線従事者規則</title>
     <defined>平成二年三月三十一日郵政省令第十八号</defined>
-    <updated>平成二七年二月一九日総務省令第七号</updated>
+    <updated>平成二七年三月三一日総務省令第三五号</updated>
   </head>
   <body>
     <preamble>
@@ -1252,9 +1252,12 @@
               国内電信級陸上特殊無線技士
             </go_item>
             <go_item number="十三">
-              第三級アマチュア無線技士
+              第二級アマチュア無線技士
             </go_item>
             <go_item number="十四">
+              第三級アマチュア無線技士
+            </go_item>
+            <go_item number="十五">
               第四級アマチュア無線技士
             </go_item>
           </go>

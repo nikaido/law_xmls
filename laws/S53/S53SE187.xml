@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <law xmlns="http://law.2nx.info/xml_law">
   <head>
-    <title>農林漁業保険審査会令</title>
+    <title>農漁業保険審査会令</title>
     <defined>昭和五十三年五月二十三日政令第百八十七号</defined>
     <updated>平成二七年二月一二日政令第四二号</updated>
   </head>
@@ -13,7 +13,7 @@
     </preamble>
     <articles number="第一条" title="（組織）">
       <article_item number="第一条">
-        農林漁業保険審査会（以下「審査会」という。）は、委員二十人で組織する。
+        農漁業保険審査会（以下「審査会」という。）は、委員十五人で組織する。
       </article_item>
       <article_item number="２">
         委員は、学識経験のある者のうちから、農林水産大臣が任命する。
@@ -83,7 +83,7 @@
     </articles>
     <articles number="第五条" title="（庶務）">
       <article_item number="第五条">
-        審査会の庶務は、農林水産省経営局保険課において林野庁森林整備部計画課及び水産庁漁政部漁業保険管理官の協力を得て処理する。
+        審査会の庶務は、農林水産省経営局保険課において水産庁漁政部漁業保険管理官の協力を得て処理する。
       </article_item>
     </articles>
     <articles number="第六条" title="（雑則）">

@@ -3,7 +3,7 @@
   <head>
     <title>防衛大学校、防衛医科大学校、防衛研究所、技術研究本部、装備施設本部及び防衛監察本部組織規則</title>
     <defined>昭和二十九年六月三十日総理府令第三十九号</defined>
-    <updated>平成二六年三月三一日防衛省令第六号</updated>
+    <updated>平成二七年四月一〇日防衛省令第八号</updated>
   </head>
   <body>
     <preamble>
@@ -816,20 +816,20 @@
           副所長は、所長に事故があるとき、又は所長が欠けたときは、臨時に所長の職務を行う。
         </article_item>
       </articles>
-      <articles number="第十八条の二" title="（統括研究官）">
+      <articles number="第十八条の二" title="（研究幹事）">
         <article_item number="第十八条の二">
-          防衛研究所に、統括研究官一人を置く。
+          防衛研究所に、研究幹事一人を置く。
         </article_item>
         <article_item number="２">
-          統括研究官は、教官をもつて充てる。
+          研究幹事は、教官をもつて充てる。
         </article_item>
         <article_item number="３">
-          統括研究官は、所長の命を受け、企画部、政策研究部、理論研究部、地域研究部及び戦史研究センターの所掌事務のうち、調査研究に係る国際的な交流に関する事項その他の特定事項についての事務を総括整理する。
+          研究幹事は、自衛隊の管理及び運営に関する基本的な調査研究及び幹部自衛官その他の幹部職員の研修について所長を助け、事務を整理する。
         </article_item>
       </articles>
       <articles number="第十九条" title="（内部組織）">
         <article_item number="第十九条">
-          防衛研究所に、次の五部及び戦史研究センターを置く。<br/>　企画部<br/>　政策研究部<br/>　理論研究部<br/>　地域研究部<br/>　教育部
+          防衛研究所に、次の五部及び戦史研究センター並びに特別研究官二人を置く。<br/>　企画部<br/>　政策研究部<br/>　理論研究部<br/>　地域研究部<br/>　教育部
         </article_item>
       </articles>
       <articles number="第二十条" title="（企画部の分課）">
@@ -970,12 +970,23 @@
           戦史研究センターに、次の三研究室を置く。<br/>　戦史研究室<br/>　安全保障政策史研究室<br/>　国際紛争史研究室
         </article_item>
       </articles>
-      <articles number="第二十一条" title="（図書館）">
+      <articles number="第二十一条" title="（特別研究官）">
         <article_item number="第二十一条">
-          防衛研究所に、図書館を置く。
+          特別研究官は、教官をもつて充てる。
         </article_item>
         <article_item number="２">
-          図書館は、図書館の事務をつかさどる。
+          特別研究官は、所長の命を受け、次に掲げる事務を分掌する。
+          <go>
+            <go_item number="一">
+              自衛隊の管理及び運営に関する基本的な調査研究に係る国際的な交流に関すること。
+            </go_item>
+            <go_item number="二">
+              図書に関すること。
+            </go_item>
+            <go_item number="三">
+              自衛隊の管理及び運営に関する政策シミュレーションに関すること。
+            </go_item>
+          </go>
         </article_item>
       </articles>
       <articles number="第二十二条" title="（部長、課長、研究室長及びセンター長）">
@@ -998,20 +1009,12 @@
           研究室長は、部長（企画部長及び教育部長を除く。）又はセンター長の命を受け、研究室の室務を掌理する。
         </article_item>
       </articles>
-      <articles number="第二十二条の二" title="（館長）">
-        <article_item number="第二十二条の二">
-          図書館に、館長を置く。
-        </article_item>
-        <article_item number="２">
-          館長は、所長の命を受け、館務を掌理する。
-        </article_item>
-      </articles>
       <articles number="第二十三条" title="（所員及び助手）">
         <article_item number="第二十三条">
           防衛研究所に、所員及び助手を置く。
         </article_item>
         <article_item number="２">
-          所員は、理論研究部又は戦史研究センターのいずれかに、助手は、政策研究部、理論研究部、地域研究部又は戦史研究センターのいずれかに属するものとする。
+          所員及び助手は、政策研究部、理論研究部、地域研究部、教育部若しくは戦史研究センター又は特別研究官の下のいずれかに属するものとする。
         </article_item>
         <article_item number="３">
           所員及び助手は、教官又は自衛官をもつて充てる。

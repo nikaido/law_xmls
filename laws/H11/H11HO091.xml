@@ -88,7 +88,7 @@
                 第十七号の規定による評価並びに前号の規定による評価及び監視（次号において「行政評価等」という。）に関連して、次に掲げる業務の実施状況に関し必要な調査を行うこと。
                 <go>
                   <go_item number="イ">
-                    独立行政法人の業務（第十七号の規定による評価に関連する場合に限る。）
+                    独立行政法人の業務
                   </go_item>
                   <go_item number="ロ">
                     第十五号に規定する法人の業務
@@ -414,7 +414,7 @@
               本省に、地方財政審議会を置く。
             </article_item>
             <article_item number="２">
-              前項に定めるもののほか、別に法律で定めるところにより総務省に置かれる審議会等で本省に置かれるものは、次のとおりとする。<br/>　国地方係争処理委員会<br/>　電気通信紛争処理委員会<br/>　電波監理審議会<br/>　独立行政法人評価委員会
+              前項に定めるもののほか、別に法律で定めるところにより総務省に置かれる審議会等で本省に置かれるものは、次のとおりとする。<br/>　独立行政法人評価制度委員会<br/>　国地方係争処理委員会<br/>　電気通信紛争処理委員会<br/>　電波監理審議会
             </article_item>
           </articles>
         </section>
@@ -500,6 +500,13 @@
             </article_item>
           </articles>
         </section>
+        <section title="第二款の二　独立行政法人評価制度委員会" type="Kan">
+          <articles number="第十七条の二">
+            <article_item number="第十七条の二">
+              独立行政法人評価制度委員会については、独立行政法人通則法（これに基づく命令を含む。）の定めるところによる。
+            </article_item>
+          </articles>
+        </section>
         <section title="第三款　国地方係争処理委員会" type="Kan">
           <articles number="第十八条">
             <article_item number="第十八条">
@@ -520,11 +527,9 @@
               電波監理審議会については、電波法及び放送法並びにこれらに基づく命令の定めるところによる。
             </article_item>
           </articles>
-        </section>
-        <section title="第六款　独立行政法人評価委員会" type="Kan">
           <articles number="第二十一条">
             <article_item number="第二十一条">
-              独立行政法人評価委員会については、独立行政法人通則法（これに基づく命令を含む。）の定めるところによる。
+              削除
             </article_item>
           </articles>
         </section>

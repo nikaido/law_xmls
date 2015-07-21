@@ -3,6 +3,7 @@
   <head>
     <title>宇宙政策委員会令</title>
     <defined>平成二十四年七月十一日政令第百八十六号</defined>
+    <updated>平成二七年四月一〇日政令第一九一号</updated>
   </head>
   <body>
     <preamble>
@@ -57,8 +58,39 @@
         委員長に事故があるときは、あらかじめその指名する委員が、その職務を代理する。
       </article_item>
     </articles>
-    <articles number="第五条" title="（部会）">
+    <articles number="第五条" title="（分科会）">
       <article_item number="第五条">
+        委員会に、国立研究開発法人宇宙航空研究開発機構分科会（以下「分科会」という。）を置く。
+      </article_item>
+      <article_item number="２">
+        分科会は、委員会の所掌事務のうち、次に掲げる事務をつかさどる。
+        <go>
+          <go_item number="一">
+            内閣総理大臣の諮問に応じて国立研究開発法人宇宙航空研究開発機構の行う研究開発の事務及び事業に関する事項を調査審議すること。
+          </go_item>
+          <go_item number="二">
+            前号に掲げる事項に関し、内閣総理大臣に意見を述べること。
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="３">
+        分科会に属すべき委員、臨時委員及び専門委員は、内閣総理大臣が指名する。
+      </article_item>
+      <article_item number="４">
+        分科会に、分科会長を置き、分科会に属する委員の互選により選任する。
+      </article_item>
+      <article_item number="５">
+        分科会長は、分科会の事務を掌理する。
+      </article_item>
+      <article_item number="６">
+        分科会長に事故があるときは、分科会に属する委員のうちから分科会長があらかじめ指名する者が、その職務を代理する。
+      </article_item>
+      <article_item number="７">
+        委員会は、その定めるところにより、分科会の議決をもって委員会の議決とすることができる。
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（部会）">
+      <article_item number="第六条">
         委員会は、その定めるところにより、部会を置くことができる。
       </article_item>
       <article_item number="２">
@@ -77,29 +109,29 @@
         委員会は、その定めるところにより、部会の議決をもって委員会の議決とすることができる。
       </article_item>
     </articles>
-    <articles number="第六条" title="（議事）">
-      <article_item number="第六条">
+    <articles number="第七条" title="（議事）">
+      <article_item number="第七条">
         委員会は、委員及び議事に関係のある臨時委員の過半数が出席しなければ、会議を開き、議決することができない。
       </article_item>
       <article_item number="２">
         委員会の議事は、委員及び議事に関係のある臨時委員で会議に出席したものの過半数で決し、可否同数のときは、委員長の決するところによる。
       </article_item>
       <article_item number="３">
-        前二項の規定は、部会の議事について準用する。
+        前二項の規定は、分科会及び部会の議事について準用する。
       </article_item>
     </articles>
-    <articles number="第七条" title="（資料の提出等の要求）">
-      <article_item number="第七条">
+    <articles number="第八条" title="（資料の提出等の要求）">
+      <article_item number="第八条">
         委員会は、その所掌事務を遂行するため必要があると認めるときは、関係行政機関の長に対し、資料の提出、意見の表明、説明その他必要な協力を求めることができる。
       </article_item>
     </articles>
-    <articles number="第八条" title="（庶務）">
-      <article_item number="第八条">
+    <articles number="第九条" title="（庶務）">
+      <article_item number="第九条">
         委員会の庶務は、内閣府本府に置かれる政策統括官が処理する。
       </article_item>
     </articles>
-    <articles number="第九条" title="（雑則）">
-      <article_item number="第九条">
+    <articles number="第十条" title="（雑則）">
+      <article_item number="第十条">
         この政令に定めるもののほか、議事の手続その他委員会の運営に関し必要な事項は、委員長が委員会に諮って定める。
       </article_item>
     </articles>

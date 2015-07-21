@@ -3,7 +3,7 @@
   <head>
     <title>内閣府本府組織規則</title>
     <defined>平成十三年一月六日内閣府令第一号</defined>
-    <updated>平成二七年一月一五日内閣府令第二号</updated>
+    <updated>平成二七年四月一〇日内閣府令第三〇号</updated>
   </head>
   <body>
     <preamble>
@@ -57,9 +57,9 @@
             調査官は、命を受けて、会計課の所掌事務のうち専門的事項の調査、企画及び立案を行う。
           </article_item>
         </articles>
-        <articles number="第四条" title="（国際室及び情報システム室並びに企画官）">
+        <articles number="第四条" title="（国際室及び情報システム室）">
           <article_item number="第四条">
-            企画調整課に、国際室及び情報システム室並びに企画官一人を置く。
+            企画調整課に、国際室及び情報システム室を置く。
           </article_item>
           <article_item number="２">
             国際室は、次に掲げる事務をつかさどる。
@@ -83,9 +83,6 @@
           </article_item>
           <article_item number="５">
             情報システム室に、室長を置く。
-          </article_item>
-          <article_item number="６">
-            企画官は、命を受けて、企画調整課の所掌事務のうち特定事項の調査、企画及び立案を行う。
           </article_item>
         </articles>
         <articles number="第五条" title="（調査官及び能率専門官）">
@@ -143,7 +140,7 @@
             原子力専門調査官は、命を受けて、参事官の職務のうち原子力の研究、開発及び利用に関する専門的事項（安全の確保のうちその実施に関するものを除く。）の調査、企画及び立案を助ける。
           </article_item>
           <article_item number="８">
-            企画官の定数は、併任の者を除き二十六人と、調査官の定数は、併任の者を除き三人と、防災情報通信システム官の定数は、一人と、地域原子力防災推進官の定数は、四人と、原子力防災訓練推進官の定数は、一人と、原子力専門調査官の定数は、十人とする。
+            企画官の定数は、併任の者を除き二十八人と、調査官の定数は、併任の者を除き三人と、防災情報通信システム官の定数は、一人と、地域原子力防災推進官の定数は、四人と、原子力防災訓練推進官の定数は、一人と、原子力専門調査官の定数は、十人とする。
           </article_item>
         </articles>
       </section>
@@ -700,17 +697,51 @@
           調査官は、命を受けて、北方対策本部の事務のうち専門的事項の調査、企画及び立案を行う。
         </article_item>
       </articles>
+      <articles number="第五十三条" title="（児童手当管理室並びに企画官及び業務管理体制検査官）">
+        <article_item number="第五十三条">
+          子ども・子育て本部に、児童手当管理室並びに企画官及び業務管理体制検査官を置く。
+        </article_item>
+        <article_item number="２">
+          児童手当管理室は、次に掲げる事務をつかさどる。
+          <go>
+            <go_item number="一">
+              児童手当に関すること（児童手当制度に関する企画及び立案に係るものを除く。）。
+            </go_item>
+            <go_item number="二">
+              年金特別会計の子ども・子育て支援勘定の経理に関すること（厚生労働省の所掌に属するものを除く。）。
+            </go_item>
+            <go_item number="三">
+              年金特別会計の子ども・子育て支援勘定に属する国有財産の管理及び処分並びに物品の管理に関すること。
+            </go_item>
+          </go>
+        </article_item>
+        <article_item number="３">
+          児童手当管理室に、室長を置く。
+        </article_item>
+        <article_item number="４">
+          室長は、統括官を助け、児童手当管理室の事務を掌理する。
+        </article_item>
+        <article_item number="５">
+          企画官は、命を受けて、参事官の職務のうち特定事項の調査、企画及び立案を助ける。
+        </article_item>
+        <article_item number="６">
+          業務管理体制検査官は、命を受けて、参事官の職務のうち子ども・子育て支援法第五十六条第一項及び第四項並びに第五十七条の規定による事務を助ける。
+        </article_item>
+        <article_item number="７">
+          企画官の定数は、併任の者を除き二人と、業務管理体制検査官の定数は一人とする。
+        </article_item>
+      </articles>
     </section>
     <section title="第四章　地方支分部局" type="Sho">
-      <articles number="第五十三条">
-        <article_item number="第五十三条">
+      <articles number="第五十四条">
+        <article_item number="第五十四条">
           沖縄総合事務局については、沖縄総合事務局組織規則（平成十三年内閣府令第四号）の定めるところによる。
         </article_item>
       </articles>
     </section>
     <section title="第五章　顧問及び参与" type="Sho">
-      <articles number="第五十四条" title="（顧問）">
-        <article_item number="第五十四条">
+      <articles number="第五十五条" title="（顧問）">
+        <article_item number="第五十五条">
           本府に、顧問を置くことができる。
         </article_item>
         <article_item number="２">
@@ -720,8 +751,8 @@
           顧問は、非常勤とする。
         </article_item>
       </articles>
-      <articles number="第五十五条" title="（参与）">
-        <article_item number="第五十五条">
+      <articles number="第五十六条" title="（参与）">
+        <article_item number="第五十六条">
           本府に、参与を置くことができる。
         </article_item>
         <article_item number="２">

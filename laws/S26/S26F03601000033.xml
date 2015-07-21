@@ -200,9 +200,25 @@
         </article_item>
       </articles>
     </section>
-    <section title="第三章　業務等 " type="Sho">
-      <articles number="第十五条の二" title="（法第二十六条第二項第二号の厚生労働省令で定める検査）">
+    <section title="第三章　業務等  " type="Sho">
+      <articles number="第十五条の二" title="（法第二十四条の二第二号の厚生労働省令で定める行為）">
         <article_item number="第十五条の二">
+          法第二十四条の二第二号の厚生労働省令で定める行為は、次に掲げるものとする。
+          <go>
+            <go_item number="一">
+              静脈路に造影剤注入装置を接続する行為（静脈路確保のためのものを除く。）、造影剤を投与するために当該造影剤注入装置を操作する行為並びに当該造影剤の投与が終了した後に抜針及び止血を行う行為
+            </go_item>
+            <go_item number="二">
+              下部消化管検査のために肛門にカテーテルを挿入する行為並びに当該カテーテルから造影剤及び空気を注入する行為
+            </go_item>
+            <go_item number="三">
+              画像誘導放射線治療のために肛門にカテーテルを挿入する行為及び当該カテーテルから空気を吸引する行為
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第十五条の三" title="（法第二十六条第二項第二号の厚生労働省令で定める検査）">
+        <article_item number="第十五条の三">
           法第二十六条第二項第二号の厚生労働省令で定める検査は、胸部エツクス線検査（コンピュータ断層撮影装置を用いたものを除く。）とする。
         </article_item>
       </articles>

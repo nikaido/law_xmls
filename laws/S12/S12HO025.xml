@@ -1,192 +1,205 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <law xmlns="http://law.2nx.info/xml_law">
   <head>
-    <title>森林国営保険法</title>
+    <title>森林保険法</title>
     <defined>昭和十二年三月三十一日法律第二十五号</defined>
     <updated>平成二六年六月一三日法律第六七号</updated>
   </head>
   <body>
-    <articles number="第一条">
-      <article_item number="第一条">
-        政府ハ本法ニ依リ森林保険ヲ行フ
-      </article_item>
-    </articles>
-    <articles number="第二条">
-      <article_item number="第二条">
-        森林保険ニ於テハ政府ガ森林ニ付火災ニ因リテ生ズルコトアルベキ損害気象上ノ原因ニ因ル災害（風害水害雪害干害凍害及潮害ニ限ル）ニ因リテ生ズルコトアルベキ損害及噴火ニ因ル災害ニ因リテ生ズルコトアルベキ損害ヲ填補スルコトヲ約シ保険契約者ガ対償トシテ政府ニ保険料ヲ支払フコトヲ約スルモノトス
-      </article_item>
-      <article_item number="○２">
-        保険料ニ関スル事項ハ政令ヲ以テ之ヲ定ム
-      </article_item>
-    </articles>
-    <articles number="第三条">
-      <article_item number="第三条">
-        保険ノ目的タル森林ハ人工ニ依リ生立セシメタル樹木ノ集団トス
-      </article_item>
-    </articles>
-    <articles number="第四条">
-      <article_item number="第四条">
-        被保険者ハ保険ノ目的ノ所有者ニ限ル
-      </article_item>
-    </articles>
-    <articles number="第五条">
-      <article_item number="第五条">
-        保険料ハ保険契約ノ申込ト同時ニ保険期間ノ全部ニ対シ之ヲ払込ムベシ但シ保険期間ガ一年ヲ超ユル場合ニ在リテハ之ヲ分割シテ払込ムコトヲ得
-      </article_item>
-      <article_item number="○２">
-        前項但書ノ規定ニ依リ保険料ヲ分割シテ払込ム場合ニ在リテハ当該保険料期間ノ開始ニ至ル迄ニ之ヲ払込ムベシ其ノ払込ヲ怠リタルトキハ保険契約ハ爾後其ノ効力ヲ失フ
-      </article_item>
-    </articles>
-    <articles number="第六条">
-      <article_item number="第六条">
-        政府保険契約ノ申込ヲ承諾シタルトキハ保険証書ヲ作成シ之ヲ保険契約者ニ交付ス
-      </article_item>
-      <article_item number="○２">
-        保険証書ニ記載スベキ事項ハ農林水産省令ヲ以テ之ヲ定ム
-      </article_item>
-    </articles>
-    <articles number="第七条">
-      <article_item number="第七条">
-        保険契約ニ因ル政府ノ責任ハ特約アル場合ヲ除クノ外保険証書作成ノ日ノ翌日ニ始マル
-      </article_item>
-    </articles>
-    <articles number="第八条">
-      <article_item number="第八条">
-        保険契約者又ハ被保険者ノ詐欺ニ因ル保険契約ハ之ヲ無効トス
-      </article_item>
-    </articles>
-    <articles number="第九条">
-      <article_item number="第九条">
-        同一ノ目的ノ全部又ハ一部ニ付保険契約ノ申込ノ当時他ノ保険契約存スルトキ又ハ保険契約ノ申込後他ノ保険契約ヲ締結シタルトキ若ハ他ノ保険契約ヲ変更シタルトキハ之ヲ政府ニ申告スベシ同一ノ目的ノ全部又ハ一部ニ付第三者ノ締結シタル保険契約ノ存スルコト又ハ其ノ変更アリタルコトヲ知リタルトキ亦同ジ
-      </article_item>
-      <article_item number="○２">
-        前項ノ申告ヲ怠リタルトキハ政府ハ損害ヲ填補スル責ニ任ゼザルコトヲ得
-      </article_item>
-    </articles>
-    <articles number="第十条">
-      <article_item number="第十条">
-        保険金額ハ政令ヲ以テ定ムル標準ニ依リ算出シタル金額（標準金額）ヲ超ユルコトヲ得ズ
-      </article_item>
-      <article_item number="○２">
-        保険金額ガ標準金額ヲ超過シタルトキハ其ノ超過シタル部分ニ付テハ保険契約ハ之ヲ無効トス
-      </article_item>
-    </articles>
-    <articles number="第十一条">
-      <article_item number="第十一条">
-        同一ノ目的ニ付本法ニ依ル保険契約ノ外他ノ保険契約存スル場合ニ於テ保険金額ノ総額ガ保険価額ヲ超過シタルトキハ政府ノ負担額ハ本法ニ依ル保険契約ノ保険金額ト他ノ保険契約ノ保険金額トノ割合ニ依リテ之ヲ定ム但シ其ノ政府ノ負担額ガ損害額ヨリ他ノ保険者ノ負担額ヲ控除シタル残額ヲ超ユル場合ニ於テハ其ノ残額ヲ以テ政府ノ負担額トス
-      </article_item>
-    </articles>
-    <articles number="第十一条ノ二">
-      <article_item number="第十一条ノ二">
-        前条本文ニ規定スル場合ニ於テ他ノ保険者ニ対スル権利ノ抛棄ハ政府ノ権利義務ニ影響ヲ及ボサズ
-      </article_item>
-    </articles>
-    <articles number="第十二条">
-      <article_item number="第十二条">
-        保険証書ニ記載シタル事項ト異リタル事実アル為保険料トシテ払込ミタル金額ガ正当ニ払込ムベキ保険料ニ達セザルトキハ払込ミタル保険料ノ正当ニ払込ムベキ保険料ニ対スル割合ニ依リ保険金額ヲ減額ス
-      </article_item>
-    </articles>
-    <articles number="第十三条">
-      <article_item number="第十三条">
-        削除 
-      </article_item>
-    </articles>
-    <articles number="第十四条">
-      <article_item number="第十四条">
-        削除 
-      </article_item>
-    </articles>
-    <articles number="第十五条">
-      <article_item number="第十五条">
-        左ノ場合ニ於テハ政府ハ損害ヲ填補スル責ニ任ゼズ
-        <go>
-          <go_item number="一">
-            損害ガ保険契約者又ハ被保険者ノ故意又ハ重大ナル過失ニ因リテ生ジタルトキ
-          </go_item>
-          <go_item number="二">
-            保険契約者又ハ被保険者ガ損害ノ生ジタルコトヲ知リテ其ノ通知ヲ怠リタルトキ
-          </go_item>
-          <go_item number="三">
-            損害ガ戦争其ノ他ノ変乱又ハ地震ニ因リテ生ジタルトキ
-          </go_item>
-          <go_item number="四">
-            填補スベキ額ガ少額ト認メラルル場合ニシテ農林水産省令ヲ以テ定ムル場合
-          </go_item>
-        </go>
-      </article_item>
-    </articles>
-    <articles number="第十六条">
-      <article_item number="第十六条">
-        被保険者ハ其ノ負担ニ於テ損害ノ防止ニ力ムルコトヲ要ス
-      </article_item>
-    </articles>
-    <articles number="第十七条">
-      <article_item number="第十七条">
-        保険契約ハ他人ノ為ニモ之ヲ締結スルコトヲ得此ノ場合ニ於テハ被保険者ハ当然其ノ契約ノ利益ヲ享受ス
-      </article_item>
-    </articles>
-    <articles number="第十八条">
-      <article_item number="第十八条">
-        保険ノ目的ヲ取得シタル者ハ保険契約ニ因リテ生ジタル権利義務ヲ承継ス
-      </article_item>
-    </articles>
-    <articles number="第十九条">
-      <article_item number="第十九条">
-        保険期間中危険ガ著シク増加シタルトキハ政府ハ政令ノ定ムル所ニ依リ保険契約ノ解除ヲ為スコトヲ得但シ其ノ解除ハ将来ニ向テノミ其ノ効力ヲ生ズ
-      </article_item>
-      <article_item number="○２">
-        保険期間中危険ガ著シク増加シタルトキハ保険契約者又ハ被保険者ハ農林水産省令ノ定ムル所ニ依リ遅滞ナク之ヲ通知スベシ若シ其ノ通知ヲ怠リタルトキハ政府ハ危険増加ノ時ヨリ保険契約ガ其ノ効力ヲ失ヒタルモノト看做スコトヲ得
-      </article_item>
-      <article_item number="○３">
-        政府ニ於テ前項ノ通知ヲ受ケ又ハ危険ノ増加ヲ知リタル後遅滞ナク契約ノ解除ヲ為サザルトキハ其ノ契約ヲ承認シタルモノトス
-      </article_item>
-    </articles>
-    <articles number="第二十条">
-      <article_item number="第二十条">
-        削除
-      </article_item>
-    </articles>
-    <articles number="第二十一条">
-      <article_item number="第二十一条">
-        削除
-      </article_item>
-    </articles>
-    <articles number="第二十二条">
-      <article_item number="第二十二条">
-        保険契約者被保険者又ハ保険金ニ付権利ヲ有スル者ガ森林保険ニ関スル事項ニ付政府ニ対シテ民事訴訟ヲ提起スルニハ農林漁業保険審査会ノ審査ヲ経ルコトヲ要ス
-      </article_item>
-      <article_item number="○２">
-        前項ノ審査ノ申立ハ時効ノ中断ニ関シテハ之ヲ裁判上ノ請求ト看做ス
-      </article_item>
-    </articles>
-    <articles number="第二十三条">
-      <article_item number="第二十三条">
-        本法ニ依ル森林保険ニ関スル書類ニハ印紙税ヲ課セズ
-      </article_item>
-    </articles>
-    <articles number="第二十三条ノ二">
-      <article_item number="第二十三条ノ二">
-        保険事務ノ一部ハ政令ノ定ムル所ニ依リ都道府県知事又ハ市町村長ガ行フコトトスルコトヲ得
-      </article_item>
-      <article_item number="○２">
-        保険契約ニ関スル事務ヲ都道府県知事ガ行フ場合ニ於テハ政府ハ政令ノ定ムル所ニ依リ其ノ費用ヲ負担ス
-      </article_item>
-      <article_item number="○３">
-        保険料受取ノ事務ヲ市町村長ガ行フ場合ニ於テハ政府ハ其ノ受取リタル保険料ノ百分ノ五ニ相当スル金額ヲ其ノ市町村ニ交付ス
-      </article_item>
-    </articles>
-    <articles number="第二十四条">
-      <article_item number="第二十四条">
-        政府ハ政令ノ定ムル所ニ依リ保険事務ノ一部ヲ森林組合又ハ森林組合連合会ヲシテ取扱ハシムルコトヲ得
-      </article_item>
-      <article_item number="○２">
-        政府保険料受取ノ事務ヲ森林組合又ハ森林組合連合会ヲシテ取扱ハシムル場合ニ於テハ其ノ受取リタル保険料ノ百分ノ五ニ相当スル金額ヲ其ノ森林組合又ハ森林組合連合会ニ交付ス
-      </article_item>
-    </articles>
-    <articles number="第二十五条">
-      <article_item number="第二十五条">
-        保険法（平成二十年法律第五十六号）第四条、第十条、第十四条乃至第十六条、第十八条、第十九条、第二十一条、第二十三条第一項（第一号ニ係ル部分ニ限ル）、第二十五条、第二十七条、第二十八条、第三十条、第三十一条第一項及第二項（第二号ヲ除ク）、第三十二条（第一号ニ係ル部分ニ限ル）並ニ第九十五条ノ規定ハ本法ニ依ル森林保険ニ之ヲ準用ス
-      </article_item>
-    </articles>
+    <section title="第一章　総則" type="Sho">
+      <articles number="第一条">
+        <article_item number="第一条">
+          この法律は、森林保険の制度を確立することにより、災害によって林業の再生産が阻害されることを防止するとともに、林業経営の安定を図ることを目的とする。
+        </article_item>
+      </articles>
+      <articles number="第二条" title="（定義）">
+        <article_item number="第二条">
+          この法律において「森林保険」とは、森林につき、火災、気象上の原因による災害（風害、水害、雪害、干害、凍害及び潮害に限る。）及び噴火による災害（以下「保険事故」という。）によって生ずることのある損害をてん補する保険であって、この法律により行うものをいう。
+        </article_item>
+        <article_item number="２">
+          この法律において「森林保険契約」とは、国立研究開発法人森林総合研究所（以下「研究所」という。）が森林につき保険事故によって生ずることのある損害をてん補することを約し、保険契約者がこれに対して保険料を支払うことを約する契約をいう。
+        </article_item>
+      </articles>
+    </section>
+    <section title="第二章　森林保険" type="Sho">
+      <articles number="第三条" title="（保険の目的）">
+        <article_item number="第三条">
+          森林保険の保険の目的たるべき森林は、人工的に生立させた樹木の集団とする。
+        </article_item>
+      </articles>
+      <articles number="第四条" title="（被保険者たる資格）">
+        <article_item number="第四条">
+          森林保険の被保険者たる資格を有する者は、森林保険の保険の目的たる森林の所有者とする。
+        </article_item>
+      </articles>
+      <articles number="第五条" title="（引受条件）">
+        <article_item number="第五条">
+          研究所は、この法律に特別の定めがあるもののほか、森林保険の保険金額の標準、保険料率その他の引受けに関する条件（以下この条において「引受条件」という。）を定め、農林水産省令で定めるところにより、農林水産大臣に届け出なければならない。これを変更しようとするときも、同様とする。
+        </article_item>
+        <article_item number="２">
+          農林水産大臣は、前項の規定による届出に係る引受条件が次の各号のいずれかに該当しないと認めるときは、研究所に対し、期限を定めてその引受条件を変更すべきことを命ずることができる。
+          <go>
+            <go_item number="一">
+              前項の保険金額の標準又は保険料率が保険契約者の負担の観点から著しく不適切なものでないこと。
+            </go_item>
+            <go_item number="二">
+              特定の者に対して不当な差別的取扱いをするものでないこと。
+            </go_item>
+            <go_item number="三">
+              保険事故によって林業の再生産が阻害されることを防止するとともに、林業経営の安定を図る上で支障がないこと。
+            </go_item>
+          </go>
+        </article_item>
+        <article_item number="３">
+          研究所は、第一項の規定による届出をした引受条件以外の引受条件により、森林保険を引き受けてはならない。
+        </article_item>
+      </articles>
+      <articles number="第六条" title="（保険料の払込み）">
+        <article_item number="第六条">
+          森林保険契約を締結しようとする者は、当該森林保険契約の申込みと同時に、研究所に保険料の全額（次項の規定により保険料を分割して払い込む場合にあっては、その第一回の払込金額）を払い込まなければならない。
+        </article_item>
+        <article_item number="２">
+          保険料は、農林水産省令で定める事由がある場合には、分割して払い込むことができる。
+        </article_item>
+        <article_item number="３">
+          保険契約者は、前項の規定により保険料を分割して払い込む場合には、払込期限までに、研究所にその第二回以降の払込金額を払い込まなければならない。
+        </article_item>
+        <article_item number="４">
+          前項の規定による保険料の払込みをその払込期限までにしないときは、当該森林保険契約は、その効力を失う。
+        </article_item>
+        <article_item number="５">
+          前二項に規定するもののほか、第二項の規定による保険料の払込みに関し必要な事項は、農林水産省令で定める。
+        </article_item>
+      </articles>
+      <articles number="第七条" title="（保険証書）">
+        <article_item number="第七条">
+          研究所は、森林保険契約の申込みを承諾したときは、保険証書（農林水産省令で定める事項を記載した書面をいう。次条及び第十一条において同じ。）を作成し、保険契約者に交付する。
+        </article_item>
+      </articles>
+      <articles number="第八条" title="（保険責任の開始日）">
+        <article_item number="第八条">
+          森林保険契約に係る研究所の保険責任は、特約がある場合を除いては、保険証書が作成された日の翌日から始まる。
+        </article_item>
+      </articles>
+      <articles number="第九条" title="（重複保険の通知）">
+        <article_item number="第九条">
+          森林保険の保険の目的たる森林の全部又は一部につき、次に掲げる場合には、保険契約者又は被保険者（森林保険契約の締結前にあっては、保険契約者又は被保険者になる者。次項において同じ。）は、遅滞なく、その旨を研究所に通知しなければならない。
+          <go>
+            <go_item number="一">
+              森林保険契約の申込みの際他の保険契約が存するとき。
+            </go_item>
+            <go_item number="二">
+              森林保険契約の申込み後に他の保険契約を締結し、又は変更したとき。
+            </go_item>
+            <go_item number="三">
+              第三者が締結した保険契約が存すること又は当該保険契約に変更があったことを知ったとき。
+            </go_item>
+          </go>
+        </article_item>
+        <article_item number="２">
+          研究所は、保険契約者又は被保険者が故意又は重大な過失により遅滞なく前項の規定による通知をしなかったときは、当該森林保険契約を解除することができる。
+        </article_item>
+        <article_item number="３">
+          前項の規定による解除権は、研究所が同項の規定による解除の原因があることを知った時から一月間行使しないときは、消滅する。森林保険の保険の目的たる森林の全部又は一部につき、次の各号に掲げる場合において、当該各号に定める時から五年を経過したときも、同様とする。
+          <go>
+            <go_item number="一">
+              第一項第一号に掲げる場合　当該申込みに係る森林保険契約が締結された時
+            </go_item>
+            <go_item number="二">
+              第一項第二号に掲げる場合　当該保険契約が締結され、又は変更された時
+            </go_item>
+            <go_item number="三">
+              第一項第三号に掲げる場合　当該保険契約が存すること又は当該保険契約に変更があったことを保険契約者又は被保険者が知った時
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第十条" title="（保険金額）">
+        <article_item number="第十条">
+          森林保険の保険金額は、第五条第一項の規定による届出に係る保険金額の標準により算出した金額（次項において「標準金額」という。）を超えてはならない。
+        </article_item>
+        <article_item number="２">
+          森林保険契約は、当該森林保険契約の締結の時において保険金額が標準金額を超えていたときは、その超過部分について、無効とする。
+        </article_item>
+      </articles>
+      <articles number="第十一条" title="（保険金額の減額）">
+        <article_item number="第十一条">
+          保険証書に記載されている事項と異なる事実があるため、払い込まれた保険料が正当に払い込むべき保険料に達しないときは、その不足する部分の割合に応じて保険金額を減額する。
+        </article_item>
+      </articles>
+      <articles number="第十二条" title="（免責事由）">
+        <article_item number="第十二条">
+          次に掲げる場合には、研究所は、損害をてん補する責任を負わない。
+          <go>
+            <go_item number="一">
+              損害が保険契約者又は被保険者の故意又は重大な過失によって生じたとき。
+            </go_item>
+            <go_item number="二">
+              保険契約者又は被保険者が、損害が生じたことを知りながら、その旨を研究所に通知しなかったとき。
+            </go_item>
+            <go_item number="三">
+              損害が戦争その他の変乱又は地震によって生じたとき。
+            </go_item>
+            <go_item number="四">
+              てん補すべき額が少額であると認められる場合として農林水産省令で定める場合
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第十三条" title="（損害の発生及び拡大の防止）">
+        <article_item number="第十三条">
+          被保険者は、その負担において、損害の発生及び拡大の防止に努めなければならない。
+        </article_item>
+      </articles>
+      <articles number="第十四条" title="（他人のためにする森林保険契約）">
+        <article_item number="第十四条">
+          森林保険契約は、他人のためにも締結することができる。この場合において、被保険者は、当然に当該森林保険契約の利益を享受する。
+        </article_item>
+      </articles>
+      <articles number="第十五条" title="（森林保険契約に係る権利義務の承継）">
+        <article_item number="第十五条">
+          森林保険の保険の目的たる森林を取得した者は、当該森林についての森林保険契約に係る権利及び義務を承継する。
+        </article_item>
+      </articles>
+      <articles number="第十六条" title="（危険増加による解除）">
+        <article_item number="第十六条">
+          研究所は、保険期間中に危険（森林保険契約によりてん補することとされる損害の発生の可能性をいう。以下この条において同じ。）が著しく増加したときは、農林水産省令で定めるところにより、森林保険契約を解除することができる。
+        </article_item>
+        <article_item number="２">
+          保険契約者又は被保険者は、保険期間中に危険が著しく増加したときは、農林水産省令で定めるところにより、遅滞なく、これを研究所に通知しなければならない。
+        </article_item>
+        <article_item number="３">
+          保険契約者又は被保険者が故意又は重大な過失により遅滞なく前項の規定による通知をしなかった場合において、研究所が第一項の規定による解除をしたときは、研究所は、当該解除に係る危険が著しく増加した時から当該解除がされた時までに発生した保険事故による損害をてん補する責任を負わない。ただし、当該解除に係る危険の著しい増加をもたらした事由に基づかずに発生した保険事故による損害については、この限りでない。
+        </article_item>
+        <article_item number="４">
+          第一項の規定による解除権は、研究所が同項の規定による解除の原因があることを知った時から一月間行使しないときは、消滅する。当該解除に係る危険が著しく増加した時から五年を経過したときも、同様とする。
+        </article_item>
+      </articles>
+      <articles number="第十七条" title="（保険法の準用）">
+        <article_item number="第十七条">
+          保険法（平成二十年法律第五十六号）第四条、第十条、第十四条から第十六条まで、第十八条から第二十一条まで、第二十三条第一項（第一号に係る部分に限る。）、第二十五条、第二十七条、第二十八条、第三十条、第三十一条第一項及び第二項（第二号を除く。）、第三十二条（第一号に係る部分に限る。）並びに第九十五条の規定は、森林保険について準用する。
+        </article_item>
+      </articles>
+    </section>
+    <section title="第三章　雑則" type="Sho">
+      <articles number="第十八条" title="（印紙税の非課税）">
+        <article_item number="第十八条">
+          森林保険に関する書類には、印紙税を課さない。
+        </article_item>
+      </articles>
+      <articles number="第十九条" title="（過料）">
+        <article_item number="第十九条">
+          次の各号のいずれかに該当する場合には、その違反行為をした研究所の役員は、二十万円以下の過料に処する。
+          <go>
+            <go_item number="一">
+              第五条第二項の規定による命令に違反したとき。
+            </go_item>
+            <go_item number="二">
+              第五条第三項の規定に違反して森林保険を引き受けたとき。
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+    </section>
   </body>
 </law>

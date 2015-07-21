@@ -3,7 +3,7 @@
   <head>
     <title>国税徴収法施行令</title>
     <defined>昭和三十四年十月三十一日政令第三百二十九号</defined>
-    <updated>平成二六年三月三一日政令第一四三号</updated>
+    <updated>平成二七年三月三一日政令第一四五号</updated>
   </head>
   <body>
     <preamble>
@@ -950,54 +950,125 @@
         </articles>
       </section>
     </section>
-    <section title="第六章　保全担保及び保全差押" type="Sho">
-      <articles number="第五十三条">
-        <article_item number="第五十三条">
-          削除
-        </article_item>
-      </articles>
-      <articles number="第五十四条">
-        <article_item number="第五十四条">
-          削除
-        </article_item>
-      </articles>
-      <articles number="第五十五条" title="（保全担保の提供命令の手続）">
-        <article_item number="第五十五条">
-          法第百五十八条第一項（保全担保の提供命令）の規定による命令は、次の事項を記載した書面でしなければならない。
-          <go>
-            <go_item number="一">
-              担保されるべき国税の税目及び金額
-            </go_item>
-            <go_item number="二">
-              提供すべき担保の種類
-            </go_item>
-            <go_item number="三">
-              担保を提供すべき期限
-            </go_item>
-          </go>
-        </article_item>
-        <article_item number="２">
-          前項第三号に掲げる期限は、同項の書面を発する日から起算して七日を経過した日以後の日としなければならない。ただし、納税者につき国税通則法第三十八条第一項各号（繰上請求）の一に該当する事実が生じたときは、この期限を繰り上げることができる。
-        </article_item>
-      </articles>
-      <articles number="第五十六条" title="（保全差押に関する手続）">
-        <article_item number="第五十六条">
-          法第百五十九条第三項（保全差押）の書面には、次の事項を記載しなければならない。
-          <go>
-            <go_item number="一">
-              法第百五十九条第一項の規定により決定した金額
-            </go_item>
-            <go_item number="二">
-              前号の金額の決定の基因となつた国税の年度及び税目
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第五十七条">
-        <article_item number="第五十七条">
-          削除
-        </article_item>
-      </articles>
+    <section title="第六章　滞納処分に関する猶予等" type="Sho">
+      <section title="第一節　換価の猶予" type="Setsu">
+        <articles number="第五十三条" title="（換価の猶予の申請手続等）">
+          <article_item number="第五十三条">
+            法第百五十一条第二項及び第百五十一条の二第三項（換価の猶予の要件等）並びに法第百五十二条第四項（換価の猶予に係る分割納付、通知等）において読み替えて準用する国税通則法第四十六条の二第四項（納税の猶予の申請手続等）に規定する政令で定める書類は、次に掲げる書類とする。
+            <go>
+              <go_item number="一">
+                財産目録その他の資産及び負債の状況を明らかにする書類
+              </go_item>
+              <go_item number="二">
+                猶予を受けようとする日前一年間の収入及び支出の実績並びに同日以後の収入及び支出の見込みを明らかにする書類
+              </go_item>
+              <go_item number="三">
+                猶予を受けようとする金額が百万円を超え、かつ、猶予期間が三月を超える場合には、国税通則法施行令（昭和三十七年政令第百三十五号）第十六条（担保の提供手続）の規定により提出すべき書類その他担保の提供に関し必要となる書類
+              </go_item>
+            </go>
+          </article_item>
+          <article_item number="２">
+            法第百五十一条の二第三項に規定する政令で定める事項は、次に掲げる事項とする。
+            <go>
+              <go_item number="一">
+                法第百五十一条の二第一項の国税を一時に納付することにより事業の継続又は生活の維持が困難となる事情の詳細
+              </go_item>
+              <go_item number="二">
+                納付すべき国税の年度、税目、納期限及び金額
+              </go_item>
+              <go_item number="三">
+                前号の金額のうちその納付を困難とする金額
+              </go_item>
+              <go_item number="四">
+                当該猶予を受けようとする期間
+              </go_item>
+              <go_item number="五">
+                猶予に係る金額を分割して納付する場合の各納付期限及び各納付期限ごとの納付金額
+              </go_item>
+              <go_item number="六">
+                猶予を受けようとする金額が百万円を超え、かつ、猶予期間が三月を超える場合には、提供しようとする国税通則法第五十条各号（担保の種類）に掲げる担保の種類、数量、価額及び所在（その担保が保証人の保証であるときは、保証人の氏名及び住所又は居所）その他担保に関し参考となるべき事項（担保を提供することができない特別の事情があるときは、その事情）
+              </go_item>
+            </go>
+          </article_item>
+          <article_item number="３">
+            法第百五十二条第一項に規定する政令で定める額は、第一号に掲げる額から第二号に掲げる額を控除した残額とする。
+            <go>
+              <go_item number="一">
+                納付すべき国税の金額
+              </go_item>
+              <go_item number="二">
+                税務署長が法第百五十一条第一項又は第百五十一条の二第一項の規定による換価の猶予をしようとする日の前日において滞納者が有する現金、預貯金その他換価の容易な財産の価額に相当する金額からその者の次に掲げる区分に応じ、それぞれ次に定める額を控除した残額
+                <go>
+                  <go_item number="イ">
+                    法人　その事業の継続のために当面必要な運転資金の額
+                  </go_item>
+                  <go_item number="ロ">
+                    個人　その者及びその者と生計を一にする配偶者その他の親族（その者と婚姻の届出をしていないが事実上婚姻関係と同様の事情にある者及び当該事情にある者の親族を含む。）の生活の維持のために通常必要とされる費用に相当する金額（その者が負担すべきものに限る。）並びにその者の事業の継続のために当面必要な運転資金の額
+                  </go_item>
+                </go>
+              </go_item>
+            </go>
+          </article_item>
+          <article_item number="４">
+            法第百五十二条第四項において読み替えて準用する国税通則法第四十六条の二第四項に規定する政令で定める事項は、次に掲げる事項とする。
+            <go>
+              <go_item number="一">
+                猶予期間の延長を受けようとする国税の年度、税目、納期限及び金額
+              </go_item>
+              <go_item number="二">
+                猶予期間内にその猶予を受けた金額を納付することができないやむを得ない理由及びその猶予期間の延長を受けようとする期間
+              </go_item>
+              <go_item number="三">
+                第二項第五号及び第六号に掲げる事項
+              </go_item>
+            </go>
+          </article_item>
+        </articles>
+        <articles number="第五十四条">
+          <article_item number="第五十四条">
+            削除
+          </article_item>
+        </articles>
+      </section>
+      <section title="第二節　保全担保及び保全差押え" type="Setsu">
+        <articles number="第五十五条" title="（保全担保の提供命令の手続）">
+          <article_item number="第五十五条">
+            法第百五十八条第一項（保全担保の提供命令）の規定による命令は、次の事項を記載した書面でしなければならない。
+            <go>
+              <go_item number="一">
+                担保されるべき国税の税目及び金額
+              </go_item>
+              <go_item number="二">
+                提供すべき担保の種類
+              </go_item>
+              <go_item number="三">
+                担保を提供すべき期限
+              </go_item>
+            </go>
+          </article_item>
+          <article_item number="２">
+            前項第三号に掲げる期限は、同項の書面を発する日から起算して七日を経過した日以後の日としなければならない。ただし、納税者につき国税通則法第三十八条第一項各号（繰上請求）の一に該当する事実が生じたときは、この期限を繰り上げることができる。
+          </article_item>
+        </articles>
+        <articles number="第五十六条" title="（保全差押に関する手続）">
+          <article_item number="第五十六条">
+            法第百五十九条第三項（保全差押）の書面には、次の事項を記載しなければならない。
+            <go>
+              <go_item number="一">
+                法第百五十九条第一項の規定により決定した金額
+              </go_item>
+              <go_item number="二">
+                前号の金額の決定の基因となつた国税の年度及び税目
+              </go_item>
+            </go>
+          </article_item>
+        </articles>
+        <articles number="第五十七条">
+          <article_item number="第五十七条">
+            削除
+          </article_item>
+        </articles>
+      </section>
     </section>
     <section title="第七章　削除" type="Sho">
       <articles number="第五十八条">

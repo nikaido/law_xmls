@@ -3,7 +3,7 @@
   <head>
     <title>小型船舶登録令</title>
     <defined>平成十三年十一月三十日政令第三百八十一号</defined>
-    <updated>平成一八年三月三一日政令第一六七号</updated>
+    <updated>平成二七年三月一八日政令第七四号</updated>
   </head>
   <body>
     <preamble>
@@ -368,13 +368,13 @@
               削除
             </go_item>
             <go_item number="三">
-              独立行政法人防災科学技術研究所
+              国立研究開発法人防災科学技術研究所
             </go_item>
             <go_item number="四">
               独立行政法人水産大学校
             </go_item>
             <go_item number="五">
-              独立行政法人水産総合研究センター
+              国立研究開発法人水産総合研究センター
             </go_item>
             <go_item number="六">
               削除
@@ -386,7 +386,7 @@
               独立行政法人海技教育機構
             </go_item>
             <go_item number="九">
-              独立行政法人国立環境研究所
+              国立研究開発法人国立環境研究所
             </go_item>
             <go_item number="十">
               独立行政法人国立高等専門学校機構

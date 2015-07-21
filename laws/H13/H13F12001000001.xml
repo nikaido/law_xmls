@@ -3,7 +3,7 @@
   <head>
     <title>法務省組織規則</title>
     <defined>平成十三年一月六日法務省令第一号</defined>
-    <updated>平成二六年三月二八日法務省令第五号</updated>
+    <updated>平成二七年四月一〇日法務省令第一五号</updated>
   </head>
   <body>
     <preamble>
@@ -133,23 +133,9 @@
               企画調査官は、命を受けて、施設課の所掌事務のうち特定事項に係るものを調査し、企画する事務をつかさどる。
             </article_item>
           </articles>
-          <articles number="第五条" title="（訟務調査室）">
+          <articles number="第五条">
             <article_item number="第五条">
-              訟務企画課に、訟務調査室を置く。
-            </article_item>
-            <article_item number="２">
-              訟務調査室は、国の利害に関係のある争訟に関する基本的な事項に係る調査、企画及び立案に関する事務をつかさどる。
-            </article_item>
-            <article_item number="３">
-              訟務調査室に、室長を置く。
-            </article_item>
-          </articles>
-          <articles number="第五条の二" title="（民事訟務対策官）">
-            <article_item number="第五条の二">
-              民事訟務課に、民事訟務対策官一人（関係のある他の職を占める者をもって充てられるものとする。）を置く。
-            </article_item>
-            <article_item number="２">
-              民事訟務対策官は、命を受けて、民事訟務課の所掌事務に関する重要事項についての訴訟の追行、企画及び関係行政機関その他の関係者との連絡調整に関する事務をつかさどる。
+              削除
             </article_item>
           </articles>
           <articles number="第六条" title="（企画調査官及び資料調査官）">
@@ -226,14 +212,6 @@
             </article_item>
             <article_item number="４">
               刑事調査官は、命を受けて、総務課の所掌事務のうち特定事項に係るものを調査し、企画する事務をつかさどる。 
-            </article_item>
-          </articles>
-          <articles number="第八条の二" title="（国際刑事企画官）">
-            <article_item number="第八条の二">
-              国際課に、国際刑事企画官一人を置く。
-            </article_item>
-            <article_item number="２">
-              国際刑事企画官は、命を受けて、国際課の所掌事務のうち特定事項に係るものの企画及び調整に関する事務をつかさどる。
             </article_item>
           </articles>
         </section>
@@ -347,9 +325,30 @@
             </article_item>
           </articles>
         </section>
-        <section title="第七款　入国管理局" type="Kan">
-          <articles number="第十七条" title="（難民認定室並びに入国管理企画官及び入国管理調整官）">
+        <section title="第七款　訟務局" type="Kan">
+          <articles number="第十七条" title="（訟務調査室）">
             <article_item number="第十七条">
+              訟務企画課に、訟務調査室を置く。
+            </article_item>
+            <article_item number="２">
+              訟務調査室は、国の利害に関係のある争訟に関する基本的な事項に係る調査、企画及び立案に関する事務をつかさどる。
+            </article_item>
+            <article_item number="３">
+              訟務調査室に、室長を置く。
+            </article_item>
+          </articles>
+          <articles number="第十八条" title="（民事訟務対策官）">
+            <article_item number="第十八条">
+              民事訟務課に、民事訟務対策官一人（関係のある他の職を占める者をもって充てられるものとする。）を置く。
+            </article_item>
+            <article_item number="２">
+              民事訟務対策官は、命を受けて、民事訟務課の所掌事務に関する重要事項についての訴訟の追行、企画及び関係行政機関その他の関係者との連絡調整に関する事務をつかさどる。
+            </article_item>
+          </articles>
+        </section>
+        <section title="第八款　入国管理局" type="Kan">
+          <articles number="第十九条" title="（難民認定室並びに入国管理企画官及び入国管理調整官）">
+            <article_item number="第十九条">
               総務課に、難民認定室並びに入国管理企画官及び入国管理調整官それぞれ一人を置く。
             </article_item>
             <article_item number="２">
@@ -390,8 +389,8 @@
               入国管理調整官は、命を受けて、総務課の所掌事務のうち特定事項に係るものの調整に関する事務をつかさどる。
             </article_item>
           </articles>
-          <articles number="第十八条" title="（在留管理業務室及び審査指導官）">
-            <article_item number="第十八条">
+          <articles number="第二十条" title="（在留管理業務室及び審査指導官）">
+            <article_item number="第二十条">
               入国在留課に、在留管理業務室及び審査指導官一人を置く。
             </article_item>
             <article_item number="２">
@@ -412,16 +411,16 @@
               審査指導官は、命を受けて、入国在留課の所掌事務のうち特定事項に係るものを指導し、監督する事務をつかさどる。
             </article_item>
           </articles>
-          <articles number="第十九条" title="（警備指導官）">
-            <article_item number="第十九条">
+          <articles number="第二十一条" title="（警備指導官）">
+            <article_item number="第二十一条">
               警備課に、警備指導官一人を置く。
             </article_item>
             <article_item number="２">
               警備指導官は、命を受けて、警備課の所掌事務のうち特定事項に係るものを指導し、監督する事務をつかさどる。
             </article_item>
           </articles>
-          <articles number="第二十条" title="（出入国情報分析官）">
-            <article_item number="第二十条">
+          <articles number="第二十二条" title="（出入国情報分析官）">
+            <article_item number="第二十二条">
               入国管理局に、出入国情報分析官一人を置く。
             </article_item>
             <article_item number="２">
@@ -432,43 +431,43 @@
       </section>
       <section title="第二節　施設等機関" type="Setsu">
         <section title="第一款　刑務所、少年刑務所及び拘置所" type="Kan">
-          <articles number="第二十一条">
-            <article_item number="第二十一条">
+          <articles number="第二十三条">
+            <article_item number="第二十三条">
               刑務所、少年刑務所及び拘置所については、刑務所、少年刑務所及び拘置所組織規則（平成十三年法務省令第三号）の定めるところによる。
             </article_item>
           </articles>
         </section>
         <section title="第二款　少年院及び少年鑑別所" type="Kan">
-          <articles number="第二十二条">
-            <article_item number="第二十二条">
+          <articles number="第二十四条">
+            <article_item number="第二十四条">
               少年院及び少年鑑別所については、少年院及び少年鑑別所組織規則（平成十三年法務省令第四号）の定めるところによる。
             </article_item>
           </articles>
         </section>
         <section title="第三款　婦人補導院" type="Kan">
-          <articles number="第二十三条">
-            <article_item number="第二十三条">
+          <articles number="第二十五条">
+            <article_item number="第二十五条">
               婦人補導院については、婦人補導院組織規則（平成十三年法務省令第五号）の定めるところによる。
             </article_item>
           </articles>
         </section>
         <section title="第四款　入国者収容所" type="Kan">
-          <articles number="第二十四条">
-            <article_item number="第二十四条">
+          <articles number="第二十六条">
+            <article_item number="第二十六条">
               入国者収容所については、入国者収容所組織規則（平成十三年法務省令第六号）の定めるところによる。
             </article_item>
           </articles>
         </section>
         <section title="第五款　法務総合研究所" type="Kan">
-          <articles number="第二十五条">
-            <article_item number="第二十五条">
+          <articles number="第二十七条">
+            <article_item number="第二十七条">
               法務総合研究所については、法務総合研究所組織規則（平成十三年法務省令第七号）の定めるところによる。
             </article_item>
           </articles>
         </section>
         <section title="第六款　矯正研修所" type="Kan">
-          <articles number="第二十六条">
-            <article_item number="第二十六条">
+          <articles number="第二十八条">
+            <article_item number="第二十八条">
               矯正研修所については、矯正研修所組織規則（平成十三年法務省令第八号）の定めるところによる。
             </article_item>
           </articles>
@@ -476,29 +475,29 @@
       </section>
       <section title="第三節　地方支分部局" type="Setsu">
         <section title="第一款　矯正管区" type="Kan">
-          <articles number="第二十七条">
-            <article_item number="第二十七条">
+          <articles number="第二十九条">
+            <article_item number="第二十九条">
               矯正管区については、矯正管区組織規則（平成二十五年法務省令第八号）の定めるところによる。
             </article_item>
           </articles>
         </section>
         <section title="第二款　法務局及び地方法務局" type="Kan">
-          <articles number="第二十八条">
-            <article_item number="第二十八条">
+          <articles number="第三十条">
+            <article_item number="第三十条">
               法務局及び地方法務局については、法務局及び地方法務局組織規則（平成十三年法務省令第十一号）及び法務局及び地方法務局の支局及び出張所設置規則（平成十三年法務省令第十二号）の定めるところによる。
             </article_item>
           </articles>
         </section>
         <section title="第三款　地方入国管理局" type="Kan">
-          <articles number="第二十九条">
-            <article_item number="第二十九条">
+          <articles number="第三十一条">
+            <article_item number="第三十一条">
               地方入国管理局については、地方入国管理局組織規則（平成十三年法務省令第十三号）の定めるところによる。
             </article_item>
           </articles>
         </section>
         <section title="第四款　保護観察所" type="Kan">
-          <articles number="第三十条">
-            <article_item number="第三十条">
+          <articles number="第三十二条">
+            <article_item number="第三十二条">
               保護観察所については、保護観察所組織規則（平成十九年法務省令第二十二号）の定めるところによる。
             </article_item>
           </articles>
@@ -506,15 +505,15 @@
       </section>
     </section>
     <section title="第二章　公安調査庁" type="Sho">
-      <articles number="第三十一条">
-        <article_item number="第三十一条">
+      <articles number="第三十三条">
+        <article_item number="第三十三条">
           公安調査庁については、公安調査庁組織規則（平成十三年法務省令第二号）の定めるところによる。
         </article_item>
       </articles>
     </section>
     <section title="第三章　特別顧問" type="Sho">
-      <articles number="第三十二条">
-        <article_item number="第三十二条">
+      <articles number="第三十四条">
+        <article_item number="第三十四条">
           法務省に、特別顧問九人以内を置く。
         </article_item>
         <article_item number="２">
@@ -526,8 +525,8 @@
       </articles>
     </section>
     <section title="第四章　雑則" type="Sho">
-      <articles number="第三十三条">
-        <article_item number="第三十三条">
+      <articles number="第三十五条">
+        <article_item number="第三十五条">
           この省令に定めるもののほか、本省の内部部局の事務分掌その他組織の細目は、官房長又は各局長が法務大臣の承認を受けて定める。
         </article_item>
       </articles>

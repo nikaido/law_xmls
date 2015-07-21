@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>国家公務員退職手当法の一部を改正する法律附則第二条に規定する政令で定める日を定める政令</title>
+    <defined>平成二十七年三月二十七日政令第百二号</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、国家公務員退職手当法の一部を改正する法律（平成二十六年法律第百七号）附則第二条の規定に基づき、この政令を制定する。
+      </p>
+    </preamble>
+    <articles>
+      <article_item>
+        次に掲げる行政執行法人（独立行政法人通則法（平成十一年法律第百三号）第二条第四項に規定する行政執行法人をいう。）に係る国家公務員退職手当法の一部を改正する法律附則第二条に規定する政令で定める日は、平成二十七年四月一日とする。
+        <go>
+          <go_item number="一">
+            独立行政法人国立公文書館
+          </go_item>
+          <go_item number="二">
+            独立行政法人農林水産消費安全技術センター
+          </go_item>
+          <go_item number="三">
+            独立行政法人製品評価技術基盤機構
+          </go_item>
+          <go_item number="四">
+            独立行政法人駐留軍等労働者労務管理機構
+          </go_item>
+          <go_item number="五">
+            独立行政法人統計センター
+          </go_item>
+          <go_item number="六">
+            独立行政法人造幣局
+          </go_item>
+          <go_item number="七">
+            独立行政法人国立印刷局
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+  </body>
+</law>

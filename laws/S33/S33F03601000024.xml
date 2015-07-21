@@ -78,6 +78,12 @@
                 </go_item>
               </go>
             </go_item>
+            <go_item number="十七">
+              基準嗅覚検査及び静脈性嗅覚検査（静脈に注射する行為を除く。）
+            </go_item>
+            <go_item number="十八">
+              電気味覚検査及びろ紙ディスク法による味覚定量検査
+            </go_item>
           </go>
         </article_item>
       </articles>

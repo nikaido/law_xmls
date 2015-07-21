@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <law xmlns="http://law.2nx.info/xml_law">
   <head>
-    <title>独立行政法人理化学研究所法施行令</title>
+    <title>国立研究開発法人理化学研究所法施行令</title>
     <defined>平成十五年九月二十五日政令第四百四十号</defined>
-    <updated>平成二三年三月三一日政令第六七号</updated>
+    <updated>平成二七年三月一八日政令第七四号</updated>
   </head>
   <body>
     <preamble>
@@ -13,7 +13,7 @@
     </preamble>
     <articles number="第一条" title="（評価委員の任命等）">
       <article_item number="第一条">
-        独立行政法人理化学研究所法（以下「法」という。）第五条第五項の評価委員は、必要の都度、次に掲げる者につき文部科学大臣が任命する。
+        国立研究開発法人理化学研究所法（平成十四年法律第百六十号。以下「法」という。）第五条第五項の評価委員は、必要の都度、次に掲げる者につき文部科学大臣が任命する。
         <go>
           <go_item number="一">
             財務省の職員　一人
@@ -22,7 +22,7 @@
             文部科学省の職員　一人
           </go_item>
           <go_item number="三">
-            独立行政法人理化学研究所（以下「研究所」という。）の役員　一人
+            国立研究開発法人理化学研究所（以下「研究所」という。）の役員　一人
           </go_item>
           <go_item number="四">
             学識経験のある者　二人

@@ -3,7 +3,7 @@
   <head>
     <title>新型インフルエンザ等対策特別措置法施行令</title>
     <defined>平成二十五年四月十二日政令第百二十二号</defined>
-    <updated>平成二六年七月三〇日政令第二六九号</updated>
+    <updated>平成二七年三月二七日政令第一一六号</updated>
   </head>
   <body>
     <preamble>
@@ -216,7 +216,7 @@
             独立行政法人地域医療機能推進機構
           </go_item>
           <go_item number="四">
-            独立行政法人国立国際医療研究センター
+            国立研究開発法人国立国際医療研究センター
           </go_item>
           <go_item number="五">
             日本銀行
@@ -228,42 +228,45 @@
             日本放送協会
           </go_item>
           <go_item number="八">
-            成田国際空港株式会社
+            広域的運営推進機関
           </go_item>
           <go_item number="九">
-            中部国際空港株式会社
+            成田国際空港株式会社
           </go_item>
           <go_item number="十">
-            新関西国際空港株式会社
+            中部国際空港株式会社
           </go_item>
           <go_item number="十一">
-            北海道旅客鉄道株式会社
+            新関西国際空港株式会社
           </go_item>
           <go_item number="十二">
-            四国旅客鉄道株式会社
+            北海道旅客鉄道株式会社
           </go_item>
           <go_item number="十三">
-            九州旅客鉄道株式会社
+            四国旅客鉄道株式会社
           </go_item>
           <go_item number="十四">
-            日本貨物鉄道株式会社
+            九州旅客鉄道株式会社
           </go_item>
           <go_item number="十五">
-            東京地下鉄株式会社
+            日本貨物鉄道株式会社
           </go_item>
           <go_item number="十六">
-            日本郵便株式会社
+            東京地下鉄株式会社
           </go_item>
           <go_item number="十七">
-            日本電信電話株式会社
+            日本郵便株式会社
           </go_item>
           <go_item number="十八">
-            東日本電信電話株式会社
+            日本電信電話株式会社
           </go_item>
           <go_item number="十九">
-            西日本電信電話株式会社
+            東日本電信電話株式会社
           </go_item>
           <go_item number="二十">
+            西日本電信電話株式会社
+          </go_item>
+          <go_item number="二十一">
             次に掲げる法人のうち内閣総理大臣が指定して公示するもの
             <go>
               <go_item number="イ">

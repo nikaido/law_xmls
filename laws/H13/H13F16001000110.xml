@@ -3,7 +3,7 @@
   <head>
     <title>マンションの管理の適正化の推進に関する法律施行規則</title>
     <defined>平成十三年七月十九日国土交通省令第百十号</defined>
-    <updated>平成二五年四月一日国土交通省令第二三号</updated>
+    <updated>平成二七年三月二七日国土交通省令第一二号</updated>
   </head>
   <body>
     <preamble>
@@ -1704,15 +1704,12 @@
             法第六十条第一項の国土交通省令で定める事項は、次のとおりとする。
             <go>
               <go_item number="一">
-                管理業務主任者の住所
-              </go_item>
-              <go_item number="二">
                 登録番号及び登録年月日
               </go_item>
-              <go_item number="三">
+              <go_item number="二">
                 管理業務主任者証の交付年月日
               </go_item>
-              <go_item number="四">
+              <go_item number="三">
                 管理業務主任者証の有効期間の満了する日
               </go_item>
             </go>

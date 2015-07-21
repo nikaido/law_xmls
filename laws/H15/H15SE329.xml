@@ -3,7 +3,7 @@
   <head>
     <title>独立行政法人水資源機構法施行令</title>
     <defined>平成十五年七月二十四日政令第三百二十九号</defined>
-    <updated>平成二六年三月二八日政令第九二号</updated>
+    <updated>平成二七年三月一八日政令第七四号</updated>
   </head>
   <body>
     <preamble>
@@ -938,30 +938,8 @@
           法第三十七条第二項第四号に規定する業務に関する主務大臣は、当該業務の目的に従って、当該業務の対象となる施設ごとに、厚生労働省令・農林水産省令・経済産業省令・国土交通省令で定めるところにより、厚生労働大臣、農林水産大臣、経済産業大臣又は国土交通大臣とする。
         </article_item>
       </articles>
-      <articles number="第五十六条" title="（独立行政法人評価委員会への意見聴取等）">
+      <articles number="第五十六条" title="（他の法令の準用）">
         <article_item number="第五十六条">
-          法第四十二条第二項の規定により読み替えて適用する独立行政法人通則法（以下「通則法」という。）第二十八条第三項、第二十九条第三項、第三十条第三項及び第三十五条第二項の規定により意見を聴くべき独立行政法人評価委員会は、次の各号に掲げる業務の区分に応じて、当該各号に定める独立行政法人評価委員会とする。
-          <go>
-            <go_item number="一">
-              厚生労働大臣が主務大臣である業務　厚生労働省の独立行政法人評価委員会
-            </go_item>
-            <go_item number="二">
-              農林水産大臣が主務大臣である業務　農林水産省の独立行政法人評価委員会
-            </go_item>
-            <go_item number="三">
-              経済産業大臣が主務大臣である業務　経済産業省の独立行政法人評価委員会
-            </go_item>
-            <go_item number="四">
-              国土交通大臣が主務大臣である業務　国土交通省の独立行政法人評価委員会
-            </go_item>
-          </go>
-        </article_item>
-        <article_item number="２">
-          法第四十二条第三項の規定により意見を聴くべき独立行政法人評価委員会は、前項第一号から第三号までに掲げる業務の区分に応じて、当該各号に定める独立行政法人評価委員会とする。
-        </article_item>
-      </articles>
-      <articles number="第五十七条" title="（他の法令の準用）">
-        <article_item number="第五十七条">
           次の法令の規定については、機構を国の行政機関とみなして、これらの規定を準用する。
           <go>
             <go_item number="一">
@@ -1106,13 +1084,13 @@
           </table>
         </article_item>
       </articles>
-      <articles number="第五十八条" title="（他の法令の準用）">
-        <article_item number="第五十八条">
+      <articles number="第五十七条" title="（他の法令の準用）">
+        <article_item number="第五十七条">
           勅令及び政令以外の命令であって国土交通省令で定めるものについては、国土交通省令で定めるところにより、機構を国の行政機関とみなして、これらの命令を準用する。
         </article_item>
       </articles>
-      <articles number="第五十九条" title="（事務の区分）">
-        <article_item number="第五十九条">
+      <articles number="第五十八条" title="（事務の区分）">
+        <article_item number="第五十八条">
           第二十七条並びに第二十八条第二項ただし書及び第三項の規定により都道府県が処理することとされている事務は、地方自治法（昭和二十二年法律第六十七号）第二条第九項第一号に規定する第一号法定受託事務とする。
         </article_item>
       </articles>

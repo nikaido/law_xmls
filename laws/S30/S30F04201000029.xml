@@ -3,7 +3,7 @@
   <head>
     <title>建設工事統計調査規則</title>
     <defined>昭和三十年十一月四日建設省令第二十九号</defined>
-    <updated>平成二四年三月三〇日国土交通省令第三〇号</updated>
+    <updated>平成二七年三月三一日国土交通省令第一七号</updated>
   </head>
   <body>
     <preamble>
@@ -156,7 +156,7 @@
             施工場所別の月間受注高
           </go_item>
           <go_item number="十">
-            月間施工高及び月末の未消化工事高
+            月間施工高及び月末の手持ち工事高
           </go_item>
         </go>
       </article_item>

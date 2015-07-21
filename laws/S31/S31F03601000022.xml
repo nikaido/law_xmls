@@ -3,7 +3,7 @@
   <head>
     <title>安全な血液製剤の安定供給の確保等に関する法律施行規則</title>
     <defined>昭和三十一年六月二十五日厚生省令第二十二号</defined>
-    <updated>平成二六年七月三〇日厚生労働省令第八七号</updated>
+    <updated>平成二七年三月二六日厚生労働省令第四二号</updated>
   </head>
   <body>
     <preamble>
@@ -30,6 +30,9 @@
             遺伝子組換え型血液凝固第ＩＸ因子
           </go_item>
           <go_item number="四">
+            遺伝子組換え型血液凝固第ＸＩＩＩ因子
+          </go_item>
+          <go_item number="五">
             遺伝子組換え型人血清アルブミン
           </go_item>
         </go>

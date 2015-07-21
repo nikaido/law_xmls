@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <law xmlns="http://law.2nx.info/xml_law">
   <head>
-    <title>指定都市、中核市又は特例市の指定があつた場合における必要な事項を定める政令</title>
+    <title>指定都市又は中核市の指定があつた場合における必要な事項を定める政令</title>
     <defined>昭和三十八年一月二十八日政令第十一号</defined>
     <updated>平成二七年一月三〇日政令第三〇号</updated>
   </head>
@@ -64,13 +64,6 @@
       <articles number="第八条" title="（中核市についての準用）">
         <article_item number="第八条">
           第一条から第三条までの規定は、地方自治法第二百五十二条の二十二第一項の中核市の指定があつた場合について準用する。
-        </article_item>
-      </articles>
-    </section>
-    <section title="第三章　特例市関係" type="Sho">
-      <articles number="第九条" title="（特例市についての準用）">
-        <article_item number="第九条">
-          第一条及び第二条第一項の規定は、地方自治法第二百五十二条の二十六の三第一項の特例市の指定があつた場合について準用する。
         </article_item>
       </articles>
     </section>

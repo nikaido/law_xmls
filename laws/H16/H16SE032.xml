@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <law xmlns="http://law.2nx.info/xml_law">
   <head>
-    <title>独立行政法人海洋研究開発機構法施行令</title>
+    <title>国立研究開発法人海洋研究開発機構法施行令</title>
     <defined>平成十六年三月五日政令第三十二号</defined>
-    <updated>平成二一年一二月二四日政令第二九六号</updated>
+    <updated>平成二七年三月一八日政令第七四号</updated>
   </head>
   <body>
     <preamble>
@@ -13,7 +13,7 @@
     </preamble>
     <articles number="１">
       <article_item number="１">
-        独立行政法人海洋研究開発機構法（以下「法」という。）第六条第五項の評価委員は、必要の都度、次に掲げる者につき文部科学大臣が任命する。
+        国立研究開発法人海洋研究開発機構法（平成十五年法律第九十五号。以下「法」という。）第六条第五項の評価委員は、必要の都度、次に掲げる者につき文部科学大臣が任命する。
         <go>
           <go_item number="一">
             財務省の職員　一人
@@ -22,7 +22,7 @@
             文部科学省の職員　一人
           </go_item>
           <go_item number="三">
-            独立行政法人海洋研究開発機構（以下「機構」という。）の役員　一人
+            国立研究開発法人海洋研究開発機構（以下「機構」という。）の役員　一人
           </go_item>
           <go_item number="四">
             学識経験のある者　二人

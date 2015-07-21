@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <law xmlns="http://law.2nx.info/xml_law">
   <head>
-    <title>人事院規則一―五（特別職）</title>
-    <defined>昭和三十一年六月二十六日人事院規則一―五</defined>
-    <updated>平成一九年八月三一日人事院規則一―五―一六</updated>
+    <title>人事院規則一—五（特別職）</title>
+    <defined>昭和三十一年六月二十六日人事院規則一—五</defined>
+    <updated>平成二七年四月一〇日人事院規則一—五—一七</updated>
   </head>
   <body>
     <preamble>
       <p>
-        人事院は、国家公務員法に基き、人事院規則一―五（特別職）の全部を次のように改正する。
+        人事院は、国家公務員法に基き、人事院規則一—五（特別職）の全部を次のように改正する。
       </p>
     </preamble>
     <articles number="第一条" title="（秘書官）">
@@ -16,7 +16,7 @@
         法第二条第三項第八号の規定に基づき、次に掲げる特別職たる機関の長の秘書官の職を特別職とする。
         <go>
           <go_item number="一">
-            規則二―三（人事院事務総局等の組織）第三条第一項に規定する人事院総裁秘書官
+            規則二—三（人事院事務総局等の組織）第三条第一項に規定する人事院総裁秘書官
           </go_item>
           <go_item number="二">
             会計検査院法（昭和二十二年法律第七十三号）第十七条第一項に規定する秘書官のうち、会計検査院長たる検査官の秘書官
@@ -47,7 +47,7 @@
             女官長（一人）及び女官（六人）
           </go_item>
           <go_item number="五">
-            侍医長（一人）及び侍医（三人）
+            侍医長（一人）及び侍医（四人）
           </go_item>
           <go_item number="六">
             東宮侍従長（一人）及び東宮侍従（五人）
@@ -72,27 +72,24 @@
         法第二条第三項第十六号の規定に基づき、次に掲げる防衛省の職員の職を特別職から除かれる職とする。
         <go>
           <go_item number="一">
-            独立行政法人評価委員会の委員
-          </go_item>
-          <go_item number="二">
             防衛人事審議会の委員
           </go_item>
-          <go_item number="三">
+          <go_item number="二">
             自衛隊員倫理審査会の委員
           </go_item>
-          <go_item number="四">
+          <go_item number="三">
             防衛調達審議会の委員
           </go_item>
-          <go_item number="五">
+          <go_item number="四">
             防衛施設中央審議会の委員
           </go_item>
-          <go_item number="六">
+          <go_item number="五">
             防衛施設地方審議会の委員
           </go_item>
-          <go_item number="七">
+          <go_item number="六">
             捕虜資格認定等審査会の委員
           </go_item>
-          <go_item number="八">
+          <go_item number="七">
             地方協力局労務管理課の職員
           </go_item>
         </go>

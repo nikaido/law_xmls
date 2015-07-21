@@ -3,7 +3,7 @@
   <head>
     <title>海上保安大学校の名称、位置及び内部組織に関する庁令</title>
     <defined>昭和三十六年十月十六日海上保安庁令第二号</defined>
-    <updated>平成一九年三月三〇日海上保安庁令第一号</updated>
+    <updated>平成二七年四月一〇日海上保安庁令第一号</updated>
   </head>
   <body>
     <preamble>
@@ -59,7 +59,15 @@
         海上保安大学校に、次の講座を置く。<br/>　基礎教育<br/>　海事工学<br/>　海上警察学<br/>　海上安全学
       </article_item>
       <article_item number="２">
-        教授、准教授、助教及び講師は、前項の講座のいずれかに属するものとする。ただし、第十四条第一項に規定する訓練教官のうち、海上保安大学校長の指定する訓練教官については、この限りでない。
+        教授、准教授、助教及び講師は、次の各号のいずれかに該当する場合を除き、前項の講座のいずれかに属するものとする。
+        <go>
+          <go_item number="一">
+            第五条の三第十六項に規定するセンター教官
+          </go_item>
+          <go_item number="二">
+            第十四条第一項に規定する訓練教官のうち、海上保安大学校長が指定する訓練教官
+          </go_item>
+        </go>
       </article_item>
       <article_item number="３">
         第一項に掲げる講座に、それぞれ主任教授を置く。
@@ -73,22 +81,89 @@
         海上保安大学校に、国際海洋政策研究センター（以下「センター」という。）を置く。
       </article_item>
       <article_item number="２">
-        センターにおいては、教授、准教授、助教及び講師が行う研究のうち、国際海洋政策に関する学際的かつ総合的な研究を行う。
+        センターにおいては、教授、准教授、助教及び講師が行う研究及び教育のうち、次に掲げる事務をつかさどる。
+        <go>
+          <go_item number="一">
+            国際海洋政策に関する学際的かつ総合的な研究に関すること。
+          </go_item>
+          <go_item number="二">
+            海上保安庁の所掌事務に関する政策の企画及び立案に必要な高度の知識及び能力の修得並びに外国の海上保安機関の能力の向上に関する教育（以下「センター教育」という。）に関すること。
+          </go_item>
+        </go>
       </article_item>
       <article_item number="３">
-        センターに、センター長を置き、教授のうちから充てる。
+        センターに、センター長を置く。
       </article_item>
       <article_item number="４">
-        センター長は、センターにおける研究を総括する。
+        センター長は、センターの事務を総括する。
       </article_item>
       <article_item number="５">
-        センターに、主任研究員を置き、教授及び准教授のうちから充てる。
+        センターに、副センター長を置く。
       </article_item>
       <article_item number="６">
-        主任研究員は、研究員の研究を整理する。
+        副センター長は、センター長の職務を助ける。
       </article_item>
       <article_item number="７">
+        センター長及び副センター長は、教授のうちから、海上保安庁長官が指名する者をもって充てる。
+      </article_item>
+      <article_item number="８">
+        センターに、主任研究員を置き、教授及び准教授のうちから充てる。
+      </article_item>
+      <article_item number="９">
+        主任研究員は、研究員の研究を整理する。
+      </article_item>
+      <article_item number="１０">
         センターに研究員を置き、教授、准教授、助教及び講師のうちから充てる。
+      </article_item>
+      <article_item number="１１">
+        研究員は、センターの行う研究に従事する。
+      </article_item>
+      <article_item number="１２">
+        センターに、主任教育支援官を置き、海上保安庁長官が指名する者をもって充てる。
+      </article_item>
+      <article_item number="１３">
+        主任教育支援官は、教育支援官の所掌に属する事務を調整し、及びこれに関する指導を行う。
+      </article_item>
+      <article_item number="１４">
+        センターに、教育支援官を置き、海上保安大学校長が指名する者をもって充てる。
+      </article_item>
+      <article_item number="１５">
+        教育支援官は、次に掲げる事務をつかさどる。
+        <go>
+          <go_item number="一">
+            センター教育の計画に関すること。
+          </go_item>
+          <go_item number="二">
+            センター教育に関する教授等の担当する教科に関すること。
+          </go_item>
+          <go_item number="三">
+            センター教育を受ける者（以下この項において「センター学生」という。）の試験及び成績に関すること。
+          </go_item>
+          <go_item number="四">
+            センター学生の選考に関すること。
+          </go_item>
+          <go_item number="五">
+            センター教育に関する教務の記録に関すること。
+          </go_item>
+          <go_item number="六">
+            センター学生の入学、退学及び卒業に関すること。
+          </go_item>
+          <go_item number="七">
+            センター教育に関する資料及び教材に関すること。
+          </go_item>
+          <go_item number="八">
+            センター学生の規律、考課及び身上に関すること。
+          </go_item>
+          <go_item number="九">
+            センター学生の課外活動及び学生生活に関すること。
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="１６">
+        センターに、センター教官を置き、教授、准教授、助教又は講師のうちから充てる。
+      </article_item>
+      <article_item number="１７">
+        センター教官は、センター教育に従事する。
       </article_item>
     </articles>
     <articles number="第六条">
@@ -158,7 +233,7 @@
     </articles>
     <articles number="第十条の二">
       <article_item number="第十条の二">
-        教務課においては、次の事務をつかさどる。
+        教務課においては、次の事務（センターの所掌に属するものを除く。）をつかさどる。
         <go>
           <go_item number="一">
             教育訓練計画に関すること（訓練課の所掌に属するものを除く。）。
@@ -191,7 +266,7 @@
     </articles>
     <articles number="第十二条">
       <article_item number="第十二条">
-        学生課においては、次の事務をつかさどる。
+        学生課においては、次の事務（センターの所掌に属するものを除く。）をつかさどる。
         <go>
           <go_item number="一">
             学生の規律、考課及び身上に関すること。

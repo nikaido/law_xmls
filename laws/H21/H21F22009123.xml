@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <law xmlns="http://law.2nx.info/xml_law">
   <head>
-    <title>人事院規則九―一二三（本府省業務調整手当） </title>
-    <defined>平成二十一年二月二日人事院規則九―一二三</defined>
-    <updated>平成二七年一月二〇日人事院規則九―一二三―二〇</updated>
+    <title>人事院規則九—一二三（本府省業務調整手当） </title>
+    <defined>平成二十一年二月二日人事院規則九—一二三</defined>
+    <updated>平成二七年四月一〇日人事院規則九—一二三—二二</updated>
   </head>
   <body>
     <preamble>
@@ -226,6 +226,9 @@
                 航空情報センターの業務
               </go_item>
               <go_item number="ト">
+                飛行検査センターの業務
+              </go_item>
+              <go_item number="チ">
                 航空局交通管制部管制技術課技術管理センターの業務
               </go_item>
             </go>
@@ -323,57 +326,60 @@
                 北方対策本部
               </go_item>
               <go_item number="ヌ">
-                国際平和協力本部事務局
+                子ども・子育て本部
               </go_item>
               <go_item number="ル">
-                日本学術会議事務局
+                国際平和協力本部事務局
               </go_item>
               <go_item number="ヲ">
-                官民人材交流センター
+                日本学術会議事務局
               </go_item>
               <go_item number="ワ">
-                証券取引等監視委員会事務局
+                官民人材交流センター
               </go_item>
               <go_item number="カ">
-                公認会計士・監査審査会事務局
+                証券取引等監視委員会事務局
               </go_item>
               <go_item number="ヨ">
-                電気通信紛争処理委員会事務局
+                公認会計士・監査審査会事務局
               </go_item>
               <go_item number="タ">
-                情報通信政策研究所調査研究部
+                電気通信紛争処理委員会事務局
               </go_item>
               <go_item number="レ">
-                政治資金適正化委員会事務局
+                情報通信政策研究所調査研究部
               </go_item>
               <go_item number="ソ">
-                財務総合政策研究所（研修部を除く。）
+                政治資金適正化委員会事務局
               </go_item>
               <go_item number="ツ">
-                会計センター（研修部を除く。）
+                財務総合政策研究所（研修部を除く。）
               </go_item>
               <go_item number="ネ">
-                国税不服審判所（支部を除く。）
+                会計センター（研修部を除く。）
               </go_item>
               <go_item number="ナ">
-                国立教育政策研究所
+                国税不服審判所（支部を除く。）
               </go_item>
               <go_item number="ラ">
-                科学技術・学術政策研究所
+                国立教育政策研究所
               </go_item>
               <go_item number="ム">
-                中央駐留軍関係離職者等対策協議会事務局
+                科学技術・学術政策研究所
               </go_item>
               <go_item number="ウ">
-                農林水産政策研究所
+                中央駐留軍関係離職者等対策協議会事務局
               </go_item>
               <go_item number="ヰ">
-                農林水産技術会議事務局（筑波事務所を除く。）
+                農林水産政策研究所
               </go_item>
               <go_item number="ノ">
-                国土交通政策研究所
+                農林水産技術会議事務局（筑波事務所を除く。）
               </go_item>
               <go_item number="オ">
+                国土交通政策研究所
+              </go_item>
+              <go_item number="ク">
                 海難審判所（地方海難審判所を除く。）
               </go_item>
             </go>

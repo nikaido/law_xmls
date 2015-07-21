@@ -3,7 +3,7 @@
   <head>
     <title>法務省組織令</title>
     <defined>平成十二年六月七日政令第二百四十八号</defined>
-    <updated>平成二四年六月二七日政令第一六七号</updated>
+    <updated>平成二七年四月一〇日政令第一八三号</updated>
   </head>
   <body>
     <preamble>
@@ -23,7 +23,7 @@
         <section title="第一款　大臣官房及び局の設置等" type="Kan">
           <articles number="第二条" title="（大臣官房及び局の設置等）">
             <article_item number="第二条">
-              本省に、大臣官房及び次の六局を置く。<br/>　　民事局<br/>　　刑事局<br/>　　矯正局<br/>　　保護局<br/>　　人権擁護局<br/>　　入国管理局
+              本省に、大臣官房及び次の七局を置く。<br/>　　民事局<br/>　　刑事局<br/>　　矯正局<br/>　　保護局<br/>　　人権擁護局<br/>　　訟務局<br/>　　入国管理局
             </article_item>
             <article_item number="２">
               大臣官房に、司法法制部を置く。
@@ -118,57 +118,54 @@
                   法務省の所掌事務に関する施設の整備に関すること。
                 </go_item>
                 <go_item number="二十八">
-                  国の利害に関係のある争訟に関すること。
-                </go_item>
-                <go_item number="二十九">
                   司法制度に関する企画及び立案に関すること。
                 </go_item>
-                <go_item number="三十">
+                <go_item number="二十九">
                   司法試験に関すること。
                 </go_item>
-                <go_item number="三十一">
+                <go_item number="三十">
                   内外の法令及び法務に関する資料の整備及び編さんを行うこと。
                 </go_item>
-                <go_item number="三十二">
+                <go_item number="三十一">
                   法制審議会の庶務に関すること。
                 </go_item>
-                <go_item number="三十三">
+                <go_item number="三十二">
                   国立国会図書館支部法務図書館に関すること。
                 </go_item>
-                <go_item number="三十四">
+                <go_item number="三十三">
                   法務省の所掌事務に関する統計に関すること。
                 </go_item>
-                <go_item number="三十五">
+                <go_item number="三十四">
                   日本司法支援センター評価委員会の庶務に関すること。
                 </go_item>
-                <go_item number="三十六">
+                <go_item number="三十五">
                   日本司法支援センターの組織及び運営に関すること（日本司法支援センターの役員の身分に関することを除く。）。
                 </go_item>
-                <go_item number="三十七">
+                <go_item number="三十六">
                   前二号に掲げるもののほか、総合法律支援に関すること。
                 </go_item>
-                <go_item number="三十八">
+                <go_item number="三十七">
                   弁護士法（昭和二十四年法律第二百五号）第五条の認定に関すること。
                 </go_item>
-                <go_item number="三十九">
+                <go_item number="三十八">
                   外国法事務弁護士に関すること。
                 </go_item>
-                <go_item number="四十">
+                <go_item number="三十九">
                   債権管理回収業の監督に関すること。
                 </go_item>
-                <go_item number="四十一">
+                <go_item number="四十">
                   裁判外紛争解決手続の利用の促進に関する法律（平成十六年法律第百五十一号）の規定による民間紛争解決手続の業務の認証に関すること。
                 </go_item>
-                <go_item number="四十二">
+                <go_item number="四十一">
                   前各号に掲げるもののほか、法務省の所掌事務で他の所掌に属しないものに関する法令案の作成に関すること。
                 </go_item>
-                <go_item number="四十三">
+                <go_item number="四十二">
                   前各号に掲げるもののほか、法務省の所掌事務で他の所掌に属しないものに関すること。
                 </go_item>
               </go>
             </article_item>
             <article_item number="２">
-              司法法制部は、前項第二十九号、第三十号（司法試験制度に関する企画及び立案に関することに限る。）及び第三十一号から第四十二号までに掲げる事務をつかさどる。
+              司法法制部は、前項第二十八号、第二十九号（司法試験制度に関する企画及び立案に関することに限る。）及び第三十号から第四十一号までに掲げる事務をつかさどる。
             </article_item>
           </articles>
           <articles number="第四条" title="（民事局の所掌事務）">
@@ -302,8 +299,13 @@
               </go>
             </article_item>
           </articles>
-          <articles number="第九条" title="（入国管理局の所掌事務）">
+          <articles number="第九条" title="（訟務局の所掌事務）">
             <article_item number="第九条">
+              訟務局は、国の利害に関係のある争訟に関する事務をつかさどる。
+            </article_item>
+          </articles>
+          <articles number="第十条" title="（入国管理局の所掌事務）">
+            <article_item number="第十条">
               入国管理局は、次に掲げる事務をつかさどる。
               <go>
                 <go_item number="一">
@@ -323,28 +325,25 @@
           </articles>
         </section>
         <section title="第二款　特別な職の設置等" type="Kan">
-          <articles number="第十条" title="（官房長）">
-            <article_item number="第十条">
+          <articles number="第十一条" title="（官房長）">
+            <article_item number="第十一条">
               大臣官房に、官房長を置く。
             </article_item>
             <article_item number="２">
               官房長は、命を受けて、大臣官房の事務を掌理する。
             </article_item>
           </articles>
-          <articles number="第十一条" title="（訟務総括審議官及び審議官）">
-            <article_item number="第十一条">
-              大臣官房に、訟務総括審議官一人及び審議官六人（うち一人は、関係のある他の職を占める者をもって充てられるものとする。）を置く。
+          <articles number="第十二条" title="（審議官）">
+            <article_item number="第十二条">
+              大臣官房に、審議官六人（うち一人は、関係のある他の職を占める者をもって充てられるものとする。）を置く。
             </article_item>
             <article_item number="２">
-              訟務総括審議官は、命を受けて、国の利害に関係のある争訟に関する事務に係る重要事項についての企画及び立案並びに調整に関する事務を総括整理する。
-            </article_item>
-            <article_item number="３">
               審議官は、命を受けて、法務省の所掌事務に関する重要事項についての企画及び立案に参画し、関係事務を総括整理する。
             </article_item>
           </articles>
-          <articles number="第十二条" title="（参事官）">
-            <article_item number="第十二条">
-              大臣官房に、司法法制部に置くもののほか参事官九人（うち三人は、関係のある他の職を占める者をもって充てられるものとする。）を、司法法制部に参事官二人を、民事局に参事官六人（うち二人は、関係のある他の職を占める者をもって充てられるものとする。）を、刑事局に参事官五人（うち二人は、関係のある他の職を占める者をもって充てられるものとする。）を、矯正局、保護局、人権擁護局及び入国管理局に参事官それぞれ一人を置く。
+          <articles number="第十三条" title="（参事官）">
+            <article_item number="第十三条">
+              大臣官房に、司法法制部に置くもののほか参事官六人（うち一人は、関係のある他の職を占める者をもって充てられるものとする。）を、司法法制部に参事官二人を、民事局に参事官五人（うち一人は、関係のある他の職を占める者をもって充てられるものとする。）を、刑事局に参事官四人（うち一人は、関係のある他の職を占める者をもって充てられるものとする。）を、矯正局、保護局及び人権擁護局に参事官それぞれ一人を、訟務局に参事官二人（関係のある他の職を占める者をもって充てられるものとする。）を、入国管理局に参事官一人を置く。
             </article_item>
             <article_item number="２">
               参事官は、命を受けて、その置かれる官房、局又は部の所掌事務に関する重要な法令案の作成その他重要事項についての企画及び立案に参画する。
@@ -353,16 +352,16 @@
         </section>
         <section title="第三款　課の設置等" type="Kan">
           <section title="第一目　大臣官房" type="Moku">
-            <articles number="第十三条" title="（大臣官房に置く課等）">
-              <article_item number="第十三条">
-                大臣官房に、司法法制部に置くもののほか、次の八課並びに厚生管理官及び財産訟務管理官それぞれ一人を置く。<br/>　　秘書課<br/>　　人事課<br/>　　会計課<br/>　　施設課<br/>　　訟務企画課<br/>　　民事訟務課<br/>　　行政訟務課<br/>　　租税訟務課
+            <articles number="第十四条" title="（大臣官房に置く課等）">
+              <article_item number="第十四条">
+                大臣官房に、司法法制部に置くもののほか、次の四課及び厚生管理官一人を置く。<br/>　秘書課<br/>　人事課<br/>　会計課<br/>　施設課
               </article_item>
               <article_item number="２">
                 司法法制部に、次の二課を置く。<br/>　　司法法制課<br/>　　審査監督課
               </article_item>
             </articles>
-            <articles number="第十四条" title="（秘書課の所掌事務）">
-              <article_item number="第十四条">
+            <articles number="第十五条" title="（秘書課の所掌事務）">
+              <article_item number="第十五条">
                 秘書課は、次に掲げる事務をつかさどる。
                 <go>
                   <go_item number="一">
@@ -437,8 +436,8 @@
                 </go>
               </article_item>
             </articles>
-            <articles number="第十五条" title="（人事課の所掌事務）">
-              <article_item number="第十五条">
+            <articles number="第十六条" title="（人事課の所掌事務）">
+              <article_item number="第十六条">
                 人事課は、次に掲げる事務をつかさどる。
                 <go>
                   <go_item number="一">
@@ -462,8 +461,8 @@
                 </go>
               </article_item>
             </articles>
-            <articles number="第十六条" title="（会計課の所掌事務）">
-              <article_item number="第十六条">
+            <articles number="第十七条" title="（会計課の所掌事務）">
+              <article_item number="第十七条">
                 会計課は、次に掲げる事務をつかさどる。
                 <go>
                   <go_item number="一">
@@ -487,8 +486,8 @@
                 </go>
               </article_item>
             </articles>
-            <articles number="第十七条" title="（施設課の所掌事務）">
-              <article_item number="第十七条">
+            <articles number="第十八条" title="（施設課の所掌事務）">
+              <article_item number="第十八条">
                 施設課は、次に掲げる事務をつかさどる。
                 <go>
                   <go_item number="一">
@@ -509,44 +508,8 @@
                 </go>
               </article_item>
             </articles>
-            <articles number="第十八条" title="（訟務企画課の所掌事務）">
-              <article_item number="第十八条">
-                訟務企画課は、次に掲げる事務をつかさどる。
-                <go>
-                  <go_item number="一">
-                    国の利害に関係のある争訟に関する基本的な事項に係る企画及び立案に関すること。
-                  </go_item>
-                  <go_item number="二">
-                    訟務企画課、民事訟務課、行政訟務課及び租税訟務課並びに財産訟務管理官の所掌に属する事務の調整に関すること。
-                  </go_item>
-                </go>
-              </article_item>
-            </articles>
-            <articles number="第十九条" title="（民事訟務課の所掌事務）">
+            <articles number="第十九条" title="（厚生管理官の職務）">
               <article_item number="第十九条">
-                民事訟務課は、国の利害に関係のある民事に関する争訟に関する事務（行政訟務課及び租税訟務課並びに財産訟務管理官の所掌に属するものを除く。）をつかさどる。
-              </article_item>
-            </articles>
-            <articles number="第二十条" title="（行政訟務課の所掌事務）">
-              <article_item number="第二十条">
-                行政訟務課は、次に掲げる事務をつかさどる。
-                <go>
-                  <go_item number="一">
-                    国の利害に関係のある行政に関する争訟に関すること（租税訟務課の所掌に属するものを除く。）。
-                  </go_item>
-                  <go_item number="二">
-                    国の利害に関係のある民事に関する争訟のうち労働関係に係るものに関すること。
-                  </go_item>
-                </go>
-              </article_item>
-            </articles>
-            <articles number="第二十一条" title="（租税訟務課の所掌事務）">
-              <article_item number="第二十一条">
-                租税訟務課は、国の利害に関係のある租税の賦課処分及び徴収に関する争訟に関する事務をつかさどる。
-              </article_item>
-            </articles>
-            <articles number="第二十二条" title="（厚生管理官の職務）">
-              <article_item number="第二十二条">
                 厚生管理官は、次に掲げる事務をつかさどる。
                 <go>
                   <go_item number="一">
@@ -558,21 +521,8 @@
                 </go>
               </article_item>
             </articles>
-            <articles number="第二十三条" title="（財産訟務管理官の職務）">
-              <article_item number="第二十三条">
-                財産訟務管理官は、次に掲げる事務をつかさどる。
-                <go>
-                  <go_item number="一">
-                    国の利害に関係のある民事に関する争訟のうち国有財産についての財産管理に係るものに関すること。
-                  </go_item>
-                  <go_item number="二">
-                    国の利害に関係のある民事に関する争訟のうち国の債権に係るものに関すること（租税訟務課の所掌に属するものを除く。）。
-                  </go_item>
-                </go>
-              </article_item>
-            </articles>
-            <articles number="第二十四条" title="（司法法制課の所掌事務）">
-              <article_item number="第二十四条">
+            <articles number="第二十条" title="（司法法制課の所掌事務）">
+              <article_item number="第二十条">
                 司法法制課は、次に掲げる事務をつかさどる。
                 <go>
                   <go_item number="一">
@@ -611,8 +561,8 @@
                 </go>
               </article_item>
             </articles>
-            <articles number="第二十五条" title="（審査監督課の所掌事務）">
-              <article_item number="第二十五条">
+            <articles number="第二十一条" title="（審査監督課の所掌事務）">
+              <article_item number="第二十一条">
                 審査監督課は、次に掲げる事務をつかさどる。
                 <go>
                   <go_item number="一">
@@ -632,13 +582,13 @@
             </articles>
           </section>
           <section title="第二目　民事局" type="Moku">
-            <articles number="第二十六条" title="（民事局に置く課等）">
-              <article_item number="第二十六条">
+            <articles number="第二十二条" title="（民事局に置く課等）">
+              <article_item number="第二十二条">
                 民事局に、次の四課及び民事法制管理官一人を置く。<br/>　　総務課<br/>　　民事第一課<br/>　　民事第二課<br/>　　商事課
               </article_item>
             </articles>
-            <articles number="第二十七条" title="（総務課の所掌事務）">
-              <article_item number="第二十七条">
+            <articles number="第二十三条" title="（総務課の所掌事務）">
+              <article_item number="第二十三条">
                 総務課は、次に掲げる事務をつかさどる。
                 <go>
                   <go_item number="一">
@@ -662,8 +612,8 @@
                 </go>
               </article_item>
             </articles>
-            <articles number="第二十八条" title="（民事第一課の所掌事務）">
-              <article_item number="第二十八条">
+            <articles number="第二十四条" title="（民事第一課の所掌事務）">
+              <article_item number="第二十四条">
                 民事第一課は、次に掲げる事務をつかさどる。
                 <go>
                   <go_item number="一">
@@ -684,8 +634,8 @@
                 </go>
               </article_item>
             </articles>
-            <articles number="第二十九条" title="（民事第二課の所掌事務）">
-              <article_item number="第二十九条">
+            <articles number="第二十五条" title="（民事第二課の所掌事務）">
+              <article_item number="第二十五条">
                 民事第二課は、次に掲げる事務をつかさどる。
                 <go>
                   <go_item number="一">
@@ -697,8 +647,8 @@
                 </go>
               </article_item>
             </articles>
-            <articles number="第三十条" title="（商事課の所掌事務）">
-              <article_item number="第三十条">
+            <articles number="第二十六条" title="（商事課の所掌事務）">
+              <article_item number="第二十六条">
                 商事課は、次に掲げる事務をつかさどる。
                 <go>
                   <go_item number="一">
@@ -719,20 +669,20 @@
                 </go>
               </article_item>
             </articles>
-            <articles number="第三十一条" title="（民事法制管理官の職務）">
-              <article_item number="第三十一条">
+            <articles number="第二十七条" title="（民事法制管理官の職務）">
+              <article_item number="第二十七条">
                 民事法制管理官は、民事法制に関する基本的な企画及び立案並びにこれに基づく関係事務の調整に関する事務をつかさどる。
               </article_item>
             </articles>
           </section>
           <section title="第三目　刑事局" type="Moku">
-            <articles number="第三十二条" title="（刑事局に置く課等）">
-              <article_item number="第三十二条">
+            <articles number="第二十八条" title="（刑事局に置く課等）">
+              <article_item number="第二十八条">
                 刑事局に、次の四課及び刑事法制管理官一人を置く。<br/>　　総務課<br/>　　国際課<br/>　　刑事課<br/>　　公安課
               </article_item>
             </articles>
-            <articles number="第三十三条" title="（総務課の所掌事務）">
-              <article_item number="第三十三条">
+            <articles number="第二十九条" title="（総務課の所掌事務）">
+              <article_item number="第二十九条">
                 総務課は、次に掲げる事務をつかさどる。
                 <go>
                   <go_item number="一">
@@ -762,8 +712,8 @@
                 </go>
               </article_item>
             </articles>
-            <articles number="第三十四条" title="（国際課の所掌事務）">
-              <article_item number="第三十四条">
+            <articles number="第三十条" title="（国際課の所掌事務）">
+              <article_item number="第三十条">
                 国際課は、次に掲げる事務をつかさどる。
                 <go>
                   <go_item number="一">
@@ -781,8 +731,8 @@
                 </go>
               </article_item>
             </articles>
-            <articles number="第三十五条" title="（刑事課の所掌事務）">
-              <article_item number="第三十五条">
+            <articles number="第三十一条" title="（刑事課の所掌事務）">
+              <article_item number="第三十一条">
                 刑事課は、次に掲げる事務をつかさどる。
                 <go>
                   <go_item number="一">
@@ -809,8 +759,8 @@
                 </go>
               </article_item>
             </articles>
-            <articles number="第三十六条" title="（公安課の所掌事務）">
-              <article_item number="第三十六条">
+            <articles number="第三十二条" title="（公安課の所掌事務）">
+              <article_item number="第三十二条">
                 公安課は、次に掲げる事務をつかさどる。
                 <go>
                   <go_item number="一">
@@ -837,20 +787,20 @@
                 </go>
               </article_item>
             </articles>
-            <articles number="第三十七条" title="（刑事法制管理官の職務）">
-              <article_item number="第三十七条">
+            <articles number="第三十三条" title="（刑事法制管理官の職務）">
+              <article_item number="第三十三条">
                 刑事法制管理官は、刑事法制に関する企画及び立案に関する事務をつかさどる。
               </article_item>
             </articles>
           </section>
           <section title="第四目　矯正局" type="Moku">
-            <articles number="第三十八条" title="（矯正局に置く課等）">
-              <article_item number="第三十八条">
+            <articles number="第三十四条" title="（矯正局に置く課等）">
+              <article_item number="第三十四条">
                 矯正局に、次の三課及び矯正医療管理官一人を置く。<br/>　総務課<br/>　成人矯正課<br/>　少年矯正課
               </article_item>
             </articles>
-            <articles number="第三十九条" title="（総務課の所掌事務）">
-              <article_item number="第三十九条">
+            <articles number="第三十五条" title="（総務課の所掌事務）">
+              <article_item number="第三十五条">
                 総務課は、次に掲げる事務をつかさどる。
                 <go>
                   <go_item number="一">
@@ -886,8 +836,8 @@
                 </go>
               </article_item>
             </articles>
-            <articles number="第四十条" title="（成人矯正課の所掌事務）">
-              <article_item number="第四十条">
+            <articles number="第三十六条" title="（成人矯正課の所掌事務）">
+              <article_item number="第三十六条">
                 成人矯正課は、次に掲げる事務をつかさどる。
                 <go>
                   <go_item number="一">
@@ -917,8 +867,8 @@
                 </go>
               </article_item>
             </articles>
-            <articles number="第四十一条" title="（少年矯正課の所掌事務）">
-              <article_item number="第四十一条">
+            <articles number="第三十七条" title="（少年矯正課の所掌事務）">
+              <article_item number="第三十七条">
                 少年矯正課は、次に掲げる事務をつかさどる。
                 <go>
                   <go_item number="一">
@@ -939,20 +889,20 @@
                 </go>
               </article_item>
             </articles>
-            <articles number="第四十二条" title="（矯正医療管理官の職務）">
-              <article_item number="第四十二条">
+            <articles number="第三十八条" title="（矯正医療管理官の職務）">
+              <article_item number="第三十八条">
                 矯正医療管理官は、矯正施設に収容中の者の給養、保健、衛生、医療及び薬剤に関する事務をつかさどる。
               </article_item>
             </articles>
           </section>
           <section title="第五目　保護局" type="Moku">
-            <articles number="第四十三条" title="（保護局に置く課）">
-              <article_item number="第四十三条">
+            <articles number="第三十九条" title="（保護局に置く課）">
+              <article_item number="第三十九条">
                 保護局に、次の三課を置く。<br/>　　総務課<br/>　　更生保護振興課<br/>　　観察課
               </article_item>
             </articles>
-            <articles number="第四十四条" title="（総務課の所掌事務）">
-              <article_item number="第四十四条">
+            <articles number="第四十条" title="（総務課の所掌事務）">
+              <article_item number="第四十条">
                 総務課は、次に掲げる事務をつかさどる。
                 <go>
                   <go_item number="一">
@@ -985,8 +935,8 @@
                 </go>
               </article_item>
             </articles>
-            <articles number="第四十五条" title="（更生保護振興課の所掌事務）">
-              <article_item number="第四十五条">
+            <articles number="第四十一条" title="（更生保護振興課の所掌事務）">
+              <article_item number="第四十一条">
                 更生保護振興課は、次に掲げる事務をつかさどる。
                 <go>
                   <go_item number="一">
@@ -1010,8 +960,8 @@
                 </go>
               </article_item>
             </articles>
-            <articles number="第四十六条" title="（観察課の所掌事務）">
-              <article_item number="第四十六条">
+            <articles number="第四十二条" title="（観察課の所掌事務）">
+              <article_item number="第四十二条">
                 観察課は、次に掲げる事務をつかさどる。
                 <go>
                   <go_item number="一">
@@ -1034,13 +984,13 @@
             </articles>
           </section>
           <section title="第六目　人権擁護局" type="Moku">
-            <articles number="第四十七条" title="（人権擁護局に置く課）">
-              <article_item number="第四十七条">
+            <articles number="第四十三条" title="（人権擁護局に置く課）">
+              <article_item number="第四十三条">
                 人権擁護局に、次の三課を置く。<br/>　　総務課<br/>　　調査救済課<br/>　　人権啓発課
               </article_item>
             </articles>
-            <articles number="第四十八条" title="（総務課の所掌事務）">
-              <article_item number="第四十八条">
+            <articles number="第四十四条" title="（総務課の所掌事務）">
+              <article_item number="第四十四条">
                 総務課は、次に掲げる事務をつかさどる。
                 <go>
                   <go_item number="一">
@@ -1058,8 +1008,8 @@
                 </go>
               </article_item>
             </articles>
-            <articles number="第四十九条" title="（調査救済課の所掌事務）">
-              <article_item number="第四十九条">
+            <articles number="第四十五条" title="（調査救済課の所掌事務）">
+              <article_item number="第四十五条">
                 調査救済課は、次に掲げる事務をつかさどる。
                 <go>
                   <go_item number="一">
@@ -1071,20 +1021,71 @@
                 </go>
               </article_item>
             </articles>
-            <articles number="第五十条" title="（人権啓発課の所掌事務）">
-              <article_item number="第五十条">
+            <articles number="第四十六条" title="（人権啓発課の所掌事務）">
+              <article_item number="第四十六条">
                 人権啓発課は、人権啓発及び民間における人権擁護運動の助長に関する事務をつかさどる。
               </article_item>
             </articles>
           </section>
-          <section title="第七目　入国管理局" type="Moku">
-            <articles number="第五十一条" title="（入国管理局に置く課等）">
+          <section title="第七目　訟務局" type="Moku">
+            <articles number="第四十七条" title="（訟務局に置く課等）">
+              <article_item number="第四十七条">
+                訟務局に、次の四課及び訟務支援管理官一人を置く。<br/>　訟務企画課<br/>　民事訟務課<br/>　行政訟務課<br/>　租税訟務課
+              </article_item>
+            </articles>
+            <articles number="第四十八条" title="（訟務企画課の所掌事務）">
+              <article_item number="第四十八条">
+                訟務企画課は、次に掲げる事務をつかさどる。
+                <go>
+                  <go_item number="一">
+                    国の利害に関係のある争訟に関する基本的な事項に係る企画及び立案に関すること。
+                  </go_item>
+                  <go_item number="二">
+                    訟務局の所掌事務に関する総合調整に関すること。
+                  </go_item>
+                  <go_item number="三">
+                    前二号に掲げるもののほか、訟務局の所掌事務で他の所掌に属しないものに関すること。
+                  </go_item>
+                </go>
+              </article_item>
+            </articles>
+            <articles number="第四十九条" title="（民事訟務課の所掌事務）">
+              <article_item number="第四十九条">
+                民事訟務課は、国の利害に関係のある民事に関する争訟に関する事務（行政訟務課及び租税訟務課の所掌に属するものを除く。）をつかさどる。
+              </article_item>
+            </articles>
+            <articles number="第五十条" title="（行政訟務課の所掌事務）">
+              <article_item number="第五十条">
+                行政訟務課は、次に掲げる事務をつかさどる。
+                <go>
+                  <go_item number="一">
+                    国の利害に関係のある行政に関する争訟に関すること（租税訟務課の所掌に属するものを除く。）。
+                  </go_item>
+                  <go_item number="二">
+                    国の利害に関係のある民事に関する争訟のうち労働関係に係るものに関すること。
+                  </go_item>
+                </go>
+              </article_item>
+            </articles>
+            <articles number="第五十一条" title="（租税訟務課の所掌事務）">
               <article_item number="第五十一条">
+                租税訟務課は、国の利害に関係のある租税の賦課処分及び徴収に関する争訟に関する事務をつかさどる。
+              </article_item>
+            </articles>
+            <articles number="第五十二条" title="（訟務支援管理官の職務）">
+              <article_item number="第五十二条">
+                訟務支援管理官は、国の利害に関係のある争訟に関する一般的な情報の収集、整理及び分析並びにその結果の提供を行うことによる関係機関に対する支援に関する事務をつかさどる。
+              </article_item>
+            </articles>
+          </section>
+          <section title="第八目　入国管理局" type="Moku">
+            <articles number="第五十三条" title="（入国管理局に置く課等）">
+              <article_item number="第五十三条">
                 入国管理局に、次の四課及び出入国管理情報官一人を置く。<br/>　　総務課<br/>　　入国在留課<br/>　　審判課<br/>　　警備課
               </article_item>
             </articles>
-            <articles number="第五十二条" title="（総務課の所掌事務）">
-              <article_item number="第五十二条">
+            <articles number="第五十四条" title="（総務課の所掌事務）">
+              <article_item number="第五十四条">
                 総務課は、次に掲げる事務をつかさどる。
                 <go>
                   <go_item number="一">
@@ -1103,7 +1104,7 @@
                     難民の認定に関すること（審判課の所掌に属するものを除く。）。
                   </go_item>
                   <go_item number="六">
-                    出入国管理及び難民認定法（昭和二十六年政令第三百十九号。以下「入管法」という。）第六十一条の二の二第一項及び第二項の規定による在留の許可、同条第四項の規定による許可の取消し並びに入管法第六十一条の二の四第一項の規定による仮滞在の許可（第五十四条第五号において「在留許可等」という。）に関すること（審判課の所掌に属するものを除く。）。
+                    出入国管理及び難民認定法（昭和二十六年政令第三百十九号。以下「入管法」という。）第六十一条の二の二第一項及び第二項の規定による在留の許可、同条第四項の規定による許可の取消し並びに入管法第六十一条の二の四第一項の規定による仮滞在の許可（第五十六条第五号において「在留許可等」という。）に関すること（審判課の所掌に属するものを除く。）。
                   </go_item>
                   <go_item number="七">
                     難民旅行証明書に関すること。
@@ -1123,8 +1124,8 @@
                 </go>
               </article_item>
             </articles>
-            <articles number="第五十三条" title="（入国在留課の所掌事務）">
-              <article_item number="第五十三条">
+            <articles number="第五十五条" title="（入国在留課の所掌事務）">
+              <article_item number="第五十五条">
                 入国在留課は、次に掲げる事務をつかさどる。
                 <go>
                   <go_item number="一">
@@ -1148,8 +1149,8 @@
                 </go>
               </article_item>
             </articles>
-            <articles number="第五十四条" title="（審判課の所掌事務）">
-              <article_item number="第五十四条">
+            <articles number="第五十六条" title="（審判課の所掌事務）">
+              <article_item number="第五十六条">
                 審判課は、次に掲げる事務をつかさどる。
                 <go>
                   <go_item number="一">
@@ -1173,8 +1174,8 @@
                 </go>
               </article_item>
             </articles>
-            <articles number="第五十五条" title="（警備課の所掌事務）">
-              <article_item number="第五十五条">
+            <articles number="第五十七条" title="（警備課の所掌事務）">
+              <article_item number="第五十七条">
                 警備課は、次に掲げる事務をつかさどる。
                 <go>
                   <go_item number="一">
@@ -1195,8 +1196,8 @@
                 </go>
               </article_item>
             </articles>
-            <articles number="第五十六条" title="（出入国管理情報官の職務）">
-              <article_item number="第五十六条">
+            <articles number="第五十八条" title="（出入国管理情報官の職務）">
+              <article_item number="第五十八条">
                 出入国管理情報官は、次に掲げる事務をつかさどる。
                 <go>
                   <go_item number="一">
@@ -1212,13 +1213,13 @@
         </section>
       </section>
       <section title="第三節　審議会等" type="Setsu">
-        <articles number="第五十七条" title="（設置）">
-          <article_item number="第五十七条">
+        <articles number="第五十九条" title="（設置）">
+          <article_item number="第五十九条">
             法律の規定により置かれる審議会等のほか、本省に、次の審議会等を置く。<br/>　　法制審議会<br/>　　検察官・公証人特別任用等審査会
           </article_item>
         </articles>
-        <articles number="第五十八条" title="（法制審議会）">
-          <article_item number="第五十八条">
+        <articles number="第六十条" title="（法制審議会）">
+          <article_item number="第六十条">
             法制審議会は、次に掲げる事務をつかさどる。
             <go>
               <go_item number="一">
@@ -1233,8 +1234,8 @@
             前項に定めるもののほか、法制審議会に関し必要な事項については、法制審議会令（昭和二十四年政令第百三十四号）の定めるところによる。
           </article_item>
         </articles>
-        <articles number="第五十九条" title="（検察官・公証人特別任用等審査会）">
-          <article_item number="第五十九条">
+        <articles number="第六十一条" title="（検察官・公証人特別任用等審査会）">
+          <article_item number="第六十一条">
             検察官・公証人特別任用等審査会は、次に掲げる事務をつかさどる。
             <go>
               <go_item number="一">
@@ -1255,20 +1256,15 @@
             前項に定めるもののほか、検察官・公証人特別任用等審査会に関し必要な事項については、検察官・公証人特別任用等審査会令（平成十五年政令第四百七十七号）の定めるところによる。
           </article_item>
         </articles>
-        <articles number="第六十条">
-          <article_item number="第六十条">
-            削除
-          </article_item>
-        </articles>
       </section>
       <section title="第四節　施設等機関" type="Setsu">
-        <articles number="第六十一条" title="（設置）">
-          <article_item number="第六十一条">
+        <articles number="第六十二条" title="（設置）">
+          <article_item number="第六十二条">
             法律の規定により置かれる施設等機関のほか、本省に、次の施設等機関を置く。<br/>　　法務総合研究所<br/>　　矯正研修所
           </article_item>
         </articles>
-        <articles number="第六十二条" title="（法務総合研究所）">
-          <article_item number="第六十二条">
+        <articles number="第六十三条" title="（法務総合研究所）">
+          <article_item number="第六十三条">
             法務総合研究所は、次に掲げる事務をつかさどる。
             <go>
               <go_item number="一">
@@ -1295,8 +1291,8 @@
             法務総合研究所の位置及び内部組織並びに支所の名称、位置、所掌事務及び内部組織は、法務省令で定める。
           </article_item>
         </articles>
-        <articles number="第六十三条" title="（矯正研修所）">
-          <article_item number="第六十三条">
+        <articles number="第六十四条" title="（矯正研修所）">
+          <article_item number="第六十四条">
             矯正研修所は、矯正の事務に従事する職員に対して、職務上必要な研修を行うことをつかさどる。
           </article_item>
           <article_item number="２">
@@ -1306,16 +1302,16 @@
             矯正研修所の位置及び内部組織並びに支所の名称、位置及び内部組織は、法務省令で定める。
           </article_item>
         </articles>
-        <articles number="第六十四条" title="（文教研修施設の指定）">
-          <article_item number="第六十四条">
-            法務総合研究所及び矯正研修所は、法務省設置法第四条第三十八号に規定する政令で定める文教研修施設とする。
+        <articles number="第六十五条" title="（文教研修施設の指定）">
+          <article_item number="第六十五条">
+            法務総合研究所及び矯正研修所は、法務省設置法第四条第三十七号に規定する政令で定める文教研修施設とする。
           </article_item>
         </articles>
       </section>
       <section title="第五節　地方支分部局" type="Setsu">
         <section title="第一款　矯正管区" type="Kan">
-          <articles number="第六十五条" title="（矯正管区の名称、位置及び管轄区域）">
-            <article_item number="第六十五条">
+          <articles number="第六十六条" title="（矯正管区の名称、位置及び管轄区域）">
+            <article_item number="第六十六条">
               矯正管区の名称、位置及び管轄区域は、次のとおりとする。
               <table>
                 <tr>
@@ -1420,8 +1416,8 @@
               </table>
             </article_item>
           </articles>
-          <articles number="第六十六条" title="（矯正管区の内部組織）">
-            <article_item number="第六十六条">
+          <articles number="第六十七条" title="（矯正管区の内部組織）">
+            <article_item number="第六十七条">
               矯正管区に、次の三部を置く。<br/>　　第一部　<br/>　　第二部　<br/>　　第三部
             </article_item>
             <article_item number="２">
@@ -1430,8 +1426,8 @@
           </articles>
         </section>
         <section title="第二款　地方更生保護委員会" type="Kan">
-          <articles number="第六十七条" title="（地方更生保護委員会の名称、位置及び管轄区域）">
-            <article_item number="第六十七条">
+          <articles number="第六十八条" title="（地方更生保護委員会の名称、位置及び管轄区域）">
+            <article_item number="第六十八条">
               地方更生保護委員会の名称、位置及び管轄区域は、次のとおりとする。
               <table>
                 <tr>
@@ -1538,8 +1534,8 @@
           </articles>
         </section>
         <section title="第三款　法務局及び地方法務局" type="Kan">
-          <articles number="第六十八条" title="（法務局の名称、位置及び管轄区域）">
-            <article_item number="第六十八条">
+          <articles number="第六十九条" title="（法務局の名称、位置及び管轄区域）">
+            <article_item number="第六十九条">
               法務局の名称、位置及び管轄区域は、次のとおりとする。ただし、次項の規定による事務以外の事務の管轄区域については、地方法務局の管轄する区域を除く。
               <table>
                 <tr>
@@ -1647,8 +1643,8 @@
               法務大臣は、法務局長に、その管轄区域内の地方法務局の事務を指揮監督させることができる。
             </article_item>
           </articles>
-          <articles number="第六十九条" title="（法務局の内部組織）">
-            <article_item number="第六十九条">
+          <articles number="第七十条" title="（法務局の内部組織）">
+            <article_item number="第七十条">
               法務局に、次の三部を置く。<br/>　　訟務部　<br/>　　民事行政部<br/>　　人権擁護部
             </article_item>
             <article_item number="２">
@@ -1658,20 +1654,20 @@
               前二項に定めるもののほか、法務局の内部組織は、法務省令で定める。
             </article_item>
           </articles>
-          <articles number="第七十条" title="（地方法務局の名称、位置及び管轄区域）">
-            <article_item number="第七十条">
+          <articles number="第七十一条" title="（地方法務局の名称、位置及び管轄区域）">
+            <article_item number="第七十一条">
               地方法務局の名称、位置及び管轄区域は、別表第一のとおりとする。
             </article_item>
           </articles>
-          <articles number="第七十一条" title="（法務局及び地方法務局の管轄区域の制限）">
-            <article_item number="第七十一条">
-              法務局又は地方法務局の支局、出張所又は支局の出張所を置く場合においては、第六十八条第一項及び前条の規定にかかわらず、法務省令の定めるところにより、法務局又は地方法務局の管轄区域（第六十八条第二項の規定による事務以外の事務の管轄区域をいう。）をその一部に限ることができる。
+          <articles number="第七十二条" title="（法務局及び地方法務局の管轄区域の制限）">
+            <article_item number="第七十二条">
+              法務局又は地方法務局の支局、出張所又は支局の出張所を置く場合においては、第六十九条第一項及び前条の規定にかかわらず、法務省令の定めるところにより、法務局又は地方法務局の管轄区域（第六十九条第二項の規定による事務以外の事務の管轄区域をいう。）をその一部に限ることができる。
             </article_item>
           </articles>
         </section>
         <section title="第四款　地方入国管理局" type="Kan">
-          <articles number="第七十二条" title="（地方入国管理局の名称、位置及び管轄区域）">
-            <article_item number="第七十二条">
+          <articles number="第七十三条" title="（地方入国管理局の名称、位置及び管轄区域）">
+            <article_item number="第七十三条">
               地方入国管理局の名称、位置及び管轄区域は、次のとおりとする。
               <table>
                 <tr>
@@ -1776,23 +1772,23 @@
               </table>
             </article_item>
           </articles>
-          <articles number="第七十三条" title="（地方入国管理局の次長）">
-            <article_item number="第七十三条">
+          <articles number="第七十四条" title="（地方入国管理局の次長）">
+            <article_item number="第七十四条">
               東京入国管理局に次長二人を、その他の地方入国管理局にそれぞれ次長一人を置く。
             </article_item>
             <article_item number="２">
               次長は、地方入国管理局長を助け、地方入国管理局の事務を整理する。
             </article_item>
           </articles>
-          <articles number="第七十四条" title="（地方入国管理局の支局）">
-            <article_item number="第七十四条">
+          <articles number="第七十五条" title="（地方入国管理局の支局）">
+            <article_item number="第七十五条">
               地方入国管理局の支局の名称、位置及び管轄区域は、別表第二のとおりとする。
             </article_item>
           </articles>
         </section>
         <section title="第五款　保護観察所" type="Kan">
-          <articles number="第七十五条" title="（保護観察所の名称、位置及び管轄区域）">
-            <article_item number="第七十五条">
+          <articles number="第七十六条" title="（保護観察所の名称、位置及び管轄区域）">
+            <article_item number="第七十六条">
               保護観察所の名称、位置及び管轄区域は、別表第三のとおりとする。
             </article_item>
           </articles>
@@ -1801,20 +1797,20 @@
     </section>
     <section title="第二章　公安調査庁" type="Sho">
       <section title="第一節　特別な職" type="Setsu">
-        <articles number="第七十六条" title="（次長）">
-          <article_item number="第七十六条">
+        <articles number="第七十七条" title="（次長）">
+          <article_item number="第七十七条">
             公安調査庁に、次長一人を置く。
           </article_item>
         </articles>
       </section>
       <section title="第二節　内部部局" type="Setsu">
-        <articles number="第七十七条" title="（部の設置）">
-          <article_item number="第七十七条">
+        <articles number="第七十八条" title="（部の設置）">
+          <article_item number="第七十八条">
             公安調査庁に、次の三部を置く。<br/>　　総務部<br/>　　調査第一部<br/>　　調査第二部
           </article_item>
         </articles>
-        <articles number="第七十八条" title="（総務部の所掌事務）">
-          <article_item number="第七十八条">
+        <articles number="第七十九条" title="（総務部の所掌事務）">
+          <article_item number="第七十九条">
             総務部は、次に掲げる事務をつかさどる。
             <go>
               <go_item number="一">
@@ -1889,8 +1885,8 @@
             </go>
           </article_item>
         </articles>
-        <articles number="第七十九条" title="（調査第一部の所掌事務）">
-          <article_item number="第七十九条">
+        <articles number="第八十条" title="（調査第一部の所掌事務）">
+          <article_item number="第八十条">
             調査第一部は、次に掲げる事務をつかさどる。
             <go>
               <go_item number="一">
@@ -1905,8 +1901,8 @@
             </go>
           </article_item>
         </articles>
-        <articles number="第八十条" title="（調査第二部の所掌事務）">
-          <article_item number="第八十条">
+        <articles number="第八十一条" title="（調査第二部の所掌事務）">
+          <article_item number="第八十一条">
             調査第二部は、次に掲げる事務をつかさどる。
             <go>
               <go_item number="一">
@@ -1918,13 +1914,13 @@
             </go>
           </article_item>
         </articles>
-        <articles number="第八十一条" title="（総括整理職の数）">
-          <article_item number="第八十一条">
+        <articles number="第八十二条" title="（総括整理職の数）">
+          <article_item number="第八十二条">
             総務部の所掌事務の一部を総括整理する職に係る国家行政組織法第二十一条第五項に規定する政令の定める数は、一人とする。
           </article_item>
         </articles>
-        <articles number="第八十二条" title="（公安調査庁の課等の数）">
-          <article_item number="第八十二条">
+        <articles number="第八十三条" title="（公安調査庁の課等の数）">
+          <article_item number="第八十三条">
             次の表の上欄に掲げる部に置く課及びこれに準ずる室に係る国家行政組織法第七条第六項に規定する政令の定める数は、それぞれ同表の下欄に掲げるとおりとする。
             <table>
               <tr>
@@ -1993,8 +1989,8 @@
         </articles>
       </section>
       <section title="第三節　施設等機関" type="Setsu">
-        <articles number="第八十三条" title="（公安調査庁研修所）">
-          <article_item number="第八十三条">
+        <articles number="第八十四条" title="（公安調査庁研修所）">
+          <article_item number="第八十四条">
             公安調査庁に、公安調査庁研修所を置く。
           </article_item>
           <article_item number="２">
@@ -2009,8 +2005,8 @@
         </articles>
       </section>
       <section title="第四節　地方支分部局" type="Setsu">
-        <articles number="第八十四条" title="（公安調査局の名称、位置及び管轄区域）">
-          <article_item number="第八十四条">
+        <articles number="第八十五条" title="（公安調査局の名称、位置及び管轄区域）">
+          <article_item number="第八十五条">
             公安調査局の名称、位置及び管轄区域は、次のとおりとする。
             <table>
               <tr>
@@ -2115,13 +2111,13 @@
             </table> 
           </article_item>
         </articles>
-        <articles number="第八十五条" title="（公安調査局の部の数）">
-          <article_item number="第八十五条">
+        <articles number="第八十六条" title="（公安調査局の部の数）">
+          <article_item number="第八十六条">
             公安調査庁設置法第十一条第四項に規定する政令で定める数は、二十四とする。
           </article_item>
         </articles>
-        <articles number="第八十六条" title="（公安調査事務所の数）">
-          <article_item number="第八十六条">
+        <articles number="第八十七条" title="（公安調査事務所の数）">
+          <article_item number="第八十七条">
             公安調査庁設置法第十二条第一項に規定する政令で定める数は、十四とする。
           </article_item>
         </articles>

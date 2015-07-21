@@ -3,7 +3,7 @@
   <head>
     <title>武力攻撃事態等における我が国の平和と独立並びに国及び国民の安全の確保に関する法律施行令</title>
     <defined>平成十五年六月十三日政令第二百五十二号</defined>
-    <updated>平成二六年二月一九日政令第三九号</updated>
+    <updated>平成二七年三月二七日政令第一二三号</updated>
   </head>
   <body>
     <preamble>
@@ -192,46 +192,46 @@
         法第二条第六号の政令で定める公共的機関及び公益的事業を営む法人は、次のとおりとする。
         <go>
           <go_item number="一">
-            独立行政法人海上技術安全研究所
+            国立研究開発法人海上技術安全研究所
           </go_item>
           <go_item number="二">
-            独立行政法人建築研究所
+            国立研究開発法人建築研究所
           </go_item>
           <go_item number="三">
-            独立行政法人港湾空港技術研究所
+            国立研究開発法人港湾空港技術研究所
           </go_item>
           <go_item number="四">
             独立行政法人国立病院機構
           </go_item>
           <go_item number="五">
-            独立行政法人産業技術総合研究所
+            国立研究開発法人産業技術総合研究所
           </go_item>
           <go_item number="六">
             独立行政法人情報処理推進機構
           </go_item>
           <go_item number="七">
-            独立行政法人情報通信研究機構
+            国立研究開発法人情報通信研究機構
           </go_item>
           <go_item number="八">
-            独立行政法人森林総合研究所
+            国立研究開発法人森林総合研究所
           </go_item>
           <go_item number="九">
-            独立行政法人水産総合研究センター
+            国立研究開発法人水産総合研究センター
           </go_item>
           <go_item number="十">
-            独立行政法人土木研究所
+            国立研究開発法人土木研究所
           </go_item>
           <go_item number="十一">
-            独立行政法人日本原子力研究開発機構
+            国立研究開発法人日本原子力研究開発機構
           </go_item>
           <go_item number="十二">
             独立行政法人日本高速道路保有・債務返済機構
           </go_item>
           <go_item number="十三">
-            独立行政法人農業・食品産業技術総合研究機構
+            国立研究開発法人農業・食品産業技術総合研究機構
           </go_item>
           <go_item number="十四">
-            独立行政法人放射線医学総合研究所
+            国立研究開発法人放射線医学総合研究所
           </go_item>
           <go_item number="十五">
             独立行政法人水資源機構
@@ -246,63 +246,66 @@
             日本放送協会
           </go_item>
           <go_item number="十九">
-            東日本高速道路株式会社
+            広域的運営推進機関
           </go_item>
           <go_item number="二十">
-            首都高速道路株式会社
+            東日本高速道路株式会社
           </go_item>
           <go_item number="二十一">
-            中日本高速道路株式会社
+            首都高速道路株式会社
           </go_item>
           <go_item number="二十二">
-            西日本高速道路株式会社
+            中日本高速道路株式会社
           </go_item>
           <go_item number="二十三">
-            阪神高速道路株式会社
+            西日本高速道路株式会社
           </go_item>
           <go_item number="二十四">
-            本州四国連絡高速道路株式会社
+            阪神高速道路株式会社
           </go_item>
           <go_item number="二十五">
-            新関西国際空港株式会社
+            本州四国連絡高速道路株式会社
           </go_item>
           <go_item number="二十六">
-            中部国際空港株式会社
+            新関西国際空港株式会社
           </go_item>
           <go_item number="二十七">
-            成田国際空港株式会社
+            中部国際空港株式会社
           </go_item>
           <go_item number="二十八">
-            北海道旅客鉄道株式会社
+            成田国際空港株式会社
           </go_item>
           <go_item number="二十九">
-            四国旅客鉄道株式会社
+            北海道旅客鉄道株式会社
           </go_item>
           <go_item number="三十">
-            九州旅客鉄道株式会社
+            四国旅客鉄道株式会社
           </go_item>
           <go_item number="三十一">
-            日本貨物鉄道株式会社
+            九州旅客鉄道株式会社
           </go_item>
           <go_item number="三十二">
-            東京地下鉄株式会社
+            日本貨物鉄道株式会社
           </go_item>
           <go_item number="三十三">
-            日本郵便株式会社
+            東京地下鉄株式会社
           </go_item>
           <go_item number="三十四">
-            日本電信電話株式会社
+            日本郵便株式会社
           </go_item>
           <go_item number="三十五">
-            東日本電信電話株式会社
+            日本電信電話株式会社
           </go_item>
           <go_item number="三十六">
-            西日本電信電話株式会社
+            東日本電信電話株式会社
           </go_item>
           <go_item number="三十七">
-            海洋汚染等及び海上災害の防止に関する法律（昭和四十五年法律第百三十六号）第四十二条の十三第一項の指定海上防災機関
+            西日本電信電話株式会社
           </go_item>
           <go_item number="三十八">
+            海洋汚染等及び海上災害の防止に関する法律（昭和四十五年法律第百三十六号）第四十二条の十三第一項の指定海上防災機関
+          </go_item>
+          <go_item number="三十九">
             次に掲げる事業者のうち内閣総理大臣が指定して公示するもの
             <go>
               <go_item number="イ">

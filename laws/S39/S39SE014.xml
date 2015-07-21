@@ -53,18 +53,13 @@
         文部科学大臣は、都道府県の教育委員会に対し、前項の調査を行い、及び義務教育諸学校の設置者に対し同項の報告を求めるよう指示をすることができる。
       </article_item>
     </articles>
-    <articles number="第七条">
+    <articles number="第七条" title="（教科用図書選定審議会の設置期間）">
       <article_item number="第七条">
-        削除
-      </article_item>
-    </articles>
-    <articles number="第八条" title="（教科用図書選定審議会の設置期間）">
-      <article_item number="第八条">
         教科用図書選定審議会（以下「選定審議会」という。）を置く期間は、四月一日から八月三十一日までとする。
       </article_item>
     </articles>
-    <articles number="第九条" title="（選定審議会の所掌事務）">
-      <article_item number="第九条">
+    <articles number="第八条" title="（選定審議会の所掌事務）">
+      <article_item number="第八条">
         選定審議会は、都道府県の教育委員会の諮問に応じ、次に掲げる事項を調査審議し、及び必要と認めるときは、これらの事項について都道府県の教育委員会に建議する。
         <go>
           <go_item number="一">
@@ -76,15 +71,15 @@
         </go>
       </article_item>
     </articles>
-    <articles number="第十条" title="（選定審議会の委員）">
-      <article_item number="第十条">
+    <articles number="第九条" title="（選定審議会の委員）">
+      <article_item number="第九条">
         選定審議会の委員は、次に掲げる者のうちから、都道府県の教育委員会が任命する。この場合において、第一号に掲げる者のうちから任命される委員の数は、委員の定数のおおむね三分の一になるようにしなければならない。
         <go>
           <go_item number="一">
             義務教育諸学校の校長及び教員
           </go_item>
           <go_item number="二">
-            都道府県の教育委員会の事務局に置かれる指導主事その他学校教育に専門的知識を有する職員並びに市町村の教育委員会の委員、教育長及び事務局に置かれる指導主事その他学校教育に専門的知識を有する職員
+            都道府県の教育委員会の事務局に置かれる指導主事その他学校教育に専門的知識を有する職員並びに市町村の教育委員会の教育長、委員及び事務局に置かれる指導主事その他学校教育に専門的知識を有する職員
           </go_item>
           <go_item number="三">
             教育に関し学識経験を有する者
@@ -95,26 +90,65 @@
         教科用図書の採択に直接の利害関係を有する者は、選定審議会の委員となることができない。
       </article_item>
     </articles>
-    <articles number="第十一条" title="（教育委員会規則への委任）">
-      <article_item number="第十一条">
+    <articles number="第十条" title="（教育委員会規則への委任）">
+      <article_item number="第十条">
         前条に定めるもののほか、選定審議会の組織及び運営に関し必要な事項は、都道府県の教育委員会規則で定める。
       </article_item>
     </articles>
-    <articles number="第十二条" title="（採択地区の設定の特例）">
-      <article_item number="第十二条">
-        都の区域のうち支庁の所管区域については、これを郡の区域とみなして、法第十二条第一項の規定を適用する。
+    <articles number="第十一条" title="（採択地区協議会の組織及び運営）">
+      <article_item number="第十一条">
+        採択地区協議会は、関係市町村の教育委員会が採択地区協議会の規約の定めるところにより指名する委員をもつて組織する。
+      </article_item>
+      <article_item number="２">
+        採択地区協議会に会長を置き、採択地区協議会の規約の定めるところにより、委員のうちから定める。
+      </article_item>
+      <article_item number="３">
+        会長は、会務を総理する。
+      </article_item>
+      <article_item number="４">
+        会長に事故があるときは、会長があらかじめ指名する委員が、その職務を代理する。
+      </article_item>
+      <article_item number="５">
+        前各項に定めるもののほか、採択地区協議会の組織及び運営に関し必要な事項は、採択地区協議会の規約で定める。
       </article_item>
     </articles>
-    <articles number="第十三条" title="（採択の時期）">
+    <articles number="第十二条" title="（採択地区協議会の規約事項）">
+      <article_item number="第十二条">
+        採択地区協議会の規約には、次に掲げる事項を定めなければならない。
+        <go>
+          <go_item number="一">
+            採択地区協議会の名称
+          </go_item>
+          <go_item number="二">
+            採択地区協議会を設ける市町村の教育委員会
+          </go_item>
+          <go_item number="三">
+            採択地区協議会の組織
+          </go_item>
+          <go_item number="四">
+            教科用図書の選定の方法
+          </go_item>
+          <go_item number="五">
+            採択地区協議会の経費の支弁の方法
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第十三条" title="（採択地区協議会の規約の変更）">
       <article_item number="第十三条">
+        採択地区協議会を設けた市町村の教育委員会は、採択地区協議会の規約を変更しようとするときは、協議によりこれを行わなければならない。
+      </article_item>
+    </articles>
+    <articles number="第十四条" title="（採択の時期）">
+      <article_item number="第十四条">
         義務教育諸学校において使用する教科用図書の採択は、当該教科用図書を使用する年度の前年度の八月三十一日までに行わなければならない。
       </article_item>
       <article_item number="２">
-        九月一日以後において新たに教科用図書を採択する必要が生じたときは、すみやかに教科用図書の採択を行わなければならない。
+        九月一日以後において新たに教科用図書を採択する必要が生じたときは、速やかに教科用図書の採択を行わなければならない。
       </article_item>
     </articles>
-    <articles number="第十四条" title="（同一教科用図書を採択する期間）">
-      <article_item number="第十四条">
+    <articles number="第十五条" title="（同一教科用図書を採択する期間）">
+      <article_item number="第十五条">
         法第十四条の規定により種目ごとに同一の教科用図書を採択する期間（以下この条において「採択期間」という。）は、学校教育法（昭和二十二年法律第二十六号）附則第九条に規定する教科用図書を採択する場合を除き、四年とする。
       </article_item>
       <article_item number="２">
@@ -124,12 +158,12 @@
         前項に規定する場合（教育課程の基準の変更に伴い既採択教科用図書の発行が行われないこととなつた場合を除く。）において、新たに採択する教科用図書についての採択期間は、第一項の規定にかかわらず、既採択教科用図書についての採択期間から文部科学省令で定める期間を控除した期間とする。
       </article_item>
     </articles>
-    <articles number="第十五条" title="（発行者の指定の要件）">
-      <article_item number="第十五条">
+    <articles number="第十六条" title="（発行者の指定の要件）">
+      <article_item number="第十六条">
         法第十八条第一項第二号に規定する政令で定める要件は、次のとおりとする。
         <go>
           <go_item number="一">
-            会社にあつては資本金の額又は出資の総額が一千万円以上、会社以外の者にあつては文部科学省令で定める資産の額が一千万円を超えない範囲内において文部科学省令で定める額以上であること。
+            会社にあつては資本金の額又は出資の総額が千万円以上、会社以外の者にあつては文部科学省令で定める資産の額が千万円を超えない範囲内において文部科学省令で定める額以上であること。
           </go_item>
           <go_item number="二">
             専ら教科用図書の編集を担当する者について文部科学省令で定める基準に適合しているものであること。
@@ -143,8 +177,8 @@
         </go>
       </article_item>
     </articles>
-    <articles number="第十六条" title="（事務の区分）">
-      <article_item number="第十六条">
+    <articles number="第十七条" title="（事務の区分）">
+      <article_item number="第十七条">
         第一条第二項、第二条、第四条、第五条第二項及び第六条第二項の規定により都道府県が処理することとされている事務並びに第一条第二項及び第二条の規定により市町村が処理することとされている事務は、地方自治法（昭和二十二年法律第六十七号）第二条第九項第一号に規定する第一号法定受託事務とする。
       </article_item>
     </articles>

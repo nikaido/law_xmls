@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>国立研究開発法人森林総合研究所法施行令</title>
+    <defined>平成二十七年二月十二日政令第四十三号</defined>
+    <updated>平成二七年三月一八日政令第七四号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、独立行政法人森林総合研究所法（平成十一年法律第百九十八号）第十五条第二項及び第八項の規定に基づき、この政令を制定する。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（借換えの対象となる長期借入金又は研究所債券等）">
+      <article_item number="第一条">
+        国立研究開発法人森林総合研究所法（平成十一年法律第百九十八号。以下「法」という。）第十五条第二項の政令で定める長期借入金又は森林総合研究所債券（以下「研究所債券」という。）は、次に掲げるものとする。
+        <go>
+          <go_item number="一">
+            法第十五条第一項の規定による長期借入金又は研究所債券
+          </go_item>
+          <go_item number="二">
+            法第十五条第二項の規定による長期借入金又は研究所債券
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="２">
+        法第十五条第二項ただし書の政令で定める期間は、次の各号に掲げる区分に応じ、それぞれ当該各号に定める期間を超えない範囲内の期間とする。
+        <go>
+          <go_item number="一">
+            前項第一号に掲げる長期借入金又は研究所債券の償還に充てるためにし、又は発行する長期借入金又は研究所債券　次条の農林水産省令で定める期間から同号に掲げる長期借入金又は研究所債券の償還期間を控除した期間
+          </go_item>
+          <go_item number="二">
+            前項第二号に掲げる長期借入金又は研究所債券の償還に充てるためにし、又は発行する長期借入金又は研究所債券　前号に定める期間から同項第二号に掲げる長期借入金又は研究所債券の償還期間を控除した期間
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（長期借入金又は研究所債券の償還期間）">
+      <article_item number="第二条">
+        法第十五条第一項の規定による長期借入金又は研究所債券の償還期間は、当該長期借入金の借入れ又は研究所債券の発行により調達する資金の使途に応じて農林水産省令で定める期間を超えてはならない。
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（長期借入金の借入れの認可）">
+      <article_item number="第三条">
+        国立研究開発法人森林総合研究所（以下「研究所」という。）は、法第十五条第一項又は第二項の規定により長期借入金の借入れの認可を受けようとするときは、借入れの日の二十日前までに次に掲げる事項を記載した申請書を農林水産大臣に提出しなければならない。
+        <go>
+          <go_item number="一">
+            借入れを必要とする理由
+          </go_item>
+          <go_item number="二">
+            長期借入金の額
+          </go_item>
+          <go_item number="三">
+            借入先
+          </go_item>
+          <go_item number="四">
+            長期借入金の利率
+          </go_item>
+          <go_item number="五">
+            長期借入金の償還の方法及び期限
+          </go_item>
+          <go_item number="六">
+            利息の支払の方法及び期限
+          </go_item>
+          <go_item number="七">
+            その他農林水産大臣が必要と認める事項
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="２">
+        前項の申請書には、長期借入金の借入れにより調達する資金の使途を記載した書面を添付しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（研究所債券の形式）">
+      <article_item number="第四条">
+        研究所債券は、無記名式で利札付きのものとする。
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（研究所債券の発行の方法）">
+      <article_item number="第五条">
+        研究所債券の発行は、募集の方法による。
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（研究所債券申込証）">
+      <article_item number="第六条">
+        研究所債券の募集に応じようとする者は、森林総合研究所債券申込証（以下「研究所債券申込証」という。）にその引き受けようとする研究所債券の数及び住所を記載し、これに署名し、又は記名押印しなければならない。
+      </article_item>
+      <article_item number="２">
+        社債、株式等の振替に関する法律（平成十三年法律第七十五号。以下「社債等振替法」という。）の規定の適用がある研究所債券（次条第二項において「振替研究所債券」という。）の募集に応じようとする者は、前項の記載事項のほか、自己のために開設された当該研究所債券の振替を行うための口座（同条第二項において「振替口座」という。）を研究所債券申込証に記載しなければならない。
+      </article_item>
+      <article_item number="３">
+        研究所債券申込証は、研究所が作成し、これに次に掲げる事項を記載しなければならない。
+        <go>
+          <go_item number="一">
+            研究所債券の名称
+          </go_item>
+          <go_item number="二">
+            研究所債券の総額
+          </go_item>
+          <go_item number="三">
+            各研究所債券の金額
+          </go_item>
+          <go_item number="四">
+            研究所債券の利率
+          </go_item>
+          <go_item number="五">
+            研究所債券の償還の方法及び期限
+          </go_item>
+          <go_item number="六">
+            利息の支払の方法及び期限
+          </go_item>
+          <go_item number="七">
+            研究所債券の発行の価額
+          </go_item>
+          <go_item number="八">
+            社債等振替法の規定の適用があるときは、その旨
+          </go_item>
+          <go_item number="九">
+            社債等振替法の規定の適用がないときは、無記名式である旨
+          </go_item>
+          <go_item number="十">
+            応募額が研究所債券の総額を超える場合の措置
+          </go_item>
+          <go_item number="十一">
+            募集又は管理の委託を受けた会社があるときは、その商号
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第七条" title="（研究所債券の引受け）">
+      <article_item number="第七条">
+        前条の規定は、政府若しくは地方公共団体が研究所債券を引き受ける場合又は研究所債券の募集の委託を受けた会社が自ら研究所債券を引き受ける場合においては、その引き受ける部分については、適用しない。
+      </article_item>
+      <article_item number="２">
+        前項の場合において、振替研究所債券を引き受ける政府若しくは地方公共団体又は振替研究所債券の募集の委託を受けた会社は、その引受けの際に、振替口座を研究所に示さなければならない。
+      </article_item>
+    </articles>
+    <articles number="第八条" title="（研究所債券の成立の特則）">
+      <article_item number="第八条">
+        研究所債券の応募総額が研究所債券の総額に達しないときでも研究所債券を成立させる旨を研究所債券申込証に記載したときは、その応募額をもって研究所債券の総額とする。
+      </article_item>
+    </articles>
+    <articles number="第九条" title="（研究所債券の払込み）">
+      <article_item number="第九条">
+        研究所債券の募集が完了したときは、研究所は、遅滞なく、各研究所債券につきその全額の払込みをさせなければならない。
+      </article_item>
+    </articles>
+    <articles number="第十条" title="（債券の発行）">
+      <article_item number="第十条">
+        研究所は、前条の払込みがあったときは、遅滞なく、債券を発行しなければならない。ただし、研究所債券につき社債等振替法の規定の適用があるときは、この限りでない。
+      </article_item>
+      <article_item number="２">
+        各債券には、第六条第三項第一号から第六号まで、第九号及び第十一号に掲げる事項並びに番号を記載し、研究所の理事長がこれに記名押印しなければならない。
+      </article_item>
+    </articles>
+    <articles number="第十一条" title="（研究所債券原簿）">
+      <article_item number="第十一条">
+        研究所は、主たる事務所に森林総合研究所債券原簿（次項において「研究所債券原簿」という。）を備えて置かなければならない。
+      </article_item>
+      <article_item number="２">
+        研究所債券原簿には、次に掲げる事項を記載しなければならない。
+        <go>
+          <go_item number="一">
+            研究所債券の発行の年月日
+          </go_item>
+          <go_item number="二">
+            研究所債券の数（社債等振替法の規定の適用がないときは、研究所債券の数及び番号）
+          </go_item>
+          <go_item number="三">
+            第六条第三項第一号から第六号まで、第八号及び第十一号に掲げる事項
+          </go_item>
+          <go_item number="四">
+            元利金の支払に関する事項
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第十二条" title="（利札が欠けている場合）">
+      <article_item number="第十二条">
+        研究所債券を償還する場合において欠けている利札があるときは、これに相当する金額を償還額から控除する。ただし、既に支払期が到来した利札については、この限りでない。
+      </article_item>
+      <article_item number="２">
+        前項の利札の所持人がこれと引換えに控除金額の支払を請求したときは、研究所は、これに応じなければならない。
+      </article_item>
+    </articles>
+    <articles number="第十三条" title="（研究所債券の発行の認可）">
+      <article_item number="第十三条">
+        研究所は、法第十五条第一項又は第二項の規定により研究所債券の発行の認可を受けようとするときは、研究所債券の募集の日の二十日前までに次に掲げる事項を記載した申請書を農林水産大臣に提出しなければならない。
+        <go>
+          <go_item number="一">
+            研究所債券の発行を必要とする理由
+          </go_item>
+          <go_item number="二">
+            第六条第三項第一号から第八号までに掲げる事項
+          </go_item>
+          <go_item number="三">
+            研究所債券の募集の方法
+          </go_item>
+          <go_item number="四">
+            研究所債券の発行に要する費用の概算額
+          </go_item>
+          <go_item number="五">
+            第二号に掲げるもののほか、債券に記載しようとする事項
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="２">
+        前項の申請書には、次に掲げる書類を添付しなければならない。
+        <go>
+          <go_item number="一">
+            作成しようとする研究所債券申込証
+          </go_item>
+          <go_item number="二">
+            研究所債券の発行により調達する資金の使途を記載した書面
+          </go_item>
+          <go_item number="三">
+            研究所債券の引受けの見込みを記載した書面
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+  </body>
+</law>

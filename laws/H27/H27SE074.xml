@@ -1,0 +1,1215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>独立行政法人通則法の一部を改正する法律及び独立行政法人通則法の一部を改正する法律の施行に伴う関係法律の整備に関する法律の施行に伴う関係政令の整備等及び経過措置に関する政令　抄</title>
+    <defined>平成二十七年三月十八日政令第七十四号</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、独立行政法人通則法の一部を改正する法律（平成二十六年法律第六十六号）及び独立行政法人通則法の一部を改正する法律の施行に伴う関係法律の整備に関する法律（平成二十六年法律第六十七号）の施行に伴い、並びに独立行政法人通則法の一部を改正する法律附則第十五条及び独立行政法人通則法の一部を改正する法律の施行に伴う関係法律の整備に関する法律附則第三十条並びに関係法律の規定に基づき、この政令を制定する。
+      </p>
+    </preamble>
+    <section title="第一章　関係政令の整備等" type="Sho">
+      <section title="第一節　政令の廃止" type="Setsu">
+        <articles number="第一条">
+          <article_item number="第一条">
+            次に掲げる政令は、廃止する。
+            <go>
+              <go_item number="一">
+                内閣府独立行政法人評価委員会令（平成十二年政令第三百十七号）
+              </go_item>
+              <go_item number="二">
+                総務省独立行政法人評価委員会令（平成十二年政令第三百十八号）
+              </go_item>
+              <go_item number="三">
+                財務省独立行政法人評価委員会令（平成十二年政令第三百十九号）
+              </go_item>
+              <go_item number="四">
+                文部科学省独立行政法人評価委員会令（平成十二年政令第三百二十号）
+              </go_item>
+              <go_item number="五">
+                厚生労働省独立行政法人評価委員会令（平成十二年政令第三百二十一号）
+              </go_item>
+              <go_item number="六">
+                農林水産省独立行政法人評価委員会令（平成十二年政令第三百二十二号）
+              </go_item>
+              <go_item number="七">
+                経済産業省独立行政法人評価委員会令（平成十二年政令第三百二十三号）
+              </go_item>
+              <go_item number="八">
+                国土交通省独立行政法人評価委員会令（平成十二年政令第三百二十四号）
+              </go_item>
+              <go_item number="九">
+                環境省独立行政法人評価委員会令（平成十二年政令第三百二十五号）
+              </go_item>
+              <go_item number="十">
+                外務省独立行政法人評価委員会令（平成十五年政令第百七十二号）
+              </go_item>
+              <go_item number="十一">
+                防衛省独立行政法人評価委員会令（平成十九年政令第二号）
+              </go_item>
+            </go>
+          </article_item>
+        </articles>
+      </section>
+      <section title="第二節　内閣官房関係" type="Setsu">
+        <articles number="第二条" title="（国家公務員退職手当法施行令の一部改正）">
+          <article_item number="第二条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第三条" title="（国家公務員倫理規程の一部改正）">
+          <article_item number="第三条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第四条" title="（武力攻撃事態等における我が国の平和と独立並びに国及び国民の安全の確保に関する法律施行令の一部改正）">
+          <article_item number="第四条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第五条" title="（郵政民営化法施行令の一部改正）">
+          <article_item number="第五条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第六条" title="（国家公務員退職手当法の一部を改正する法律の施行に伴う経過措置に関する政令の一部改正）">
+          <article_item number="第六条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第七条" title="（独立行政法人郵便貯金・簡易生命保険管理機構法施行令の一部改正）">
+          <article_item number="第七条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第八条" title="（職員の退職管理に関する政令の一部改正）">
+          <article_item number="第八条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第九条" title="（特定独立行政法人の役員の退職管理に関する政令の一部改正）">
+          <article_item number="第九条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第十条" title="（新型インフルエンザ等対策特別措置法施行令の一部改正）">
+          <article_item number="第十条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第十一条" title="（採用試験の対象官職及び種類並びに採用試験により確保すべき人材に関する政令の一部改正）">
+          <article_item number="第十一条">
+            略
+          </article_item>
+        </articles>
+      </section>
+      <section title="第三節　内閣府関係" type="Setsu">
+        <articles number="第十二条" title="（公認会計士法施行令の一部改正）">
+          <article_item number="第十二条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第十三条" title="（道路交通法施行令の一部改正）">
+          <article_item number="第十三条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第十四条" title="（地震防災対策特別措置法施行令の一部改正）">
+          <article_item number="第十四条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第十五条" title="（内閣府本府組織令の一部改正）">
+          <article_item number="第十五条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第十六条" title="（原子力発電施設等立地地域の振興に関する特別措置法施行令の一部改正）">
+          <article_item number="第十六条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第十七条" title="（再就職等監視委員会令の一部改正）">
+          <article_item number="第十七条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第十八条" title="（官民の人材交流の範囲を定める政令の一部改正）">
+          <article_item number="第十八条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第十九条" title="（消費者庁組織令の一部改正）">
+          <article_item number="第十九条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第二十条" title="（公文書等の管理に関する法律施行令の一部改正）">
+          <article_item number="第二十条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第二十一条" title="（独立行政法人日本医療研究開発機構法施行令の一部改正）">
+          <article_item number="第二十一条">
+            略
+          </article_item>
+        </articles>
+      </section>
+      <section title="第四節　復興庁関係" type="Setsu">
+        <articles number="第二十二条" title="（復興庁組織令の一部改正）">
+          <article_item number="第二十二条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第二十三条" title="（復興庁設置法第四条第二項第三号イ及びロの事業を定める政令の一部改正）">
+          <article_item number="第二十三条">
+            略
+          </article_item>
+        </articles>
+      </section>
+      <section title="第五節　総務省関係" type="Setsu">
+        <articles number="第二十四条" title="（公職選挙法施行令の一部改正）">
+          <article_item number="第二十四条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第二十五条" title="（電波法関係手数料令の一部改正）">
+          <article_item number="第二十五条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第二十六条" title="（地方公務員等共済組合法施行令の一部改正）">
+          <article_item number="第二十六条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第二十七条" title="（行政相談委員法第二条第一項第一号の法人を定める政令の一部改正）">
+          <article_item number="第二十七条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第二十八条" title="（総務省組織令の一部改正）">
+          <article_item number="第二十八条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第二十九条" title="（独立行政法人の組織、運営及び管理に係る共通的な事項に関する政令の一部改正）">
+          <article_item number="第二十九条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第三十条" title="（公益的法人等への一般職の地方公務員の派遣等に関する法律第二条第一項第三号の法人を定める政令の一部改正）">
+          <article_item number="第三十条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第三十一条" title="（電波法施行令の一部改正）">
+          <article_item number="第三十一条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第三十二条" title="（独立行政法人等の保有する情報の公開に関する法律施行令の一部改正）">
+          <article_item number="第三十二条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第三十三条" title="（電波法施行令の一部を改正する政令の一部改正）">
+          <article_item number="第三十三条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第三十四条" title="（独立行政法人情報通信研究機構法施行令の一部改正）">
+          <article_item number="第三十四条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第三十五条" title="（消防団を中核とした地域防災力の充実強化に関する法律第十条第一項の規定による国家公務員の消防団員との兼職等に係る職務専念義務の免除に関する政令の一部改正）">
+          <article_item number="第三十五条">
+            略
+          </article_item>
+        </articles>
+      </section>
+      <section title="第六節　法務省関係" type="Setsu">
+        <articles number="第三十六条" title="（独立行政法人等登記令の一部改正）">
+          <article_item number="第三十六条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第三十七条" title="（司法書士法施行令の一部改正）">
+          <article_item number="第三十七条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第三十八条" title="（土地家屋調査士法施行令の一部改正）">
+          <article_item number="第三十八条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第三十九条" title="（債権管理回収業に関する特別措置法施行令の一部改正）">
+          <article_item number="第三十九条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第四十条" title="（総合法律支援法施行令の一部改正）">
+          <article_item number="第四十条">
+            略
+          </article_item>
+        </articles>
+      </section>
+      <section title="第七節　外務省関係" type="Setsu">
+        <articles number="第四十一条" title="（外務省組織令の一部改正）">
+          <article_item number="第四十一条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第四十二条" title="（旧独立行政法人国際協力機構法施行令の一部改正）">
+          <article_item number="第四十二条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第四十三条" title="（独立行政法人国際協力機構法施行令の一部改正）">
+          <article_item number="第四十三条">
+            略
+          </article_item>
+        </articles>
+      </section>
+      <section title="第八節　財務省関係" type="Setsu">
+        <articles number="第四十四条" title="（補助金等に係る予算の執行の適正化に関する法律施行令の一部改正）">
+          <article_item number="第四十四条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第四十五条" title="（国家公務員共済組合法施行令の一部改正）">
+          <article_item number="第四十五条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第四十六条" title="（国家公務員等共済組合法等の一部を改正する法律の施行に伴う経過措置に関する政令の一部改正）">
+          <article_item number="第四十六条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第四十七条" title="（財務省組織令の一部改正）">
+          <article_item number="第四十七条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第四十八条" title="（独立行政法人造幣局法施行令の一部改正）">
+          <article_item number="第四十八条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第四十九条" title="（独立行政法人国立印刷局法施行令の一部改正）">
+          <article_item number="第四十九条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第五十条" title="（特別会計に関する法律施行令の一部改正）">
+          <article_item number="第五十条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第五十一条" title="（株式会社日本政策金融公庫法施行令の一部改正）">
+          <article_item number="第五十一条">
+            略
+          </article_item>
+        </articles>
+      </section>
+      <section title="第九節　文部科学省関係" type="Setsu">
+        <articles number="第五十二条" title="（教育公務員特例法施行令の一部改正）">
+          <article_item number="第五十二条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第五十三条" title="（著作権法施行令の一部改正）">
+          <article_item number="第五十三条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第五十四条" title="（発電用施設周辺地域整備法施行令の一部改正）">
+          <article_item number="第五十四条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第五十五条" title="（文化財保護法施行令の一部改正）">
+          <article_item number="第五十五条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第五十六条" title="（プログラムの著作物に係る登録の特例に関する法律施行令の一部改正）">
+          <article_item number="第五十六条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第五十七条" title="（日本私立学校振興・共済事業団法施行令の一部改正）">
+          <article_item number="第五十七条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第五十八条" title="（文部科学省組織令の一部改正）">
+          <article_item number="第五十八条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第五十九条" title="（独立行政法人放射線医学総合研究所法第十八条の規定による医療法施行令等の規定の技術的読替え等に関する政令の一部改正）">
+          <article_item number="第五十九条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第六十条" title="（独立行政法人宇宙航空研究開発機構法施行令の一部改正）">
+          <article_item number="第六十条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第六十一条" title="（独立行政法人科学技術振興機構法施行令の一部改正）">
+          <article_item number="第六十一条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第六十二条" title="（独立行政法人理化学研究所法施行令の一部改正）">
+          <article_item number="第六十二条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第六十三条" title="（国立大学法人評価委員会令の一部改正）">
+          <article_item number="第六十三条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第六十四条" title="（国立大学法人法施行令の一部改正）">
+          <article_item number="第六十四条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第六十五条" title="（独立行政法人海洋研究開発機構法施行令の一部改正）">
+          <article_item number="第六十五条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第六十六条" title="（独立行政法人日本原子力研究開発機構法施行令の一部改正）">
+          <article_item number="第六十六条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第六十七条" title="（研究開発システムの改革の推進等による研究開発能力の強化及び研究開発等の効率的推進等に関する法律施行令の一部改正）">
+          <article_item number="第六十七条">
+            略
+          </article_item>
+        </articles>
+      </section>
+      <section title="第十節　厚生労働省関係" type="Setsu">
+        <articles number="第六十八条" title="（医療法施行令の一部改正）">
+          <article_item number="第六十八条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第六十九条" title="（労働組合法施行令の一部改正）">
+          <article_item number="第六十九条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第七十条" title="（特定独立行政法人の労働関係に関する法律施行令の一部改正）">
+          <article_item number="第七十条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第七十一条" title="（障害者の雇用の促進等に関する法律施行令等の一部改正）">
+          <article_item number="第七十一条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第七十二条" title="（勤労者財産形成促進法施行令の一部改正）">
+          <article_item number="第七十二条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第七十三条" title="（高年齢者等の雇用の安定等に関する法律施行令の一部改正）">
+          <article_item number="第七十三条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第七十四条" title="（国際協定の締結等に伴う漁業離職者に関する臨時措置法施行令の一部改正）">
+          <article_item number="第七十四条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第七十五条" title="（中国残留邦人等の円滑な帰国の促進並びに永住帰国した中国残留邦人等及び特定配偶者の自立の支援に関する法律施行令の一部改正）">
+          <article_item number="第七十五条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第七十六条" title="（厚生労働省組織令の一部改正）">
+          <article_item number="第七十六条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第七十七条" title="（健康増進法施行令の一部改正）">
+          <article_item number="第七十七条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第七十八条" title="（独立行政法人福祉医療機構法施行令の一部改正）">
+          <article_item number="第七十八条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第七十九条" title="（独立行政法人国立病院機構法施行令の一部改正）">
+          <article_item number="第七十九条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第八十条" title="（独立行政法人医薬品医療機器総合機構法施行令の一部改正）">
+          <article_item number="第八十条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第八十一条" title="（独立行政法人医薬基盤・健康・栄養研究所法施行令の一部改正）">
+          <article_item number="第八十一条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第八十二条" title="（独立行政法人地域医療機能推進機構法施行令の一部改正）">
+          <article_item number="第八十二条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第八十三条" title="（高度専門医療に関する研究等を行う独立行政法人に関する法律施行令の一部改正）">
+          <article_item number="第八十三条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第八十四条" title="（独立行政法人雇用・能力開発機構法の廃止に伴う関係政令の整備及び経過措置に関する政令の一部改正）">
+          <article_item number="第八十四条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第八十五条" title="（独立行政法人高齢・障害・求職者雇用支援機構法施行令の一部改正）">
+          <article_item number="第八十五条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第八十六条" title="（独立行政法人医薬基盤研究所法の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令の一部改正）">
+          <article_item number="第八十六条">
+            略
+          </article_item>
+        </articles>
+      </section>
+      <section title="第十一節　農林水産省関係" type="Setsu">
+        <articles number="第八十七条" title="（森林法施行令の一部改正）">
+          <article_item number="第八十七条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第八十八条" title="（農業振興地域の整備に関する法律施行令の一部改正）">
+          <article_item number="第八十八条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第八十九条" title="（種苗法施行令の一部改正）">
+          <article_item number="第八十九条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第九十条" title="（農林水産省組織令の一部改正）">
+          <article_item number="第九十条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第九十一条" title="（独立行政法人農業・食品産業技術総合研究機構法施行令の一部改正）">
+          <article_item number="第九十一条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第九十二条" title="（独立行政法人に係る改革を推進するための農林水産省関係法律の整備に関する法律の施行に伴う関係政令の整備及び経過措置に関する政令の一部改正）">
+          <article_item number="第九十二条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第九十三条" title="（独立行政法人緑資源機構法の廃止に伴う関係政令の整備及び経過措置に関する政令の一部改正）">
+          <article_item number="第九十三条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第九十四条" title="（独立行政法人森林総合研究所が行う特例業務に関する政令の一部改正）">
+          <article_item number="第九十四条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第九十五条" title="（国有林野の有する公益的機能の維持増進を図るための国有林野の管理経営に関する法律等の一部を改正する等の法律の施行に伴う関係政令の整備等に関する政令の一部改正）">
+          <article_item number="第九十五条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第九十六条" title="（森林国営保険法等の一部を改正する法律の施行に伴う関係政令の整備等及び経過措置に関する政令の一部改正）">
+          <article_item number="第九十六条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第九十七条" title="（独立行政法人森林総合研究所法施行令の一部改正）">
+          <article_item number="第九十七条">
+            略
+          </article_item>
+        </articles>
+      </section>
+      <section title="第十二節　経済産業省関係" type="Setsu">
+        <articles number="第九十八条" title="（火薬類取締法施行令の一部改正）">
+          <article_item number="第九十八条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第九十九条" title="（信用保証協会法施行令の一部改正）">
+          <article_item number="第九十九条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第百条" title="（官公需についての中小企業者の受注の確保に関する法律施行令の一部改正）">
+          <article_item number="第百条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第百一条" title="（回路配置利用権等の登録に関する政令の一部改正）">
+          <article_item number="第百一条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第百二条" title="（計量法施行令の一部改正）">
+          <article_item number="第百二条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第百三条" title="（大学等における技術に関する研究成果の民間事業者への移転の促進に関する法律施行令の一部改正）">
+          <article_item number="第百三条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第百四条" title="（中小企業の新たな事業活動の促進に関する法律施行令の一部改正）">
+          <article_item number="第百四条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第百五条" title="（産業技術力強化法施行令の一部改正）">
+          <article_item number="第百五条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第百六条" title="（経済産業省組織令の一部改正）">
+          <article_item number="第百六条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第百七条" title="（独立行政法人新エネルギー・産業技術総合開発機構法施行令の一部改正）">
+          <article_item number="第百七条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第百八条" title="（独立行政法人石油天然ガス・金属鉱物資源機構法施行令の一部改正）">
+          <article_item number="第百八条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第百九条" title="（独立行政法人中小企業基盤整備機構法施行令の一部改正）">
+          <article_item number="第百九条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第百十条" title="（独立行政法人産業技術総合研究所法の一部を改正する法律の施行に伴う関係政令の整理及び経過措置に関する政令の一部改正）">
+          <article_item number="第百十条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第百十一条" title="（新エネルギー利用等の促進に関する特別措置法施行令の一部を改正する政令の一部改正）">
+          <article_item number="第百十一条">
+            略
+          </article_item>
+        </articles>
+      </section>
+      <section title="第十三節　国土交通省関係" type="Setsu">
+        <articles number="第百十二条" title="（船舶安全法施行令等の一部改正）">
+          <article_item number="第百十二条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第百十三条" title="（港湾法施行令の一部改正）">
+          <article_item number="第百十三条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第百十四条" title="（道路運送車両法施行令の一部改正）">
+          <article_item number="第百十四条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第百十五条" title="（航空法施行令の一部改正）">
+          <article_item number="第百十五条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第百十六条" title="（土地区画整理法施行令等の一部改正）">
+          <article_item number="第百十六条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第百十七条" title="（公共用飛行場周辺における航空機騒音による障害の防止等に関する法律施行令の一部改正）">
+          <article_item number="第百十七条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第百十八条" title="（都市計画法施行令の一部改正）">
+          <article_item number="第百十八条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第百十九条" title="（国土交通省組織令の一部改正）">
+          <article_item number="第百十九条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第百二十条" title="（独立行政法人土木研究所法第十二条第五号の建設工事を定める政令の一部改正）">
+          <article_item number="第百二十条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第百二十一条" title="（独立行政法人建築研究所法第十二条第五号の公共的団体を定める政令の一部改正）">
+          <article_item number="第百二十一条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第百二十二条" title="（公共工事の入札及び契約の適正化の促進に関する法律施行令の一部改正）">
+          <article_item number="第百二十二条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第百二十三条" title="（小型船舶登録令の一部改正）">
+          <article_item number="第百二十三条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第百二十四条" title="（独立行政法人鉄道建設・運輸施設整備支援機構法施行令の一部改正）">
+          <article_item number="第百二十四条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第百二十五条" title="（独立行政法人水資源機構法施行令の一部改正）">
+          <article_item number="第百二十五条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第百二十六条" title="（独立行政法人都市再生機構法施行令の一部改正）">
+          <article_item number="第百二十六条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第百二十七条" title="（独立行政法人住宅金融支援機構法施行令の一部改正）">
+          <article_item number="第百二十七条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第百二十八条" title="（雨水の利用の推進に関する法律第二条第二項の法人を定める政令の一部改正）">
+          <article_item number="第百二十八条">
+            略
+          </article_item>
+        </articles>
+      </section>
+      <section title="第十四節　環境省関係" type="Setsu">
+        <articles number="第百二十九条" title="（核原料物質、核燃料物質及び原子炉の規制に関する法律施行令の一部改正）">
+          <article_item number="第百二十九条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第百三十条" title="（放射性同位元素等による放射線障害の防止に関する法律施行令の一部改正）">
+          <article_item number="第百三十条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第百三十一条" title="（環境省組織令の一部改正）">
+          <article_item number="第百三十一条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第百三十二条" title="（国等による環境物品等の調達の推進等に関する法律第二条第二項の法人を定める政令及び国等における温室効果ガス等の排出の削減に配慮した契約の推進に関する法律第二条第三項の法人を定める政令の一部改正）">
+          <article_item number="第百三十二条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第百三十三条" title="（環境情報の提供の促進等による特定事業者等の環境に配慮した事業活動の促進に関する法律第二条第四項の法人を定める政令の一部改正）">
+          <article_item number="第百三十三条">
+            略
+          </article_item>
+        </articles>
+      </section>
+      <section title="第十五節　防衛省関係" type="Setsu">
+        <articles number="第百三十四条" title="（防衛省の職員の給与等に関する法律施行令の一部改正）">
+          <article_item number="第百三十四条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第百三十五条" title="（防衛省組織令の一部改正）">
+          <article_item number="第百三十五条">
+            略
+          </article_item>
+        </articles>
+        <articles number="第百三十六条" title="（自衛隊法施行令の一部改正）">
+          <article_item number="第百三十六条">
+            略
+          </article_item>
+        </articles>
+      </section>
+    </section>
+    <section title="第二章　経過措置" type="Sho">
+      <articles number="第百三十七条" title="（意見聴取の対象から除かれる研究開発の事務及び事業に関する経過措置）">
+        <article_item number="第百三十七条">
+          独立行政法人通則法の一部を改正する法律（平成二十六年法律第六十六号。以下「改正法」という。）附則第二条第一項の規定により読み替えてその例によるものとされた改正法による改正後の独立行政法人通則法（平成十一年法律第百三号。以下「新通則法」という。）第三十五条の四第四項に規定する軽微な研究開発（新通則法第二条第三項に規定する研究開発をいう。）の事務及び事業として政令で定めるものについては、第二十九条による改正後の独立行政法人の組織、運営及び管理に係る共通的な事項に関する政令（第百三十九条第一項において「新共通事項政令」という。）第一条の規定の例による。
+        </article_item>
+      </articles>
+      <articles number="第百三十八条" title="（独立行政法人評価委員会の委員の任期に関する経過措置）">
+        <article_item number="第百三十八条">
+          この政令の施行の日（第百五十四条において「施行日」という。）の前日において次に掲げる独立行政法人評価委員会の委員である者の任期は、第一条の規定による廃止前のそれぞれの政令の当該委員の任期を定めた規定にかかわらず、その日に満了する。
+          <go>
+            <go_item number="一">
+              内閣府の独立行政法人評価委員会
+            </go_item>
+            <go_item number="二">
+              総務省の独立行政法人評価委員会
+            </go_item>
+            <go_item number="三">
+              財務省の独立行政法人評価委員会
+            </go_item>
+            <go_item number="四">
+              文部科学省の独立行政法人評価委員会
+            </go_item>
+            <go_item number="五">
+              厚生労働省の独立行政法人評価委員会
+            </go_item>
+            <go_item number="六">
+              農林水産省の独立行政法人評価委員会
+            </go_item>
+            <go_item number="七">
+              経済産業省の独立行政法人評価委員会
+            </go_item>
+            <go_item number="八">
+              国土交通省の独立行政法人評価委員会
+            </go_item>
+            <go_item number="九">
+              環境省の独立行政法人評価委員会
+            </go_item>
+            <go_item number="十">
+              外務省の独立行政法人評価委員会
+            </go_item>
+            <go_item number="十一">
+              防衛省の独立行政法人評価委員会
+            </go_item>
+          </go>
+        </article_item>
+      </articles>
+      <articles number="第百三十九条" title="（独立行政法人通則法の一部改正に伴う経過措置）">
+        <article_item number="第百三十九条">
+          中期目標管理法人（新通則法第二条第二項に規定する中期目標管理法人をいう。第百四十七条において同じ。）の長は、平成二十七年四月一日の属する年度（新共通事項政令第十七条に規定する年度をいう。）については、新通則法第五十条の八第三項の規定による報告をすることを要しない。
+        </article_item>
+        <article_item number="２">
+          前項の規定は、国立研究開発法人（新通則法第二条第三項に規定する国立研究開発法人をいう。第百四十八条において同じ。）の長について準用する。この場合において、前項中「第五十条の八第三項」とあるのは、「第五十条の十一において準用する新通則法第五十条の八第三項」と読み替えるものとする。
+        </article_item>
+        <article_item number="３">
+          旧特定独立行政法人（改正法による改正前の独立行政法人通則法第二条第二項に規定する特定独立行政法人をいう。以下同じ。）の役員であった者は、新通則法第五十四条第一項の規定の適用については、行政執行法人（新通則法第二条第四項に規定する行政執行法人をいう。第百四十五条を除き、以下同じ。）の役員であった者とみなす。
+        </article_item>
+      </articles>
+      <articles number="第百四十条" title="（国家公務員法の一部改正に伴う経過措置）">
+        <article_item number="第百四十条">
+          旧特定独立行政法人の役員であった者は、独立行政法人通則法の一部を改正する法律の施行に伴う関係法律の整備に関する法律（平成二十六年法律第六十七号。以下「整備法」という。）第二条の規定による改正後の国家公務員法（昭和二十二年法律第百二十号。以下「新国家公務員法」という。）第百六条の二第一項並びに第百十二条第一号及び第二号（これらの規定を新通則法第五十四条第一項において準用する場合を含む。）の規定の適用については、新国家公務員法第百六条の二第一項に規定する役職員であった者とみなす。
+        </article_item>
+        <article_item number="２">
+          旧特定独立行政法人の役員としての前歴は、新国家公務員法第百六条の八第一項の規定の適用については、同項に規定する役職員としての前歴とみなす。
+        </article_item>
+        <article_item number="３">
+          旧特定独立行政法人の役員としての前歴は、新国家公務員法第百六条の十四第五項の規定の適用については、同項に規定する役職員としての前歴とみなす。
+        </article_item>
+      </articles>
+      <articles number="第百四十一条" title="（独立行政法人国立病院機構の職員の再就職の届出等に関する経過措置）">
+        <article_item number="第百四十一条">
+          施行日前の国立病院機構（整備法の施行の日の前日までの間における独立行政法人国立病院機構をいう。以下この条において同じ。）の職員が整備法の施行前に整備法第二条の規定による改正前の国家公務員法（以下この項において「旧国家公務員法」という。）第百六条の二十三第一項の規定による届出をした場合における同条第三項及び旧国家公務員法第百六条の二十五の規定の適用については、なお従前の例による。この場合において、同項中「第一項の届出を受けた任命権者は、当該」とあるのは「独立行政法人国立病院機構の理事長は、第一項の規定による」と、「である」とあるのは「であつた」とする。
+        </article_item>
+        <article_item number="２">
+          施行日前の国立病院機構の職員であった者に関する新国家公務員法第百六条の十六、第百六条の十七、第百六条の十八第一項、第百六条の十九、第百六条の二十第二項及び第三項並びに第百六条の二十一第一項及び第二項の規定の適用については、独立行政法人国立病院機構の理事長は、これらの規定に規定する任命権者とみなす。
+        </article_item>
+        <article_item number="３">
+          施行日前の国立病院機構の理事長であった者又は監事であった者に関する第百三十九条第三項の規定によりみなして適用する新通則法第五十四条第一項において準用する新国家公務員法第百六条の十六、第百六条の十七、第百六条の十八第一項、第百六条の十九、第百六条の二十第二項及び第三項並びに第百六条の二十一第一項及び第二項の規定の適用については、厚生労働大臣は、これらの規定に規定する任命権者とみなす。
+        </article_item>
+        <article_item number="４">
+          施行日前の国立病院機構の役員（理事長又は監事を除く。）であった者に関する第百三十九条第三項の規定によりみなして適用する新通則法第五十四条第一項において準用する新国家公務員法第百六条の十六、第百六条の十七、第百六条の十八第一項、第百六条の十九、第百六条の二十第二項及び第三項並びに第百六条の二十一第一項及び第二項の規定の適用については、独立行政法人国立病院機構の理事長は、これらの規定に規定する任命権者とみなす。
+        </article_item>
+        <article_item number="５">
+          施行日前の国立病院機構の理事長であった者又は監事であった者に関する第百四十四条の規定により読み替えて適用する第九条の規定による改正後の行政執行法人の役員の退職管理に関する政令（以下「新役員退職管理令」という。）第十五条第一項及び第二項の規定並びに第百四十四条の規定により読み替えて適用する新役員退職管理令第二十条において準用する新役員退職管理令第十五条第一項の規定の適用については、これらの規定中「離職した行政執行法人の役員の職又はこれに相当する職並びに旧特定独立行政法人の役員の職の任命権者」とあるのは、「厚生労働大臣」とする。
+        </article_item>
+        <article_item number="６">
+          施行日前の国立病院機構の役員（理事長又は監事を除く。）であった者に関する第百四十四条の規定により読み替えて適用する新役員退職管理令第十五条第一項及び第二項の規定並びに第百四十四条の規定により読み替えて適用する新役員退職管理令第二十条において準用する新役員退職管理令第十五条第一項の規定の適用については、これらの規定中「離職した行政執行法人の役員の職又はこれに相当する職並びに旧特定独立行政法人の役員の職の任命権者」とあるのは、「独立行政法人国立病院機構の理事長」とする。
+        </article_item>
+        <article_item number="７">
+          新国家公務員法第百六条の二十四第二項の規定は、整備法附則第二十三条の規定により独立行政法人国立病院機構の職員となった場合については、適用しない。
+        </article_item>
+      </articles>
+      <articles number="第百四十二条" title="（職員の在職期間に関する経過措置）">
+        <article_item number="第百四十二条">
+          次の表の上欄に掲げる規定の適用については、当分の間、同表の中欄に掲げる字句は、同表の下欄に掲げる字句とする。
+          <table>
+            <tr>
+              <td colspan="1" rowspan="5">国立研究開発法人宇宙航空研究開発機構法（平成十四年法律第百六十一号）附則第四条第三項<BR />　<BR />　<BR />　<BR />　
+              </td>
+              <td>
+                機構の成立
+              </td>
+              <td>
+                独立行政法人通則法の一部を改正する法律の施行に伴う関係法律の整備に関する法律（平成二十六年法律第六十七号）第八十八条の規定による改正前の第三条の独立行政法人宇宙航空研究開発機構（以下この項において「旧機構」という。）の成立
+              </td>
+            </tr>
+            <tr>
+              <td>
+                引き続いて機構
+              </td>
+              <td>
+                引き続いて旧機構
+              </td>
+            </tr>
+            <tr>
+              <td>
+                引き続き機構
+              </td>
+              <td>
+                引き続き旧機構（機構を含む。以下この項において同じ。）
+              </td>
+            </tr>
+            <tr>
+              <td>
+                その者の機構
+              </td>
+              <td>
+                その者の旧機構
+              </td>
+            </tr>
+            <tr>
+              <td>
+                機構を
+              </td>
+              <td>
+                旧機構を
+              </td>
+            </tr>
+            <tr>
+              <td colspan="1" rowspan="5">国立研究開発法人海洋研究開発機構法（平成十五年法律第九十五号）附則第四条第三項<BR />　<BR />　<BR />　<BR />　
+              </td>
+              <td>
+                機構の成立
+              </td>
+              <td>
+                独立行政法人通則法の一部を改正する法律の施行に伴う関係法律の整備に関する法律（平成二十六年法律第六十七号）第九十二条の規定による改正前の第三条の独立行政法人海洋研究開発機構（以下この項において「旧機構」という。）の成立
+              </td>
+            </tr>
+            <tr>
+              <td>
+                引き続いて機構
+              </td>
+              <td>
+                引き続いて旧機構
+              </td>
+            </tr>
+            <tr>
+              <td>
+                引き続き機構
+              </td>
+              <td>
+                引き続き旧機構（機構を含む。以下この項において同じ。）
+              </td>
+            </tr>
+            <tr>
+              <td>
+                その者の機構
+              </td>
+              <td>
+                その者の旧機構
+              </td>
+            </tr>
+            <tr>
+              <td>
+                機構を
+              </td>
+              <td>
+                旧機構を
+              </td>
+            </tr>
+            <tr>
+              <td colspan="1" rowspan="4">独立行政法人産業技術総合研究所法の一部を改正する法律（平成十六年法律第八十三号）附則第四条第三項<BR />　<BR />　<BR />　
+              </td>
+              <td>
+                引き続いて研究所
+              </td>
+              <td>
+                引き続いて独立行政法人通則法の一部を改正する法律の施行に伴う関係法律の整備に関する法律（平成二十六年法律第六十七号）第百七十条の規定による改正前の独立行政法人産業技術総合研究所法第二条の独立行政法人産業技術総合研究所（以下この項において「旧研究所」という。）
+              </td>
+            </tr>
+            <tr>
+              <td>
+                引き続き研究所
+              </td>
+              <td>
+                引き続き旧研究所（国立研究開発法人産業技術総合研究所を含む。以下この項において同じ。）
+              </td>
+            </tr>
+            <tr>
+              <td>
+                その者の研究所
+              </td>
+              <td>
+                その者の旧研究所
+              </td>
+            </tr>
+            <tr>
+              <td>
+                研究所を
+              </td>
+              <td>
+                旧研究所を
+              </td>
+            </tr>
+            <tr>
+              <td colspan="1" rowspan="4">独立行政法人情報通信研究機構法の一部を改正する法律（平成十八年法律第二十一号）附則第四条第三項<BR />　<BR />　<BR />　
+              </td>
+              <td>
+                引き続いて機構
+              </td>
+              <td>
+                引き続いて独立行政法人通則法の一部を改正する法律の施行に伴う関係法律の整備に関する法律（平成二十六年法律第六十七号）第四十七条の規定による改正前の独立行政法人情報通信研究機構法第三条の独立行政法人情報通信研究機構（以下この項において「旧機構」という。）
+              </td>
+            </tr>
+            <tr>
+              <td>
+                引き続き機構
+              </td>
+              <td>
+                引き続き旧機構（国立研究開発法人情報通信研究機構を含む。以下この項において同じ。）
+              </td>
+            </tr>
+            <tr>
+              <td>
+                その者の機構
+              </td>
+              <td>
+                その者の旧機構
+              </td>
+            </tr>
+            <tr>
+              <td>
+                機構を
+              </td>
+              <td>
+                旧機構を
+              </td>
+            </tr>
+            <tr>
+              <td>
+                独立行政法人に係る改革を推進するための文部科学省関係法律の整備に関する法律（平成十八年法律第二十四号）附則第四条第六項
+              </td>
+              <td>
+                引き続き当該施行日後の研究所等
+              </td>
+              <td>
+                引き続き当該施行日後の研究所等（独立行政法人国立特別支援教育総合研究所、国立研究開発法人物質・材料研究機構、国立研究開発法人防災科学技術研究所、国立研究開発法人放射線医学総合研究所及び独立行政法人国立文化財機構を含む。以下この項において同じ。）
+              </td>
+            </tr>
+            <tr>
+              <td>
+                独立行政法人に係る改革を推進するための農林水産省関係法律の整備に関する法律（平成十八年法律第二十六号）附則第四条第三項
+              </td>
+              <td>
+                引き続き当該施行日後の研究機構等
+              </td>
+              <td>
+                引き続き当該施行日後の研究機構等（国立研究開発法人農業・食品産業技術総合研究機構、国立研究開発法人水産総合研究センター、国立研究開発法人農業生物資源研究所、国立研究開発法人農業環境技術研究所、国立研究開発法人国際農林水産業研究センター及び国立研究開発法人森林総合研究所を含む。以下この項において同じ。）
+              </td>
+            </tr>
+            <tr>
+              <td>
+                独立行政法人に係る改革を推進するための国土交通省関係法律の整備に関する法律（平成十八年法律第二十八号）附則第四条第三項
+              </td>
+              <td>
+                引き続き当該施行日後の土木研究所等
+              </td>
+              <td>
+                引き続き当該施行日後の土木研究所等（国立研究開発法人土木研究所、国立研究開発法人建築研究所、国立研究開発法人海上技術安全研究所、国立研究開発法人港湾空港技術研究所及び国立研究開発法人電子航法研究所を含む。以下この項において同じ。）
+              </td>
+            </tr>
+            <tr>
+              <td>
+                独立行政法人国立環境研究所法の一部を改正する法律（平成十八年法律第二十九号）附則第四条第三項
+              </td>
+              <td>
+                引き続き施行日後の研究所
+              </td>
+              <td>
+                引き続き施行日後の研究所（国立研究開発法人国立環境研究所を含む。以下この項において同じ。）
+              </td>
+            </tr>
+            <tr>
+              <td colspan="1" rowspan="4">独立行政法人に係る改革を推進するための独立行政法人農林水産消費技術センター法及び独立行政法人森林総合研究所法の一部を改正する法律（平成十九年法律第八号）附則第八条第二項<BR />　<BR />　<BR />　
+              </td>
+              <td>
+                引き続いて森林総合研究所
+              </td>
+              <td>
+                引き続いて独立行政法人通則法の一部を改正する法律の施行に伴う関係法律の整備に関する法律（平成二十六年法律第六十七号）第百五十二条の規定による改正前の独立行政法人森林総合研究所法第二条の独立行政法人森林総合研究所（以下この項において「旧森林総合研究所」という。）
+              </td>
+            </tr>
+            <tr>
+              <td>
+                引き続き森林総合研究所
+              </td>
+              <td>
+                引き続き旧森林総合研究所（国立研究開発法人森林総合研究所を含む。以下この項において同じ。）
+              </td>
+            </tr>
+            <tr>
+              <td>
+                及び森林総合研究所
+              </td>
+              <td>
+                及び旧森林総合研究所
+              </td>
+            </tr>
+            <tr>
+              <td>
+                森林総合研究所を
+              </td>
+              <td>
+                旧森林総合研究所を
+              </td>
+            </tr>
+            <tr>
+              <td colspan="1" rowspan="5">高度専門医療に関する研究等を行う国立研究開発法人に関する法律（平成二十年法律第九十三号）附則第五条第三項<BR />　<BR />　<BR />　<BR />　
+              </td>
+              <td>
+                国立高度専門医療研究センターの成立
+              </td>
+              <td>
+                独立行政法人通則法の一部を改正する法律の施行に伴う関係法律の整備に関する法律（平成二十六年法律第六十七号）第百三十条の規定による改正前の高度専門医療に関する研究等を行う独立行政法人に関する法律（平成二十年法律第九十三号）第四条第一項に規定する国立高度専門医療研究センター（以下この項において「旧国立高度専門医療研究センター」という。）の成立
+              </td>
+            </tr>
+            <tr>
+              <td>
+                引き続いて国立高度専門医療研究センター
+              </td>
+              <td>
+                引き続いて旧国立高度専門医療研究センター
+              </td>
+            </tr>
+            <tr>
+              <td>
+                引き続き国立高度専門医療研究センター
+              </td>
+              <td>
+                引き続き旧国立高度専門医療研究センター（国立高度専門医療研究センターを含む。以下この項において同じ。）
+              </td>
+            </tr>
+            <tr>
+              <td>
+                その者の国立高度専門医療研究センター
+              </td>
+              <td>
+                その者の旧国立高度専門医療研究センター
+              </td>
+            </tr>
+            <tr>
+              <td>
+                国立高度専門医療研究センターを
+              </td>
+              <td>
+                旧国立高度専門医療研究センターを
+              </td>
+            </tr>
+          </table>
+        </article_item>
+      </articles>
+      <articles number="第百四十三条" title="（国家公務員退職手当法施行令の一部改正に伴う経過措置）">
+        <article_item number="第百四十三条">
+          整備法第百四条の規定による改正前の特定独立行政法人の労働関係に関する法律（昭和二十三年法律第二百五十七号。以下この項において「旧特労法」という。）第七条第一項ただし書に規定する事由により旧特労法第二条第二号に掲げる職員が現実に職務をとることを要しなかった期間は、第二条の規定による改正後の国家公務員退職手当法施行令（次項において「新退手法施行令」という。）第六条第三項第一号の規定の適用については、整備法第百四条の規定による改正後の行政執行法人の労働関係に関する法律（昭和二十三年法律第二百五十七号）第七条第一項ただし書に規定する事由により現実に職務をとることを要しなかった期間とみなす。
+        </article_item>
+        <article_item number="２">
+          この政令の施行前に旧特定独立行政法人を退職した者に関する新退手法施行令第十条の規定の適用については、同条中「行政執行法人」とあるのは、「独立行政法人通則法の一部を改正する法律（平成二十六年法律第六十六号）による改正前の独立行政法人通則法（平成十一年法律第百三号）第二条第二項に規定する特定独立行政法人」とする。
+        </article_item>
+      </articles>
+      <articles number="第百四十四条" title="（特定独立行政法人の役員の退職管理に関する政令の一部改正に伴う経過措置）">
+        <article_item number="第百四十四条">
+          新役員退職管理令第十一条第三号及び第七号、第十二条第三号、第十五条、第二十条並びに第二十一条第二項第三号の規定の適用については、当分の間、新役員退職管理令第十一条第三号中「役員の職」とあるのは「役員の職又は旧特定独立行政法人（独立行政法人通則法の一部を改正する法律（平成二十六年法律第六十六号）による改正前の独立行政法人通則法第二条第二項に規定する特定独立行政法人をいう。以下同じ。）の役員の職」と、同条第七号中「役員の職」とあるのは「役員の職若しくは旧特定独立行政法人の役員の職」と、新役員退職管理令第十二条第三号中「役員の職」とあるのは「役員の職又は旧特定独立行政法人の役員の職」と、新役員退職管理令第十五条第一項及び第二項中「であった者」とあるのは「であった者又は旧特定独立行政法人の役員であった者」と、「相当する職」とあるのは「相当する職並びに旧特定独立行政法人の役員の職」と、同条第三項中「役員の職」と、」とあるのは「役員の職又は旧特定独立行政法人の役員の職」と、」と、新役員退職管理令第二十条中「役員の職」と、」とあるのは「役員の職又は旧特定独立行政法人の役員の職」と、」と、「読み替える」とあるのは「、第十五条第一項中「であった者」とあるのは「であった者又は旧特定独立行政法人の役員であった者」と、「相当する職」とあるのは「相当する職並びに旧特定独立行政法人の役員の職」と読み替える」と、新役員退職管理令第二十一条第二項第三号中「役員の職」とあるのは「役員の職又は旧特定独立行政法人の役員の職」とする。
+        </article_item>
+      </articles>
+      <articles number="第百四十五条" title="（官民の人材交流の範囲を定める政令の一部改正に伴う経過措置）">
+        <article_item number="第百四十五条">
+          旧特定独立行政法人は、第十八条の規定による改正後の官民の人材交流の範囲を定める政令第四号の規定の適用については、同号に規定する行政執行法人とみなす。
+        </article_item>
+      </articles>
+      <articles number="第百四十六条" title="（公文書等の管理に関する法律施行令の一部改正に伴う経過措置）">
+        <article_item number="第百四十六条">
+          この政令の施行前に公文書等の管理に関する法律（平成二十一年法律第六十六号）第二条第一項に規定する行政機関の職員が作成し、又は取得した第二十条の規定による改正前の公文書等の管理に関する法律施行令別表の二十四の項に規定する文書の保存期間については、なお従前の例による。
+        </article_item>
+      </articles>
+      <articles number="第百四十七条" title="（独立行政法人等の保有する情報の公開に関する法律施行令の一部改正に伴う経過措置）">
+        <article_item number="第百四十七条">
+          中期目標管理法人のうち、この政令の施行後新通則法第三十二条第一項の規定に基づく同項各号に規定する当該事業年度における業務の実績に係る評価の結果の通知が行われていないものに係るこの政令の施行後最初に行われる同項の規定に基づく同項各号に規定する当該事業年度における業務の実績に係る評価の結果の通知の日（次項において「通知日」という。）までの間における第三十二条による改正後の独立行政法人等の保有する情報の公開に関する法律施行令（以下この条から第百五十一条までにおいて「新独法等情報公開法施行令」という。）第十二条第二項第四号イ（１）の規定の適用については、同号イ（１）中「同法第三十二条第一項の規定に基づく同項各号に規定する当該事業年度における業務の実績に係る評価の結果」とあるのは「独立行政法人通則法の一部を改正する法律（平成二十六年法律第六十六号）による改正前の独立行政法人通則法（以下「旧通則法」という。）第三十二条第一項の規定に基づく評価の結果」と、「並びに同項の規定に基づく同項第二号に規定する中期目標の期間の終了時に見込まれる中期目標の期間における業務の実績に係る評価の結果及び同項の規定に基づく同項第三号に規定する中期目標の期間における業務の実績に係る評価の結果」とあるのは「及び旧通則法第三十四条第一項の規定に基づく評価の結果」とする。
+        </article_item>
+        <article_item number="２">
+          中期目標管理法人のうち、この政令の施行後新通則法第三十二条第一項の規定に基づく同項各号に規定する当該事業年度における業務の実績に係る評価の結果の通知が行われ、かつ、この政令の施行後同項の規定に基づく同項第二号に規定する中期目標の期間の終了時に見込まれる中期目標の期間における業務の実績に係る評価の結果の通知及び同項の規定に基づく同項第三号に規定する中期目標の期間における業務の実績に係る評価の結果の通知が行われていないものに係る通知日からこの政令の施行後最初に行われる同項の規定に基づく同項第二号に規定する中期目標の期間の終了時に見込まれる中期目標の期間における業務の実績に係る評価の結果の通知の日又は同項の規定に基づく同項第三号に規定する中期目標の期間における業務の実績に係る評価の結果の通知の日のいずれか早い日までの間における新独法等情報公開法施行令第十二条第二項第四号イ（１）の規定の適用については、同号イ（１）中「並びに同項の規定に基づく同項第二号に規定する中期目標の期間の終了時に見込まれる中期目標の期間における業務の実績に係る評価の結果及び同項の規定に基づく同項第三号に規定する中期目標の期間における業務の実績に係る評価の結果」とあるのは、「及び独立行政法人通則法の一部を改正する法律（平成二十六年法律第六十六号）による改正前の独立行政法人通則法第三十四条第一項の規定に基づく評価の結果」とする。
+        </article_item>
+      </articles>
+      <articles number="第百四十八条" title="（独立行政法人等の保有する情報の公開に関する法律施行令の一部改正に伴う経過措置）">
+        <article_item number="第百四十八条">
+          国立研究開発法人のうち、この政令の施行後新通則法第三十五条の六第一項の規定に基づく同項各号に規定する当該事業年度における業務の実績に係る評価の結果の通知が行われていないものに係るこの政令の施行後最初に行われる同項の規定に基づく同項各号に規定する当該事業年度における業務の実績に係る評価の結果の通知の日（次項において「通知日」という。）までの間における新独法等情報公開法施行令第十二条第二項第四号イ（２）の規定の適用については、同号イ（２）中「同法第三十五条の六第一項の規定に基づく同項各号に規定する当該事業年度における業務の実績に係る評価の結果」とあるのは「独立行政法人通則法の一部を改正する法律（平成二十六年法律第六十六号）による改正前の独立行政法人通則法（以下「旧通則法」という。）第三十二条第一項の規定に基づく評価の結果」と、「並びに同項の規定に基づく同項第二号に規定する中長期目標の期間の終了時に見込まれる中長期目標の期間における業務の実績に係る評価の結果、同項の規定に基づく同項第三号に規定する中長期目標の期間における業務の実績に係る評価の結果及び同条第二項の規定に基づく評価の結果」とあるのは「及び旧通則法第三十四条第一項の規定に基づく評価の結果」とする。
+        </article_item>
+        <article_item number="２">
+          国立研究開発法人のうち、この政令の施行後新通則法第三十五条の六第一項の規定に基づく同項各号に規定する当該事業年度における業務の実績に係る評価の結果の通知が行われ、かつ、この政令の施行後同項の規定に基づく同項第二号に規定する中長期目標の期間の終了時に見込まれる中長期目標の期間における業務の実績に係る評価の結果の通知、同項の規定に基づく同項第三号に規定する中長期目標の期間における業務の実績に係る評価の結果の通知及び同条第二項の規定に基づく評価の結果の通知が行われていないものに係る通知日からこの政令の施行後最初に行われる同条第一項の規定に基づく同項第二号に規定する中長期目標の期間の終了時に見込まれる中長期目標の期間における業務の実績に係る評価の結果の通知の日、同項の規定に基づく同項第三号に規定する中長期目標の期間における業務の実績に係る評価の結果の通知の日又は同条第二項の規定に基づく評価の結果の通知の日のいずれか早い日までの間における新独法等情報公開法施行令第十二条第二項第四号イ（２）の規定の適用については、同号イ（２）中「並びに同項の規定に基づく同項第二号に規定する中長期目標の期間の終了時に見込まれる中長期目標の期間における業務の実績に係る評価の結果、同項の規定に基づく同項第三号に規定する中長期目標の期間における業務の実績に係る評価の結果及び同条第二項の規定に基づく評価の結果」とあるのは、「及び独立行政法人通則法の一部を改正する法律（平成二十六年法律第六十六号）による改正前の独立行政法人通則法第三十四条第一項の規定に基づく評価の結果」とする。
+        </article_item>
+      </articles>
+      <articles number="第百四十九条" title="（独立行政法人等の保有する情報の公開に関する法律施行令の一部改正に伴う経過措置）">
+        <article_item number="第百四十九条">
+          行政執行法人のうち、この政令の施行後新通則法第三十五条の十一第一項の規定に基づく評価の結果の通知が行われていないものに係るこの政令の施行後最初に行われる同項の規定に基づく評価の結果の通知の日（次項において「通知日」という。）までの間における新独法等情報公開法施行令第十二条第二項第四号イ（３）の規定の適用については、同号イ（３）中「同法第三十五条の十一第一項の規定に基づく評価の結果」とあるのは「独立行政法人通則法の一部を改正する法律（平成二十六年法律第六十六号）による改正前の独立行政法人通則法（以下「旧通則法」という。）第三十二条第一項の規定に基づく評価の結果」と、「同条第二項の規定に基づく評価の結果」とあるのは「旧通則法第三十四条第一項の規定に基づく評価の結果」とする。
+        </article_item>
+        <article_item number="２">
+          行政執行法人のうち、この政令の施行後新通則法第三十五条の十一第一項の規定に基づく評価の結果の通知が行われ、かつ、この政令の施行後同条第二項の規定に基づく評価の結果の通知が行われていないものに係る通知日からこの政令の施行後最初に行われる同項の規定に基づく評価の結果の通知の日までの間における新独法等情報公開法施行令第十二条第二項第四号イ（３）の規定の適用については、同号イ（３）中「同条第二項の規定に基づく評価の結果」とあるのは、「独立行政法人通則法の一部を改正する法律（平成二十六年法律第六十六号）による改正前の独立行政法人通則法第三十四条第一項の規定に基づく評価の結果」とする。
+        </article_item>
+      </articles>
+      <articles number="第百五十条" title="（独立行政法人等の保有する情報の公開に関する法律施行令の一部改正に伴う経過措置）">
+        <article_item number="第百五十条">
+          整備法第九十三条による改正後の国立大学法人法（平成十五年法律第百十二号。以下この条において「新国立大学法人法」という。）第二条第五項に規定する国立大学法人等（次項において「新国立大学法人等」という。）のうち、この政令の施行後新国立大学法人法第三十一条の二第一項の規定に基づく同項各号に規定する当該事業年度における業務の実績に係る評価の結果の通知が行われていないものに係るこの政令の施行後最初に行われる同項の規定に基づく同項各号に規定する当該事業年度における業務の実績に係る評価の結果の通知の日（次項において「通知日」という。）までの間における新独法等情報公開法施行令第十二条第二項第四号イ（４）の規定の適用については、同号イ（４）中「同法第三十一条の二第一項の規定に基づく同項各号に規定する当該事業年度における業務の実績に係る評価の結果」とあるのは「独立行政法人通則法の一部を改正する法律の施行に伴う関係法律の整備に関する法律（平成二十六年法律第六十七号）第九十三条による改正前の国立大学法人法第三十五条において準用する独立行政法人通則法の一部を改正する法律（平成二十六年法律第六十六号）による改正前の独立行政法人通則法（以下「旧準用通則法」という。）第三十二条第一項の規定に基づく評価の結果」と、「並びに同項の規定に基づく同項第二号に規定する中期目標の期間の終了時に見込まれる中期目標の期間における業務の実績に係る評価の結果及び同項の規定に基づく同項第三号に規定する中期目標の期間における業務の実績に係る評価の結果」とあるのは「及び旧準用通則法第三十四条第一項の規定に基づく評価の結果」とする。
+        </article_item>
+        <article_item number="２">
+          新国立大学法人等のうち、この政令の施行後新国立大学法人法第三十一条の二第一項の規定に基づく同項各号に規定する当該事業年度における業務の実績に係る評価の結果の通知が行われ、かつ、この政令の施行後同項の規定に基づく同項第二号に規定する中期目標の期間の終了時に見込まれる中期目標の期間における業務の実績に係る評価の結果の通知及び同項の規定に基づく同項第三号に規定する中期目標の期間における業務の実績に係る評価の結果の通知が行われていないものに係る通知日からこの政令の施行後最初に行われる同項の規定に基づく同項第二号に規定する中期目標の期間の終了時に見込まれる中期目標の期間における業務の実績に係る評価の結果の通知の日又は同項の規定に基づく同項第三号に規定する中期目標の期間における業務の実績に係る評価の結果の通知の日のいずれか早い日までの間における新独法等情報公開法施行令第十二条第二項第四号イ（４）の規定の適用については、同号イ（４）中「並びに同項の規定に基づく同項第二号に規定する中期目標の期間の終了時に見込まれる中期目標の期間における業務の実績に係る評価の結果及び同項の規定に基づく同項第三号に規定する中期目標の期間における業務の実績に係る評価の結果」とあるのは、「及び独立行政法人通則法の一部を改正する法律の施行に伴う関係法律の整備に関する法律（平成二十六年法律第六十七号）第九十三条による改正前の国立大学法人法第三十五条において準用する独立行政法人通則法の一部を改正する法律（平成二十六年法律第六十六号）による改正前の独立行政法人通則法第三十四条第一項の規定に基づく評価の結果」とする。
+        </article_item>
+      </articles>
+      <articles number="第百五十一条" title="（独立行政法人等の保有する情報の公開に関する法律施行令の一部改正に伴う経過措置）">
+        <article_item number="第百五十一条">
+          この政令の施行後最初に行われる整備法第五十六条による改正後の総合法律支援法（平成十六年法律第七十四号。次項において「新総合法律支援法」という。）第四十一条の二第一項の規定に基づく同項各号に規定する当該事業年度における業務の実績に係る評価の結果の通知の日（次項において「通知日」という。）までの間における新独法等情報公開法施行令第十二条第二項第四号イ（５）の規定の適用については、同号イ（５）中「同法第四十一条の二第一項の規定に基づく同項各号に規定する当該事業年度における業務の実績に係る評価の結果」とあるのは「独立行政法人通則法の一部を改正する法律の施行に伴う関係法律の整備に関する法律（平成二十六年法律第六十七号）第五十六条による改正前の総合法律支援法第四十八条において準用する独立行政法人通則法の一部を改正する法律（平成二十六年法律第六十六号）による改正前の独立行政法人通則法（以下「旧準用通則法」という。）第三十二条第一項の規定に基づく評価の結果」と、「並びに同項の規定に基づく同項第二号に規定する中期目標の期間の終了時に見込まれる中期目標の期間における業務の実績に係る評価の結果及び同項の規定に基づく同項第三号に規定する中期目標の期間における業務の実績に係る評価の結果」とあるのは「及び旧準用通則法第三十四条第一項の規定に基づく評価の結果」とする。
+        </article_item>
+        <article_item number="２">
+          通知日からこの政令の施行後最初に行われる新総合法律支援法第四十一条の二第一項の規定に基づく同項第二号に規定する中期目標の期間の終了時に見込まれる中期目標の期間における業務の実績に係る評価の結果の通知の日又は同項の規定に基づく同項第三号に規定する中期目標の期間における業務の実績に係る評価の結果の通知の日のいずれか早い日までの間における新独法等情報公開法施行令第十二条第二項第四号イ（５）の規定の適用については、同号イ（５）中「並びに同項の規定に基づく同項第二号に規定する中期目標の期間の終了時に見込まれる中期目標の期間における業務の実績に係る評価の結果及び同項の規定に基づく同項第三号に規定する中期目標の期間における業務の実績に係る評価の結果」とあるのは、「及び独立行政法人通則法の一部を改正する法律の施行に伴う関係法律の整備に関する法律（平成二十六年法律第六十七号）第五十六条による改正前の総合法律支援法第四十八条において準用する独立行政法人通則法の一部を改正する法律（平成二十六年法律第六十六号）による改正前の独立行政法人通則法第三十四条第一項の規定に基づく評価の結果」とする。
+        </article_item>
+      </articles>
+      <articles number="第百五十二条" title="（独立行政法人造幣局法施行令の一部改正に伴う経過措置）">
+        <article_item number="第百五十二条">
+          整備法附則第十三条の規定によりなおその効力を有するものとされる整備法第六十七条の規定による改正前の独立行政法人造幣局法（平成十四年法律第四十号）第十五条第一項、第二項及び第五項の規定による積立金の処分については、第四十八条の規定による改正前の独立行政法人造幣局法施行令（以下この条において「旧造幣局法施行令」という。）第一条、第二条及び第四条の規定は、なおその効力を有する。この場合において、旧造幣局法施行令第一条中「当該期間最後の事業年度の次の事業年度の六月三十日」とあるのは「平成二十七年六月三十日」と、旧造幣局法施行令第二条中「期間最後の事業年度の次の事業年度の七月十日」とあるのは「平成二十七年七月十日」と、旧造幣局法施行令第四条第一項中「次の中期目標の期間に」とあるのは「中期目標の期間の次の事業年度に」と、「当該次の中期目標の期間の最初の事業年度の六月三十日」とあるのは「平成二十七年六月三十日」とする。
+        </article_item>
+      </articles>
+      <articles number="第百五十三条" title="（独立行政法人国立印刷局法施行令の一部改正に伴う経過措置）">
+        <article_item number="第百五十三条">
+          整備法附則第十四条第一項の規定によりなおその効力を有するものとされる整備法第六十八条の規定による改正前の独立行政法人国立印刷局法（平成十四年法律第四十一号）第十五条第一項、第二項及び第五項の規定による積立金の処分については、第四十九条の規定による改正前の独立行政法人国立印刷局法施行令（以下この条において「旧印刷局法施行令」という。）第一条、第二条及び第四条の規定は、なおその効力を有する。この場合において、旧印刷局法施行令第一条中「当該期間最後の事業年度の次の事業年度の六月三十日」とあるのは「平成二十七年六月三十日」と、旧印刷局法施行令第二条中「期間最後の事業年度の次の事業年度の七月十日」とあるのは「平成二十七年七月十日」と、旧印刷局法施行令第四条第一項中「次の中期目標の期間に」とあるのは「中期目標の期間の次の事業年度に」と、「当該次の中期目標の期間の最初の事業年度の六月三十日」とあるのは「平成二十七年六月三十日」とする。
+        </article_item>
+      </articles>
+      <articles number="第百五十四条" title="（防衛省の職員の給与等に関する法律施行令の一部改正に伴う経過措置）">
+        <article_item number="第百五十四条">
+          施行日の前日において旧特定独立行政法人の職員であった者であって引き続き施行日に第百三十四条の規定による改正後の防衛省の職員の給与等に関する法律施行令（以下この条において「新防衛省職員給与令」という。）第一条第一号に規定する職員となったもの及びこの政令の施行の際現に旧特定独立行政法人の職員であった者として整備法第二百七条の規定による改正前の防衛省の職員の給与等に関する法律（昭和二十七年法律第二百六十六号）第十四条第二項において準用する整備法第三条の規定による改正前の一般職の職員の給与に関する法律（昭和二十五年法律第九十五号）第十四条第二項の規定の適用を受けている職員に対する新防衛省職員給与令第十条の二第三項第一号及び第三号の規定の適用については、これらの者は、整備法第三条の規定による改正後の一般職の職員の給与に関する法律第十一条の七第三項に規定する行政執行法人職員等であった者とみなす。
+        </article_item>
+      </articles>
+      <articles number="第百五十五条" title="（自衛隊法施行令の一部改正に伴う経過措置）">
+        <article_item number="第百五十五条">
+          この政令の施行前に旧特定独立行政法人の職に就いていた者に関する第百三十六条の規定による改正後の自衛隊法施行令第五十九条の五第一項ただし書の規定の適用については、その者は、当該職に就いていた間は、行政執行法人の職に就いていた者とみなす。
+        </article_item>
+      </articles>
+    </section>
+  </body>
+</law>

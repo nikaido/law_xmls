@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <law xmlns="http://law.2nx.info/xml_law">
   <head>
-    <title>人事院規則九―九三（管理職員特別勤務手当）</title>
-    <defined>平成三年十二月二十四日人事院規則九―九三</defined>
-    <updated>平成二七年一月三〇日人事院規則九―九三―二</updated>
+    <title>人事院規則九—九三（管理職員特別勤務手当）</title>
+    <defined>平成三年十二月二十四日人事院規則九—九三</defined>
+    <updated>平成二七年一月三〇日人事院規則九—九三—二</updated>
   </head>
   <body>
     <preamble>
@@ -16,12 +16,23 @@
         管理職員特別勤務手当の支給については、別に定める場合を除き、この規則の定めるところによる。
       </article_item>
     </articles>
-    <articles number="第二条" title="（管理職員特別勤務手当の額等）">
+    <articles number="第二条" title="（管理職員特別勤務手当の額等） ">
       <article_item number="第二条">
-        給与法第十九条の三第二項の人事院規則で定める額は、次の各号に掲げる職員の区分に応じ、当該各号に定める額とする。
+        給与法第十九条の三第三項第一号の人事院規則で定める勤務は、次に掲げる勤務とする。
         <go>
           <go_item number="一">
-            給与法第十条の二第二項に規定する管理監督職員　次に掲げる当該管理監督職員の占める官職に係る俸給の特別調整額の区分に応じ、それぞれ次に定める額
+            勤務に従事した時間が六時間を超える場合の勤務（次号に掲げる勤務を除く。）
+          </go_item>
+          <go_item number="二">
+            次項第三号に掲げる職員のうち事務次官、内部部局（国家行政組織法（昭和二十三年法律第百二十号）第七条第一項の官房及び局をいう。）の長その他これらに準ずる官職として人事院が定める官職を占める職員の勤務
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="２">
+        給与法第十九条の三第三項第一号イの人事院規則で定める額は、次の各号に掲げる職員の区分に応じ、当該各号に定める額とする。
+        <go>
+          <go_item number="一">
+            管理監督職員（給与法第十条の二第二項に規定する管理監督職員をいう。以下同じ。）　次に掲げる当該管理監督職員の占める官職に係る俸給の特別調整額の区分に応じ、それぞれ次に定める額
             <go>
               <go_item number="イ">
                 一種　一万二千円
@@ -87,25 +98,39 @@
           </go_item>
         </go>
       </article_item>
-      <article_item number="２">
-        給与法第十九条の三第二項ただし書の人事院規則で定める勤務は、次に掲げる勤務とする。
+    </articles>
+    <articles number="第三条" title="（管理職員特別勤務手当の額等） ">
+      <article_item number="第三条">
+        給与法第十九条の三第三項第二号の人事院規則で定める額は、次の各号に掲げる当該管理監督職員の占める官職に係る俸給の特別調整額の区分に応じ、当該各号に定める額とする。
         <go>
           <go_item number="一">
-            勤務に従事した時間が六時間を超える場合の勤務（次号に掲げる勤務を除く。）
+            一種　六千円
           </go_item>
           <go_item number="二">
-            前項第三号に掲げる職員のうち事務次官、内部部局（国家行政組織法（昭和二十三年法律第百二十号）第七条第一項の官房及び局をいう。）の長その他これらに準ずる官職として人事院が定める官職を占める職員の勤務
+            二種　五千円
+          </go_item>
+          <go_item number="三">
+            三種　四千三百円
+          </go_item>
+          <go_item number="四">
+            四種　三千五百円
+          </go_item>
+          <go_item number="五">
+            五種　三千円
           </go_item>
         </go>
       </article_item>
+      <article_item number="２">
+        給与法第十九条の三第一項の勤務をした後、引き続いて同条第二項の勤務をした管理監督職員には、その引き続く勤務に係る同項の規定による管理職員特別勤務手当を支給しない。
+      </article_item>
     </articles>
-    <articles number="第三条" title="（勤務実績簿等）">
-      <article_item number="第三条">
+    <articles number="第四条" title="（勤務実績簿等）">
+      <article_item number="第四条">
         各庁の長（その委任を受けた者を含む。）は、管理職員特別勤務実績簿及び管理職員特別勤務手当整理簿を作成し、これを保管しなければならない。
       </article_item>
     </articles>
-    <articles number="第四条" title="（雑則）">
-      <article_item number="第四条">
+    <articles number="第五条" title="（雑則）">
+      <article_item number="第五条">
         この規則の実施に関し必要な事項は、人事院が定める。
       </article_item>
     </articles>

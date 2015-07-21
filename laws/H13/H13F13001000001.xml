@@ -3,7 +3,7 @@
   <head>
     <title>外務省組織規則</title>
     <defined>平成十三年一月六日外務省令第一号</defined>
-    <updated>平成二六年三月三一日外務省令第一〇号</updated>
+    <updated>平成二七年四月二二日外務省令第七号</updated>
   </head>
   <body>
     <preamble>
@@ -13,9 +13,9 @@
     </preamble>
     <section title="第一章　内部部局等 " type="Sho">
       <section title="第一節　大臣官房" type="Setsu">
-        <articles number="第一条" title="（危機管理調整室、監察査察室、外交記録・情報公開室、警備対策室及び外交史料館並びに記録官及び企画官）">
+        <articles number="第一条" title="（危機管理調整室、監察査察室、外交記録・情報公開室、情報防護対策室及び外交史料館並びに記録官及び企画官）">
           <article_item number="第一条">
-            総務課に、危機管理調整室、監察査察室、外交記録・情報公開室、警備対策室及び外交史料館並びに記録官一人及び企画官三人を置く。
+            総務課に、危機管理調整室、監察査察室、外交記録・情報公開室、情報防護対策室及び外交史料館並びに記録官一人及び企画官三人を置く。
           </article_item>
           <article_item number="２">
             危機管理調整室は、危機管理に関する調整に関する事務をつかさどる。
@@ -58,10 +58,10 @@
             外交記録・情報公開室に、室長を置く。
           </article_item>
           <article_item number="８">
-            警備対策室は、在外公館の警備に関する事務をつかさどる。
+            情報防護対策室は、情報防護に関する事務をつかさどる。
           </article_item>
           <article_item number="９">
-            警備対策室に、室長を置く。
+            情報防護対策室に、室長を置く。
           </article_item>
           <article_item number="１０">
             外交史料館は、次に掲げる事務をつかさどる。
@@ -170,9 +170,9 @@
             削除
           </article_item>
         </articles>
-        <articles number="第八条" title="（国内広報室及び企画官）">
+        <articles number="第八条" title="（国内広報室及び戦略的対外発信拠点室並びに企画官）">
           <article_item number="第八条">
-            広報文化外交戦略課に、国内広報室及び企画官一人を置く。
+            広報文化外交戦略課に、国内広報室及び戦略的対外発信拠点室並びに企画官一人を置く。
           </article_item>
           <article_item number="２">
             国内広報室は、外交政策及び海外事情についての国内広報に関する事務をつかさどる。
@@ -181,6 +181,12 @@
             国内広報室に、室長を置く。
           </article_item>
           <article_item number="４">
+            戦賂的対外発信拠点室は、戦略的対外発信拠点に関する事務をつかさどる。
+          </article_item>
+          <article_item number="５">
+            戦略的対外発信拠点室に、室長を置く。
+          </article_item>
+          <article_item number="６">
             企画官は、命を受けて、広報文化外交戦略課の所掌事務のうち重要事項についての企画及び立案に参画する。
           </article_item>
         </articles>
@@ -565,7 +571,7 @@
             中央アジア・コーカサス室は、次に掲げる事務をつかさどる。
             <go>
               <go_item number="一">
-                アゼルバイジャン、アルメニア、ウズベキスタン、カザフスタン、キルギス、グルジア、タジキスタン及びトルクメニスタンに関する外交政策に関すること。
+                アゼルバイジャン、アルメニア、ウズベキスタン、カザフスタン、キルギス、ジョージア、タジキスタン及びトルクメニスタンに関する外交政策に関すること。
               </go_item>
               <go_item number="二">
                 前号に掲げる諸国に関する政務の処理に関すること。
@@ -863,9 +869,9 @@
         </articles>
       </section>
       <section title="第十節　国際法局" type="Setsu">
-        <articles number="第四十三条" title="（海洋室及び法律顧問官）">
+        <articles number="第四十三条" title="（海洋室及び国際裁判対策室）">
           <article_item number="第四十三条">
-            国際法課に、海洋室及び法律顧問官一人を置く。
+            国際法課に、海洋室及び国際裁判対策室を置く。
           </article_item>
           <article_item number="２">
             海洋室は、次に掲げる事務をつかさどる。
@@ -891,7 +897,21 @@
             海洋室に、室長を置く。
           </article_item>
           <article_item number="４">
-            法律顧問官は、命を受けて、国際法課の所掌事務のうち重要事項についての企画及び立案に参画し、並びに助言を行う。
+            国際裁判対策室は、国際司法裁判所、常設仲裁裁判所及び国際刑事裁判所における裁判手続に関し、次に掲げる事務をつかさどる。
+            <go>
+              <go_item number="一">
+                国際法に係る外交政策に関する助言を行うこと（条約課及び経済条約課並びに社会条約官の所掌に属するものを除く。）。
+              </go_item>
+              <go_item number="二">
+                確立された国際法規の解釈及び実施に関すること。
+              </go_item>
+              <go_item number="三">
+                確立された国際法規に関する調査及び研究に関すること。
+              </go_item>
+            </go>
+          </article_item>
+          <article_item number="５">
+            国際裁判対策室に、室長を置く。
           </article_item>
         </articles>
         <articles number="第四十四条">
@@ -899,7 +919,7 @@
             削除
           </article_item>
         </articles>
-        <articles number="第四十五条" title="（海洋室及び法律顧問官）">
+        <articles number="第四十五条" title="（海洋室及び国際裁判対策室）">
           <article_item number="第四十五条">
             経済条約課に、条約交渉官二人を置く。
           </article_item>

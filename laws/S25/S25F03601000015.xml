@@ -3,7 +3,7 @@
   <head>
     <title>身体障害者福祉法施行規則</title>
     <defined>昭和二十五年四月六日厚生省令第十五号</defined>
-    <updated>平成二五年一一月二二日厚生労働省令第一二四号</updated>
+    <updated>平成二七年三月三一日厚生労働省令第五五号</updated>
   </head>
   <body>
     <preamble>
@@ -347,21 +347,13 @@
         法第三十九条第三項の規定により当該職員が携帯すべき証明書の様式は、別表第六号のとおりとする。 
       </article_item>
     </articles>
-    <articles number="第二十条" title="（権限の委任）">
+    <articles number="第二十条" title="（町村の一部事務組合等）">
       <article_item number="第二十条">
-        法第四十四条第一項の規定により、法第十二条第四号に規定する厚生労働大臣の権限は、地方厚生局長に委任する。
-      </article_item>
-      <article_item number="２">
-        法第四十四条第二項の規定により、前項に規定する権限は、地方厚生支局長に委任する。ただし、地方厚生局長が当該権限を自ら行うことを妨げない。
-      </article_item>
-    </articles>
-    <articles number="第二十一条" title="（町村の一部事務組合等）">
-      <article_item number="第二十一条">
         町村が一部事務組合又は広域連合を設けて福祉事務所を設置した場合には、この省令の適用については、その一部事務組合又は広域連合を福祉事務所を設置する町村とみなし、その一部事務組合の管理者又は広域連合の長を福祉事務所を管理する町村長とみなす。
       </article_item>
     </articles>
-    <articles number="第二十二条" title="（大都市の特例）">
-      <article_item number="第二十二条">
+    <articles number="第二十一条" title="（大都市の特例）">
+      <article_item number="第二十一条">
         令第三十四条第一項の規定により、地方自治法第二百五十二条の十九第一項の指定都市（以下「指定都市」という。）が身体障害者の福祉に関する事務を処理する場合においては、次の表の上欄に掲げるこの省令の規定中の字句で、同表中欄に掲げるものは、それぞれ同表下欄の字句と読み替えるものとする。
         <table>
           <tr>
@@ -414,8 +406,8 @@
         </table>  
       </article_item>
     </articles>
-    <articles number="第二十三条" title="（中核市の特例）">
-      <article_item number="第二十三条">
+    <articles number="第二十二条" title="（中核市の特例）">
+      <article_item number="第二十二条">
         令第三十四条第二項の規定により、地方自治法第二百五十二条の二十二第一項の中核市（以下「中核市」という。）が身体障害者の福祉に関する事務を処理する場合においては、次の表の上欄に掲げるこの省令の規定中の字句で、同表中欄に掲げるものは、それぞれ同表下欄の字句と読み替えるものとする。
         <table>
           <tr>

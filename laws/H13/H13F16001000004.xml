@@ -3,7 +3,7 @@
   <head>
     <title>海上保安庁組織規則</title>
     <defined>平成十三年一月六日国土交通省令第四号</defined>
-    <updated>平成二六年一一月二五日国土交通省令第八八号</updated>
+    <updated>平成二七年四月一〇日国土交通省令第三六号</updated>
   </head>
   <body>
     <preamble>
@@ -933,18 +933,15 @@
               </go>
             </article_item>
           </articles>
-          <articles number="第四十五条" title="（海賊対策室及び不法入国対策官）">
+          <articles number="第四十五条" title="（海賊対策室）">
             <article_item number="第四十五条">
-              国際刑事課に、海賊対策室及び不法入国対策官一人を置く。
+              国際刑事課に、海賊対策室を置く。
             </article_item>
             <article_item number="２">
               海賊対策室は、国際刑事課の所掌事務に係る海賊行為に関する事務及び当該事務に関する外国の行政機関その他の関係機関との連絡調整に関する事務をつかさどる。
             </article_item>
             <article_item number="３">
               海賊対策室に、室長を置く。
-            </article_item>
-            <article_item number="４">
-              不法入国対策官は、国際刑事課の所掌事務に係る出入国管理及び難民認定法に規定する犯罪に関する事務及び当該事務に関する外国の行政機関その他の関係機関との連絡調整に関する事務をつかさどる。
             </article_item>
           </articles>
           <articles number="第四十六条" title="（領海警備対策室及び特殊警備対策室並びに不審船舶対策官）">
@@ -975,12 +972,15 @@
               不審船舶対策官は、警備課の所掌事務に係る海上における人命及び財産の保護並びに公共の秩序の維持に関する事務のうち不審な船舶に関する事務（特殊警備対策室の所掌に属するものを除く。）をつかさどる。
             </article_item>
           </articles>
-          <articles number="第四十六条の二" title="（警備情報調整官）">
+          <articles number="第四十六条の二" title="（警備情報調整官及び船舶動静情報調整官）">
             <article_item number="第四十六条の二">
-              警備情報課に、警備情報調整官一人を置く。
+              警備情報課に、警備情報調整官及び船舶動静情報調整官それぞれ一人を置く。
             </article_item>
             <article_item number="２">
-              警備情報調整官は、命を受けて、警備情報の収集、分析その他の調査及び警備情報の管理に関する重要事項についての調整に関する事務をつかさどる。
+              警備情報調整官は、命を受けて、警備情報の収集、分析その他の調査及び警備情報の管理に関する重要事項についての調整に関する事務（船舶動静情報調整官の所掌に属するものを除く。）をつかさどる。
+            </article_item>
+            <article_item number="３">
+              船舶動静情報調整官は、命を受けて、警備情報のうち船舶の動静に関するもの（以下この条において「船舶動静情報」という。）の収集、分析その他の調査及び船舶動静情報の管理に関する重要事項についての調整に関する事務をつかさどる。
             </article_item>
           </articles>
           <articles number="第四十七条" title="（海浜事故対策官）">
@@ -1250,10 +1250,10 @@
     </section>
     <section title="第二章　地方支分部局" type="Sho">
       <section title="第一節　管区海上保安本部" type="Setsu">
-        <section title="第一款　第十一管区海上保安本部以外の管区海上保安本部" type="Kan">
+        <section title="第一款　総則" type="Kan">
           <articles number="第五十七条" title="（管区海上保安本部に置く部）">
             <article_item number="第五十七条">
-              管区海上保安本部（第十一管区海上保安本部を除く。）に、次の六部を置く。<br/>　　総務部<br/>　　経理補給部（第四管区海上保安本部及び第九管区海上保安本部を除く。）<br/>　　船舶技術部（第四管区海上保安本部、第九管区海上保安本部及び第十管区海上保安本部を除く。）<br/>　　警備救難部<br/>　　海洋情報部<br/>　　交通部
+              管区海上保安本部（以下「本部」という。）に、次の六部を置く。<br/>　　総務部<br/>　　経理補給部（第四本部、第八本部、第九本部及び第十一本部を除く。）<br/>　　船舶技術部（第二本部、第四本部、第九本部、第十本部及び第十一本部を除く。）<br/>　　警備救難部<br/>　　海洋情報部（第十一本部を除く。）<br/>　　交通部（第十一本部を除く。）
             </article_item>
           </articles>
           <articles number="第五十八条" title="（総務部の所掌事務）">
@@ -1261,7 +1261,7 @@
               総務部は、次に掲げる事務をつかさどる。
               <go>
                 <go_item number="一">
-                  管区海上保安本部長（以下「本部長」という。）の官印及び管区海上保安本部（以下「本部」という。）印の保管に関すること。
+                  管区海上保安本部長（以下「本部長」という。）の官印及び本部印の保管に関すること。
                 </go_item>
                 <go_item number="二">
                   公文書類の接受、発送、編集及び保存に関すること。
@@ -1302,7 +1302,7 @@
               </go>
             </article_item>
             <article_item number="２">
-              第四本部及び第九本部総務部は、前項に規定する事務のほか、次に掲げる事務をつかさどる。
+              第四本部、第八本部、第九本部及び第十一本部総務部は、前項に規定する事務のほか、次に掲げる事務をつかさどる。
               <go>
                 <go_item number="一">
                   本部の所掌に係る経費及び収入の予算、決算及び会計並びに会計の監査に関すること。
@@ -1340,13 +1340,13 @@
                   海上保安庁以外の者で海上において人命、積荷及び船舶の救助を行うものの監督に関すること。
                 </go_item>
                 <go_item number="五">
-                  旅客又は貨物の海上運送に従事する者に対する海上における保安のため必要な監督に関すること（交通部の所掌に属するものを除く。）。
+                  旅客又は貨物の海上運送に従事する者に対する海上における保安のため必要な監督に関すること（交通部（第十一本部にあっては、交通安全課）の所掌に属するものを除く。）。
                 </go_item>
                 <go_item number="六">
                   危険物の荷役に係る港則に関すること。
                 </go_item>
                 <go_item number="七">
-                  海洋汚染等及び海上災害の防止に関する法律に基づき海上保安庁に属させられた事務に関すること（海洋情報部の所掌に属するものを除く。）。
+                  海洋汚染等及び海上災害の防止に関する法律に基づき海上保安庁に属させられた事務に関すること（海洋情報部（第十一本部にあっては、海洋情報監理課及び海洋情報調査課）の所掌に属するものを除く。）。
                 </go_item>
                 <go_item number="八">
                   海上における船舶の航行の秩序の維持に関すること。
@@ -1381,7 +1381,7 @@
               </go>
             </article_item>
             <article_item number="２">
-              第四本部、第九本部及び第十本部警備救難部は、前項に規定する事務のほか、前条に規定する事務をつかさどる。
+              第二本部、第四本部、第九本部、第十本部及び第十一本部警備救難部は、前項に規定する事務のほか、前条に規定する事務をつかさどる。
             </article_item>
           </articles>
           <articles number="第六十二条" title="（海洋情報部の所掌事務）">
@@ -1465,7 +1465,7 @@
           </articles>
           <articles number="第六十三条の三" title="（会計管理官）">
             <article_item number="第六十三条の三">
-              総務部（第四本部及び第九本部に限る。）に、それぞれ会計管理官一人を置く。
+              総務部（第四本部、第八本部、第九本部及び第十一本部に限る。）に、それぞれ会計管理官一人を置く。
             </article_item>
             <article_item number="２">
               会計管理官は、命を受けて、経理課及び補給課の所掌事務に関する重要事項について企画及び立案を行い、並びに整理する。
@@ -1481,7 +1481,7 @@
           </articles>
           <articles number="第六十四条の二" title="（技術管理官）">
             <article_item number="第六十四条の二">
-              警備救難部（第四本部、第九本部及び第十本部に限る。）に、それぞれ技術管理官一人を置く。
+              警備救難部（第二本部、第四本部、第九本部、第十本部及び第十一本部に限る。）に、それぞれ技術管理官一人を置く。
             </article_item>
             <article_item number="２">
               技術管理官は、命を受けて、本部の船舶及び航空機の建造及び維持に関する重要事項について企画及び立案を行い、並びに整理する。
@@ -1497,7 +1497,7 @@
           </articles>
           <articles number="第六十五条" title="（総務部に置く課）">
             <article_item number="第六十五条">
-              総務部に、次に掲げる課を置く。<br/>　総務課<br/>　人事課<br/>　厚生課<br/>　情報通信課<br/>　経理課（第四本部及び第九本部に限る。）<br/>　補給課（第四本部及び第九本部に限る。）
+              総務部に、次に掲げる課を置く。<br/>　総務課<br/>　人事課<br/>　厚生課<br/>　情報通信課<br/>　経理課（第四本部、第八本部、第九本部及び第十一本部に限る。）<br/>　補給課（第四本部、第八本部、第九本部及び第十一本部に限る。）
             </article_item>
           </articles>
           <articles number="第六十六条" title="（総務課の所掌事務）">
@@ -1556,7 +1556,7 @@
                   職員の衛生、医療その他の福利厚生に関すること。
                 </go_item>
                 <go_item number="二">
-                  職員に貸与する宿舎に関すること（経理補給部（第四本部及び第九本部にあっては、経理課）の所掌に属するものを除く。）。
+                  職員に貸与する宿舎に関すること（経理補給部（第四本部、第八本部、第九本部及び第十一本部にあっては、経理課）の所掌に属するものを除く。）。
                 </go_item>
                 <go_item number="三">
                   海上保安官に協力援助した者等の災害給付に関すること。
@@ -1675,7 +1675,7 @@
           </articles>
           <articles number="第八十条" title="（警備救難部に置く課）">
             <article_item number="第八十条">
-              警備救難部に、次に掲げる課を置く。<br/>　　警備課<br/>　　刑事課<br/>　　国際刑事課<br/>　　警備情報課<br/>　　救難課<br/>　　環境防災課（第八本部、第九本部及び第十本部を除く。）<br/>　　船舶技術課（第四本部、第九本部及び第十本部に限る。）
+              警備救難部に、次に掲げる課を置く。<br/>　　警備課<br/>　　刑事課<br/>　　国際刑事課<br/>　　警備情報課<br/>　　救難課<br/>　　環境防災課（第八本部、第九本部及び第十本部を除く。）<br/>　　船舶技術課（第二本部、第四本部、第九本部、第十本部及び第十一本部に限る。）
             </article_item>
           </articles>
           <articles number="第八十一条" title="（警備課の所掌事務）">
@@ -1870,7 +1870,7 @@
                   海洋汚染等及び海上災害の防止に関する法律第二章から第四章までの規定に基づく承認、確認、登録及び届出の受理に関すること。
                 </go_item>
                 <go_item number="三">
-                  海洋汚染等の状況の調査に関すること（海洋情報部の所掌に属するものを除く。）。
+                  海洋汚染等の状況の調査に関すること（海洋情報部（第十一本部にあっては、海洋情報監理課及び海洋情報調査課）の所掌に属するものを除く。）。
                 </go_item>
                 <go_item number="四">
                   海洋汚染等及び海上災害の防止のための措置の実施に関すること。
@@ -2078,48 +2078,26 @@
           </articles>
         </section>
         <section title="第二款　第十一管区海上保安本部" type="Kan">
-          <articles number="第九十三条" title="（情報管理官）">
+          <articles number="第九十三条">
             <article_item number="第九十三条">
-              第十一本部に、情報管理官一人を置く。
-            </article_item>
-            <article_item number="２">
-              情報管理官は、命を受けて、本部の所掌事務に関する情報の管理に関する重要事項について企画及び立案を行い、並びに整理する。
+              削除
             </article_item>
           </articles>
-          <articles number="第九十四条" title="（会計管理官）">
+          <articles number="第九十四条">
             <article_item number="第九十四条">
-              第十一本部に、会計管理官一人を置く。
-            </article_item>
-            <article_item number="２">
-              会計管理官は、命を受けて、経理課及び補給課の所掌事務に関する重要事項について企画及び立案を行い、並びに整理する。
+              削除
             </article_item>
           </articles>
-          <articles number="第九十五条" title="（警備救難企画調整官）">
+          <articles number="第九十五条" title="（海洋情報企画調整官）">
             <article_item number="第九十五条">
-              第十一本部に、警備救難企画調整官一人を置く。
-            </article_item>
-            <article_item number="２">
-              警備救難企画調整官は、命を受けて、警備課、刑事課、国際刑事課、警備情報課、救難課及び環境防災課の所掌事務に関する重要事項について企画及び立案を行い、並びに整理する。
-            </article_item>
-          </articles>
-          <articles number="第九十六条" title="（技術管理官）">
-            <article_item number="第九十六条">
-              第十一本部に、技術管理官一人を置く。
-            </article_item>
-            <article_item number="２">
-              技術管理官は、命を受けて、本部の船舶及び航空機の建造及び維持に関する重要事項について企画及び立案を行い、並びに整理する。
-            </article_item>
-          </articles>
-          <articles number="第九十六条の二" title="（海洋情報企画調整官）">
-            <article_item number="第九十六条の二">
               第十一本部に、海洋情報企画調整官一人を置く。
             </article_item>
             <article_item number="２">
               海洋情報企画調整官は、命を受けて、海洋情報監理課及び海洋情報調査課の所掌事務に関する重要事項について企画及び立案を行い、並びに整理する。
             </article_item>
           </articles>
-          <articles number="第九十六条の三" title="（交通企画調整官）">
-            <article_item number="第九十六条の三">
+          <articles number="第九十六条" title="（交通企画調整官）">
+            <article_item number="第九十六条">
               第十一本部に、交通企画調整官一人を置く。
             </article_item>
             <article_item number="２">
@@ -2128,42 +2106,42 @@
           </articles>
           <articles number="第九十七条" title="（第十一本部に置く課）">
             <article_item number="第九十七条">
-              第十一本部に、次の十九課を置く。<br/>　総務課<br/>　人事課<br/>　厚生課<br/>　情報通信課<br/>　経理課<br/>　補給課<br/>　船舶技術課<br/>　警備課<br/>　刑事課<br/>　国際刑事課<br/>　警備情報課<br/>　救難課<br/>　環境防災課<br/>　海洋情報監理課<br/>　海洋情報調査課<br/>　交通企画課<br/>　交通安全課<br/>　交通計画運用課<br/>　交通整備課
+              第十一本部に、総務部及び警備救難部に置くもののほか、次の六課を置く。<br/>　海洋情報監理課<br/>　海洋情報調査課<br/>　交通企画課<br/>　交通安全課<br/>　交通計画運用課<br/>　交通整備課
             </article_item>
           </articles>
-          <articles number="第九十八条" title="（総務課の所掌事務）">
+          <articles number="第九十八条">
             <article_item number="第九十八条">
-              総務課は、第六十六条に規定する事務をつかさどる。
+              削除
             </article_item>
           </articles>
-          <articles number="第九十九条" title="（人事課の所掌事務）">
+          <articles number="第九十九条">
             <article_item number="第九十九条">
-              人事課は、第六十七条に規定する事務をつかさどる。
+              削除
             </article_item>
           </articles>
-          <articles number="第百条" title="（厚生課の所掌事務）">
+          <articles number="第百条">
             <article_item number="第百条">
-              厚生課は、第六十八条に規定する事務をつかさどる。
+              削除
             </article_item>
           </articles>
-          <articles number="第百条の二" title="（情報通信課の所掌事務）">
+          <articles number="第百条の二">
             <article_item number="第百条の二">
-              情報通信課は、第六十八条の二に規定する事務をつかさどる。
+              削除
             </article_item>
           </articles>
-          <articles number="第百一条" title="（経理課の所掌事務）">
+          <articles number="第百一条">
             <article_item number="第百一条">
-              経理課は、第六十九条に規定する事務をつかさどる。
+              削除
             </article_item>
           </articles>
-          <articles number="第百二条" title="（補給課の所掌事務）">
+          <articles number="第百二条">
             <article_item number="第百二条">
-              補給課は、第七十条に規定する事務をつかさどる。
+              削除
             </article_item>
           </articles>
-          <articles number="第百三条" title="（船舶技術課の所掌事務）">
+          <articles number="第百三条">
             <article_item number="第百三条">
-              船舶技術課は、第七十五条第二号に掲げる事務及び第七十六条に規定する事務をつかさどる。
+              削除
             </article_item>
           </articles>
           <articles number="第百四条">
@@ -2171,34 +2149,34 @@
               削除
             </article_item>
           </articles>
-          <articles number="第百五条" title="（警備課の所掌事務）">
+          <articles number="第百五条">
             <article_item number="第百五条">
-              警備課は、第八十一条第二号から第六号までに掲げる事務をつかさどる。
+              削除
             </article_item>
           </articles>
-          <articles number="第百六条" title="（刑事課の所掌事務）">
+          <articles number="第百六条">
             <article_item number="第百六条">
-              刑事課は、第八十一条の二第一項に規定する事務をつかさどる。
+              削除
             </article_item>
           </articles>
-          <articles number="第百六条の二" title="（国際刑事課の所掌事務）">
+          <articles number="第百六条の二">
             <article_item number="第百六条の二">
-              国際刑事課は、第八十一条の三に規定する事務をつかさどる。
+              削除
             </article_item>
           </articles>
-          <articles number="第百七条" title="（警備情報課の所掌事務）">
+          <articles number="第百七条">
             <article_item number="第百七条">
-              警備情報課は、第八十一条の四に規定する事務をつかさどる。
+              削除
             </article_item>
           </articles>
-          <articles number="第百八条" title="（救難課の所掌事務）">
+          <articles number="第百八条">
             <article_item number="第百八条">
-              救難課は、第八十四条第一項に規定する事務をつかさどる。
+              削除
             </article_item>
           </articles>
-          <articles number="第百九条" title="（環境防災課の所掌事務）">
+          <articles number="第百九条">
             <article_item number="第百九条">
-              環境防災課は第八十五条に規定する事務をつかさどる。
+              削除
             </article_item>
           </articles>
           <articles number="第百十条" title="（海洋情報監理課の所掌事務）">
@@ -2274,10 +2252,10 @@
             航空基地の名称及び位置は、別表第七のとおりとする。
           </article_item>
           <article_item number="７">
-            国際組織犯罪対策基地の名称及び位置は、別表第七の二のとおりとする。
+            国際組織犯罪対策基地の名称は、国際組織犯罪対策基地とする。
           </article_item>
           <article_item number="８">
-            特殊警備基地の名称及び位置は、別表第八のとおりとする。
+            特殊警備基地の名称は、特殊警備基地とする。
           </article_item>
           <article_item number="９">
             特殊救難基地の名称及び位置は、別表第九のとおりとする。
@@ -2304,7 +2282,7 @@
     <section title="第三章　雑則" type="Sho">
       <articles number="第百二十二条">
         <article_item number="第百二十二条">
-          この省令に定めるもののほか、本部の内部組織の細目並びに本部の事務所の管轄区域（海上保安監部、海上保安部及び海上保安航空基地を除く。）及び内部組織は、海上保安庁長官が定める。
+          この省令に定めるもののほか、本部の内部組織の細目並びに本部の事務所の位置（国際組織犯罪対策基地及び特殊警備基地に限る。）、管轄区域（海上保安監部、海上保安部及び海上保安航空基地を除く。）及び内部組織は、海上保安庁長官が定める。
         </article_item>
       </articles>
     </section>

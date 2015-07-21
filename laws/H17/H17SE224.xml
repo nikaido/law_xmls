@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <law xmlns="http://law.2nx.info/xml_law">
   <head>
-    <title>独立行政法人日本原子力研究開発機構法施行令</title>
+    <title>国立研究開発法人日本原子力研究開発機構法施行令</title>
     <defined>平成十七年六月二十四日政令第二百二十四号</defined>
-    <updated>平成二五年三月二九日政令第一〇四号</updated>
+    <updated>平成二七年三月一八日政令第七四号</updated>
   </head>
   <body>
     <preamble>
@@ -13,7 +13,7 @@
     </preamble>
     <articles number="第一条" title="（核燃料物質）">
       <article_item number="第一条">
-        独立行政法人日本原子力研究開発機構法（以下「法」という。）第二条第五項の核燃料物質のうち政令で定めるものは、ウラン二三三、ウラン二三五及びプルトニウムとする。
+        国立研究開発法人日本原子力研究開発機構法（平成十六年法律第百五十五号。以下「法」という。）第二条第五項の核燃料物質のうち政令で定めるものは、ウラン二三三、ウラン二三五及びプルトニウムとする。
       </article_item>
     </articles>
     <articles number="第二条" title="（評価委員の任命等）">
@@ -30,7 +30,7 @@
             経済産業省の職員　一人
           </go_item>
           <go_item number="四">
-            独立行政法人日本原子力研究開発機構（以下「機構」という。）の役員　一人
+            国立研究開発法人日本原子力研究開発機構（以下「機構」という。）の役員　一人
           </go_item>
           <go_item number="五">
             学識経験のある者　一人

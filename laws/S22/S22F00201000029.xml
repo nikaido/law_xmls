@@ -3,7 +3,7 @@
   <head>
     <title>地方自治法施行規則</title>
     <defined>昭和二十二年五月三日内務省令第二十九号</defined>
-    <updated>平成二七年一月三〇日総務省令第三号</updated>
+    <updated>平成二七年三月九日総務省令第一三号</updated>
   </head>
   <body>
     <preamble>
@@ -517,6 +517,69 @@
       </article_item>
       <article_item number="２">
         前項の申請書の様式は、別記のとおりとする。
+      </article_item>
+    </articles>
+    <articles number="第二十二条の二">
+      <article_item number="第二十二条の二">
+        地方自治法第二百六十条の三十八第一項に規定する申請は、認可地縁団体の代表者が、申請書に次に掲げる書類を添え、当該認可地縁団体の区域を包括する市町村の長に対し行うものとする。
+        <go>
+          <go_item number="一">
+            所有権の保存又は移転の登記をしようとする不動産（以下「申請不動産」という。）の登記事項証明書
+          </go_item>
+          <go_item number="二">
+            第十八条の規定により提出した保有資産目録又は保有予定資産目録。ただし、当該書類に申請不動産の記載がないときは、申請不動産の所有に係る事項について総会で議決したことを証する書類
+          </go_item>
+          <go_item number="三">
+            申請者が代表者であることを証する書類
+          </go_item>
+          <go_item number="四">
+            地方自治法第二百六十条の三十八第一項各号に掲げる事項を疎明するに足りる資料
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="２">
+        前項の申請書の様式は、別記のとおりとする。
+      </article_item>
+    </articles>
+    <articles number="第二十二条の三">
+      <article_item number="第二十二条の三">
+        地方自治法第二百六十条の三十八第二項に規定する公告は、次に掲げる事項について行うものとする。
+        <go>
+          <go_item number="一">
+            地方自治法第二百六十条の三十八第一項の申請を行つた認可地縁団体の名称、区域及び主たる事務所
+          </go_item>
+          <go_item number="二">
+            前条第二項に規定する申請書の様式に記載された申請不動産に関する事項
+          </go_item>
+          <go_item number="三">
+            申請不動産の所有権の保存又は移転の登記をすることについて異議を述べることができる者の範囲は、申請不動産の表題部所有者若しくは所有権の登記名義人若しくはこれらの相続人又は申請不動産の所有権を有することを疎明する者（以下「登記関係者等」という。）である旨
+          </go_item>
+          <go_item number="四">
+            異議を述べることができる期間及び方法に関する事項
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="２">
+        前項の公告に係る登記関係者等が異議を述べようとするときは、異議を述べる旨及びその内容を記載した申出書に申請不動産の登記事項証明書、住民票の写しその他の市町村長が必要と認める書類を添えて行うものとする。
+      </article_item>
+      <article_item number="３">
+        前項の申出書の様式は、別記のとおりとする。
+      </article_item>
+    </articles>
+    <articles number="第二十二条の四">
+      <article_item number="第二十二条の四">
+        地方自治法第二百六十条の三十八第四項に規定する証する情報の提供は、前条第一項第二号に掲げる申請不動産に関する事項その他必要な事項を記載した書面により行うものとする。
+      </article_item>
+      <article_item number="２">
+        前項の書面の様式は、別記のとおりとする。
+      </article_item>
+    </articles>
+    <articles number="第二十二条の五">
+      <article_item number="第二十二条の五">
+        地方自治法第二百六十条の三十八第五項に規定する通知は、第二十二条の三第二項の規定による異議の内容その他必要な事項を記載した通知書により行うものとする。
+      </article_item>
+      <article_item number="２">
+        前項の通知書の様式は、別記のとおりとする。
       </article_item>
     </articles>
     <articles number="第二十三条">

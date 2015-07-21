@@ -3,7 +3,7 @@
   <head>
     <title>社会保険審査官及び社会保険審査会法施行規則</title>
     <defined>昭和二十八年九月十八日厚生省令第四十三号</defined>
-    <updated>平成二一年一二月二八日厚生労働省令第一六七号</updated>
+    <updated>平成二七年三月二六日厚生労働省令第四三号</updated>
   </head>
   <body>
     <preamble>
@@ -11,9 +11,17 @@
         社会保険審査官及び社会保険審査会法（昭和二十八年法律第二百六号）第四十一条第二項並びに社会保険審査官及び社会保険審査会法施行令（昭和二十八年政令第百九十号）第十四条の規定に基き、社会保険審査官及び社会保険審査会法施行規則を次のように定める。
       </p>
     </preamble>
-    <articles number="第一条" title="（証票）">
+    <articles number="第一条" title="（総括社会保険審査官） ">
       <article_item number="第一条">
-        社会保険審査官及び社会保険審査会法（以下「法」という。）第十一条第三項又は第四十条第三項の規定によつて社会保険審査官並びに社会保険審査会の委員長及び委員が携帯すべき証票（以下「証票」という。）の制式は、次の通りとする。
+        地方厚生局（地方厚生支局を含む。）に、総括社会保険審査官一人を置き、社会保険審査官をもつて充てる。 
+      </article_item>
+      <article_item number="２">
+        総括社会保険審査官は、命を受けて、社会保険審査官及び社会保険審査会法（昭和二十八年法律第二百六号。以下「法」という。）第一条第一項に規定する審査請求に関する事務を行い、及び社会保険審査官の行う事務を総括する。 
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（証票）">
+      <article_item number="第二条">
+        法第十一条第三項又は第四十条第三項の規定によつて社会保険審査官並びに社会保険審査会の委員長及び委員が携帯すべき証票（以下「証票」という。）の制式は、次の通りとする。
         <go>
           <go_item number="一">
             証票の大きさは、縦百二十ミリメートル、横七十ミリメートルとし、表紙は、チヨコレート色皮製とする。
@@ -36,8 +44,8 @@
         </go>
       </article_item>
     </articles>
-    <articles number="第二条" title="（調書の閲覧）">
-      <article_item number="第二条">
+    <articles number="第三条" title="（調書の閲覧）">
+      <article_item number="第三条">
         法第四十一条第二項の規定により調書の閲覧をする者は、左の各号に掲げる事項を記載した文書を提出し、又はこれらの事項を陳述し、且つ、閲覧の場所、時間その他閲覧に関して別に定めるところに従つて、閲覧しなければならない。
         <go>
           <go_item number="一">
@@ -55,13 +63,13 @@
         </go>
       </article_item>
     </articles>
-    <articles number="第三条" title="（利益を代表する者の名称）">
-      <article_item number="第三条">
+    <articles number="第四条" title="（利益を代表する者の名称）">
+      <article_item number="第四条">
         法第三十条第一項又は第二項の規定により指名された者の名称は、社会保険審査会参与とする。
       </article_item>
     </articles>
-    <articles number="第四条" title="（法第三条第四号の厚生労働省令で定める機関の事務所）">
-      <article_item number="第四条">
+    <articles number="第五条" title="（法第三条第四号の厚生労働省令で定める機関の事務所）">
+      <article_item number="第五条">
         法第三条第四号の厚生労働省令で定めるものは、次に掲げるものとする。
         <go>
           <go_item number="一">

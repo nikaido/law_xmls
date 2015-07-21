@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>小規模企業の事業活動の活性化のための中小企業基本法等の一部を改正する等の法律の一部の施行に伴う関係政令の整理及び経過措置に関する政令　抄</title>
+    <defined>平成二十七年三月二十七日政令第百十号</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、小規模企業の事業活動の活性化のための中小企業基本法等の一部を改正する等の法律（平成二十五年法律第五十七号）の一部の施行に伴い、及び同法附則第三条第五項の規定に基づき、この政令を制定する。
+      </p>
+    </preamble>
+    <section title="第一章　関係政令の整理" type="Sho">
+      <articles number="第一条" title="（小規模企業者等設備導入資金助成法施行令の廃止）">
+        <article_item number="第一条">
+          小規模企業者等設備導入資金助成法施行令（昭和三十一年政令第百五十二号）は、廃止する。
+        </article_item>
+      </articles>
+      <articles number="第二条" title="（激甚災害に対処するための特別の財政援助等に関する法律施行令の一部改正）">
+        <article_item number="第二条">
+          略
+        </article_item>
+      </articles>
+      <articles number="第三条" title="（東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律施行令の一部改正）">
+        <article_item number="第三条">
+          略
+        </article_item>
+      </articles>
+      <articles number="第四条" title="（東日本大震災に対処するための特別の財政援助及び助成に関する法律の経済産業省関係規定の施行に関する政令の一部改正）">
+        <article_item number="第四条">
+          略
+        </article_item>
+      </articles>
+      <articles number="第五条" title="（経済産業省組織令の一部改正）">
+        <article_item number="第五条">
+          略
+        </article_item>
+      </articles>
+    </section>
+    <section title="第二章　経過措置" type="Sho">
+      <articles number="第六条">
+        <article_item number="第六条">
+          小規模企業の事業活動の活性化のための中小企業基本法等の一部を改正する等の法律（以下この条において「活性化法」という。）附則第三条第五項の規定による都道府県の国への償還は、活性化法附則第一条第二号に掲げる規定の施行の日（以下この条において「施行日」という。）における活性化法第九条の規定による廃止前の小規模企業者等設備導入資金助成法（昭和三十一年法律第百十五号）第三条第一項の小規模企業者等設備導入資金貸付事業に係る国からの貸付金の未貸付額に係るものについては平成二十八年八月三十一日までに、施行日後において支払を受けた当該事業に係る貸付金の償還金に係るものについてはその支払を受けた償還金に係る歳入の所属年度の翌年度の八月三十一日までに行わなければならない。
+        </article_item>
+      </articles>
+    </section>
+  </body>
+</law>

@@ -399,6 +399,12 @@
               <go_item number="三">
                 紛争の経過
               </go_item>
+              <go_item number="四">
+                申請の年月日
+              </go_item>
+              <go_item number="五">
+                前各号に掲げるもののほか、処理方策の提示を行うについて参考となる事項
+              </go_item>
             </go>
           </article_item>
         </articles>
