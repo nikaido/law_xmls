@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <law xmlns="http://law.2nx.info/xml_law">
   <head>
-    <title>平成二十七年度における高齢者の医療の確保に関する法律による前期高齢者交付金の額の算定に係る率及び割合を定める政令</title>
+    <title>平成二十七年度における高齢者の医療の確保に関する法律による前期高齢者交付金及び前期高齢者納付金の額の算定に係る率及び割合を定める政令</title>
     <defined>平成二十七年三月二十七日政令第百十八号</defined>
+    <updated>平成二七年五月二九日政令第二四四号</updated>
   </head>
   <body>
     <preamble>
@@ -18,6 +19,11 @@
     <articles number="第二条" title="（前期高齢者加入率の下限割合）">
       <article_item number="第二条">
         平成二十七年度における法第三十四条第四項の政令で定める割合は、百分の一とする。
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（負担調整基準率）">
+      <article_item number="第三条">
+        平成二十七年度における法第三十八条第四項の政令で定める率は、百分の五十一とする。
       </article_item>
     </articles>
   </body>

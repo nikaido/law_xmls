@@ -1224,10 +1224,10 @@
                 法第百十五条第一項第一号の率として定めることができる率
               </td>
               <td>
-                Ｐ<SUB><FONT SIZE="-1">１</FONT></SUB>＋Ｑ<SUB><FONT SIZE="-1">１</FONT></SUB>×（Ａ÷Ｂ）
+                Ｐ<sub>１</sub>＋Ｑ<sub>１</sub>×（Ａ÷Ｂ）
               </td>
               <td>
-                Ｐ<SUB><FONT SIZE="-1">１</FONT></SUB>＋Ｑ<SUB><FONT SIZE="-1">１</FONT></SUB>×（１−Ｕ）
+                Ｐ<sub>１</sub>＋Ｑ<sub>１</sub>×（１－Ｕ）
               </td>
             </tr>
             <tr>
@@ -1235,10 +1235,10 @@
                 法第百十五条第一項第二号の率として定めることができる率
               </td>
               <td>
-                Ｒ<SUB><FONT SIZE="-1">１</FONT></SUB>×（Ａ÷Ｂ）
+                Ｒ<sub>１</sub>×（Ａ÷Ｂ）
               </td>
               <td>
-                Ｒ<SUB><FONT SIZE="-1">１</FONT></SUB>×（１−Ｕ）
+                Ｒ<sub>１</sub>×（１－Ｕ）
               </td>
             </tr>
             <tr>
@@ -1246,10 +1246,10 @@
                 法第百十五条第一項第三号の率として定めることができる率
               </td>
               <td>
-                Ｓ<SUB><FONT SIZE="-1">１</FONT></SUB>＋Ｔ<SUB><FONT SIZE="-1">１</FONT></SUB>×（Ａ÷Ｂ）
+                Ｓ<sub>１</sub>＋Ｔ<sub>１</sub>×（Ａ÷Ｂ）
               </td>
               <td>
-                Ｓ<SUB><FONT SIZE="-1">１</FONT></SUB>＋Ｔ<SUB><FONT SIZE="-1">１</FONT></SUB>×（１−Ｕ）
+                Ｓ<sub>１</sub>＋Ｔ<sub>１</sub>×（１－Ｕ）
               </td>
             </tr>
             <tr>
@@ -1257,10 +1257,10 @@
                 法第百十五条第七項第一号の率として定めることができる率
               </td>
               <td>
-                Ｐ<SUB><FONT SIZE="-1">２</FONT></SUB>＋Ｑ<SUB><FONT SIZE="-1">２</FONT></SUB>×（Ａ÷Ｂ）
+                Ｐ<sub>２</sub>＋Ｑ<sub>２</sub>×（Ａ÷Ｂ）
               </td>
               <td>
-                Ｐ<SUB><FONT SIZE="-1">２</FONT></SUB>＋Ｑ<SUB><FONT SIZE="-1">２</FONT></SUB>×（１−Ｕ）
+                Ｐ<sub>２</sub>＋Ｑ<sub>２</sub>×（１－Ｕ）
               </td>
             </tr>
             <tr>
@@ -1268,10 +1268,10 @@
                 法第百十五条第七項第二号の率として定めることができる率
               </td>
               <td>
-                Ｒ<SUB><FONT SIZE="-1">２</FONT></SUB>×（Ａ÷Ｂ）
+                Ｒ<sub>２</sub>×（Ａ÷Ｂ）
               </td>
               <td>
-                Ｒ<SUB><FONT SIZE="-1">２</FONT></SUB>×（１−Ｕ）
+                Ｒ<sub>２</sub>×（１－Ｕ）
               </td>
             </tr>
             <tr>
@@ -1279,13 +1279,13 @@
                 法第百十五条第七項第三号の率として定めることができる率
               </td>
               <td>
-                Ｓ<SUB><FONT SIZE="-1">２</FONT></SUB>＋Ｔ<SUB><FONT SIZE="-1">２</FONT></SUB>×（Ａ÷Ｂ）
+                Ｓ<sub>２</sub>＋Ｔ<sub>２</sub>×（Ａ÷Ｂ）
               </td>
               <td>
-                Ｓ<SUB><FONT SIZE="-1">２</FONT></SUB>＋Ｔ<SUB><FONT SIZE="-1">２</FONT></SUB>×（１−Ｕ）
+                Ｓ<sub>２</sub>＋Ｔ<sub>２</sub>×（１－Ｕ）
               </td>
             </tr>
-          </table><br/>　　Ｐ<SUB><FONT SIZE="-1">１</FONT></SUB>は、法第百十五条第一項第一号に規定する率のうち死亡及び廃用による損害に対応する部分<br/>Ｑ<SUB><FONT SIZE="-1">１</FONT></SUB>は、法第百十五条第一項第一号に規定する率からＰ<SUB><FONT SIZE="-1">１</FONT></SUB>を差し引いたもの<br/>Ａは、法第百十五条第十項の農林水産大臣の定める金額<br/>Ｂは、当該家畜共済の共済金額<br/>Ｕは、当該区域内に住所を有する組合員等の診療施設の利用度を考慮して農林水産大臣が定める率<br/>Ｒ<SUB><FONT SIZE="-1">１</FONT></SUB>は、法第百十五条第一項第二号に規定する率<br/>Ｓ<SUB><FONT SIZE="-1">１</FONT></SUB>は、法第百十五条第一項第三号に規定する率のうち死亡及び廃用による損害に対応する部分<br/>Ｔ<SUB><FONT SIZE="-1">１</FONT></SUB>は、法第百十五条第一項第三号に規定する率からＳ<SUB><FONT SIZE="-1">１</FONT></SUB>を差し引いたもの<br/>Ｐ<SUB><FONT SIZE="-1">２</FONT></SUB>は、法第百十五条第七項第一号に規定する率のうち死亡及び廃用による損害に対応する部分<br/>Ｑ<SUB><FONT SIZE="-1">２</FONT></SUB>は、法第百十五条第七項第一号に規定する率からＰ<SUB><FONT SIZE="-1">２</FONT></SUB>を差し引いたもの<br/>Ｒ<SUB><FONT SIZE="-1">２</FONT></SUB>は、法第百十五条第七項第二号に規定する率<br/>Ｓ<SUB><FONT SIZE="-1">２</FONT></SUB>は、法第百十五条第七項第三号に規定する率のうち死亡及び廃用による損害に対応する部分<br/>Ｔ<SUB><FONT SIZE="-1">２</FONT></SUB>は、法第百十五条第七項第三号に規定する率からＳ<SUB><FONT SIZE="-1">２</FONT></SUB>を差し引いたもの
+          </table><br/>　　Ｐ<sub>１</sub>は、法第百十五条第一項第一号に規定する率のうち死亡及び廃用による損害に対応する部分<br/>Ｑ<sub>１</sub>は、法第百十五条第一項第一号に規定する率からＰ<sub>１</sub>を差し引いたもの<br/>Ａは、法第百十五条第十項の農林水産大臣の定める金額<br/>Ｂは、当該家畜共済の共済金額<br/>Ｕは、当該区域内に住所を有する組合員等の診療施設の利用度を考慮して農林水産大臣が定める率<br/>Ｒ<sub>１</sub>は、法第百十五条第一項第二号に規定する率<br/>Ｓ<sub>１</sub>は、法第百十五条第一項第三号に規定する率のうち死亡及び廃用による損害に対応する部分<br/>Ｔ<sub>１</sub>は、法第百十五条第一項第三号に規定する率からＳ<sub>１</sub>を差し引いたもの<br/>Ｐ<sub>２</sub>は、法第百十五条第七項第一号に規定する率のうち死亡及び廃用による損害に対応する部分<br/>Ｑ<sub>２</sub>は、法第百十五条第七項第一号に規定する率からＰ<sub>２</sub>を差し引いたもの<br/>Ｒ<sub>２</sub>は、法第百十五条第七項第二号に規定する率<br/>Ｓ<sub>２</sub>は、法第百十五条第七項第三号に規定する率のうち死亡及び廃用による損害に対応する部分<br/>Ｔ<sub>２</sub>は、法第百十五条第七項第三号に規定する率からＳ<sub>２</sub>を差し引いたもの
         </article_item>
       </articles>
       <articles number="第三十一条の二">

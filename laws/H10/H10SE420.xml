@@ -143,6 +143,19 @@
         </go>
       </article_item>
     </articles>
+    <articles number="第一条の四" title="（三種病原体等の結核菌が耐性を有する薬剤）">
+      <article_item number="第一条の四">
+        法第六条第二十二項第二号の政令で定める薬剤は、第一号に掲げる薬剤及び第二号に掲げる薬剤とする。
+        <go>
+          <go_item number="一">
+            オフロキサシン、ガチフロキサシン、シプロフロキサシン、スパルフロキサシン、モキシフロキサシン又はレボフロキサシン
+          </go_item>
+          <go_item number="二">
+            アミカシン、カナマイシン又はカプレオマイシン
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
     <articles number="第二条" title="（三種病原体等）">
       <article_item number="第二条">
         法第六条第二十二項第四号の政令で定める病原体等は、次に掲げるものとする。

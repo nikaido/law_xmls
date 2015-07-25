@@ -66,13 +66,13 @@
               貯蔵能力　貯蔵設備に貯蔵することができる液化石油ガスの数量であつて、貯蔵設備が貯槽（バルク貯槽を除く。）である場合にあつては次のイの算式により、バルク貯槽については次のロの算式（地盤面下に設置するものであつて、内容積が二千リットル以上のものにあつては次のイの算式）により、容器である場合にあつては次のハの算式により得られたもの
               <go>
                 <go_item number="イ">
-                  Ｗ＝Ｃ<SUB><FONT SIZE="-1">１</FONT></SUB>ｗＶ
+                  Ｗ＝Ｃ<sub>１</sub>ｗＶ
                 </go_item>
                 <go_item number="ロ">
                   Ｗ＝０．８５ｗＶ
                 </go_item>
                 <go_item number="ハ">
-                  Ｗ＝Ｖ÷Ｃ<SUB><FONT SIZE="-1">２</FONT></SUB><br/>　　　　これらの式において、Ｗ、Ｃ<SUB><FONT SIZE="-1">１</FONT></SUB>、ｗ、Ｖ及びＣ<SUB><FONT SIZE="-1">２</FONT></SUB>は、それぞれ次の数値を表すものとする。<br/>Ｗ　貯蔵設備の貯蔵能力（単位　キログラム）の数値<br/>Ｃ<SUB><FONT SIZE="-1">１</FONT></SUB>　〇・九（低温貯槽にあつては、その内容積に対する液化ガスの貯蔵が可能な部分の容積の比の値）<br/>ｗ　貯槽の常用の温度における液化石油ガスの比重（単位　キログラム毎リットル）の数値<br/>Ｖ　貯蔵設備の内容積（単位　リットル）の数値<br/>Ｃ<SUB><FONT SIZE="-1">２</FONT></SUB>　容器保安規則（昭和四十一年通商産業省令第五十号）第二十二条に規定する数値
+                  Ｗ＝Ｖ÷Ｃ<sub>２</sub><br/>　　　　これらの式において、Ｗ、Ｃ<sub>１</sub>、ｗ、Ｖ及びＣ<sub>２</sub>は、それぞれ次の数値を表すものとする。<br/>Ｗ　貯蔵設備の貯蔵能力（単位　キログラム）の数値<br/>Ｃ<sub>１</sub>　〇・九（低温貯槽にあつては、その内容積に対する液化ガスの貯蔵が可能な部分の容積の比の値）<br/>ｗ　貯槽の常用の温度における液化石油ガスの比重（単位　キログラム毎リットル）の数値<br/>Ｖ　貯蔵設備の内容積（単位　リットル）の数値<br/>Ｃ<sub>２</sub>　容器保安規則（昭和四十一年通商産業省令第五十号）第二十二条に規定する数値
                 </go_item>
               </go>
             </go_item>
@@ -101,10 +101,10 @@
               減圧設備　高圧ガスを高圧ガスでないガスにする設備
             </go_item>
             <go_item number="十五">
-              処理能力　処理設備又は減圧設備の処理容積（圧縮、液化その他の方法で一日に処理することができるガスの容積（温度零度、圧力零パスカルの状態に換算したものをいう。以下同じ。）をいう。以下同じ。）であつて、次のイからヘまでに掲げる処理設備又は減圧設備の区分に応じ、それぞれ当該イからヘまでに掲げるところにより得られたもの<br/>　　イ　ポンプ　<COMPOSE>Ｑ<SUB><FONT SIZE="-1">１</FONT></SUB></COMPOSE>＝<COMPOSE>Ｗ<SUB><FONT SIZE="-1">１</FONT></SUB></COMPOSE>×２４×ρ×２２．４／Ｍ<br/>ロ　圧縮機　<COMPOSE>Ｑ<SUB><FONT SIZE="-1">２</FONT></SUB></COMPOSE>＝<COMPOSE>Ｗ<SUB><FONT SIZE="-1">２</FONT></SUB></COMPOSE>×２４<br/>ハ　蒸発器　<COMPOSE>Ｑ<SUB><FONT SIZE="-1">３</FONT></SUB></COMPOSE>＝<COMPOSE>Ｗ<SUB><FONT SIZE="-1">３</FONT></SUB></COMPOSE>×２４×２２．４／Ｍ<br/>ニ　凝縮器　<COMPOSE>Ｑ<SUB><FONT SIZE="-1">４</FONT></SUB></COMPOSE>＝<COMPOSE>Ｗ<SUB><FONT SIZE="-1">４</FONT></SUB></COMPOSE>×２４×２２．４／Ｍ<br/>ホ　その他処理設備<br/>　　　（イ）　内部冷却器付貯槽　<COMPOSE>Ｑ<SUB><FONT SIZE="-1">５</FONT></SUB></COMPOSE>＝<COMPOSE>Ｖ<SUB><FONT SIZE="-1">５</FONT></SUB></COMPOSE>×１０<COMPOSE>Ｐ<SUB><FONT SIZE="-1">５</FONT></SUB></COMPOSE><br/>（ロ）　加圧蒸発器付低温貯槽<br/>　　　　○１　気化ガスを取り出す場合　<COMPOSE>Ｑ<SUB><FONT SIZE="-1">６</FONT></SUB></COMPOSE>＝<COMPOSE>Ｗ<SUB><FONT SIZE="-1">６</FONT></SUB></COMPOSE>／（２２．４／Ｍ×ρ×１０００）×（１０<COMPOSE>Ｐ<SUB><FONT SIZE="-1">６</FONT></SUB></COMPOSE>＋１）×２４<br/>○２　液化ガスを取り出す場合　<COMPOSE>Ｑ<SUB><FONT SIZE="-1">６</FONT></SUB></COMPOSE>＝<COMPOSE>ｑ<SUB><FONT SIZE="-1">６</FONT></SUB></COMPOSE>×（１０<COMPOSE>Ｐ<SUB><FONT SIZE="-1">６</FONT></SUB></COMPOSE>＋１）×２４<br/>（ハ）　液化石油ガススタンドの加圧蒸発器付貯槽　Ｑ<SUB><FONT SIZE="-1">７</FONT></SUB>＝（１０Ｐ<SUB><FONT SIZE="-1">７</FONT></SUB>＋１）×Ｃ×Ｖ<SUB><FONT SIZE="-1">７</FONT></SUB><br/>　　　（ニ）　加圧蒸発器付容器　<COMPOSE>Ｑ<SUB><FONT SIZE="-1">８</FONT></SUB></COMPOSE>＝（１０<COMPOSE>Ｐ<SUB><FONT SIZE="-1">８</FONT></SUB></COMPOSE>＋１）×０．９<COMPOSE>Ｖ<SUB><FONT SIZE="-1">８</FONT></SUB></COMPOSE><br/>（ホ）　処理設備である減圧弁　<COMPOSE>Ｑ<SUB><FONT SIZE="-1">９</FONT></SUB></COMPOSE>＝０<br/>　　ヘ　減圧設備　<COMPOSE>Ｑ<SUB><FONT SIZE="-1">１０</FONT></SUB></COMPOSE>＝<COMPOSE>ｑ<SUB><FONT SIZE="-1">１０</FONT></SUB></COMPOSE><br/>　備考　これらの式において、<COMPOSE>Ｑ<SUB><FONT SIZE="-1">１</FONT></SUB></COMPOSE>、<COMPOSE>Ｗ<SUB><FONT SIZE="-1">１</FONT></SUB></COMPOSE>、ρ、Ｍ、<COMPOSE>Ｑ<SUB><FONT SIZE="-1">２</FONT></SUB></COMPOSE>、<COMPOSE>Ｗ<SUB><FONT SIZE="-1">２</FONT></SUB></COMPOSE>、<COMPOSE>Ｑ<SUB><FONT SIZE="-1">３</FONT></SUB></COMPOSE>、<COMPOSE>Ｗ<SUB><FONT SIZE="-1">３</FONT></SUB></COMPOSE>、<COMPOSE>Ｑ<SUB><FONT SIZE="-1">４</FONT></SUB></COMPOSE>、<COMPOSE>Ｗ<SUB><FONT SIZE="-1">４</FONT></SUB></COMPOSE>、<COMPOSE>Ｑ<SUB><FONT SIZE="-1">５</FONT></SUB></COMPOSE>、<COMPOSE>Ｖ<SUB><FONT SIZE="-1">５</FONT></SUB></COMPOSE>、<COMPOSE>Ｐ<SUB><FONT SIZE="-1">５</FONT></SUB></COMPOSE>、<COMPOSE>Ｑ<SUB><FONT SIZE="-1">６</FONT></SUB></COMPOSE>、<COMPOSE>Ｗ<SUB><FONT SIZE="-1">６</FONT></SUB></COMPOSE>、<COMPOSE>Ｐ<SUB><FONT SIZE="-1">６</FONT></SUB></COMPOSE>、<COMPOSE>ｑ<SUB><FONT SIZE="-1">６</FONT></SUB></COMPOSE>、<COMPOSE>Ｑ<SUB><FONT SIZE="-1">７</FONT></SUB></COMPOSE>、<COMPOSE>Ｐ<SUB><FONT SIZE="-1">７</FONT></SUB></COMPOSE>、Ｃ、<COMPOSE>Ｖ<SUB><FONT SIZE="-1">７</FONT></SUB></COMPOSE>、<COMPOSE>Ｑ<SUB><FONT SIZE="-1">８</FONT></SUB></COMPOSE>、Ｐ<SUB><FONT SIZE="-1">８</FONT></SUB>、Ｖ<SUB><FONT SIZE="-1">８</FONT></SUB>、<COMPOSE>Ｑ<SUB><FONT SIZE="-1">９</FONT></SUB></COMPOSE>、Ｑ<SUB><FONT SIZE="-1">１０</FONT></SUB>及び<COMPOSE>ｑ<SUB><FONT SIZE="-1">１０</FONT></SUB></COMPOSE>は、それぞれ次の数値を表すものとする。<br/>　　<COMPOSE>Ｑ<SUB><FONT SIZE="-1">１</FONT></SUB></COMPOSE>　ポンプの処理能力の数値（単位　立方メートル毎日）<br/><COMPOSE>Ｗ<SUB><FONT SIZE="-1">１</FONT></SUB></COMPOSE>　ポンプの能力の数値（ポンプの能力は、ポンプの性能曲線における最大稼働した場合の吐出量の値とする。）（単位　リットル毎時）<br/>ρ　液密度の数値（液密度は、常用の温度の範囲において最大となる値とする。）（単位　キログラム毎リットル）<br/>Ｍ　分子量の数値<br/><COMPOSE>Ｑ<SUB><FONT SIZE="-1">２</FONT></SUB></COMPOSE>　圧縮機の処理能力の数値（単位　立方メートル毎日）<br/><COMPOSE>Ｗ<SUB><FONT SIZE="-1">２</FONT></SUB></COMPOSE>　圧縮機の能力の数値（圧縮機の能力は、圧縮機の性能曲線における最大稼働した場合の吐出量の値とする。）（単位　立方メートル毎時）<br/><COMPOSE>Ｑ<SUB><FONT SIZE="-1">３</FONT></SUB></COMPOSE>　蒸発器の処理能力の数値（単位　立方メートル毎日）<br/><COMPOSE>Ｗ<SUB><FONT SIZE="-1">３</FONT></SUB></COMPOSE>　蒸発器の公称能力の数値（単位　キログラム毎時）<br/><COMPOSE>Ｑ<SUB><FONT SIZE="-1">４</FONT></SUB></COMPOSE>　凝縮器の処理能力の数値（単位　立方メートル毎日）<br/><COMPOSE>Ｗ<SUB><FONT SIZE="-1">４</FONT></SUB></COMPOSE>　凝縮器の公称能力の数値（単位　キログラム毎時）<br/><COMPOSE>Ｑ<SUB><FONT SIZE="-1">５</FONT></SUB></COMPOSE>　内部冷却器付貯槽の処理能力の数値（単位　立方メートル毎日）<br/><COMPOSE>Ｖ<SUB><FONT SIZE="-1">５</FONT></SUB></COMPOSE>　内部冷却器付貯槽の内容積の数値（単位　立方メートル）<br/><COMPOSE>Ｐ<SUB><FONT SIZE="-1">５</FONT></SUB></COMPOSE>　内部冷却器付貯槽の最高圧縮圧力の数値（単位　メガパスカル）<br/><COMPOSE>Ｑ<SUB><FONT SIZE="-1">６</FONT></SUB></COMPOSE>　加圧蒸発器付低温貯槽の処理能力の数値（単位　立方メートル毎日）<br/><COMPOSE>Ｗ<SUB><FONT SIZE="-1">６</FONT></SUB></COMPOSE>　高圧ガスの取り出し部に接続される送ガス用蒸発器の公称能力の数値（単位　立方メートル毎時）<br/><COMPOSE>Ｐ<SUB><FONT SIZE="-1">６</FONT></SUB></COMPOSE>　加圧蒸発器付低温貯槽の最高圧縮圧力の数値（単位　メガパスカル）<br/><COMPOSE>ｑ<SUB><FONT SIZE="-1">６</FONT></SUB></COMPOSE>　高圧ガスの最大充てん量の数値（単位　立方メートル毎時）<br/>Ｑ<SUB><FONT SIZE="-1">７</FONT></SUB>　液化石油ガススタンドの加圧蒸発器付貯槽の処理能力の数値（単位　立方メートル毎日）<br/>Ｐ<SUB><FONT SIZE="-1">７</FONT></SUB>　液化石油ガススタンドの加圧蒸発器の常用の圧力の数値（単位　メガパスカル）<br/>Ｃ　〇・九（バルク貯槽にあつては〇・八五）<br/>Ｖ<SUB><FONT SIZE="-1">７</FONT></SUB>　貯槽及びこれに接続する貯槽又は容器のそれぞれの内容積を合算した数値（単位　立方メートル）<br/><COMPOSE>Ｑ<SUB><FONT SIZE="-1">８</FONT></SUB></COMPOSE>　加圧蒸発器付容器の処理能力の数値（単位　立方メートル毎日）<br/>図　（略）<br/><COMPOSE>Ｐ<SUB><FONT SIZE="-1">８</FONT></SUB></COMPOSE>　加圧蒸発器の常用の圧力の数値（単位　メガパスカル）<br/><COMPOSE>Ｖ<SUB><FONT SIZE="-1">８</FONT></SUB></COMPOSE>　容器の内容積の数値（液化石油ガススタンドにあつては、容器及びこれに接続する貯槽又は他の容器のそれぞれの内容積を合算した数値）（単位　立方メートル）<br/><COMPOSE>Ｑ<SUB><FONT SIZE="-1">９</FONT></SUB></COMPOSE>　処理設備である減圧弁の処理能力の数値（単位　立方メートル毎日）<br/><COMPOSE>Ｑ<SUB><FONT SIZE="-1">１０</FONT></SUB></COMPOSE>　減圧設備の処理能力の数値（単位　立方メートル毎日）<br/><COMPOSE>ｑ<SUB><FONT SIZE="-1">１０</FONT></SUB></COMPOSE>　当該減圧設備に係る高圧ガスの流入量の数値（単位　立方メートル毎日）
+              処理能力　処理設備又は減圧設備の処理容積（圧縮、液化その他の方法で一日に処理することができるガスの容積（温度零度、圧力零パスカルの状態に換算したものをいう。以下同じ。）をいう。以下同じ。）であつて、次のイからヘまでに掲げる処理設備又は減圧設備の区分に応じ、それぞれ当該イからヘまでに掲げるところにより得られたもの<br/>　　イ　ポンプ　Ｑ<sub>１</sub>＝Ｗ<sub>１</sub>×２４×ρ×２２．４／Ｍ<br/>ロ　圧縮機　Ｑ<sub>２</sub>＝Ｗ<sub>２</sub>×２４<br/>ハ　蒸発器　Ｑ<sub>３</sub>＝Ｗ<sub>３</sub>×２４×２２．４／Ｍ<br/>ニ　凝縮器　Ｑ<sub>４</sub>＝Ｗ<sub>４</sub>×２４×２２．４／Ｍ<br/>ホ　その他処理設備<br/>　　　（イ）　内部冷却器付貯槽　Ｑ<sub>５</sub>＝Ｖ<sub>５</sub>×１０Ｐ<sub>５</sub><br/>（ロ）　加圧蒸発器付低温貯槽<br/>　　　　○１　気化ガスを取り出す場合　Ｑ<sub>６</sub>＝Ｗ<sub>６</sub>／（２２．４／Ｍ×ρ×１０００）×（１０Ｐ<sub>６</sub>＋１）×２４<br/>○２　液化ガスを取り出す場合　Ｑ<sub>６</sub>＝ｑ<sub>６</sub>×（１０Ｐ<sub>６</sub>＋１）×２４<br/>（ハ）　液化石油ガススタンドの加圧蒸発器付貯槽　Ｑ<sub>７</sub>＝（１０Ｐ<sub>７</sub>＋１）×Ｃ×Ｖ<sub>７</sub><br/>　　　（ニ）　加圧蒸発器付容器　Ｑ<sub>８</sub>＝（１０Ｐ<sub>８</sub>＋１）×０．９Ｖ<sub>８</sub><br/>（ホ）　処理設備である減圧弁　Ｑ<sub>９</sub>＝０<br/>　　ヘ　減圧設備　Ｑ<sub>１０</sub>＝ｑ<sub>１０</sub><br/>　備考　これらの式において、Ｑ<sub>１</sub>、Ｗ<sub>１</sub>、ρ、Ｍ、Ｑ<sub>２</sub>、Ｗ<sub>２</sub>、Ｑ<sub>３</sub>、Ｗ<sub>３</sub>、Ｑ<sub>４</sub>、Ｗ<sub>４</sub>、Ｑ<sub>５</sub>、Ｖ<sub>５</sub>、Ｐ<sub>５</sub>、Ｑ<sub>６</sub>、Ｗ<sub>６</sub>、Ｐ<sub>６</sub>、ｑ<sub>６</sub>、Ｑ<sub>７</sub>、Ｐ<sub>７</sub>、Ｃ、Ｖ<sub>７</sub>、Ｑ<sub>８</sub>、Ｐ<sub>８</sub>、Ｖ<sub>８</sub>、Ｑ<sub>９</sub>、Ｑ<sub>１０</sub>及びｑ<sub>１０</sub>は、それぞれ次の数値を表すものとする。<br/>　　Ｑ<sub>１</sub>　ポンプの処理能力の数値（単位　立方メートル毎日）<br/>Ｗ<sub>１</sub>　ポンプの能力の数値（ポンプの能力は、ポンプの性能曲線における最大稼働した場合の吐出量の値とする。）（単位　リットル毎時）<br/>ρ　液密度の数値（液密度は、常用の温度の範囲において最大となる値とする。）（単位　キログラム毎リットル）<br/>Ｍ　分子量の数値<br/>Ｑ<sub>２</sub>　圧縮機の処理能力の数値（単位　立方メートル毎日）<br/>Ｗ<sub>２</sub>　圧縮機の能力の数値（圧縮機の能力は、圧縮機の性能曲線における最大稼働した場合の吐出量の値とする。）（単位　立方メートル毎時）<br/>Ｑ<sub>３</sub>　蒸発器の処理能力の数値（単位　立方メートル毎日）<br/>Ｗ<sub>３</sub>　蒸発器の公称能力の数値（単位　キログラム毎時）<br/>Ｑ<sub>４</sub>　凝縮器の処理能力の数値（単位　立方メートル毎日）<br/>Ｗ<sub>４</sub>　凝縮器の公称能力の数値（単位　キログラム毎時）<br/>Ｑ<sub>５</sub>　内部冷却器付貯槽の処理能力の数値（単位　立方メートル毎日）<br/>Ｖ<sub>５</sub>　内部冷却器付貯槽の内容積の数値（単位　立方メートル）<br/>Ｐ<sub>５</sub>　内部冷却器付貯槽の最高圧縮圧力の数値（単位　メガパスカル）<br/>Ｑ<sub>６</sub>　加圧蒸発器付低温貯槽の処理能力の数値（単位　立方メートル毎日）<br/>Ｗ<sub>６</sub>　高圧ガスの取り出し部に接続される送ガス用蒸発器の公称能力の数値（単位　立方メートル毎時）<br/>Ｐ<sub>６</sub>　加圧蒸発器付低温貯槽の最高圧縮圧力の数値（単位　メガパスカル）<br/>ｑ<sub>６</sub>　高圧ガスの最大充てん量の数値（単位　立方メートル毎時）<br/>Ｑ<sub>７</sub>　液化石油ガススタンドの加圧蒸発器付貯槽の処理能力の数値（単位　立方メートル毎日）<br/>Ｐ<sub>７</sub>　液化石油ガススタンドの加圧蒸発器の常用の圧力の数値（単位　メガパスカル）<br/>Ｃ　〇・九（バルク貯槽にあつては〇・八五）<br/>Ｖ<sub>７</sub>　貯槽及びこれに接続する貯槽又は容器のそれぞれの内容積を合算した数値（単位　立方メートル）<br/>Ｑ<sub>８</sub>　加圧蒸発器付容器の処理能力の数値（単位　立方メートル毎日）<br/>図　（略）<br/>Ｐ<sub>８</sub>　加圧蒸発器の常用の圧力の数値（単位　メガパスカル）<br/>Ｖ<sub>８</sub>　容器の内容積の数値（液化石油ガススタンドにあつては、容器及びこれに接続する貯槽又は他の容器のそれぞれの内容積を合算した数値）（単位　立方メートル）<br/>Ｑ<sub>９</sub>　処理設備である減圧弁の処理能力の数値（単位　立方メートル毎日）<br/>Ｑ<sub>１０</sub>　減圧設備の処理能力の数値（単位　立方メートル毎日）<br/>ｑ<sub>１０</sub>　当該減圧設備に係る高圧ガスの流入量の数値（単位　立方メートル毎日）
             </go_item>
             <go_item number="十六">
-              第一種設備距離　次の図における貯蔵能力（単位　キログラム）に対応する距離（単位　メートル）であつて、Ｌ<SUB><FONT SIZE="-1">１</FONT></SUB>によつて表されるもの<br/><br/><br/><br/>　　備考<br/>　　　１　Ｘは、貯蔵能力（処理設備又は減圧設備にあつては、当該設備に接続する貯蔵設備の貯蔵能力をいう。単位　キログラム）を表すものとする。<br/>２　Ｌ<SUB><FONT SIZE="-1">１</FONT></SUB>、Ｌ<SUB><FONT SIZE="-1">２</FONT></SUB>、Ｌ<SUB><FONT SIZE="-1">３</FONT></SUB>、Ｌ<SUB><FONT SIZE="-1">４</FONT></SUB>、Ｌ<SUB><FONT SIZE="-1">５</FONT></SUB>及びＬ<SUB><FONT SIZE="-1">６</FONT></SUB>とＸとの関係は、それぞれ次の表のとおりとする。
+              第一種設備距離　次の図における貯蔵能力（単位　キログラム）に対応する距離（単位　メートル）であつて、Ｌ<sub>１</sub>によつて表されるもの<br/><br/><br/><br/>　　備考<br/>　　　１　Ｘは、貯蔵能力（処理設備又は減圧設備にあつては、当該設備に接続する貯蔵設備の貯蔵能力をいう。単位　キログラム）を表すものとする。<br/>２　Ｌ<sub>１</sub>、Ｌ<sub>２</sub>、Ｌ<sub>３</sub>、Ｌ<sub>４</sub>、Ｌ<sub>５</sub>及びＬ<sub>６</sub>とＸとの関係は、それぞれ次の表のとおりとする。
               <table>
                 <tr>
                   <td>
@@ -126,7 +126,7 @@
                 </tr>
                 <tr>
                   <td>
-                    Ｌ<SUB><FONT SIZE="-1">１</FONT></SUB>
+                    Ｌ<sub>１</sub>
                   </td>
                   <td>
                     １２√２
@@ -143,7 +143,7 @@
                 </tr>
                 <tr>
                   <td>
-                    Ｌ<SUB><FONT SIZE="-1">２</FONT></SUB>
+                    Ｌ<sub>２</sub>
                   </td>
                   <td>
                     ９．６√２
@@ -160,7 +160,7 @@
                 </tr>
                 <tr>
                   <td>
-                    Ｌ<SUB><FONT SIZE="-1">３</FONT></SUB>
+                    Ｌ<sub>３</sub>
                   </td>
                   <td>
                     ８．４√２
@@ -177,7 +177,7 @@
                 </tr>
                 <tr>
                   <td>
-                    Ｌ<SUB><FONT SIZE="-1">４</FONT></SUB>
+                    Ｌ<sub>４</sub>
                   </td>
                   <td>
                     ８√２
@@ -194,7 +194,7 @@
                 </tr>
                 <tr>
                   <td>
-                    Ｌ<SUB><FONT SIZE="-1">５</FONT></SUB>
+                    Ｌ<sub>５</sub>
                   </td>
                   <td>
                     ６．４√２
@@ -211,7 +211,7 @@
                 </tr>
                 <tr>
                   <td>
-                    Ｌ<SUB><FONT SIZE="-1">６</FONT></SUB>
+                    Ｌ<sub>６</sub>
                   </td>
                   <td>
                     ５．６√２
@@ -229,10 +229,10 @@
               </table>
             </go_item>
             <go_item number="十七">
-              第二種設備距離　前号の図における貯蔵能力（単位　キログラム）に対応する距離（単位　メートル）であつて、Ｌ<SUB><FONT SIZE="-1">４</FONT></SUB>によつて表されるもの
+              第二種設備距離　前号の図における貯蔵能力（単位　キログラム）に対応する距離（単位　メートル）であつて、Ｌ<sub>４</sub>によつて表されるもの
             </go_item>
             <go_item number="十八">
-              第一種置場距離　次の図における容器置場の面積（単位　平方メートル）に対応する距離（単位　メートル）であつて、ｌ<SUB><FONT SIZE="-1">１</FONT></SUB>によつて表されるもの<br/><br/><br/><br/>　　備考<br/>　　　１　ｘは、容器置場の面積（単位　平方メートル）を表すものとする。<br/>２　ｌ<SUB><FONT SIZE="-1">１</FONT></SUB>、ｌ<SUB><FONT SIZE="-1">２</FONT></SUB>、ｌ<SUB><FONT SIZE="-1">３</FONT></SUB>及びｌ<SUB><FONT SIZE="-1">４</FONT></SUB>とｘとの関係は、それぞれ次の表のとおりとする。
+              第一種置場距離　次の図における容器置場の面積（単位　平方メートル）に対応する距離（単位　メートル）であつて、ｌ<sub>１</sub>によつて表されるもの<br/><br/><br/><br/>　　備考<br/>　　　１　ｘは、容器置場の面積（単位　平方メートル）を表すものとする。<br/>２　ｌ<sub>１</sub>、ｌ<sub>２</sub>、ｌ<sub>３</sub>及びｌ<sub>４</sub>とｘとの関係は、それぞれ次の表のとおりとする。
               <table>
                 <tr>
                   <td>
@@ -252,7 +252,7 @@
                 </tr>
                 <tr>
                   <td>
-                    ｌ<SUB><FONT SIZE="-1">１</FONT></SUB>
+                    ｌ<sub>１</sub>
                   </td>
                   <td>
                     ９√２
@@ -266,7 +266,7 @@
                 </tr>
                 <tr>
                   <td>
-                    ｌ<SUB><FONT SIZE="-1">２</FONT></SUB>
+                    ｌ<sub>２</sub>
                   </td>
                   <td>
                     ６√２
@@ -280,7 +280,7 @@
                 </tr>
                 <tr>
                   <td>
-                    ｌ<SUB><FONT SIZE="-1">３</FONT></SUB>
+                    ｌ<sub>３</sub>
                   </td>
                   <td>
                     ０
@@ -294,7 +294,7 @@
                 </tr>
                 <tr>
                   <td>
-                    ｌ<SUB><FONT SIZE="-1">４</FONT></SUB>
+                    ｌ<sub>４</sub>
                   </td>
                   <td>
                     ０
@@ -309,7 +309,7 @@
               </table>
             </go_item>
             <go_item number="十九">
-              第二種置場距離　前号の図における容器置場の面積（単位　平方メートル）に対応する距離（単位　メートル）であつて、ｌ<SUB><FONT SIZE="-1">２</FONT></SUB>によつて表されるもの
+              第二種置場距離　前号の図における容器置場の面積（単位　平方メートル）に対応する距離（単位　メートル）であつて、ｌ<sub>２</sub>によつて表されるもの
             </go_item>
             <go_item number="二十">
               液化石油ガススタンド　液化石油ガスを燃料として使用する車両に固定した容器に当該液化石油ガスを直接充てんするための処理設備を有する定置式製造設備
@@ -412,9 +412,9 @@
                     <td>
                       貯蔵設備
                     </td>
-                    <td rowspan="2">Ｌ<SUB><FONT SIZE="-1">２</FONT></SUB>以上
+                    <td rowspan="2">Ｌ<sub>２</sub>以上
                     </td>
-                    <td rowspan="2">Ｌ<SUB><FONT SIZE="-1">６</FONT></SUB>以上　Ｌ<SUB><FONT SIZE="-1">５</FONT></SUB>未満
+                    <td rowspan="2">Ｌ<sub>６</sub>以上　Ｌ<sub>５</sub>未満
                     </td>
                   </tr>
                   <tr>
@@ -427,10 +427,10 @@
                       　（ロ）
                     </td>
                     <td>
-                      Ｌ<SUB><FONT SIZE="-1">３</FONT></SUB>以上　Ｌ<SUB><FONT SIZE="-1">２</FONT></SUB>未満
+                      Ｌ<sub>３</sub>以上　Ｌ<sub>２</sub>未満
                     </td>
                     <td>
-                      Ｌ<SUB><FONT SIZE="-1">６</FONT></SUB>以上
+                      Ｌ<sub>６</sub>以上
                     </td>
                   </tr>
                   <tr>
@@ -438,10 +438,10 @@
                       　（ハ）
                     </td>
                     <td>
-                      Ｌ<SUB><FONT SIZE="-1">１</FONT></SUB>以上
+                      Ｌ<sub>１</sub>以上
                     </td>
                     <td>
-                      Ｌ<SUB><FONT SIZE="-1">５</FONT></SUB>以上Ｌ<SUB><FONT SIZE="-1">４</FONT></SUB>未満
+                      Ｌ<sub>５</sub>以上Ｌ<sub>４</sub>未満
                     </td>
                   </tr>
                   <tr>
@@ -449,19 +449,19 @@
                       　（ニ）
                     </td>
                     <td>
-                      Ｌ<SUB><FONT SIZE="-1">２</FONT></SUB>以上　Ｌ<SUB><FONT SIZE="-1">１</FONT></SUB>未満
+                      Ｌ<sub>２</sub>以上　Ｌ<sub>１</sub>未満
                     </td>
                     <td>
-                      Ｌ<SUB><FONT SIZE="-1">５</FONT></SUB>以上
+                      Ｌ<sub>５</sub>以上
                     </td>
                   </tr>
                   <tr>
                     <td>
                       処理設備
                     </td>
-                    <td rowspan="2">Ｌ<SUB><FONT SIZE="-1">１</FONT></SUB>以上
+                    <td rowspan="2">Ｌ<sub>１</sub>以上
                     </td>
-                    <td rowspan="2">Ｌ<SUB><FONT SIZE="-1">５</FONT></SUB>以上　Ｌ<SUB><FONT SIZE="-1">４</FONT></SUB>未満
+                    <td rowspan="2">Ｌ<sub>５</sub>以上　Ｌ<sub>４</sub>未満
                     </td>
                   </tr>
                   <tr>
@@ -474,14 +474,14 @@
                       　（ロ）
                     </td>
                     <td>
-                      Ｌ<SUB><FONT SIZE="-1">２</FONT></SUB>以上　Ｌ<SUB><FONT SIZE="-1">１</FONT></SUB>未満
+                      Ｌ<sub>２</sub>以上　Ｌ<sub>１</sub>未満
                     </td>
                     <td>
-                      Ｌ<SUB><FONT SIZE="-1">５</FONT></SUB>以上
+                      Ｌ<sub>５</sub>以上
                     </td>
                   </tr>
                   <tr>
-                    <td colspan="3">備考　Ｌ<SUB><FONT SIZE="-1">１</FONT></SUB>、Ｌ<SUB><FONT SIZE="-1">２</FONT></SUB>、Ｌ<SUB><FONT SIZE="-1">３</FONT></SUB>、Ｌ<SUB><FONT SIZE="-1">４</FONT></SUB>、Ｌ<SUB><FONT SIZE="-1">５</FONT></SUB>及びＬ<SUB><FONT SIZE="-1">６</FONT></SUB>は、それぞれ第二条第一項第十六号に規定するＬ<SUB><FONT SIZE="-1">１</FONT></SUB>、Ｌ<SUB><FONT SIZE="-1">２</FONT></SUB>、Ｌ<SUB><FONT SIZE="-1">３</FONT></SUB>、Ｌ<SUB><FONT SIZE="-1">４</FONT></SUB>、Ｌ<SUB><FONT SIZE="-1">５</FONT></SUB>及びＬ<SUB><FONT SIZE="-1">６</FONT></SUB>を表すものとする。
+                    <td colspan="3">備考　Ｌ<sub>１</sub>、Ｌ<sub>２</sub>、Ｌ<sub>３</sub>、Ｌ<sub>４</sub>、Ｌ<sub>５</sub>及びＬ<sub>６</sub>は、それぞれ第二条第一項第十六号に規定するＬ<sub>１</sub>、Ｌ<sub>２</sub>、Ｌ<sub>３</sub>、Ｌ<sub>４</sub>、Ｌ<sub>５</sub>及びＬ<sub>６</sub>を表すものとする。
                     </td>
                   </tr>
                 </table>
