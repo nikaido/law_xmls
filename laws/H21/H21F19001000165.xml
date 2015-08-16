@@ -3,7 +3,7 @@
   <head>
     <title>日本年金機構の業務運営に関する省令</title>
     <defined>平成二十一年十二月二十八日厚生労働省令第百六十五号</defined>
-    <updated>平成二六年九月二九日厚生労働省令第一一一号</updated>
+    <updated>平成二七年六月二九日厚生労働省令第一一八号</updated>
   </head>
   <body>
     <preamble>
@@ -151,9 +151,6 @@
           </go_item>
           <go_item number="十八">
             国民年金の保険料に係る社会保険料控除の適正化を図るための事務
-          </go_item>
-          <go_item number="十九">
-            厚生年金保険法第二十八条又は国民年金法第十四条の規定により記録した事項の訂正又は当該訂正を行うための調査に関する事務
           </go_item>
         </go>
       </article_item>

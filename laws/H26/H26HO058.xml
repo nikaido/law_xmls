@@ -92,9 +92,9 @@
           前二項の規定にかかわらず、適当と認めるときは、居室（在院者が主として休息及び就寝のために使用する場所として少年院の長が指定する室をいう。以下同じ。）外に限り、前二項の別による分離をしないことができる。
         </article_item>
       </articles>
-      <articles number="第六条" title="（在院者の分離）">
+      <articles number="第六条" title="（実地監査）">
         <article_item number="第六条">
-          未施行
+          法務大臣は、この法律の適正な施行を期するため、その職員のうちから監査官を指名し、各少年院について、毎年一回以上、これに実地監査を行わせなければならない。
         </article_item>
       </articles>
       <articles number="第七条" title="（意見聴取）">
@@ -1696,9 +1696,18 @@
         </articles>
       </section>
       <section title="第二節　苦情の申出" type="Setsu">
-        <articles number="第百二十九条">
+        <articles number="第百二十九条" title="（監査官に対する苦情の申出）">
           <article_item number="第百二十九条">
-            未施行
+            在院者は、自己に対する少年院の長の措置その他自己が受けた処遇について、口頭又は書面で、第六条の規定により実地監査を行う監査官（以下この条及び第百三十一条第一項において単に「監査官」という。）に対し、苦情の申出をすることができる。
+          </article_item>
+          <article_item number="２">
+            第百二十二条の規定は、前項の苦情の申出について準用する。
+          </article_item>
+          <article_item number="３">
+            監査官は、口頭による苦情の申出を受けるに当たっては、少年院の職員を立ち会わせてはならない。
+          </article_item>
+          <article_item number="４">
+            監査官は、苦情の申出を受けたときは、これを誠実に処理し、処理の結果を苦情の申出をした者に通知しなければならない。ただし、その者が出院したときは、この限りでない。
           </article_item>
         </articles>
         <articles number="第百三十条" title="（少年院の長に対する苦情の申出）">

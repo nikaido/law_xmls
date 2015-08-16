@@ -3,7 +3,7 @@
   <head>
     <title>経済産業省組織規則</title>
     <defined>平成十三年一月六日経済産業省令第一号</defined>
-    <updated>平成二七年三月三一日経済産業省令第三一号</updated>
+    <updated>平成二七年六月三〇日経済産業省令第五二号</updated>
   </head>
   <body>
     <preamble>
@@ -355,7 +355,7 @@
               貿易振興課に、投資交流企画官一人を置く。
             </article_item>
             <article_item number="２">
-              投資交流企画官は、命を受けて、経済産業省の所掌に係る事業の海外事業活動及び経済産業省の所掌に係る事業に関する外国投資家の事業活動に関する企画及び立案に関する事務並びに関係事務に参画する。
+              投資交流企画官は、命を受けて、経済産業省の所掌に係る事業の海外事業活動及び経済産業省の所掌に係る事業に関する外国投資家の事業活動に関する企画及び立案に関する事務並びに関係事務に参画する（貿易管理部の所掌に属するものを除く。）。
             </article_item>
           </articles>
           <articles number="第十七条" title="（財務室及び経理審査官）">
@@ -682,6 +682,25 @@
             </article_item>
             <article_item number="２">
               輸入住宅振興官は、命を受けて、住宅の輸入の振興に関する事務を処理する。
+            </article_item>
+          </articles>
+          <articles number="第三十条の二" title="（ロボット政策室）">
+            <article_item number="第三十条の二">
+              産業機械課に、ロボット政策室を置く。
+            </article_item>
+            <article_item number="２">
+              ロボット政策室は、次に掲げる事務をつかさどる。
+              <go>
+                <go_item number="一">
+                  産業機械課の所掌事務に係る物資の輸出、輸入、生産、流通及び消費の増進、改善及び調整に関する事務のうちロボットに関すること。
+                </go_item>
+                <go_item number="二">
+                  経済産業省の所掌に係る事業の発達、改善及び調整に関する事務のうちロボットの利用に関するものの総括に関すること。
+                </go_item>
+              </go>
+            </article_item>
+            <article_item number="３">
+              ロボット政策室に、室長を置く。
             </article_item>
           </articles>
           <articles number="第三十一条" title="（宇宙産業室）">

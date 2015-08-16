@@ -85,9 +85,9 @@
             前項の規定にかかわらず、適当と認めるときは、居室（在所者が主として休息及び就寝のために使用する場所として少年鑑別所の長が指定する室をいう。以下同じ。）外に限り、同項第二号に掲げる別による分離をしないことができる。
           </article_item>
         </articles>
-        <articles number="第五条" title="（在所者の分離）">
+        <articles number="第五条" title="（実地監査）">
           <article_item number="第五条">
-            未施行
+            法務大臣は、この法律の適正な施行を期するため、その職員のうちから監査官を指名し、各少年鑑別所について、毎年一回以上、これに実地監査を行わせなければならない。
           </article_item>
         </articles>
         <articles number="第六条" title="（意見聴取）">
@@ -1656,9 +1656,18 @@
           </articles>
         </section>
         <section title="第二款　苦情の申出" type="Kan">
-          <articles number="第百十八条">
+          <articles number="第百十八条" title="（監査官に対する苦情の申出）">
             <article_item number="第百十八条">
-              未施行
+              在所者は、自己に対する少年鑑別所の長の措置その他自己が受けた観護処遇又は鑑別について、口頭又は書面で、第五条の規定により実地監査を行う監査官（以下この条及び第百二十条第一項において単に「監査官」という。）に対し、苦情の申出をすることができる。
+            </article_item>
+            <article_item number="２">
+              第百十一条の規定は、前項の苦情の申出について準用する。
+            </article_item>
+            <article_item number="３">
+              監査官は、口頭による苦情の申出を受けるに当たっては、少年鑑別所の職員を立ち会わせてはならない。
+            </article_item>
+            <article_item number="４">
+              監査官は、苦情の申出を受けたときは、これを誠実に処理し、処理の結果を苦情の申出をした者に通知しなければならない。ただし、その者が退所したときは、この限りでない。
             </article_item>
           </articles>
           <articles number="第百十九条" title="（少年鑑別所の長に対する苦情の申出）">

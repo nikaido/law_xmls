@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>入国審査官及び入国警備官の証票の様式に関する省令</title>
+    <defined>平成二十七年一月二十一日法務省令第三号</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        出入国管理及び難民認定法（昭和二十六年政令第三百十九号）第六十一条の五第三項の規定に基づき、入国審査官及び入国警備官の証票の様式に関する省令（昭和五十六年法務省令第六十三号）の全部を次のように改正する。
+      </p>
+    </preamble>
+    <articles number="第一条">
+      <article_item number="第一条">
+        入国審査官及び入国警備官がその職務を執行する場合に携帯する証票は、本体、身分証及び記章をもって一組とする。
+      </article_item>
+    </articles>
+    <articles number="第二条">
+      <article_item number="第二条">
+        証票の様式は、別図のとおりとする。
+      </article_item>
+    </articles>
+  </body>
+</law>

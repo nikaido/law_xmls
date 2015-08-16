@@ -3,7 +3,7 @@
   <head>
     <title>不動産登記規則</title>
     <defined>平成十七年二月十八日法務省令第十八号</defined>
-    <updated>平成二七年三月二七日法務省令第一〇号</updated>
+    <updated>平成二七年七月一日法務省令第三七号</updated>
   </head>
   <body>
     <preamble>
@@ -2667,7 +2667,7 @@
                   登記原因及びその日付
                 </go_item>
                 <go_item number="三">
-                  敷地権の登記原因及びその日付（法第七十六条第三項において準用する法第七十五条の場合を除く。）
+                  敷地権の登記原因及びその日付
                 </go_item>
               </go>
             </article_item>
