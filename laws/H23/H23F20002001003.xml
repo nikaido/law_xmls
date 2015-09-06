@@ -3,6 +3,7 @@
   <head>
     <title>精神障害者の保健及び福祉に関する科目を定める省令</title>
     <defined>平成二十三年八月五日文部科学省・厚生労働省令第三号</defined>
+    <updated>平成二七年七月九日文部科学省・厚生労働省令第五号</updated>
   </head>
   <body>
     <preamble>
@@ -139,6 +140,9 @@
       <article_item number="９">
         一の実習施設等における精神保健福祉援助実習について指導を行う実習指導者の数は、同時に指導を行う学生五人につき一人以上としなければならない。
       </article_item>
+      <article_item number="１０">
+        社会福祉に関する科目を定める省令（平成二十年文部科学省・厚生労働省令第三号）第一条第十六号又は第三条第十三号に規定する相談援助演習（次条において「相談援助演習」という。）を履修した者については、精神保健福祉援助演習（基礎）の履修を免除することができる。
+      </article_item>
     </articles>
     <articles number="第二条" title="（法第七条第二号の精神障害者の保健及び福祉に関する基礎科目）">
       <article_item number="第二条">
@@ -189,6 +193,9 @@
             精神保健福祉援助演習（基礎）
           </go_item>
         </go>
+      </article_item>
+      <article_item number="２">
+        相談援助演習を履修した者については、精神保健福祉援助演習（基礎）の履修を免除することができる。
       </article_item>
     </articles>
     <articles number="第三条" title="（実習演習科目の確認）">

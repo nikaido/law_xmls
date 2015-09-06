@@ -3,7 +3,7 @@
   <head>
     <title>道路運送車両の保安基準</title>
     <defined>昭和二十六年七月二十八日運輸省令第六十七号</defined>
-    <updated>平成二七年七月一日国土交通省令第五一号</updated>
+    <updated>平成二七年七月一〇日国土交通省令第五二号</updated>
   </head>
   <body>
     <preamble>
@@ -1867,7 +1867,10 @@
       </articles>
       <articles number="第六十七条" title="（基準の緩和）">
         <article_item number="第六十七条">
-          第五十六条第三項の規定は、原動機付自転車について準用する。
+          第五十五条の規定は、原動機付自転車（専ら道路（専ら自転車及び歩行者の一般交通の用に供する場所に限る。）の上を移動させることを目的として製作した特殊な構造を有するものに限る。）について準用する。
+        </article_item>
+        <article_item number="２">
+          第五十六条第三項の規定は、原動機付自転車について準用する。 
         </article_item>
       </articles>
       <articles number="第六十七条の二" title="（適用関係の整理）">

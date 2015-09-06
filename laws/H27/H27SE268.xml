@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>電気事業法等の一部を改正する法律附則第九条第一項の託送供給等約款の認可の申請の期限等を定める政令</title>
+    <defined>平成二十七年七月三日政令第二百六十八号</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、電気事業法等の一部を改正する法律（平成二十六年法律第七十二号）附則第九条第一項、第十条第一項及び第十一条第一項の規定に基づき、この政令を制定する。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（託送供給等約款の認可の申請の期限）">
+      <article_item number="第一条">
+        電気事業法等の一部を改正する法律附則第九条第一項の政令で定める日は、平成二十七年七月三十一日とする。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（最終保障供給に係る約款の届出及び離島供給に係る約款の届出の期限）">
+      <article_item number="第二条">
+        電気事業法等の一部を改正する法律附則第十条第一項及び第十一条第一項の政令で定める日は、平成二十七年十二月二十八日とする。
+      </article_item>
+    </articles>
+  </body>
+</law>

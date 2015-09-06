@@ -3,7 +3,7 @@
   <head>
     <title>農林水産省組織規則</title>
     <defined>平成十三年一月六日農林水産省令第一号</defined>
-    <updated>平成二七年五月二九日農林水産省令第五八号</updated>
+    <updated>平成二七年七月三一日農林水産省令第六六号</updated>
   </head>
   <body>
     <preamble>
@@ -4508,18 +4508,9 @@
                 削除
               </article_item>
             </articles>
-            <articles number="第二百五十二条" title="（津軽農業水利事務所）">
+            <articles number="第二百五十二条">
               <article_item number="第二百五十二条">
-                国営の小田川農業水利事業に関する事務を分掌させるため、東北農政局に、津軽農業水利事務所を置く。
-              </article_item>
-              <article_item number="２">
-                津軽農業水利事務所に、次の二課及び企画官二人を置く。<br/>　庶務課<br/>　工事課
-              </article_item>
-              <article_item number="３">
-                庶務課は人事、文書、会計、職員の福利厚生及び労務並びに他の所掌に属しない事務に関する事務を、工事課は工事の実施に関する調査並びに工事の実施及び検査に関する事務並びに農業用施設機械及び電気通信設備に関する事務をつかさどる。
-              </article_item>
-              <article_item number="４">
-                企画官は、命を受けて、事業の実施に関する専門の事項についての企画及び連絡調整に関する事務を行う。
+                削除
               </article_item>
             </articles>
             <articles number="第二百五十三条">
@@ -4702,14 +4693,40 @@
                 技術専門官は、命を受けて、開門工事、第一項の調査及び評価並びに同項の施設の操作及び保守に関する技術上の専門の事項についての連絡調整及び指導に関する事務を行う。
               </article_item>
             </articles>
-            <articles number="第二百六十五条">
+            <articles number="第二百六十五条" title="（津軽土地改良建設事務所）">
               <article_item number="第二百六十五条">
-                削除
+                国営の小田川農業水利事業、津軽北部二期農業水利事業及び十三湖農地防災事業に関する事務を分掌させるため、東北農政局に、津軽土地改良建設事務所を置く。
+              </article_item>
+              <article_item number="２">
+                津軽土地改良建設事務所に、次の二課並びに津軽北部二期農業水利事業建設所及び十三湖農地防災事業建設所並びに企画官二人を置く。<br/>　庶務課<br/>　工事課
+              </article_item>
+              <article_item number="３">
+                庶務課は人事、文書、会計、職員の福利厚生及び労務並びに他の所掌に属しない事務に関する事務を、工事課は小田川農業水利事業に係る工事の施行に関する事務をつかさどる。
+              </article_item>
+              <article_item number="４">
+                津軽北部二期農業水利事業建設所は、津軽北部二期農業水利事業に係る工事に伴う土地、工作物その他の物件及び権利の買収及び補償に関する事務並びに工事の施行に関する事務をつかさどる。
+              </article_item>
+              <article_item number="５">
+                十三湖農地防災事業建設所は、十三湖農地防災事業に係る工事に伴う土地、工作物その他の物件及び権利の買収及び補償に関する事務並びに工事の施行に関する事務をつかさどる。
+              </article_item>
+              <article_item number="６">
+                企画官は、命を受けて、事業の実施に関する専門の事項についての企画及び連絡調整に関する事務を行う。
               </article_item>
             </articles>
-            <articles number="第二百六十六条">
+            <articles number="第二百六十六条" title="（津軽土地改良建設事務所）">
               <article_item number="第二百六十六条">
-                削除
+                津軽北部二期農業水利事業建設所に、工事課を置く。
+              </article_item>
+              <article_item number="２">
+                工事課は、津軽北部二期農業水利事業に係る工事に伴う土地、工作物その他の物件及び権利の買収及び補償に関する事務並びに工事の施行に関する事務をつかさどる。
+              </article_item>
+            </articles>
+            <articles number="第二百六十六条の二" title="（津軽土地改良建設事務所）">
+              <article_item number="第二百六十六条の二">
+                十三湖農地防災事業建設所に、工事課を置く。
+              </article_item>
+              <article_item number="２">
+                工事課は、十三湖農地防災事業に係る工事に伴う土地、工作物その他の物件及び権利の買収及び補償に関する事務並びに工事の施行に関する事務をつかさどる。
               </article_item>
             </articles>
             <articles number="第二百六十七条" title="（北奥羽土地改良調査管理事務所）">
