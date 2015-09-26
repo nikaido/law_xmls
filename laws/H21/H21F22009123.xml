@@ -3,7 +3,7 @@
   <head>
     <title>人事院規則九－一二三（本府省業務調整手当） </title>
     <defined>平成二十一年二月二日人事院規則九－一二三</defined>
-    <updated>平成二七年四月一〇日人事院規則九－一二三－二二</updated>
+    <updated>平成二七年九月一日人事院規則九－一二三－二三</updated>
   </head>
   <body>
     <preamble>
@@ -377,9 +377,12 @@
                 農林水産技術会議事務局（筑波事務所を除く。）
               </go_item>
               <go_item number="オ">
-                国土交通政策研究所
+                電力取引監視等委員会事務局
               </go_item>
               <go_item number="ク">
+                国土交通政策研究所
+              </go_item>
+              <go_item number="ヤ">
                 海難審判所（地方海難審判所を除く。）
               </go_item>
             </go>

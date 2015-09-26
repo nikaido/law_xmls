@@ -3,7 +3,7 @@
   <head>
     <title>電気事業法施行規則</title>
     <defined>平成七年十月十八日通商産業省令第七十七号</defined>
-    <updated>平成二七年四月三〇日経済産業省令第四三号</updated>
+    <updated>平成二七年八月三一日経済産業省令第六三号</updated>
   </head>
   <body>
     <preamble>
@@ -1800,6 +1800,78 @@
         <articles number="第四十七条の三" title="（消費税等相当額の表示に係る手続の特例）">
           <article_item number="第四十七条の三">
             第二十三条、第二十四条、第二十四条の三、第二十四条の五、第二十六条、第二十六条の三、第二十七条、第二十八条、第三十二条の三、第三十四条、第三十六条、第四十条、第四十二条の四及び第四十三条の規定に基づき申請書又は届出書を提出しようとする場合であって、消費税等相当額又はその額に係る表示若しくは請求の方法の変更をしようとするときは、これらの規定に掲げるもののほか、消費税等相当額並びにその額に係る表示及び請求の方法に関する説明書を提出しなければならない。
+          </article_item>
+        </articles>
+      </section>
+      <section title="第三節　あっせん及び仲裁" type="Setsu">
+        <articles number="第四十七条の三の二" title="（あっせん及び仲裁に関する通知の方法）">
+          <article_item number="第四十七条の三の二">
+            令第二条の四、第二条の五第二項、第二条の七第二項及び第二条の八（これらの規定を令第二条の九第二項において準用する場合を含む。）並びに第二条の九第一項の規定による通知は、書面により行うものとする。
+          </article_item>
+          <article_item number="２">
+            令第二条の四第一項の規定による通知をする場合には、同項の申請に係る申請書の写しを併せて送付しなければならない。
+          </article_item>
+        </articles>
+        <articles number="第四十七条の三の三" title="（名簿の記載事項）">
+          <article_item number="第四十七条の三の三">
+            令第二条の六の名簿には、次に掲げる事項を記載するものとする。
+            <go>
+              <go_item number="一">
+                氏名及び職業
+              </go_item>
+              <go_item number="二">
+                経歴
+              </go_item>
+              <go_item number="三">
+                任命及び任期満了の年月日
+              </go_item>
+            </go>
+          </article_item>
+        </articles>
+        <articles number="第四十七条の三の四" title="（あっせん及び仲裁の状況の報告）">
+          <article_item number="第四十七条の三の四">
+            令第二条の十二の規定による報告は、国の会計年度の経過後一月以内に、当該会計年度中における次に掲げる事項についてするものとする。
+            <go>
+              <go_item number="一">
+                あっせん及び仲裁の申請件数
+              </go_item>
+              <go_item number="二">
+                あっせんをしないものとした事件及びあっせんを打ち切った事件の件数
+              </go_item>
+              <go_item number="三">
+                あっせんにより解決した事件の件数
+              </go_item>
+              <go_item number="四">
+                仲裁判断をした事件の件数
+              </go_item>
+              <go_item number="五">
+                その他電力取引監視等委員会（以下「委員会」という。）の事務に関し重要な事項
+              </go_item>
+            </go>
+          </article_item>
+        </articles>
+        <articles number="第四十七条の三の五" title="（あっせんの申請）">
+          <article_item number="第四十七条の三の五">
+            法第三十七条の二第一項の規定によるあっせんの申請をしようとする者は、様式第四十の二の申請書を委員会に提出しなければならない。
+          </article_item>
+          <article_item number="２">
+            証拠となるものがある場合においては、それを前項の申請書に添えて提出しなければならない。
+          </article_item>
+        </articles>
+        <articles number="第四十七条の三の六" title="（仲裁の申請）">
+          <article_item number="第四十七条の三の六">
+            法第三十七条の三第一項の規定による仲裁の申請をしようとする者は、様式第四十の三の申請書を委員会に提出しなければならない。
+          </article_item>
+          <article_item number="２">
+            証拠となるものがある場合においては、それを前項の申請書に添えて提出しなければならない。
+          </article_item>
+          <article_item number="３">
+            紛争が生じた場合に法による仲裁に付する旨の合意を証する書面がある場合においては、それを第一項の申請書に添えて提出しなければならない。
+          </article_item>
+        </articles>
+        <articles number="第四十七条の三の七" title="（申請の方法）">
+          <article_item number="第四十七条の三の七">
+            法第三十七条の二第一項の規定によるあっせん又は第三十七条の三第一項の規定による仲裁の申請をしようとする者は、当該申請を当該者の住所を管轄する経済産業局長又は沖縄総合事務局長を経由して行うことができる。
           </article_item>
         </articles>
       </section>

@@ -3,6 +3,7 @@
   <head>
     <title>国家戦略特別区域を定める政令</title>
     <defined>平成二十六年五月一日政令第百七十八号</defined>
+    <updated>平成二七年八月二八日政令第三〇四号</updated>
   </head>
   <body>
     <preamble>
@@ -15,21 +16,30 @@
         国家戦略特別区域法第二条第一項の政令で定める区域は、次に掲げる区域とする。
         <go>
           <go_item number="一">
-            千葉県成田市、東京都千代田区、中央区、港区、新宿区、文京区、江東区、品川区、大田区及び渋谷区並びに神奈川県の区域
+            宮城県仙台市の区域
           </go_item>
           <go_item number="二">
-            新潟県新潟市の区域
+            秋田県仙北市の区域
           </go_item>
           <go_item number="三">
-            京都府、大阪府及び兵庫県の区域
+            千葉県成田市、東京都及び神奈川県の区域
           </go_item>
           <go_item number="四">
-            兵庫県養父市の区域
+            新潟県新潟市の区域
           </go_item>
           <go_item number="五">
-            福岡県福岡市の区域
+            愛知県の区域
           </go_item>
           <go_item number="六">
+            京都府、大阪府及び兵庫県の区域
+          </go_item>
+          <go_item number="七">
+            兵庫県養父市の区域
+          </go_item>
+          <go_item number="八">
+            福岡県福岡市の区域
+          </go_item>
+          <go_item number="九">
             沖縄県の区域
           </go_item>
         </go>
