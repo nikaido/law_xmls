@@ -3,7 +3,7 @@
   <head>
     <title>国土交通省組織規則</title>
     <defined>平成十三年一月六日国土交通省令第一号</defined>
-    <updated>平成二七年八月二五日国土交通省令第六四号</updated>
+    <updated>平成二七年九月三〇日国土交通省令第七二号</updated>
   </head>
   <body>
     <preamble>
@@ -1038,17 +1038,11 @@
           </articles>
         </section>
         <section title="第四款　土地・建設産業局" type="Kan">
-          <articles number="第四十二条" title="（調整室及び公共用地室並びに企画官、用地企画官及び用地調整官）">
+          <articles number="第四十二条" title="（公共用地室並びに企画官、用地企画官及び用地調整官）">
             <article_item number="第四十二条">
-              総務課に、調整室及び公共用地室並びに企画官、用地企画官及び用地調整官それぞれ一人を置く。
+              総務課に、公共用地室並びに企画官、用地企画官及び用地調整官それぞれ一人を置く。
             </article_item>
             <article_item number="２">
-              調整室は、土地・建設産業局の所掌事務に関する総合調整に関する事務のうち特に重要な個別事項についての調整に関する事務をつかさどる。
-            </article_item>
-            <article_item number="３">
-              調整室に、室長を置く。
-            </article_item>
-            <article_item number="４">
               公共用地室は、次に掲げる事務をつかさどる。
               <go>
                 <go_item number="一">
@@ -1068,13 +1062,13 @@
                 </go_item>
               </go>
             </article_item>
-            <article_item number="５">
+            <article_item number="３">
               公共用地室に、室長を置く。
             </article_item>
-            <article_item number="６">
+            <article_item number="４">
               企画官は、命を受けて、総務課の所掌事務に関する重要事項についての企画及び立案並びに調整に関する事務に参画する。
             </article_item>
-            <article_item number="７">
+            <article_item number="５">
               用地企画官は、命を受けて、次に掲げる事務をつかさどる。
               <go>
                 <go_item number="一">
@@ -1085,10 +1079,10 @@
                 </go_item>
               </go>
             </article_item>
-            <article_item number="８">
+            <article_item number="６">
               用地調整官は、命を受けて、直轄事業に必要な公共用地の取得に関する事務に関する特定事項についての調整及び指導に関する事務をつかさどる。
             </article_item>
-            <article_item number="９">
+            <article_item number="７">
               用地調整官は、関係のある他の職を占める者をもって充てられるものとする。
             </article_item>
           </articles>
@@ -2084,9 +2078,9 @@
               企画官は、命を受けて、道路局の所掌事務に関する法令案に関する重要事項についての企画及び立案並びに調整に関する事務をつかさどる。
             </article_item>
           </articles>
-          <articles number="第六十七条" title="（車両通行対策室及び高度道路交通システム推進室並びに道路管理企画官）">
+          <articles number="第六十七条" title="（車両通行対策室及び高度道路交通システム推進室）">
             <article_item number="第六十七条">
-              道路交通管理課に、車両通行対策室及び高度道路交通システム推進室並びに道路管理企画官一人を置く。
+              道路交通管理課に、車両通行対策室及び高度道路交通システム推進室を置く。
             </article_item>
             <article_item number="２">
               車両通行対策室は、車両の通行の規制に関する事務をつかさどる。
@@ -2099,17 +2093,6 @@
             </article_item>
             <article_item number="５">
               高度道路交通システム推進室に、室長を置く。
-            </article_item>
-            <article_item number="６">
-              道路管理企画官は、命を受けて、次に掲げる事務をつかさどる。
-              <go>
-                <go_item number="一">
-                  道路の整備等に関する事務のうち、道路の交通の管理に係るものに関する重要事項に関する企画及び立案、調整並びに指導に関すること（車両通行対策室の所掌に属するものを除く。）。
-                </go_item>
-                <go_item number="二">
-                  交通安全施設等整備事業の推進に関する法律（昭和四十一年法律第四十五号）第三条第一項の規定による道路の指定に関すること。
-                </go_item>
-              </go>
             </article_item>
           </articles>
           <articles number="第六十八条" title="（国際室、道路経済調査室及び道路事業分析評価室並びに道路事業調整官及び道路計画調整官）">
@@ -2804,9 +2787,9 @@
               自動車認定協定対策官は、車両等の認定に係る国際協定に関する国際機関及び外国の行政機関その他の外国の関係者との連絡調整に関する事務をつかさどる。
             </article_item>
           </articles>
-          <articles number="第九十条" title="（自動車登録管理室及びワンストップサービス推進企画調整官）">
+          <articles number="第九十条" title="（自動車登録管理室並びに自動車情報活用推進官及びワンストップサービス推進企画調整官）">
             <article_item number="第九十条">
-              自動車情報課に、自動車登録管理室及びワンストップサービス推進企画調整官一人を置く。
+              自動車情報課に、自動車登録管理室並びに自動車情報活用推進官及びワンストップサービス推進企画調整官それぞれ一人を置く。
             </article_item>
             <article_item number="２">
               自動車登録管理室は、自動車の登録に係る電子情報処理組織の管理及び運用に関する事務をつかさどる。
@@ -2815,6 +2798,9 @@
               自動車登録管理室に、室長を置く。
             </article_item>
             <article_item number="４">
+              自動車情報活用推進官は、命を受けて、自動車情報課の所掌事務のうち自動車情報の活用の推進に関する特定事項についての企画及び立案並びに関係行政機関その他の関係者との連絡調整に関する事務をつかさどる。
+            </article_item>
+            <article_item number="５">
               ワンストップサービス推進企画調整官は、自動車の保有に伴い必要となる手続のワンストップサービス化の推進に関する企画及び立案並びに関係行政機関その他の関係者との連絡調整に関する事務をつかさどる。
             </article_item>
           </articles>
@@ -4446,7 +4432,7 @@
         <section title="第十六款　その他" type="Kan">
           <articles number="第百四十条" title="（企画専門官）">
             <article_item number="第百四十条">
-              国土交通省の本省の局及び課に、企画専門官百六十三人以内を置く。 
+              国土交通省の本省の局及び課に、企画専門官百六十五人以内を置く。 
             </article_item>
             <article_item number="２">
               企画専門官は、命を受けて、国土交通省の所掌事務に関する専門の行政事務をつかさどる。

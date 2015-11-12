@@ -3,7 +3,7 @@
   <head>
     <title>航空総隊司令部、航空支援集団司令部、航空教育集団司令部、航空開発実験集団司令部、航空方面隊司令部、航空混成団司令部及び航空団司令部組織規則</title>
     <defined>平成元年三月十六日総理府令第十号</defined>
-    <updated>平成二六年七月三一日防衛省令第一一号</updated>
+    <updated>平成二七年一〇月一日防衛省令第一八号</updated>
   </head>
   <body>
     <preamble>
@@ -429,7 +429,7 @@
               隊員の給与の実施基準に関すること。
             </go_item>
             <go_item number="七">
-              隊員の教育訓練に関すること（防衛課、運用第一課、運用第二課及び技術教育課の所掌に属するものを除く。）。
+              隊員の教育訓練に関すること（防衛課、運用課及び技術教育課の所掌に属するものを除く。）。
             </go_item>
           </go>
         </article_item>
@@ -457,7 +457,7 @@
       </articles>
       <articles number="第二十八条" title="（防衛部の分課）">
         <article_item number="第二十八条">
-          防衛部に、次の五課を置く。<br/>防衛課<br/>運用第一課<br/>運用第二課<br/>通信電子課<br/>技術教育課<br/>
+          防衛部に、次の四課を置く。<br/>　防衛課<br/>　運用課<br/>　通信電子課<br/>　技術教育課
         </article_item>
       </articles>
       <articles number="第二十九条" title="（防衛課）">
@@ -491,51 +491,37 @@
           </go>
         </article_item>
       </articles>
-      <articles number="第二十九条の二" title="（運用第一課）">
+      <articles number="第二十九条の二" title="（運用課）">
         <article_item number="第二十九条の二">
-          運用第一課においては、次の事務をつかさどる。
+          運用課においては、次の事務をつかさどる。
           <go>
             <go_item number="一">
-              部隊の運用に関すること（運用第二課の所掌に属するものを除く。）。
+              部隊の運用に関すること。
             </go_item>
             <go_item number="二">
-              部隊訓練の実施計画に関すること（運用第二課の所掌に属するものを除く。）。
+              部隊訓練の実施計画に関すること。
             </go_item>
             <go_item number="三">
-              航空機の搭乗員の技能訓練の計画に関すること。
+              航空機の搭乗員及び航空交通管制業務に従事する者の技能訓練の計画に関すること。
             </go_item>
             <go_item number="四">
-              航空機の運航に関すること（運用第二課の所掌に属するものを除く。）。
-            </go_item>
-          </go>
-        </article_item>
-      </articles>
-      <articles number="第二十九条の三" title="（運用第二課）">
-        <article_item number="第二十九条の三">
-          運用第二課においては、次の事務をつかさどる。
-          <go>
-            <go_item number="一">
-              航空管制関係、気象関係及び飛行点検関係の部隊の運用に関すること。
-            </go_item>
-            <go_item number="二">
-              航空管制関係、気象関係及び飛行点検関係の部隊の部隊訓練の実施計画に関すること。
-            </go_item>
-            <go_item number="三">
-              飛行点検に係る航空機の運航に関すること。
-            </go_item>
-            <go_item number="四">
-              航空管制に関すること。
+              航空機の運航に関すること。
             </go_item>
             <go_item number="五">
-              航空気象に関すること。
+              航空管制に関すること。
             </go_item>
             <go_item number="六">
-              航空交通管制業務に従事する者の技能訓練の計画に関すること。
+              航空気象に関すること。
             </go_item>
             <go_item number="七">
               航空気象に関する技術指導に関すること。
             </go_item>
           </go>
+        </article_item>
+      </articles>
+      <articles number="第二十九条の三">
+        <article_item number="第二十九条の三">
+          削除
         </article_item>
       </articles>
       <articles number="第二十九条の四" title="（通信電子課）">

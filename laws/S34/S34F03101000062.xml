@@ -3,7 +3,7 @@
   <head>
     <title>方面総監部、師団司令部、旅団司令部及び中央即応集団司令部組織規則</title>
     <defined>昭和三十四年十二月二十一日総理府令第六十二号</defined>
-    <updated>平成二六年三月二四日防衛省令第四号</updated>
+    <updated>平成二七年一〇月一日防衛省令第一八号</updated>
   </head>
   <body>
     <preamble>
@@ -872,10 +872,10 @@
     <section title="第三章　中央即応集団司令部" type="Sho">
       <articles number="第五十条" title="（幕僚長）">
         <article_item number="第五十条">
-          幕僚長は、中央即応集団司令官の命を受け、部長、課長、報道官、医務官、監察官及び法務官の職務を統制する。
+          幕僚長は、中央即応集団司令官の命を受け、部長、課長、報道官、医務官及び法務官の職務を統制する。
         </article_item>
         <article_item number="２">
-          幕僚長は、予算の統制、隊務の能率的運営その他中央即応集団司令官から命ぜられた事務を行う。
+          幕僚長は、予算の統制、部隊の監察に関する事務、隊務の能率的運営その他中央即応集団司令官から命ぜられた事務を行う。
         </article_item>
       </articles>
       <articles number="第五十一条" title="（幕僚副長）">
@@ -1181,19 +1181,8 @@
           </go>
         </article_item>
       </articles>
-      <articles number="第六十六条" title="（監察官）">
+      <articles number="第六十六条" title="（法務官）">
         <article_item number="第六十六条">
-          中央即応集団司令部に、監察官一人を置く。
-        </article_item>
-        <article_item number="２">
-          監察官は、陸上自衛官をもつて充てる。
-        </article_item>
-        <article_item number="３">
-          監察官は、中央即応集団司令官の命を受け、部隊の監察に関する事務を行う。
-        </article_item>
-      </articles>
-      <articles number="第六十七条" title="（法務官）">
-        <article_item number="第六十七条">
           中央即応集団司令部に、法務官一人を置く。
         </article_item>
         <article_item number="２">
@@ -1203,8 +1192,8 @@
           法務官は、中央即応集団司令官の命を受け、懲戒に関する法令の適用の指導に関する事務、訴訟に関する事務、例規案その他特に命ぜられた重要な文書の審査に関する事務並びに法令の調査及び研究に関する事務を行う。
         </article_item>
       </articles>
-      <articles number="第六十八条" title="（幕僚幹事）">
-        <article_item number="第六十八条">
+      <articles number="第六十七条" title="（幕僚幹事）">
+        <article_item number="第六十七条">
           中央即応集団司令部に、幕僚幹事を置く。
         </article_item>
         <article_item number="２">
@@ -1214,8 +1203,8 @@
           幕僚幹事は、幕僚長の行う第五十条に規定する事務について補佐し、かつ、幕僚長の命を受け、事務管理の改善、報告統制その他幕僚長から命ぜられた事務を行う。
         </article_item>
       </articles>
-      <articles number="第六十九条" title="（副官）">
-        <article_item number="第六十九条">
+      <articles number="第六十八条" title="（副官）">
+        <article_item number="第六十八条">
           中央即応集団司令部に、所要の副官を置く。
         </article_item>
         <article_item number="２">
@@ -1225,15 +1214,15 @@
           副官は、中央即応集団司令官又は中央即応集団副司令官の庶務をつかさどる。
         </article_item>
       </articles>
-      <articles number="第七十条" title="（補職の特例）">
-        <article_item number="第七十条">
+      <articles number="第六十九条" title="（補職の特例）">
+        <article_item number="第六十九条">
           幕僚副長の職については、陸将補又は二等陸佐をもつて充てることができる。
         </article_item>
       </articles>
     </section>
     <section title="第四章　雑則" type="Sho">
-      <articles number="第七十一条" title="（雑則）">
-        <article_item number="第七十一条">
+      <articles number="第七十条" title="（雑則）">
+        <article_item number="第七十条">
           この省令に定めるもののほか、方面総監部、師団司令部、旅団司令部及び中央即応集団司令部の内部組織に関し必要な事項は、防衛大臣が定める。
         </article_item>
       </articles>

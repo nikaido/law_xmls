@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>防衛装備庁施設等機関組織規則</title>
+    <defined>平成二十七年十月一日防衛省令第十五号</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        防衛省組織令（昭和二十九年政令第百七十八号）第二百十四条第三項、第二百十五条第二項、第二百十六条第三項、第二百十七条第三項、第二百十八条第二項、第二百二十条第二項、第二百二十一条第二項及び第二百二十二条第二項の規定に基づき、並びに防衛省設置法（昭和二十九年法律第百六十四号）及び防衛省組織令を実施するため、防衛装備庁施設等機関組織規則を次のように定める。
+      </p>
+    </preamble>
+    <section title="第一章　施設等機関" type="Sho">
+      <section title="第一節　航空装備研究所" type="Setsu">
+        <articles number="第一条" title="（位置）">
+          <article_item number="第一条">
+            航空装備研究所は、立川市に置く。
+          </article_item>
+        </articles>
+        <articles number="第二条" title="（所長）">
+          <article_item number="第二条">
+            航空装備研究所に、所長を置く。
+          </article_item>
+          <article_item number="２">
+            所長は、航空装備研究所の業務を掌理する。
+          </article_item>
+        </articles>
+        <articles number="第三条" title="（研究企画官）">
+          <article_item number="第三条">
+            航空装備研究所に、研究企画官一人を置く。
+          </article_item>
+          <article_item number="２">
+            研究企画官は、命を受けて、航空装備研究所の所掌業務のうち重要な技術的事項を総括整理する。
+          </article_item>
+        </articles>
+        <articles number="第四条" title="（航空装備研究所に置く部）">
+          <article_item number="第四条">
+            航空装備研究所に、次の四部を置く。<br/>　管理部<br/>　システム研究部<br/>　航空機技術研究部<br/>　誘導武器技術研究部
+          </article_item>
+        </articles>
+        <articles number="第五条" title="（管理部の分課）">
+          <article_item number="第五条">
+            管理部に、次の二課を置く。<br/>　総務課<br/>　会計課
+          </article_item>
+        </articles>
+        <articles number="第六条" title="（総務課の所掌事務）">
+          <article_item number="第六条">
+            総務課は、次に掲げる事務をつかさどる。
+            <go>
+              <go_item number="一">
+                機密に関すること。
+              </go_item>
+              <go_item number="二">
+                所長の官印及び研究所印の保管に関すること。
+              </go_item>
+              <go_item number="三">
+                公文書の接受、発送、編集及び保存に関すること。
+              </go_item>
+              <go_item number="四">
+                職員の人事、教養及び給与に関すること。
+              </go_item>
+              <go_item number="五">
+                職員の福利厚生に関すること。
+              </go_item>
+              <go_item number="六">
+                秘密の保全に関すること。
+              </go_item>
+              <go_item number="七">
+                所内の事務の総括に関すること。
+              </go_item>
+              <go_item number="八">
+                前各号に掲げるもののほか、航空装備研究所の所掌事務で他の所掌に属しない事項に関すること。
+              </go_item>
+            </go>
+          </article_item>
+        </articles>
+        <articles number="第七条" title="（会計課の所掌事務）">
+          <article_item number="第七条">
+            会計課は、次に掲げる事務をつかさどる。
+            <go>
+              <go_item number="一">
+                経費及び収入の予算、決算及び会計に関すること。
+              </go_item>
+              <go_item number="二">
+                行政財産の管理並びに物品の取得及び管理に関すること。
+              </go_item>
+            </go>
+          </article_item>
+        </articles>
+        <articles number="第八条" title="（システム研究部の所掌業務）">
+          <article_item number="第八条">
+            システム研究部は、次に掲げる事項についての考案、調査研究及び試験並びに規格に関する資料の作成に関する業務をつかさどる。
+            <go>
+              <go_item number="一">
+                航空機のシステム化に関すること。
+              </go_item>
+              <go_item number="二">
+                航空機用機器のシステム化に関すること。
+              </go_item>
+              <go_item number="三">
+                誘導武器のシステム化に関すること。
+              </go_item>
+              <go_item number="四">
+                前三号に掲げるもののほか、所長の命ずる事項に関すること。
+              </go_item>
+            </go>
+          </article_item>
+        </articles>
+        <articles number="第九条" title="（航空機技術研究部の所掌業務）">
+          <article_item number="第九条">
+            航空機技術研究部は、次に掲げる事項についての考案、調査研究及び試験並びに規格に関する資料の作成に関する業務をつかさどる。
+            <go>
+              <go_item number="一">
+                航空機及び誘導武器の要素技術（装備品等（防衛省設置法第四条第十三号の装備品等をいう。以下同じ。）のシステム化に必要な要素となる技術をいう。以下同じ。）であって機体に関すること。
+              </go_item>
+              <go_item number="二">
+                航空機の要素技術であってぎ装に関すること。
+              </go_item>
+              <go_item number="三">
+                航空機用機器の要素技術に関すること。
+              </go_item>
+              <go_item number="四">
+                前三号に掲げるもののほか、所長の命ずる事項に関すること。
+              </go_item>
+            </go>
+          </article_item>
+        </articles>
+        <articles number="第十条" title="（誘導武器技術研究部の所掌業務）">
+          <article_item number="第十条">
+            誘導武器技術研究部は、次に掲げる事項についての考案、調査研究及び試験並びに規格に関する資料の作成に関する業務をつかさどる。
+            <go>
+              <go_item number="一">
+                誘導武器用機器に関すること。
+              </go_item>
+              <go_item number="二">
+                誘導武器の要素技術であって誘導管制に関すること。
+              </go_item>
+              <go_item number="三">
+                前二号に掲げるもののほか、所長の命ずる事項に関すること。
+              </go_item>
+            </go>
+          </article_item>
+        </articles>
+        <articles number="第十一条" title="（支所）">
+          <article_item number="第十一条">
+            航空装備研究所に、支所を置く。
+          </article_item>
+          <article_item number="２">
+            支所の名称及び位置は、次の表のとおりとする。
+            <table>
+              <tr>
+                <td>
+                  名称
+                </td>
+                <td>
+                  位置
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  土浦支所
+                </td>
+                <td>
+                  茨城県稲敷郡阿見町
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  新島支所
+                </td>
+                <td>
+                  東京都新島村
+                </td>
+              </tr>
+            </table>
+          </article_item>
+          <article_item number="３">
+            土浦支所は、誘導武器の要素技術についての試験に関する業務のうち防衛装備庁長官の命ずるものをつかさどる。
+          </article_item>
+          <article_item number="４">
+            新島支所は、誘導武器についての試験に関する業務のうち防衛装備庁長官の命ずるものをつかさどる。
+          </article_item>
+          <article_item number="５">
+            支所に、支所長を置く。
+          </article_item>
+        </articles>
+      </section>
+      <section title="第二節　陸上装備研究所" type="Setsu">
+        <articles number="第十二条" title="（位置）">
+          <article_item number="第十二条">
+            陸上装備研究所は、相模原市に置く。
+          </article_item>
+        </articles>
+        <articles number="第十三条" title="（所長）">
+          <article_item number="第十三条">
+            陸上装備研究所に、所長を置く。
+          </article_item>
+          <article_item number="２">
+            所長は、陸上装備研究所の業務を掌理する。
+          </article_item>
+        </articles>
+        <articles number="第十四条" title="（研究企画官）">
+          <article_item number="第十四条">
+            陸上装備研究所に、研究企画官一人を置く。
+          </article_item>
+          <article_item number="２">
+            研究企画官は、命を受けて、陸上装備研究所の所掌業務のうち重要な技術的事項を総括整理する。
+          </article_item>
+        </articles>
+        <articles number="第十五条" title="（陸上装備研究所に置く部）">
+          <article_item number="第十五条">
+            陸上装備研究所に、総務課のほか、次の三部を置く。<br/>　システム研究部<br/>　弾道技術研究部<br/>　機動技術研究部
+          </article_item>
+        </articles>
+        <articles number="第十六条" title="（総務課の所掌事務）">
+          <article_item number="第十六条">
+            総務課は、次に掲げる事務をつかさどる。
+            <go>
+              <go_item number="一">
+                機密に関すること。
+              </go_item>
+              <go_item number="二">
+                所長の官印及び研究所印の保管に関すること。
+              </go_item>
+              <go_item number="三">
+                公文書の接受、発送、編集及び保存に関すること。
+              </go_item>
+              <go_item number="四">
+                職員の人事、教養及び給与に関すること。
+              </go_item>
+              <go_item number="五">
+                職員の福利厚生に関すること。
+              </go_item>
+              <go_item number="六">
+                経費及び収入の予算、決算及び会計に関すること。
+              </go_item>
+              <go_item number="七">
+                行政財産の管理並びに物品の取得及び管理に関すること。
+              </go_item>
+              <go_item number="八">
+                秘密の保全に関すること。
+              </go_item>
+              <go_item number="九">
+                所内の事務の総括に関すること。
+              </go_item>
+              <go_item number="十">
+                前各号に掲げるもののほか、陸上装備研究所の所掌事務で他の所掌に属しない事項に関すること。
+              </go_item>
+            </go>
+          </article_item>
+        </articles>
+        <articles number="第十七条" title="（システム研究部の所掌業務）">
+          <article_item number="第十七条">
+            システム研究部は、次に掲げる事項についての考案、調査研究及び試験並びに規格に関する資料の作成に関する業務をつかさどる。
+            <go>
+              <go_item number="一">
+                火器及び弾火薬類のシステム化に関すること。
+              </go_item>
+              <go_item number="二">
+                施設器材のシステム化に関すること。
+              </go_item>
+              <go_item number="三">
+                車両のシステム化に関すること。
+              </go_item>
+              <go_item number="四">
+                前三号に掲げるもののほか、所長の命ずる事項に関すること。
+              </go_item>
+            </go>
+          </article_item>
+        </articles>
+        <articles number="第十八条" title="（弾道技術研究部の所掌業務）">
+          <article_item number="第十八条">
+            弾道技術研究部は、次に掲げる事項についての考案、調査研究及び試験並びに規格に関する資料の作成に関する業務をつかさどる。
+            <go>
+              <go_item number="一">
+                火器及び弾火薬類の要素技術に関すること。
+              </go_item>
+              <go_item number="二">
+                装備品等の耐弾材料及び耐弾構造に関すること。
+              </go_item>
+              <go_item number="三">
+                前二号に掲げるもののほか、所長の命ずる事項に関すること。
+              </go_item>
+            </go>
+          </article_item>
+        </articles>
+        <articles number="第十九条" title="（機動技術研究部の所掌業務）">
+          <article_item number="第十九条">
+            機動技術研究部は、次に掲げる事項についての考案、調査研究及び試験並びに規格に関する資料の作成に関する業務をつかさどる。
+            <go>
+              <go_item number="一">
+                施設器材の要素技術に関すること。
+              </go_item>
+              <go_item number="二">
+                車両の要素技術に関すること。
+              </go_item>
+              <go_item number="三">
+                車両用機器に関すること。
+              </go_item>
+              <go_item number="四">
+                前三号に掲げるもののほか、所長の命ずる事項に関すること。
+              </go_item>
+            </go>
+          </article_item>
+        </articles>
+      </section>
+      <section title="第三節　艦艇装備研究所" type="Setsu">
+        <articles number="第二十条" title="（位置）">
+          <article_item number="第二十条">
+            艦艇装備研究所は、東京都目黒区に置く。
+          </article_item>
+        </articles>
+        <articles number="第二十一条" title="（所長）">
+          <article_item number="第二十一条">
+            艦艇装備研究所に、所長を置く。
+          </article_item>
+          <article_item number="２">
+            所長は、艦艇装備研究所の業務を掌理する。
+          </article_item>
+        </articles>
+        <articles number="第二十二条" title="（研究企画官）">
+          <article_item number="第二十二条">
+            艦艇装備研究所に、研究企画官一人を置く。
+          </article_item>
+          <article_item number="２">
+            研究企画官は、命を受けて、艦艇装備研究所の所掌業務のうち重要な技術的事項を総括整理する。
+          </article_item>
+        </articles>
+        <articles number="第二十三条" title="（艦艇装備研究所に置く部）">
+          <article_item number="第二十三条">
+            艦艇装備研究所に、総務課のほか、次の三部を置く。<br/>　システム研究部<br/>　航走技術研究部<br/>　探知技術研究部
+          </article_item>
+        </articles>
+        <articles number="第二十四条" title="（総務課の所掌事務）">
+          <article_item number="第二十四条">
+            総務課は、次に掲げる事務をつかさどる。
+            <go>
+              <go_item number="一">
+                機密に関すること。
+              </go_item>
+              <go_item number="二">
+                所長の官印及び研究所印の保管に関すること。
+              </go_item>
+              <go_item number="三">
+                公文書の接受、発送、編集及び保存に関すること。
+              </go_item>
+              <go_item number="四">
+                職員の人事、教養及び給与に関すること。
+              </go_item>
+              <go_item number="五">
+                職員の福利厚生に関すること。
+              </go_item>
+              <go_item number="六">
+                経費及び収入の予算、決算及び会計に関すること。
+              </go_item>
+              <go_item number="七">
+                行政財産の管理並びに物品の取得及び管理に関すること。
+              </go_item>
+              <go_item number="八">
+                秘密の保全に関すること。
+              </go_item>
+              <go_item number="九">
+                所内の事務の総括に関すること。
+              </go_item>
+              <go_item number="十">
+                前各号に掲げるもののほか、艦艇装備研究所の所掌事務で他の所掌に属しない事項に関すること。
+              </go_item>
+            </go>
+          </article_item>
+        </articles>
+        <articles number="第二十五条" title="（システム研究部の所掌業務）">
+          <article_item number="第二十五条">
+            システム研究部は、次に掲げる事項についての考案、調査研究及び試験並びに規格に関する資料の作成に関する業務をつかさどる。
+            <go>
+              <go_item number="一">
+                船舶のシステム化に関すること。
+              </go_item>
+              <go_item number="二">
+                水中武器のシステム化に関すること。
+              </go_item>
+              <go_item number="三">
+                掃海器材のシステム化に関すること。
+              </go_item>
+              <go_item number="四">
+                前三号に掲げるもののほか、所長の命ずる事項に関すること。
+              </go_item>
+            </go>
+          </article_item>
+        </articles>
+        <articles number="第二十六条" title="（航走技術研究部の所掌業務）">
+          <article_item number="第二十六条">
+            航走技術研究部は、次に掲げる事項についての考案、調査研究及び試験並びに規格に関する資料の作成に関する業務をつかさどる。
+            <go>
+              <go_item number="一">
+                船舶、水中武器及び掃海器材の要素技術であって船体、雷体及び缶体に関すること。
+              </go_item>
+              <go_item number="二">
+                船舶の要素技術であってぎ装に関すること。
+              </go_item>
+              <go_item number="三">
+                水中武器及び掃海器材の推進装置に関すること。
+              </go_item>
+              <go_item number="四">
+                船舶用機器に関すること。
+              </go_item>
+              <go_item number="五">
+                前各号に掲げるもののほか、所長の命ずる事項に関すること。
+              </go_item>
+            </go>
+          </article_item>
+        </articles>
+        <articles number="第二十七条" title="（探知技術研究部の所掌業務）">
+          <article_item number="第二十七条">
+            探知技術研究部は、次に掲げる事項についての考案、調査研究及び試験並びに規格に関する資料の作成に関する業務をつかさどる。
+            <go>
+              <go_item number="一">
+                水中武器の要素技術に関すること（航走技術研究部の所掌に属するものを除く。）。
+              </go_item>
+              <go_item number="二">
+                掃海器材の要素技術に関すること（航走技術研究部の所掌に属するものを除く。）。
+              </go_item>
+              <go_item number="三">
+                音響器材に関すること。
+              </go_item>
+              <go_item number="四">
+                磁気器材に関すること。
+              </go_item>
+              <go_item number="五">
+                前各号に掲げるもののほか、所長の命ずる事項に関すること。
+              </go_item>
+            </go>
+          </article_item>
+        </articles>
+        <articles number="第二十八条" title="（支所）">
+          <article_item number="第二十八条">
+            艦艇装備研究所に、支所を置く。
+          </article_item>
+          <article_item number="２">
+            支所は、名称を川崎支所とし、川崎市に置く。
+          </article_item>
+          <article_item number="３">
+            支所は、磁気器材についての考案、調査研究及び試験並びに規格に関する資料の作成に関する業務のうち防衛装備庁長官の命ずるものをつかさどる。
+          </article_item>
+          <article_item number="４">
+            支所に、支所長を置く。
+          </article_item>
+        </articles>
+      </section>
+      <section title="第四節　電子装備研究所" type="Setsu">
+        <articles number="第二十九条" title="（位置）">
+          <article_item number="第二十九条">
+            電子装備研究所は、東京都世田谷区に置く。
+          </article_item>
+        </articles>
+        <articles number="第三十条" title="（所長）">
+          <article_item number="第三十条">
+            電子装備研究所に、所長を置く。
+          </article_item>
+          <article_item number="２">
+            所長は、電子装備研究所の業務を掌理する。
+          </article_item>
+        </articles>
+        <articles number="第三十一条" title="（研究企画官）">
+          <article_item number="第三十一条">
+            電子装備研究所に、研究企画官一人を置く。
+          </article_item>
+          <article_item number="２">
+            研究企画官は、命を受けて、電子装備研究所の所掌業務のうち重要な技術的事項を総括整理する。
+          </article_item>
+        </articles>
+        <articles number="第三十二条" title="（電子装備研究所に置く部）">
+          <article_item number="第三十二条">
+            電子装備研究所に、総務課のほか、次の三部を置く。<br/>　情報通信研究部<br/>　センサ研究部<br/>　電子対処研究部
+          </article_item>
+        </articles>
+        <articles number="第三十三条" title="（総務課の所掌事務）">
+          <article_item number="第三十三条">
+            総務課は、次に掲げる事務をつかさどる。
+            <go>
+              <go_item number="一">
+                機密に関すること。
+              </go_item>
+              <go_item number="二">
+                所長の官印及び研究所印の保管に関すること。
+              </go_item>
+              <go_item number="三">
+                公文書の接受、発送、編集及び保存に関すること。
+              </go_item>
+              <go_item number="四">
+                職員の人事、教養及び給与に関すること。
+              </go_item>
+              <go_item number="五">
+                職員の福利厚生に関すること。
+              </go_item>
+              <go_item number="六">
+                経費及び収入の予算、決算及び会計に関すること。
+              </go_item>
+              <go_item number="七">
+                行政財産の管理並びに物品の取得及び管理に関すること。
+              </go_item>
+              <go_item number="八">
+                秘密の保全に関すること。
+              </go_item>
+              <go_item number="九">
+                所内の事務の総括に関すること。
+              </go_item>
+              <go_item number="十">
+                前各号に掲げるもののほか、電子装備研究所の所掌事務で他の所掌に属しない事項に関すること。
+              </go_item>
+            </go>
+          </article_item>
+        </articles>
+        <articles number="第三十四条" title="（情報通信研究部の所掌業務）">
+          <article_item number="第三十四条">
+            情報通信研究部は、次に掲げる事項についての考案、調査研究及び試験並びに規格に関する資料の作成に関する業務並びに防衛装備庁の所掌事務に関する数理研究に関する業務をつかさどる。
+            <go>
+              <go_item number="一">
+                電子計算機に関すること。
+              </go_item>
+              <go_item number="二">
+                通信器材に関すること（電子対処研究部の所掌に属するものを除く。）。
+              </go_item>
+              <go_item number="三">
+                電気器材に関すること。
+              </go_item>
+              <go_item number="四">
+                前三号に掲げるもののほか、所長の命ずる事項に関すること。
+              </go_item>
+            </go>
+          </article_item>
+        </articles>
+        <articles number="第三十五条" title="（センサ研究部の所掌業務）">
+          <article_item number="第三十五条">
+            センサ研究部は、次に掲げる事項についての考案、調査研究及び試験並びに規格に関する資料の作成に関する業務をつかさどる。
+            <go>
+              <go_item number="一">
+                電波器材に関すること（電子対処研究部の所掌に属するものを除く。）。
+              </go_item>
+              <go_item number="二">
+                光波器材に関すること（電子対処研究部の所掌に属するものを除く。）。
+              </go_item>
+              <go_item number="三">
+                前二号に掲げるもののほか、所長の命ずる事項に関すること。
+              </go_item>
+            </go>
+          </article_item>
+        </articles>
+        <articles number="第三十六条" title="（電子対処研究部の所掌業務）">
+          <article_item number="第三十六条">
+            電子対処研究部は、次に掲げる事項についての考案、調査研究及び試験並びに規格に関する資料の作成に関する業務をつかさどる。
+            <go>
+              <go_item number="一">
+                通信器材の電子対処に関すること。
+              </go_item>
+              <go_item number="二">
+                電波器材の電子対処に関すること。
+              </go_item>
+              <go_item number="三">
+                光波器材の電子対処に関すること。
+              </go_item>
+              <go_item number="四">
+                前三号に掲げるもののほか、所長の命ずる事項に関すること。
+              </go_item>
+            </go>
+          </article_item>
+        </articles>
+        <articles number="第三十七条" title="（支所）">
+          <article_item number="第三十七条">
+            電子装備研究所に、支所を置く。
+          </article_item>
+          <article_item number="２">
+            支所は、名称を飯岡支所とし、旭市に置く。
+          </article_item>
+          <article_item number="３">
+            支所は、電波器材及び光波器材についての考案、調査研究及び試験並びに規格に関する資料の作成に関する業務のうち防衛装備庁長官の命ずるものをつかさどる。
+          </article_item>
+          <article_item number="４">
+            支所に、支所長を置く。
+          </article_item>
+        </articles>
+      </section>
+      <section title="第五節　先進技術推進センター" type="Setsu">
+        <articles number="第三十八条" title="（先進技術推進センターの位置）">
+          <article_item number="第三十八条">
+            先進技術推進センターは、東京都世田谷区に置く。
+          </article_item>
+        </articles>
+        <articles number="第三十九条" title="（所長）">
+          <article_item number="第三十九条">
+            先進技術推進センターに、所長を置く。
+          </article_item>
+          <article_item number="２">
+            所長は、先進技術推進センターの業務を掌理する。
+          </article_item>
+        </articles>
+        <articles number="第四十条" title="（総括研究管理官）">
+          <article_item number="第四十条">
+            先進技術推進センターに、総括研究管理官一人を置く。
+          </article_item>
+          <article_item number="２">
+            総括研究管理官は、命を受けて、先進技術推進センターの所掌業務のうち重要な技術的事項を総括整理する。
+          </article_item>
+        </articles>
+        <articles number="第四十一条" title="（研究管理官）">
+          <article_item number="第四十一条">
+            先進技術推進センターに、研究管理官三人を置く。
+          </article_item>
+          <article_item number="２">
+            研究管理官は、命を受けて、次に掲げる業務を分掌する。
+            <go>
+              <go_item number="一">
+                シミュレーション技術（装備品等に共通して必要とされるものに限る。）に係る考案、調査研究及び試験並びに規格に関する資料の作成に関すること。
+              </go_item>
+              <go_item number="二">
+                ロボット技術に係る考案、調査研究及び試験並びに規格に関する資料の作成に関すること。
+              </go_item>
+              <go_item number="三">
+                放射線、生物剤及び化学剤に対処するための技術に係る考案、調査研究及び試験並びに規格に関する資料の作成に関すること。
+              </go_item>
+              <go_item number="四">
+                装備品等についての人間工学に係る考案、調査研究及び試験並びに規格に関する資料の作成に関すること。
+              </go_item>
+              <go_item number="五">
+                前各号に掲げるもののほか、装備品等の開発に応用される先進技術に係る考案及び調査研究に関すること。
+              </go_item>
+              <go_item number="六">
+                理化学器材、衛生資材及び個人装具についての考案、調査研究及び試験並びに規格に関する資料の作成に関すること。
+              </go_item>
+              <go_item number="七">
+                装備品等についての自衛隊において必要とされる科学的調査研究（先進技術推進センターの所掌事務に関連するものに限る。）に関すること。
+              </go_item>
+            </go>
+          </article_item>
+        </articles>
+      </section>
+      <section title="第六節　札幌試験場" type="Setsu">
+        <articles number="第四十二条" title="（位置）">
+          <article_item number="第四十二条">
+            札幌試験場は、千歳市に置く。
+          </article_item>
+        </articles>
+        <articles number="第四十三条" title="（場長）">
+          <article_item number="第四十三条">
+            札幌試験場に、場長を置く。
+          </article_item>
+          <article_item number="２">
+            場長は、札幌試験場の業務を掌理する。
+          </article_item>
+        </articles>
+      </section>
+      <section title="第七節　下北試験場" type="Setsu">
+        <articles number="第四十四条" title="（位置）">
+          <article_item number="第四十四条">
+            下北試験場は、青森県下北郡東通村に置く。
+          </article_item>
+        </articles>
+        <articles number="第四十五条" title="（場長）">
+          <article_item number="第四十五条">
+            下北試験場に、場長を置く。
+          </article_item>
+          <article_item number="２">
+            場長は、下北試験場の業務を掌理する。
+          </article_item>
+        </articles>
+      </section>
+      <section title="第八節　岐阜試験場" type="Setsu">
+        <articles number="第四十六条" title="（位置）">
+          <article_item number="第四十六条">
+            岐阜試験場は、各務ヶ原市に置く。
+          </article_item>
+        </articles>
+        <articles number="第四十七条" title="（場長）">
+          <article_item number="第四十七条">
+            岐阜試験場に、場長を置く。
+          </article_item>
+          <article_item number="２">
+            場長は、岐阜試験場の業務を掌理する。
+          </article_item>
+        </articles>
+      </section>
+    </section>
+    <section title="第二章　雑則" type="Sho">
+      <articles number="第四十八条" title="（雑則）">
+        <article_item number="第四十八条">
+          この省令に定めるもののほか、航空装備研究所、陸上装備研究所、艦艇装備研究所、電子装備研究所、先進技術推進センター、札幌試験場、下北試験場及び岐阜試験場の事務分掌その他組織の細目は、防衛装備庁長官が定める。
+        </article_item>
+      </articles>
+    </section>
+  </body>
+</law>

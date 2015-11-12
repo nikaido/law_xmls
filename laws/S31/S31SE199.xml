@@ -3,7 +3,7 @@
   <head>
     <title>農林水産技術会議令</title>
     <defined>昭和三十一年六月二十五日政令第百九十九号</defined>
-    <updated>平成一二年六月七日政令第三一〇号</updated>
+    <updated>平成二七年九月九日政令第三一九号</updated>
   </head>
   <body>
     <preamble>
@@ -43,9 +43,12 @@
         会長、委員及び専門委員は、非常勤とする。
       </article_item>
     </articles>
-    <articles number="第五条" title="（事務局）">
+    <articles number="第五条" title="（事務局長等）">
       <article_item number="第五条">
-        事務局に置かれる課の名称及び所掌事務の範囲その他事務局について必要な事項は、農林水産省令で定める。
+        事務局長は、関係のある他の職を占める者をもって充てられるものとする。
+      </article_item>
+      <article_item number="２">
+        前項に定めるもののほか、事務局に置かれる課の名称及び所掌事務の範囲その他事務局について必要な事項は、農林水産省令で定める。
       </article_item>
     </articles>
     <articles number="第六条" title="（雑則）">

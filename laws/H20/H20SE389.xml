@@ -3,7 +3,7 @@
   <head>
     <title>職員の退職管理に関する政令</title>
     <defined>平成二十年十二月二十五日政令第三百八十九号</defined>
-    <updated>平成二七年八月二八日政令第三一一号</updated>
+    <updated>平成二七年九月一八日政令第三二八号</updated>
   </head>
   <body>
     <preamble>
@@ -268,6 +268,9 @@
           </go_item>
           <go_item number="八十三">
             広域的運営推進機関
+          </go_item>
+          <go_item number="八十四">
+            株式会社海外通信・放送・郵便事業支援機構
           </go_item>
         </go>
       </article_item>
@@ -1340,6 +1343,9 @@
           </go_item>
           <go_item number="十四">
             広域的運営推進機関
+          </go_item>
+          <go_item number="十五">
+            株式会社海外通信・放送・郵便事業支援機構
           </go_item>
         </go>
       </article_item>

@@ -3,7 +3,7 @@
   <head>
     <title>競馬法施行規則</title>
     <defined>昭和二十九年九月十三日農林省令第五十五号</defined>
-    <updated>平成二六年二月一八日農林水産省令第一一号</updated>
+    <updated>平成二七年九月二四日農林水産省令第七三号</updated>
   </head>
   <body>
     <preamble>
@@ -1259,6 +1259,30 @@
       <articles number="第六十二条" title="（勝馬投票類似の行為の特例の許可の申請）">
         <article_item number="第六十二条">
           法第二十九条の二第一項の許可の申請は、競馬会の職員にあつては、競馬会の理事長を経由して行わなければならない。
+        </article_item>
+      </articles>
+      <articles number="第六十三条" title="（書類の提出）">
+        <article_item number="第六十三条">
+          都道府県又は指定市町村が行う法、令又はこの省令の規定による農林水産大臣に対する書類の提出（競馬活性化計画に関するものを除く。）は、当該都道府県又は指定市町村の区域を管轄する地方農政局長又は北海道農政事務所長を経由してしなければならない。
+        </article_item>
+      </articles>
+      <articles number="第六十四条" title="（権限の委任）">
+        <article_item number="第六十四条">
+          法に規定する農林水産大臣の権限のうち、次に掲げるものは、地方農政局長（北海道にあつては、北海道農政事務所長）に委任する。ただし、農林水産大臣が自らその権限を行使することを妨げない。
+          <go>
+            <go_item number="一">
+              法第二十二条において準用する法第五条ただし書の規定による権限
+            </go_item>
+            <go_item number="二">
+              法第二十二条において準用する法第十八条第一項の規定による権限
+            </go_item>
+            <go_item number="三">
+              法第二十五条第一項から第三項までの規定による権限（地方競馬に関するものに限る。）
+            </go_item>
+            <go_item number="四">
+              法附則第六条第一項の規定による権限
+            </go_item>
+          </go>
         </article_item>
       </articles>
     </section>

@@ -3,7 +3,7 @@
   <head>
     <title>人事院規則九－一二三（本府省業務調整手当） </title>
     <defined>平成二十一年二月二日人事院規則九－一二三</defined>
-    <updated>平成二七年九月一日人事院規則九－一二三－二三</updated>
+    <updated>平成二七年一〇月一日人事院規則九－一二三－二四</updated>
   </head>
   <body>
     <preamble>
@@ -90,57 +90,60 @@
             文部科学省の内部部局及び本省に置かれる職
           </go_item>
           <go_item number="二十四">
-            文化庁の内部部局
+            スポーツ庁の内部部局
           </go_item>
           <go_item number="二十五">
-            厚生労働省の内部部局及び本省に置かれる職
+            文化庁の内部部局
           </go_item>
           <go_item number="二十六">
-            中央労働委員会事務局の内部部局
+            厚生労働省の内部部局及び本省に置かれる職
           </go_item>
           <go_item number="二十七">
-            農林水産省の内部部局
+            中央労働委員会事務局の内部部局
           </go_item>
           <go_item number="二十八">
-            林野庁の内部部局
+            農林水産省の内部部局及び本省に置かれる職
           </go_item>
           <go_item number="二十九">
-            水産庁の内部部局
+            林野庁の内部部局
           </go_item>
           <go_item number="三十">
-            経済産業省の内部部局
+            水産庁の内部部局
           </go_item>
           <go_item number="三十一">
-            資源エネルギー庁の内部部局
+            経済産業省の内部部局
           </go_item>
           <go_item number="三十二">
-            特許庁の内部部局
+            資源エネルギー庁の内部部局
           </go_item>
           <go_item number="三十三">
-            中小企業庁の内部部局
+            特許庁の内部部局
           </go_item>
           <go_item number="三十四">
-            国土交通省の内部部局及び本省に置かれる職
+            中小企業庁の内部部局
           </go_item>
           <go_item number="三十五">
-            観光庁の内部部局
+            国土交通省の内部部局及び本省に置かれる職
           </go_item>
           <go_item number="三十六">
-            気象庁の内部部局
+            観光庁の内部部局
           </go_item>
           <go_item number="三十七">
-            運輸安全委員会事務局の内部部局
+            気象庁の内部部局
           </go_item>
           <go_item number="三十八">
-            海上保安庁の内部部局
+            運輸安全委員会事務局の内部部局
           </go_item>
           <go_item number="三十九">
-            環境省の内部部局（国民公園管理事務所及び千鳥ケ淵戦没者墓苑管理事務所を除く。）及び本省に置かれる職
+            海上保安庁の内部部局
           </go_item>
           <go_item number="四十">
-            原子力規制庁
+            環境省の内部部局（国民公園管理事務所及び千鳥ケ淵戦没者墓苑管理事務所を除く。）及び本省に置かれる職
           </go_item>
           <go_item number="四十一">
+            原子力規制庁
+          </go_item>
+          <go_item number="四十二">
             防衛省の内部部局
           </go_item>
         </go>
@@ -374,7 +377,7 @@
                 農林水産政策研究所
               </go_item>
               <go_item number="ノ">
-                農林水産技術会議事務局（筑波事務所を除く。）
+                農林水産技術会議事務局（筑波産学連携支援センターを除く。）
               </go_item>
               <go_item number="オ">
                 電力取引監視等委員会事務局

@@ -3,7 +3,7 @@
   <head>
     <title>経済産業省組織規則</title>
     <defined>平成十三年一月六日経済産業省令第一号</defined>
-    <updated>平成二七年八月三一日経済産業省令第六三号</updated>
+    <updated>平成二七年九月二九日経済産業省令第六七号</updated>
   </head>
   <body>
     <preamble>
@@ -616,18 +616,10 @@
               越境移動管理官は、命を受けて、特定有害廃棄物等の輸出入等の規制に関する法律の施行に関する事務（輸出移動書類及び輸入移動書類に関することを除く。）のうち特定事項を処理する。
             </article_item>
           </articles>
-          <articles number="第二十七条" title="（リサイクル企画官）">
-            <article_item number="第二十七条">
-              リサイクル推進課に、リサイクル企画官一人を置く。
-            </article_item>
-            <article_item number="２">
-              リサイクル企画官は、命を受けて、経済産業省の所掌事務に係るリサイクルの推進その他資源の有効な利用の確保に関する総合的な政策の企画及び立案並びに推進に関する事務に参画する。
-            </article_item>
-          </articles>
         </section>
         <section title="第六款　製造産業局" type="Kan">
-          <articles number="第二十八条" title="（化学物質安全室及び化学兵器・麻薬原料等規制対策室並びに化学物質管理企画官及び化学物質リスク評価企画官）">
-            <article_item number="第二十八条">
+          <articles number="第二十七条" title="（化学物質安全室及び化学兵器・麻薬原料等規制対策室並びに化学物質管理企画官及び化学物質リスク評価企画官）">
+            <article_item number="第二十七条">
               化学物質管理課に、化学物質安全室及び化学兵器・麻薬原料等規制対策室並びに化学物質管理企画官及び化学物質リスク評価企画官それぞれ一人を置く。
             </article_item>
             <article_item number="２">
@@ -657,8 +649,8 @@
               化学物質リスク評価企画官は、命を受けて、化学物質の管理に関する経済産業省の所掌に係る化学物質のリスク評価に関する総合的な政策の企画及び立案並びに推進に関する事務に参画する。
             </article_item>
           </articles>
-          <articles number="第二十九条" title="（アルコール室）">
-            <article_item number="第二十九条">
+          <articles number="第二十八条" title="（アルコール室）">
+            <article_item number="第二十八条">
               化学課に、アルコール室を置く。
             </article_item>
             <article_item number="２">
@@ -676,16 +668,16 @@
               アルコール室に、室長を置く。
             </article_item>
           </articles>
-          <articles number="第三十条" title="（輸入住宅振興官）">
-            <article_item number="第三十条">
+          <articles number="第二十九条" title="（輸入住宅振興官）">
+            <article_item number="第二十九条">
               住宅産業窯業建材課に、輸入住宅振興官一人を置く。
             </article_item>
             <article_item number="２">
               輸入住宅振興官は、命を受けて、住宅の輸入の振興に関する事務を処理する。
             </article_item>
           </articles>
-          <articles number="第三十条の二" title="（ロボット政策室）">
-            <article_item number="第三十条の二">
+          <articles number="第三十条" title="（ロボット政策室）">
+            <article_item number="第三十条">
               産業機械課に、ロボット政策室を置く。
             </article_item>
             <article_item number="２">

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>防衛装備庁の技術顧問に関する省令</title>
+    <defined>平成二十七年十月一日防衛省令第十六号</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        防衛省設置法（昭和二十九年法律第百六十四号）及び防衛省組織令（昭和二十九年政令第百七十八号）を実施するため、防衛装備庁の技術顧問に関する省令を次のように定める。
+      </p>
+    </preamble>
+    <articles number="１">
+      <article_item number="１">
+        防衛装備庁に、技術顧問十二人以内を置く。
+      </article_item>
+      <article_item number="２">
+        技術顧問は、防衛装備庁の所掌事務のうち特別の学識経験を必要とする専門事項について、防衛装備庁長官に対し意見を述べる。
+      </article_item>
+      <article_item number="３">
+        技術顧問は、非常勤とする。
+      </article_item>
+    </articles>
+  </body>
+</law>

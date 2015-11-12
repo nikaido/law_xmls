@@ -3,7 +3,7 @@
   <head>
     <title>新型インフルエンザ等対策特別措置法施行令</title>
     <defined>平成二十五年四月十二日政令第百二十二号</defined>
-    <updated>平成二七年三月二七日政令第一一六号</updated>
+    <updated>平成二七年九月一八日政令第三三四号</updated>
   </head>
   <body>
     <preamble>
@@ -101,6 +101,9 @@
           </go_item>
           <go_item number="二十九">
             防衛省
+          </go_item>
+          <go_item number="三十">
+            防衛装備庁
           </go_item>
         </go>
       </article_item>

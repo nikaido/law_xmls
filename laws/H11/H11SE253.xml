@@ -3,7 +3,7 @@
   <head>
     <title>周辺事態に際して我が国の平和及び安全を確保するための措置に関する法律第三条第一項第四号の関係行政機関を定める政令</title>
     <defined>平成十一年八月十八日政令第二百五十三号</defined>
-    <updated>平成二四年九月一四日政令第二三五号</updated>
+    <updated>平成二七年九月一八日政令第三三四号</updated>
   </head>
   <body>
     <preamble>
@@ -51,47 +51,53 @@
           <go_item number="十二">
             文部科学省
           </go_item>
-          <go_item number="十三　">
-            文化庁
+          <go_item number="十三">
+            スポーツ庁
           </go_item>
           <go_item number="十四">
-            厚生労働省
+            文化庁
           </go_item>
           <go_item number="十五">
-            農林水産省
+            厚生労働省
           </go_item>
           <go_item number="十六">
-            林野庁
+            農林水産省
           </go_item>
           <go_item number="十七">
-            水産庁
+            林野庁
           </go_item>
           <go_item number="十八">
-            経済産業省
+            水産庁
           </go_item>
           <go_item number="十九">
-            資源エネルギー庁
+            経済産業省
           </go_item>
           <go_item number="二十">
-            国土交通省
+            資源エネルギー庁
           </go_item>
           <go_item number="二十一">
-            観光庁
+            国土交通省
           </go_item>
           <go_item number="二十二">
-            気象庁
+            観光庁
           </go_item>
           <go_item number="二十三">
-            海上保安庁
+            気象庁
           </go_item>
           <go_item number="二十四">
-            環境省
+            海上保安庁
           </go_item>
           <go_item number="二十五">
-            原子力規制委員会
+            環境省
           </go_item>
           <go_item number="二十六">
+            原子力規制委員会
+          </go_item>
+          <go_item number="二十七">
             防衛省
+          </go_item>
+          <go_item number="二十八">
+            防衛装備庁
           </go_item>
         </go>
       </article_item>

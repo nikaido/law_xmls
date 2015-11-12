@@ -3,7 +3,7 @@
   <head>
     <title>厚生労働省関係国家戦略特別区域法施行規則</title>
     <defined>平成二十六年三月二十八日厚生労働省令第三十三号</defined>
-    <updated>平成二七年八月三一日厚生労働省令第一三三号</updated>
+    <updated>平成二七年九月一五日厚生労働省令第一三八号</updated>
   </head>
   <body>
     <preamble>
@@ -401,6 +401,9 @@
           <go_item number="四">
             施設の構造設備を明らかにする図面
           </go_item>
+          <go_item number="五">
+            滞在者名簿の様式
+          </go_item>
         </go>
       </article_item>
     </articles>
@@ -431,6 +434,9 @@
           </go_item>
           <go_item number="八">
             施設のホームページアドレス
+          </go_item>
+          <go_item number="九">
+            滞在者が日本国内に住所を有しない外国人であることを確認する方法
           </go_item>
         </go>
       </article_item>

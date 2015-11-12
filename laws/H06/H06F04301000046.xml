@@ -3,7 +3,7 @@
   <head>
     <title>政党交付金の交付を受ける政党等に対する法人格の付与に関する法律施行規則</title>
     <defined>平成六年十一月二十八日自治省令第四十六号</defined>
-    <updated>平成一五年三月二四日総務省令第四二号</updated>
+    <updated>平成二七年九月二五日総務省令第七九号</updated>
   </head>
   <body>
     <preamble>
@@ -22,9 +22,14 @@
         前項の届出に併せて提出する法第五条第二項第三号に規定する承諾書及び宣誓書は、別記第二号様式によるものとする。
       </article_item>
     </articles>
-    <articles number="第二条" title="（合併に係る届出文書）">
+    <articles number="第二条" title="（残余財産の国庫への帰属に係る申請文書）">
       <article_item number="第二条">
-        法第十五条に規定する総務省令で定める文書は、別記第三号様式によるものとする。
+        法第十条の十第三項の規定による残余財産の国庫への帰属の申請に係る文書は、別記第三号様式によるものとする。
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（合併に係る届出文書）">
+      <article_item number="第三条">
+        法第十五条に規定する総務省令で定める文書は、別記第四号様式によるものとする。
       </article_item>
     </articles>
   </body>
