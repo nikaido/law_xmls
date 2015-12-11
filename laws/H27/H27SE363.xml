@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>特定秘密の保護に関する法律附則第二条の政令で定める日を定める政令</title>
+    <defined>平成二十七年十月十五日政令第三百六十三号</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、特定秘密の保護に関する法律（平成二十五年法律第百八号）附則第二条の規定に基づき、この政令を制定する。
+      </p>
+    </preamble>
+    <articles>
+      <article_item>
+        特定秘密の保護に関する法律附則第二条の政令で定める日は、平成二十七年十二月一日とする。
+      </article_item>
+    </articles>
+  </body>
+</law>

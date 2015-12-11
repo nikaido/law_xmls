@@ -58,6 +58,11 @@
           理事の任期は、二年とする。
         </article_item>
       </articles>
+      <articles number="第七条の二" title="（役員及び職員の秘密保持義務）">
+        <article_item number="第七条の二">
+          基金の役員及び職員は、職務上知ることのできた秘密を漏らし、又は盗用してはならない。その職を退いた後も、同様とする。
+        </article_item>
+      </articles>
       <articles number="第八条" title="（役員及び職員の地位）">
         <article_item number="第八条">
           基金の役員及び職員は、刑法（明治四十年法律第四十五号）その他の罰則の適用については、法令により公務に従事する職員とみなす。
@@ -514,7 +519,7 @@
               委員の任期は、三年とする。
             </article_item>
             <article_item number="５">
-              通則法第二十一条第三項ただし書及び第四項の規定並びに第八条の規定は、委員について準用する。
+              通則法第二十一条第三項ただし書及び第四項の規定並びに第七条の二及び第八条の規定は、委員について準用する。
             </article_item>
           </articles>
           <articles number="第五十条" title="（審査会）">
@@ -690,18 +695,18 @@
           国家公務員宿舎法（昭和二十四年法律第百十七号）の規定は、基金の役員及び職員には、適用しない。
         </article_item>
       </articles>
-      <articles number="第六十八条">
+      <articles number="第六十八条" title="（他の法令の準用）">
         <article_item number="第六十八条">
-          削除
-        </article_item>
-      </articles>
-      <articles number="第六十九条" title="（他の法令の準用）">
-        <article_item number="第六十九条">
           不動産登記法（平成十六年法律第百二十三号）その他政令で定める法令については、政令で定めるところにより、基金を国の行政機関とみなして、これらの法令を準用する。
         </article_item>
       </articles>
     </section>
     <section title="第六章　罰則" type="Sho">
+      <articles number="第六十九条">
+        <article_item number="第六十九条">
+          第七条の二（第四十九条第五項において準用する場合を含む。）の規定に違反して秘密を漏らし、又は盗用した者は、一年以下の懲役又は五十万円以下の罰金に処する。
+        </article_item>
+      </articles>
       <articles number="第七十条">
         <article_item number="第七十条">
           第六十四条第一項の規定による報告をせず、若しくは虚偽の報告をし、又は同項の規定による検査を拒み、妨げ、若しくは忌避した場合には、その違反行為をした受託者の役員又は職員は、二十万円以下の罰金に処する。
