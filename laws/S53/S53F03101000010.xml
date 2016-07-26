@@ -3,7 +3,7 @@
   <head>
     <title>公正取引委員会事務総局組織規則</title>
     <defined>昭和五十三年四月五日総理府令第十号</defined>
-    <updated>平成二七年四月一〇日内閣府令第三三号</updated>
+    <updated>平成二八年三月三一日内閣府令第三〇号</updated>
   </head>
   <body>
     <preamble>
@@ -13,9 +13,9 @@
     </preamble>
     <section title="第一章　内部部局" type="Sho">
       <section title="第一節　官房" type="Setsu">
-        <articles number="第一条" title="（会計室及び企画官）">
+        <articles number="第一条" title="（会計室並びに企画官及び監査官）">
           <article_item number="第一条">
-            総務課に、会計室及び企画官二人を置く。
+            総務課に、会計室並びに企画官及び監査官それぞれ一人を置く。
           </article_item>
           <article_item number="２">
             会計室は、次に掲げる事務をつかさどる。
@@ -36,6 +36,9 @@
           </article_item>
           <article_item number="４">
             企画官は、命を受けて、総務課の所掌事務に関する特定事項についての企画及び立案並びに調整に関する事務に従事する。
+          </article_item>
+          <article_item number="５">
+            監査官は、命を受けて、総務課の所掌事務のうち、相談、苦情及び監査に関する事務その他の特定事項に関する事務に従事する。
           </article_item>
         </articles>
         <articles number="第二条" title="（企画官）">

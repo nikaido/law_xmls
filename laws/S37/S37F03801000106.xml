@@ -3,7 +3,7 @@
   <head>
     <title>家庭用品品質表示法施行規則</title>
     <defined>昭和三十七年九月二十九日通商産業省令第百六号</defined>
-    <updated>平成二三年一二月二六日内閣府令第七一号</updated>
+    <updated>平成二八年三月一八日内閣府令第一二号</updated>
   </head>
   <body>
     <preamble>
@@ -11,9 +11,172 @@
         家庭用品品質表示法（昭和三十七年法律第百四号）を実施するため、家庭用品品質表示法施行規則を次のように制定する。
       </p>
     </preamble>
-    <articles number="第一条" title="（消費者庁長官との協議）">
+    <articles number="第一条" title="（家庭用品）">
       <article_item number="第一条">
-        都道府県知事又は市長は、家庭用品品質表示法施行令（昭和三十七年政令第三百九十号。以下「令」という。）第四条第五項の規定により消費者庁長官に協議しようとするときは、次に掲げる事項を記載した協議書を消費者庁長官に送付しなければならない。この場合において、市長にあっては、当該市を包括する都道府県の知事を通じて消費者庁長官に送付しなければならない。
+        家庭用品品質表示法施行令（昭和三十七年政令第三百九十号。以下「令」という。）別表第一号（一）の内閣府令で定める繊維は、次に掲げるものとする。
+        <go>
+          <go_item number="一">
+            プロミックス繊維
+          </go_item>
+          <go_item number="二">
+            ポリエチレン系合成繊維
+          </go_item>
+          <go_item number="三">
+            ビニロン繊維
+          </go_item>
+          <go_item number="四">
+            ポリ塩化ビニリデン系合成繊維
+          </go_item>
+          <go_item number="五">
+            ポリ塩化ビニル系合成繊維
+          </go_item>
+          <go_item number="六">
+            ポリアクリルニトリル系合成繊維
+          </go_item>
+          <go_item number="七">
+            ポリプロピレン系合成繊維
+          </go_item>
+          <go_item number="八">
+            ポリクラール繊維
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="２">
+        令別表第一号（三）１の内閣府令で定める衣服は、次に掲げるものとする。
+        <go>
+          <go_item number="一">
+            帯
+          </go_item>
+          <go_item number="二">
+            足袋
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="３">
+        令別表第一号（三）２の内閣府令で定める身の回り品は、次に掲げるものとする。
+        <go>
+          <go_item number="一">
+            ネクタイ
+          </go_item>
+          <go_item number="二">
+            羽織ひも
+          </go_item>
+          <go_item number="三">
+            帯締め
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="４">
+        令別表第一号（三）３の内閣府令で定める家庭用繊維製品は、次に掲げるものとする。
+        <go>
+          <go_item number="一">
+            ベッドスプレッド
+          </go_item>
+          <go_item number="二">
+            毛布カバー
+          </go_item>
+          <go_item number="三">
+            枕カバー
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="５">
+        令別表第二号（五）の内閣府令で定める住生活用品は、次に掲げるものとする。
+        <go>
+          <go_item number="一">
+            可搬型便器
+          </go_item>
+          <go_item number="二">
+            便所用の器具（固定式のものを除く。）
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="６">
+        令別表第三号（五）の内閣府令で定める台所用電熱用品は、次に掲げるものとする。
+        <go>
+          <go_item number="一">
+            電気ポット
+          </go_item>
+          <go_item number="二">
+            電気ホットプレート
+          </go_item>
+          <go_item number="三">
+            電気ロースター
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="７">
+        令別表第四号（一）の内閣府令で定める紙は、障子紙とする。
+      </article_item>
+      <article_item number="８">
+        令別表第四号（八）の内閣府令で定める素材を使用して製造した食事用、食卓用又は台所用の器具は、次に掲げるものとする。
+        <go>
+          <go_item number="一">
+            強化ガラス製の食事用、食卓用又は台所用の器具
+          </go_item>
+          <go_item number="二">
+            ほうけい酸ガラス製又はガラスセラミックス製の食事用、食卓用又は台所用の器具
+          </go_item>
+          <go_item number="三">
+            漆又はカシュー樹脂塗料を塗った食事用、食卓用又は台所用の器具（木製のもの及び合成樹脂製のものに限る。）
+          </go_item>
+          <go_item number="四">
+            合成ゴム製のまな板
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="９">
+        令別表第四号（九）の内閣府令で定める魔法瓶は、次に掲げるものとする。
+        <go>
+          <go_item number="一">
+            中瓶にガラス製の真空二重瓶を使用した魔法瓶であって、卓上用のもの
+          </go_item>
+          <go_item number="二">
+            内瓶にステンレス鋼製の真空二重瓶を使用した魔法瓶であって、主として飲用水に用い屋外に携帯するもの
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="１０">
+        令別表第四号（十一）の内閣府令で定める素材は、次に掲げるものとする。
+        <go>
+          <go_item number="一">
+            牛革
+          </go_item>
+          <go_item number="二">
+            馬革
+          </go_item>
+          <go_item number="三">
+            豚革
+          </go_item>
+          <go_item number="四">
+            羊革
+          </go_item>
+          <go_item number="五">
+            やぎ革
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="１１">
+        令別表第四号（十三）の内閣府令で定める靴は、甲に合成皮革を、本底にゴム、合成樹脂又はこれらの混合物を使用し、甲と本底とを接着剤により接着した靴とする。
+      </article_item>
+      <article_item number="１２">
+        令別表第四号（十七）の内閣府令で定めるマットレスは、次に掲げるものとする。
+        <go>
+          <go_item number="一">
+            スプリングマットレス
+          </go_item>
+          <go_item number="二">
+            ウレタンフォームマットレス（ウレタンフォームの部分の最大の厚さが五〇ミリメートル以上のものに限る。）
+          </go_item>
+        </go>
+      </article_item>
+      <article_item number="１３">
+        令別表第四号（二十）の内閣府令で定める石けん、家庭用合成洗剤及び家庭用化学製品は、住宅用又は家具用のワックスとする。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（消費者庁長官との協議） ">
+      <article_item number="第二条">
+        都道府県知事又は市長は、令第四条第五項の規定により消費者庁長官に協議しようとするときは、次に掲げる事項を記載した協議書を消費者庁長官に送付しなければならない。この場合において、市長にあっては、当該市を包括する都道府県の知事を通じて消費者庁長官に送付しなければならない。 
         <go>
           <go_item number="一">
             公表に係る販売業者の氏名又は名称及び住所又は本店若しくは主たる事務所の所在地
@@ -33,8 +196,8 @@
         </go>
       </article_item>
     </articles>
-    <articles number="第二条" title="（消費者庁長官に対する都道府県知事又は市長の報告）">
-      <article_item number="第二条">
+    <articles number="第三条" title="（消費者庁長官に対する都道府県知事又は市長の報告）">
+      <article_item number="第三条">
         都道府県知事又は市長は、家庭用品品質表示法（昭和三十七年法律第百四号。以下「法」という。）第四条第一項の規定に基づく指示をしたときは、令第四条第六項の規定により、遅滞なく、次に掲げる事項を記載した報告書を消費者庁長官に提出しなければならない。この場合において、市長にあっては、当該市を包括する都道府県の知事を経由して消費者庁長官に提出しなければならない。
         <go>
           <go_item number="一">
@@ -55,8 +218,8 @@
         </go>
       </article_item>
     </articles>
-    <articles number="第三条" title="（消費者庁長官に対する都道府県知事又は市長の報告）">
-      <article_item number="第三条">
+    <articles number="第四条" title="（消費者庁長官に対する都道府県知事又は市長の報告）">
+      <article_item number="第四条">
         都道府県知事又は市長は、法第十九条第二項の規定に基づく報告の徴収を行ったときは、令第四条第六項の規定により、遅滞なく、次に掲げる事項を記載した報告書を消費者庁長官に提出しなければならない。この場合において、市長にあっては、当該市を包括する都道府県の知事を経由して消費者庁長官に提出しなければならない。
         <go>
           <go_item number="一">
@@ -77,8 +240,8 @@
         </go>
       </article_item>
     </articles>
-    <articles number="第四条" title="（消費者庁長官に対する都道府県知事又は市長の報告）">
-      <article_item number="第四条">
+    <articles number="第五条" title="（消費者庁長官に対する都道府県知事又は市長の報告）">
+      <article_item number="第五条">
         都道府県知事又は市長は、その職員に、法第十九条第二項の規定に基づく立入検査をさせた場合は、令第四条第六項の規定により、その年度中の立入検査の結果を取りまとめて翌年度の四月三十日までに、様式第一による報告書を消費者庁長官に提出しなければならない。この場合において、市長にあっては、当該市を包括する都道府県の知事を経由して消費者庁長官に提出しなければならない。
       </article_item>
       <article_item number="２">

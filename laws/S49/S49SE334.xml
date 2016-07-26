@@ -16,63 +16,140 @@
         有害物質を含有する家庭用品の規制に関する法律第二条第二項の政令で定める物質は、次に掲げる物質とする。
         <go>
           <go_item number="一">
-            塩化水素
+            アゾ化合物（化学的変化により容易に次に掲げる物質を生成するものに限る。）
+            <go>
+              <go_item number="イ">
+                四－アミノジフエニル
+              </go_item>
+              <go_item number="ロ">
+                オルト－アニシジン
+              </go_item>
+              <go_item number="ハ">
+                オルト－トルイジン
+              </go_item>
+              <go_item number="ニ">
+                四－クロロ－二－メチルアニリン
+              </go_item>
+              <go_item number="ホ">
+                二・四－ジアミノアニソール
+              </go_item>
+              <go_item number="ヘ">
+                四・四<sup>’</sup>－ジアミノジフエニルエーテル
+              </go_item>
+              <go_item number="ト">
+                四・四<sup>’</sup>－ジアミノジフエニルスルフイド
+              </go_item>
+              <go_item number="チ">
+                四・四<sup>’</sup>－ジアミノ－三・三<sup>’</sup>－ジメチルジフエニルメタン
+              </go_item>
+              <go_item number="リ">
+                二・四－ジアミノトルエン
+              </go_item>
+              <go_item number="ヌ">
+                三・三<sup>’</sup>－ジクロロ－四・四<sup>’</sup>－ジアミノジフエニルメタン
+              </go_item>
+              <go_item number="ル">
+                三・三<sup>’</sup>－ジクロロベンジジン
+              </go_item>
+              <go_item number="ヲ">
+                二・四－ジメチルアニリン
+              </go_item>
+              <go_item number="ワ">
+                二・六－ジメチルアニリン
+              </go_item>
+              <go_item number="カ">
+                三・三<sup>’</sup>－ジメチルベンジジン（別名オルト－トリジン）
+              </go_item>
+              <go_item number="ヨ">
+                三・三<sup>’</sup>－ジメトキシベンジジン
+              </go_item>
+              <go_item number="タ">
+                二・四・五－トリメチルアニリン
+              </go_item>
+              <go_item number="レ">
+                二－ナフチルアミン（別名ベータ－ナフチルアミン）
+              </go_item>
+              <go_item number="ソ">
+                パラ－クロロアニリン
+              </go_item>
+              <go_item number="ツ">
+                パラ－フエニルアゾアニリン
+              </go_item>
+              <go_item number="ネ">
+                ベンジジン
+              </go_item>
+              <go_item number="ナ">
+                二－メチル－四－（二－トリルアゾ）アニリン
+              </go_item>
+              <go_item number="ラ">
+                二－メチル－五－ニトロアニリン
+              </go_item>
+              <go_item number="ム">
+                四・四<sup>’</sup>－メチレンジアニリン
+              </go_item>
+              <go_item number="ウ">
+                二－メトキシ－五－メチルアニリン
+              </go_item>
+            </go>
           </go_item>
           <go_item number="二">
-            塩化ビニル
+            塩化水素
           </go_item>
           <go_item number="三">
-            四・六－ジクロル－七－（二・四・五－トリクロルフエノキシ）－二－トリフルオルメチルベンズイミダゾール
+            塩化ビニル
           </go_item>
           <go_item number="四">
-            ジベンゾ［ａ・ｈ］アントラセン
+            四・六－ジクロル－七－（二・四・五－トリクロルフエノキシ）－二－トリフルオルメチルベンズイミダゾール
           </go_item>
           <go_item number="五">
-            水酸化カリウム
+            ジベンゾ［ａ・ｈ］アントラセン
           </go_item>
           <go_item number="六">
-            水酸化ナトリウム
+            水酸化カリウム
           </go_item>
           <go_item number="七">
-            テトラクロロエチレン
+            水酸化ナトリウム
           </go_item>
           <go_item number="八">
-            トリクロロエチレン
+            テトラクロロエチレン
           </go_item>
           <go_item number="九">
-            トリス（一－アジリジニル）ホスフインオキシド
+            トリクロロエチレン
           </go_item>
           <go_item number="十">
-            トリス（二・三－ジブロムプロピル）ホスフエイト
+            トリス（一－アジリジニル）ホスフインオキシド
           </go_item>
           <go_item number="十一">
-            トリフエニル錫化合物
+            トリス（二・三－ジブロムプロピル）ホスフエイト
           </go_item>
           <go_item number="十二">
-            トリブチル錫化合物
+            トリフエニル錫化合物
           </go_item>
           <go_item number="十三">
-            ビス（二・三－ジブロムプロピル）ホスフエイト化合物
+            トリブチル錫化合物
           </go_item>
           <go_item number="十四">
-            ヘキサクロルエポキシオクタヒドロエンドエキソジメタノナフタリン（別名デイルドリン）
+            ビス（二・三－ジブロムプロピル）ホスフエイト化合物
           </go_item>
           <go_item number="十五">
-            ベンゾ［ａ］アントラセン
+            ヘキサクロルエポキシオクタヒドロエンドエキソジメタノナフタリン（別名デイルドリン）
           </go_item>
           <go_item number="十六">
-            ベンゾ［ａ］ピレン
+            ベンゾ［ａ］アントラセン
           </go_item>
           <go_item number="十七">
-            ホルムアルデヒド
+            ベンゾ［ａ］ピレン
           </go_item>
           <go_item number="十八">
-            メタノール
+            ホルムアルデヒド
           </go_item>
           <go_item number="十九">
-            有機水銀化合物
+            メタノール
           </go_item>
           <go_item number="二十">
+            有機水銀化合物
+          </go_item>
+          <go_item number="二十一">
             硫酸
           </go_item>
         </go>

@@ -3,7 +3,7 @@
   <head>
     <title>飼料の安全性の確保及び品質の改善に関する法律施行令</title>
     <defined>昭和五十一年七月十六日政令第百九十八号</defined>
-    <updated>平成一九年三月三〇日政令第一一一号</updated>
+    <updated>平成二七年一一月二六日政令第三九二号</updated>
   </head>
   <body>
     <preamble>
@@ -101,6 +101,11 @@
       </article_item>
       <article_item number="３">
         法第六十条第五項に規定する者が同項の規定により納付しなければならない手数料の額は、一件につき四百四十円とする。
+      </article_item>
+    </articles>
+    <articles number="第九条の二" title="（行政不服審査法施行令の準用）">
+      <article_item number="第九条の二">
+        法第六十三条第一項の意見の聴取については、行政不服審査法施行令（平成二十七年政令第三百九十一号）第八条の規定を準用する。この場合において、同条中「総務省令」とあるのは、「農林水産省令」と読み替えるものとする。
       </article_item>
     </articles>
     <articles number="第十条" title="（輸出用飼料等に関する特例）">

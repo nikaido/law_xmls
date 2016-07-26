@@ -3,7 +3,7 @@
   <head>
     <title>国立教育政策研究所組織規則</title>
     <defined>平成十三年一月六日文部科学省令第三号</defined>
-    <updated>平成二七年九月三〇日文部科学省令第三二号</updated>
+    <updated>平成二八年三月三〇日文部科学省令第一三号</updated>
   </head>
   <body>
     <preamble>
@@ -29,7 +29,7 @@
     </articles>
     <articles number="第三条" title="（国立教育政策研究所に置く部等）">
       <article_item number="第三条">
-        国立教育政策研究所に、次の七部並びに教育研究情報センター、教育課程研究センター、生徒指導・進路指導研究センター、社会教育実践研究センター及び文教施設研究センターを置く。<br/>　　総務部<br/>研究企画開発部<br/>教育政策・評価研究部<br/>生涯学習政策研究部<br/>初等中等教育研究部<br/>高等教育研究部<br/>国際研究・協力部
+        国立教育政策研究所に、次の七部並びに教育課程研究センター、生徒指導・進路指導研究センター、幼児教育研究センター、社会教育実践研究センター及び文教施設研究センターを置く。<br/>　　総務部<br/>研究企画開発部<br/>教育政策・評価研究部<br/>生涯学習政策研究部<br/>初等中等教育研究部<br/>高等教育研究部<br/>国際研究・協力部
       </article_item>
     </articles>
     <articles number="第四条" title="（総務部の所掌事務）">
@@ -71,12 +71,12 @@
     </articles>
     <articles number="第五条" title="（総務部に置く課）">
       <article_item number="第五条">
-        総務部に、次の二課を置く。<br/>　　庶務課<br/>会計課
+        総務部に、次の二課を置く。<br/>　　総務課<br/>会計課
       </article_item>
     </articles>
-    <articles number="第六条" title="（庶務課の所掌事務）">
+    <articles number="第六条" title="（総務課の所掌事務）">
       <article_item number="第六条">
-        庶務課は、次に掲げる事務をつかさどる。
+        総務課は、次に掲げる事務をつかさどる。
         <go>
           <go_item number="一">
             国立教育政策研究所の職員の人事に関すること。
@@ -141,84 +141,117 @@
             教育に関する政策に係る基礎的な事項の調査及び研究のうち多数部門の協力を要する総合的なものを行うこと。
           </go_item>
           <go_item number="五">
-            教育に関する政策に係る基礎的な事項の調査及び研究に関し、国内の研究機関、大学その他の関係機関との連絡及び協力を行うこと（教育研究情報センター、教育課程研究センター、生徒指導・進路指導研究センター、社会教育実践研究センター及び文教施設研究センターの所掌に属するものを除く。）。
+            教育に関する情報及び資料の収集、整理及び提供に関する調査及び研究を行うこと。
           </go_item>
           <go_item number="六">
-            国内の教育関係機関及び教育関係者に対し、教育に関する援助及び助言を行うこと（教育研究情報センター、教育課程研究センター、生徒指導・進路指導研究センター、社会教育実践研究センター及び文教施設研究センターの所掌に属するものを除く。）。
+            教育に関する政策に係る基礎的な事項の調査及び研究（前号に掲げるものを含む。）に関し、国内の研究機関、大学その他の関係機関との連絡及び協力を行うこと（教育課程研究センター、生徒指導・進路指導研究センター、幼児教育研究センター、社会教育実践研究センター及び文教施設研究センターの所掌に属するものを除く。）。
+          </go_item>
+          <go_item number="七">
+            教育に関する情報及び資料を収集し、整理し、及び提供すること。
+          </go_item>
+          <go_item number="八">
+            国立教育政策研究所の所掌事務に係る調査及び研究の成果に関し、公表し、及び普及を行うこと。
+          </go_item>
+          <go_item number="九">
+            国内の教育関係機関及び教育関係者に対し、教育（第七号に掲げる事項を含む。）に関する援助及び助言を行うこと（教育課程研究センター、生徒指導・進路指導研究センター、幼児教育研究センター、社会教育実践研究センター及び文教施設研究センターの所掌に属するものを除く。）。
           </go_item>
         </go>
       </article_item>
     </articles>
-    <articles number="第九条" title="（企画調整官）">
+    <articles number="第九条" title="（研究企画開発部に置く課）">
       <article_item number="第九条">
+        研究企画開発部に、情報支援課を置く。
+      </article_item>
+    </articles>
+    <articles number="第十条" title="（情報支援課の所掌事務）">
+      <article_item number="第十条">
+        情報支援課は、次に掲げる事務をつかさどる。
+        <go>
+          <go_item number="一">
+            教育に関する情報及び資料の収集、整理及び提供に関する調査及び研究に関し、国内の研究機関、大学その他の関係機関との連絡及び協力を行うこと。
+          </go_item>
+          <go_item number="二">
+            教育に関する情報及び資料を収集し、整理し、及び提供すること。
+          </go_item>
+          <go_item number="三">
+            国立教育政策研究所の所掌事務に係る調査及び研究の成果に関し、公表し、及び普及を行うこと。
+          </go_item>
+          <go_item number="四">
+            国内の教育関係機関及び教育関係者に対し、教育に関する情報及び資料の収集、整理及び提供に関する援助及び助言を行うこと。
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第十一条" title="（企画調整官）">
+      <article_item number="第十一条">
         研究企画開発部に、企画調整官一人を置く。
       </article_item>
       <article_item number="２">
         企画調整官は、命を受けて、研究企画開発部の所掌事務に係る重要事項についての企画及び調整に当たる。
       </article_item>
     </articles>
-    <articles number="第十条" title="（総括研究官）">
-      <article_item number="第十条">
+    <articles number="第十二条" title="（総括研究官）">
+      <article_item number="第十二条">
         研究企画開発部に、別に所長が定める定数の総括研究官を置く。
       </article_item>
       <article_item number="２">
         総括研究官は、命を受けて、研究企画開発部の所掌事務に係る調査及び研究に関する特定の事項についての事務を総括整理し、及びその事務の処理に当たる。
       </article_item>
     </articles>
-    <articles number="第十一条" title="（教育政策・評価研究部の所掌事務）">
-      <article_item number="第十一条">
+    <articles number="第十三条" title="（教育政策・評価研究部の所掌事務）">
+      <article_item number="第十三条">
         教育政策・評価研究部は、教育に関する政策及びその評価一般に係る基礎的な事項の調査及び研究を行うことをつかさどる。
       </article_item>
     </articles>
-    <articles number="第十二条" title="（総括研究官）">
-      <article_item number="第十二条">
+    <articles number="第十四条" title="（総括研究官）">
+      <article_item number="第十四条">
         教育政策・評価研究部に、別に所長が定める定数の総括研究官を置く。
       </article_item>
       <article_item number="２">
         総括研究官は、命を受けて、教育政策・評価研究部の所掌事務に係る調査及び研究に関する特定の事項についての事務を総括整理し、及びその事務の処理に当たる。
       </article_item>
     </articles>
-    <articles number="第十三条" title="（生涯学習政策研究部の所掌事務）">
-      <article_item number="第十三条">
+    <articles number="第十五条" title="（生涯学習政策研究部の所掌事務）">
+      <article_item number="第十五条">
         生涯学習政策研究部は、生涯学習及び社会教育に関する政策に係る基礎的な事項の調査及び研究を行うこと（社会教育実践研究センターの所掌に属するものを除く。）をつかさどる。
       </article_item>
     </articles>
-    <articles number="第十四条" title="（総括研究官）">
-      <article_item number="第十四条">
+    <articles number="第十六条" title="（総括研究官）">
+      <article_item number="第十六条">
         生涯学習政策研究部に、別に所長が定める定数の総括研究官を置く。
       </article_item>
       <article_item number="２">
         総括研究官は、命を受けて、生涯学習政策研究部の所掌事務に係る調査及び研究に関する特定の事項についての事務を総括整理し、及びその事務の処理に当たる。
       </article_item>
     </articles>
-    <articles number="第十五条" title="（初等中等教育研究部の所掌事務）">
-      <article_item number="第十五条">
-        初等中等教育研究部は、初等中等教育に関する政策に係る基礎的な事項の調査及び研究を行うこと（教育課程研究センター及び生徒指導・進路指導研究センターの所掌に属するものを除く。）をつかさどる。
+    <articles number="第十七条" title="（初等中等教育研究部の所掌事務）">
+      <article_item number="第十七条">
+        初等中等教育研究部は、初等中等教育に関する政策に係る基礎的な事項の調査及び研究を行うこと（教育課程研究センター、生徒指導・進路指導研究センター及び幼児教育研究センターの所掌に属するものを除く。）をつかさどる。
       </article_item>
     </articles>
-    <articles number="第十六条" title="（総括研究官）">
-      <article_item number="第十六条">
+    <articles number="第十八条" title="（総括研究官）">
+      <article_item number="第十八条">
         初等中等教育研究部に、別に所長が定める定数の総括研究官を置く。
       </article_item>
       <article_item number="２">
         総括研究官は、命を受けて、初等中等教育研究部の所掌事務に係る調査及び研究に関する特定の事項についての事務を総括整理し、及びその事務の処理に当たる。
       </article_item>
     </articles>
-    <articles number="第十七条" title="（高等教育研究部の所掌事務）">
-      <article_item number="第十七条">
+    <articles number="第十九条" title="（高等教育研究部の所掌事務）">
+      <article_item number="第十九条">
         高等教育研究部は、高等教育に関する政策に係る基礎的な事項の調査及び研究を行うことをつかさどる。
       </article_item>
     </articles>
-    <articles number="第十八条" title="（総括研究官）">
-      <article_item number="第十八条">
+    <articles number="第二十条" title="（総括研究官）">
+      <article_item number="第二十条">
         高等教育研究部に、別に所長が定める定数の総括研究官を置く。
       </article_item>
       <article_item number="２">
         総括研究官は、命を受けて、高等教育研究部の所掌事務に係る調査及び研究に関する特定の事項についての事務を総括整理し、及びその事務の処理に当たる。
       </article_item>
     </articles>
-    <articles number="第十九条" title="（国際研究・協力部の所掌事務）">
-      <article_item number="第十九条">
+    <articles number="第二十一条" title="（国際研究・協力部の所掌事務）">
+      <article_item number="第二十一条">
         国際研究・協力部は、次に掲げる事務をつかさどる。
         <go>
           <go_item number="一">
@@ -233,126 +266,66 @@
         </go>
       </article_item>
     </articles>
-    <articles number="第二十条" title="（総括研究官）">
-      <article_item number="第二十条">
+    <articles number="第二十二条" title="（総括研究官）">
+      <article_item number="第二十二条">
         国際研究・協力部に、別に所長が定める定数の総括研究官を置く。
       </article_item>
       <article_item number="２">
         総括研究官は、命を受けて、国際研究・協力部の所掌事務に係る調査及び研究に関する特定の事項についての事務を総括整理し、及びその事務の処理に当たる。
       </article_item>
     </articles>
-    <articles number="第二十一条" title="（国際調査調整官）">
-      <article_item number="第二十一条">
+    <articles number="第二十三条" title="（国際調査調整官）">
+      <article_item number="第二十三条">
         国際研究・協力部に、国際調査調整官一人を置く。
       </article_item>
       <article_item number="２">
         国際調査調整官は、命を受けて、教育に関する国際的な調査の実施に係る外国の研究機関との連絡調整その他必要な事務の処理に当たる。
       </article_item>
     </articles>
-    <articles number="第二十二条" title="（教育研究情報センターの所掌事務）">
-      <article_item number="第二十二条">
-        教育研究情報センターは、次に掲げる事務をつかさどる。
-        <go>
-          <go_item number="一">
-            教育に関する情報及び資料の収集、整理及び提供に関する調査及び研究を行うこと。
-          </go_item>
-          <go_item number="二">
-            前号の調査及び研究に関し、国内の研究機関、大学その他の関係機関との連絡及び協力を行うこと。
-          </go_item>
-          <go_item number="三">
-            教育に関する情報及び資料を収集し、整理し、及び提供すること。
-          </go_item>
-          <go_item number="四">
-            国立教育政策研究所の所掌事務に係る調査及び研究の成果に関し、公表し、及び普及を行うこと。
-          </go_item>
-          <go_item number="五">
-            国内の教育関係機関及び教育関係者に対し、教育に関する情報及び資料の収集、整理及び提供に関する援助及び助言を行うこと。
-          </go_item>
-        </go>
-      </article_item>
-    </articles>
-    <articles number="第二十三条" title="（教育研究情報センターに置く課）">
-      <article_item number="第二十三条">
-        教育研究情報センターに、情報支援課を置く。
-      </article_item>
-    </articles>
-    <articles number="第二十四条" title="（情報支援課の所掌事務）">
+    <articles number="第二十四条" title="（教育課程研究センターの所掌事務）">
       <article_item number="第二十四条">
-        情報支援課は、次に掲げる事務をつかさどる。
-        <go>
-          <go_item number="一">
-            教育研究情報センターの所掌事務に関し、企画し、及び立案すること。
-          </go_item>
-          <go_item number="二">
-            教育研究情報センターの所掌事務に関する庶務に関すること。
-          </go_item>
-          <go_item number="三">
-            教育に関する情報及び資料の収集、整理及び提供に関する調査及び研究に関し、国内の研究機関、大学その他の関係機関との連絡及び協力を行うこと。
-          </go_item>
-          <go_item number="四">
-            教育に関する情報及び資料を収集し、整理し、及び提供すること。
-          </go_item>
-          <go_item number="五">
-            国立教育政策研究所の所掌事務に係る調査及び研究の成果に関し、公表し、及び普及を行うこと。
-          </go_item>
-          <go_item number="六">
-            国内の教育関係機関及び教育関係者に対し、教育に関する情報及び資料の収集、整理及び提供に関する援助及び助言を行うこと。
-          </go_item>
-        </go>
-      </article_item>
-    </articles>
-    <articles number="第二十五条" title="（総括研究官）">
-      <article_item number="第二十五条">
-        教育研究情報センターに、別に所長が定める定数の総括研究官を置く。
-      </article_item>
-      <article_item number="２">
-        総括研究官は、命を受けて、教育研究情報センターの所掌事務に係る調査及び研究に関する特定の事項についての事務を総括整理し、及びその事務の処理に当たる。
-      </article_item>
-    </articles>
-    <articles number="第二十六条" title="（教育課程研究センターの所掌事務）">
-      <article_item number="第二十六条">
         教育課程研究センターは、次に掲げる事務をつかさどる。
         <go>
           <go_item number="一">
-            初等中等教育の教育課程に関する政策に係る基礎的な事項の調査及び研究を行うこと。
+            初等中等教育の教育課程に関する政策に係る基礎的な事項の調査及び研究を行うこと（幼児教育研究センターの所掌に属するものを除く。）。
           </go_item>
           <go_item number="二">
             前号の事務に関し、国内の研究機関、大学その他の関係機関との連絡及び協力を行うこと。
           </go_item>
           <go_item number="三">
-            国内の教育関係機関及び教育関係者に対し、初等中等教育の教育課程に関する援助及び助言を行うこと。
+            国内の教育関係機関及び教育関係者に対し、初等中等教育の教育課程に関する援助及び助言を行うこと（幼児教育研究センターの所掌に属するものを除く。）。
           </go_item>
         </go>
       </article_item>
     </articles>
-    <articles number="第二十七条" title="（教育課程研究センターに置く部等）">
-      <article_item number="第二十七条">
+    <articles number="第二十五条" title="（教育課程研究センターに置く部等）">
+      <article_item number="第二十五条">
         教育課程研究センターに、次の二部及び総合研究官一人を置く。<br/>　基礎研究部<br/>　研究開発部
       </article_item>
     </articles>
-    <articles number="第二十八条" title="（基礎研究部の所掌事務）">
-      <article_item number="第二十八条">
+    <articles number="第二十六条" title="（基礎研究部の所掌事務）">
+      <article_item number="第二十六条">
         基礎研究部は、次に掲げる事務をつかさどる。
         <go>
           <go_item number="一">
-            初等中等教育の教育課程に関する政策に係る基礎的な事項の調査及び研究を行うこと（研究開発部の所掌に属するものを除く。）。
+            初等中等教育の教育課程に関する政策に係る基礎的な事項の調査及び研究を行うこと（幼児教育研究センター及び研究開発部の所掌に属するものを除く。）。
           </go_item>
           <go_item number="二">
             前号の事務に関し、国内の研究機関、大学その他の関係機関との連絡及び協力を行うこと。
           </go_item>
           <go_item number="三">
-            国内の教育関係機関及び教育関係者に対し、初等中等教育の教育課程に関する援助及び助言を行うこと（研究開発部の所掌に属するものを除く。）。
+            国内の教育関係機関及び教育関係者に対し、初等中等教育の教育課程に関する援助及び助言を行うこと（幼児教育研究センター及び研究開発部の所掌に属するものを除く。）。
           </go_item>
         </go>
       </article_item>
     </articles>
-    <articles number="第二十九条" title="（基礎研究部に置く課）">
-      <article_item number="第二十九条">
+    <articles number="第二十七条" title="（基礎研究部に置く課）">
+      <article_item number="第二十七条">
         基礎研究部に、基礎研究課を置く。
       </article_item>
     </articles>
-    <articles number="第三十条" title="（基礎研究課の所掌事務）">
-      <article_item number="第三十条">
+    <articles number="第二十八条" title="（基礎研究課の所掌事務）">
+      <article_item number="第二十八条">
         基礎研究課は、次に掲げる事務をつかさどる。
         <go>
           <go_item number="一">
@@ -362,24 +335,24 @@
             基礎研究部の所掌事務に関する庶務に関すること。
           </go_item>
           <go_item number="三">
-            初等中等教育の教育課程に関する調査及び研究に関し、国内の研究機関、大学その他の関係機関との連絡及び協力を行うこと（研究開発部の所掌に属するものを除く。）。
+            初等中等教育の教育課程に関する調査及び研究に関し、国内の研究機関、大学その他の関係機関との連絡及び協力を行うこと（幼児教育研究センター及び研究開発部の所掌に属するものを除く。）。
           </go_item>
           <go_item number="四">
-            国内の教育関係機関及び教育関係者に対し、初等中等教育の教育課程に関する援助及び助言を行うこと（研究開発部の所掌に属するものを除く。）。
+            国内の教育関係機関及び教育関係者に対し、初等中等教育の教育課程に関する援助及び助言を行うこと（幼児教育研究センター及び研究開発部の所掌に属するものを除く。）。
           </go_item>
         </go>
       </article_item>
     </articles>
-    <articles number="第三十一条" title="（総括研究官）">
-      <article_item number="第三十一条">
+    <articles number="第二十九条" title="（総括研究官）">
+      <article_item number="第二十九条">
         基礎研究部に、別に所長が定める定数の総括研究官を置く。
       </article_item>
       <article_item number="２">
         総括研究官は、命を受けて、基礎研究部の所掌事務に係る調査及び研究に関する特定の事項についての事務を総括整理し、及びその事務の処理に当たる。
       </article_item>
     </articles>
-    <articles number="第三十二条" title="（研究開発部の所掌事務）">
-      <article_item number="第三十二条">
+    <articles number="第三十条" title="（研究開発部の所掌事務）">
+      <article_item number="第三十条">
         研究開発部は、次に掲げる事務をつかさどる。
         <go>
           <go_item number="一">
@@ -394,13 +367,13 @@
         </go>
       </article_item>
     </articles>
-    <articles number="第三十三条" title="（研究開発部に置く課）">
-      <article_item number="第三十三条">
+    <articles number="第三十一条" title="（研究開発部に置く課）">
+      <article_item number="第三十一条">
         研究開発部に、次の二課を置く。<br/>　研究開発課<br/>　学力調査課
       </article_item>
     </articles>
-    <articles number="第三十四条" title="（研究開発課の所掌事務）">
-      <article_item number="第三十四条">
+    <articles number="第三十二条" title="（研究開発課の所掌事務）">
+      <article_item number="第三十二条">
         研究開発課は、次に掲げる事務をつかさどる。
         <go>
           <go_item number="一">
@@ -418,8 +391,8 @@
         </go>
       </article_item>
     </articles>
-    <articles number="第三十五条" title="（学力調査課の所掌事務）">
-      <article_item number="第三十五条">
+    <articles number="第三十三条" title="（学力調査課の所掌事務）">
+      <article_item number="第三十三条">
         学力調査課は、次に掲げる事務をつかさどる。
         <go>
           <go_item number="一">
@@ -434,8 +407,8 @@
         </go>
       </article_item>
     </articles>
-    <articles number="第三十六条" title="（教育課程調査官）">
-      <article_item number="第三十六条">
+    <articles number="第三十四条" title="（教育課程調査官）">
+      <article_item number="第三十四条">
         研究開発部に、教育課程調査官三十八人を置く。
       </article_item>
       <article_item number="２">
@@ -450,8 +423,8 @@
         </go>
       </article_item>
     </articles>
-    <articles number="第三十七条" title="（学力調査官）">
-      <article_item number="第三十七条">
+    <articles number="第三十五条" title="（学力調査官）">
+      <article_item number="第三十五条">
         研究開発部に、学力調査官十一人を置く。
       </article_item>
       <article_item number="２">
@@ -469,21 +442,21 @@
         第一項に規定するもののほか、研究開発部に、非常勤の学力調査官を置くことができる。この場合において、当該学力調査官の職務については、前項の規定を準用する。
       </article_item>
     </articles>
-    <articles number="第三十八条" title="（情報統計官）">
-      <article_item number="第三十八条">
+    <articles number="第三十六条" title="（情報統計官）">
+      <article_item number="第三十六条">
         研究開発部に、情報統計官一人を置く。
       </article_item>
       <article_item number="２">
         情報統計官は、命を受けて、児童及び生徒の学力を把握するための調査及び研究に関する情報及び資料の収集、分析及び提供に当たる。
       </article_item>
     </articles>
-    <articles number="第三十九条" title="（総合研究官の職務）">
-      <article_item number="第三十九条">
+    <articles number="第三十七条" title="（総合研究官の職務）">
+      <article_item number="第三十七条">
         総合研究官は、命を受けて、科学教育の教育課程に関する政策に係る基礎的な事項の調査及び研究に関する重要事項についての事務の処理に当たる。
       </article_item>
     </articles>
-    <articles number="第四十条" title="（生徒指導・進路指導研究センターの所掌事務）">
-      <article_item number="第四十条">
+    <articles number="第三十八条" title="（生徒指導・進路指導研究センターの所掌事務）">
+      <article_item number="第三十八条">
         生徒指導・進路指導研究センターは、次に掲げる事務をつかさどる。
         <go>
           <go_item number="一">
@@ -498,13 +471,13 @@
         </go>
       </article_item>
     </articles>
-    <articles number="第四十一条" title="（生徒指導・進路指導研究センターに置く課）">
-      <article_item number="第四十一条">
+    <articles number="第三十九条" title="（生徒指導・進路指導研究センターに置く課）">
+      <article_item number="第三十九条">
         生徒指導・進路指導研究センターに、企画課を置く。
       </article_item>
     </articles>
-    <articles number="第四十二条" title="（企画課の所掌事務）">
-      <article_item number="第四十二条">
+    <articles number="第四十条" title="（企画課の所掌事務）">
+      <article_item number="第四十条">
         企画課は、次に掲げる事務をつかさどる。
         <go>
           <go_item number="一">
@@ -522,12 +495,36 @@
         </go>
       </article_item>
     </articles>
-    <articles number="第四十三条" title="（総括研究官）">
-      <article_item number="第四十三条">
+    <articles number="第四十一条" title="（総括研究官）">
+      <article_item number="第四十一条">
         生徒指導・進路指導研究センターに、別に所長が定める定数の総括研究官を置く。
       </article_item>
       <article_item number="２">
         総括研究官は、命を受けて、生徒指導・進路指導研究センターの所掌事務に係る調査及び研究に関する特定の事項についての事務を総括整理し、及びその事務の処理に当たる。
+      </article_item>
+    </articles>
+    <articles number="第四十二条" title="（幼児教育研究センターの所掌事務）">
+      <article_item number="第四十二条">
+        幼児教育研究センターは、次に掲げる事務をつかさどる。
+        <go>
+          <go_item number="一">
+            幼児に対する教育に関する政策に係る基礎的な事項の調査及び研究を行うこと（幼児に対する教育の教育課程の実施に関する政策に係るものを除く。）。
+          </go_item>
+          <go_item number="二">
+            前号の事務に関し、国内の研究機関、大学その他の関係機関との連絡及び協力を行うこと。
+          </go_item>
+          <go_item number="三">
+            国内の教育関係機関及び教育関係者に対し、幼児に対する教育に関する援助及び助言を行うこと（幼児に対する教育の教育課程の実施に関するものを除く。）。
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第四十三条" title="（総括研究官）">
+      <article_item number="第四十三条">
+        幼児教育研究センターに、別に所長が定める定数の総括研究官を置く。
+      </article_item>
+      <article_item number="２">
+        総括研究官は、命を受けて、幼児教育研究センターの所掌事務に係る調査及び研究に関する特定の事項についての事務を総括整理し、及びその事務の処理に当たる。
       </article_item>
     </articles>
     <articles number="第四十四条" title="（社会教育実践研究センターの所掌事務）">
@@ -612,12 +609,12 @@
     </articles>
     <articles number="第五十条" title="（総括研究官の総数）">
       <article_item number="第五十条">
-        第十条第一項、第十二条第一項、第十四条第一項、第十六条第一項、第十八条第一項、第二十条第一項、第二十五条第一項、第三十一条第一項、第四十三条第一項及び第四十九条第一項に規定する総括研究官の総数は、四十七人とする。
+        第十二条第一項、第十四条第一項、第十六条第一項、第十八条第一項、第二十条第一項、第二十二条第一項、第二十九条第一項、第四十一条第一項、第四十三条第一項及び第四十九条第一項に規定する総括研究官の総数は、四十五人とする。
       </article_item>
     </articles>
     <articles number="第五十一条" title="（センター長）">
       <article_item number="第五十一条">
-        教育研究情報センター、教育課程研究センター、生徒指導・進路指導研究センター、社会教育実践研究センター及び文教施設研究センターに、センター長を置く。
+        教育課程研究センター、生徒指導・進路指導研究センター、幼児教育研究センター、社会教育実践研究センター及び文教施設研究センターに、センター長を置く。
       </article_item>
       <article_item number="２">
         生徒指導・進路指導研究センター及び社会教育実践研究センターのセンター長は、関係のある他の職を占める者をもって充てられるものとする。
@@ -628,7 +625,7 @@
         国立教育政策研究所に、客員研究員を置くことができる。
       </article_item>
       <article_item number="２">
-        客員研究員は、命を受けて、研究企画開発部、教育政策・評価研究部、生涯学習政策研究部、初等中等教育研究部、高等教育研究部、国際研究・協力部、教育研究情報センター、教育課程研究センター、生徒指導・進路指導研究センター、社会教育実践研究センター及び文教施設研究センターの行う調査及び研究に参画する。
+        客員研究員は、命を受けて、研究企画開発部、教育政策・評価研究部、生涯学習政策研究部、初等中等教育研究部、高等教育研究部、国際研究・協力部、教育課程研究センター、生徒指導・進路指導研究センター、幼児教育研究センター、社会教育実践研究センター及び文教施設研究センターの行う調査及び研究に参画する。
       </article_item>
       <article_item number="３">
         客員研究員は、非常勤とする。

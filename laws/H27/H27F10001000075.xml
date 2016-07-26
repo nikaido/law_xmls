@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>個人情報保護委員会事務局組織規則</title>
+    <defined>平成二十七年十二月二十二日内閣府令第七十五号</defined>
+    <updated>平成二八年三月三一日内閣府令第三二号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        個人情報の保護に関する法律（平成十五年法律第五十七号）第五章の規定及び個人情報保護委員会事務局組織令（平成二十七年政令第四百三十四号）を実施するため、個人情報保護委員会事務局組織規則を次のように定める。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（企画官及び調査官）">
+      <article_item number="第一条">
+        個人情報保護委員会の事務局総務課に、企画官二人及び調査官一人を置く。
+      </article_item>
+      <article_item number="２">
+        企画官は、命を受けて、総務課の所掌事務のうち特定事項の調査、企画及び立案を行う。
+      </article_item>
+      <article_item number="３">
+        調査官は、命を受けて、総務課の所掌事務のうち専門的事項の調査、企画及び立案を行う。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（企画官）">
+      <article_item number="第二条">
+        個人情報保護委員会の事務局に、企画官四人を置く。
+      </article_item>
+      <article_item number="２">
+        企画官は、命を受けて、参事官の職務のうち特定事項の調査、企画及び立案を助ける。
+      </article_item>
+    </articles>
+  </body>
+</law>

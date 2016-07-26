@@ -3,7 +3,7 @@
   <head>
     <title>漁船法施行規則</title>
     <defined>昭和二十五年八月十二日農林省令第九十五号</defined>
-    <updated>平成二七年四月一日農林水産省令第三六号</updated>
+    <updated>平成二八年三月三一日農林水産省令第二三号</updated>
   </head>
   <body>
     <preamble>
@@ -694,14 +694,19 @@
         </articles>
       </section>
     </section>
-    <section title="第七章　雑則" type="Sho">
-      <articles number="第四十五条" title="（立入検査の職員の証票）">
+    <section title="第七章　雑則 " type="Sho">
+      <articles number="第四十五条" title="（映像等の送受信による通話の方法による意見の聴取）">
         <article_item number="第四十五条">
+          漁船法施行令（平成十三年政令第三百七号）第二条において読み替えて準用する行政不服審査法施行令（平成二十七年政令第三百九十一号）第八条に規定する方法によつて法第四十八条第一項の意見の聴取の期日における審理を行う場合には、審理関係人（行政不服審査法（平成二十六年法律第六十八号）第二十八条に規定する審理関係人をいう。以下この条において同じ。）の意見を聴いて、当該審理に必要な装置が設置された場所であつて行政不服審査法第十一条第二項に規定する審理員が相当と認める場所を、審理関係人ごとに指定して行う。
+        </article_item>
+      </articles>
+      <articles number="第四十六条" title="（立入検査の職員の証票）">
+        <article_item number="第四十六条">
           法第五十条第四項の証票は、別記様式第十九号による。
         </article_item>
       </articles>
-      <articles number="第四十六条" title="（手数料）">
-        <article_item number="第四十六条">
+      <articles number="第四十七条" title="（手数料）">
+        <article_item number="第四十七条">
           法第五十二条第一項の農林水産省令で定める額は、次の表のとおりとする。
           <table>
             <tr>

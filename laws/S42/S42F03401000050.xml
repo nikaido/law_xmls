@@ -3,7 +3,7 @@
   <head>
     <title>通関業法施行規則</title>
     <defined>昭和四十二年八月一日大蔵省令第五十号</defined>
-    <updated>平成二二年一月二六日財務省令第二号</updated>
+    <updated>平成二八年三月三一日財務省令第三一号</updated>
   </head>
   <body>
     <preamble>
@@ -39,8 +39,13 @@
         </go>
       </article_item>
     </articles>
-    <articles number="第二条" title="（試験の方法等）">
+    <articles number="第二条" title="（許可の承継に係る承認申請の添付書面）">
       <article_item number="第二条">
+        前条の規定は、通関業法施行令（昭和四十二年政令第二百三十七号。以下「令」という。）第二条の二第三項に規定する財務省令で定める書面について準用する。
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（試験の方法等）">
+      <article_item number="第三条">
         通関士試験は、法第二十三条第二項各号に掲げる科目について、筆記の方法により全国同時に行う。
       </article_item>
       <article_item number="２">
@@ -64,18 +69,18 @@
         </go>
       </article_item>
     </articles>
-    <articles number="第三条" title="（試験実施地）">
-      <article_item number="第三条">
+    <articles number="第四条" title="（試験実施地）">
+      <article_item number="第四条">
         通関士試験は、東京都、新潟県、神奈川県、宮城県、兵庫県、広島県、大阪府、愛知県、静岡県、福岡県、熊本県、北海道、沖縄県及び財務大臣が指定するその他の場所において行う。
       </article_item>
     </articles>
-    <articles number="第四条" title="（試験の日時、場所等の公告）">
-      <article_item number="第四条">
+    <articles number="第五条" title="（試験の日時、場所等の公告）">
+      <article_item number="第五条">
         財務大臣は、通関士試験の実施に当たつて、試験の日時、場所及び受験願書の受付期間その他通関士試験の実施に関し必要な事項を定め、あらかじめ官報で公告する。
       </article_item>
     </articles>
-    <articles number="第五条" title="（受験願書）">
-      <article_item number="第五条">
+    <articles number="第六条" title="（受験願書）">
+      <article_item number="第六条">
         通関士試験を受けようとする者は、通関士試験受験願書に次に掲げる書面を添付し、当該願書の受付期間内に、試験を受けようとする場所を管轄する税関長に提出しなければならない。
         <go>
           <go_item number="一">
@@ -87,21 +92,21 @@
         </go>
       </article_item>
     </articles>
-    <articles number="第六条" title="（試験科目の一部免除の申請）">
-      <article_item number="第六条">
+    <articles number="第七条" title="（試験科目の一部免除の申請）">
+      <article_item number="第七条">
         法第二十四条の規定により同条第一号又は第二号に掲げる試験科目につき試験の免除を申請しようとする者は、試験科目の一部免除申請書に当該試験科目につき試験の免除を受ける資格を有することを証する書類を添付し、試験を受けようとする場所を管轄する税関長に提出しなければならない。
       </article_item>
       <article_item number="２">
         税関長は、前項の申請書の提出があつた場合には、その申請者が試験科目につき試験の免除を受ける資格を有するかどうかを審査し、その結果を文書をもつて申請者に通知しなければならない。
       </article_item>
     </articles>
-    <articles number="第七条" title="（受験手数料）">
-      <article_item number="第七条">
-        法第二十六条第一項の受験手数料は、受験願書に、通関業法施行令（昭和四十二年政令第二百三十七号）第十二条本文に規定する受験手数料の金額に相当する額の収入印紙をはつて、納付しなければならない。ただし、電子情報処理組織による輸出入等関連業務の処理等に関する法律第二条第一号（定義）に規定する電子情報処理組織を使用して受験願書を提出する場合にあつては、同令第十二条ただし書に規定する金額の受験手数料を、当該提出により得られた納付情報により、納付しなければならない。
+    <articles number="第八条" title="（受験手数料）">
+      <article_item number="第八条">
+        法第二十六条第一項の受験手数料は、受験願書に、令第十二条本文に規定する受験手数料の金額に相当する額の収入印紙を貼つて、納付しなければならない。ただし、電子情報処理組織による輸出入等関連業務の処理等に関する法律第二条第一号（定義）に規定する電子情報処理組織を使用して受験願書を提出する場合にあつては、令第十二条ただし書に規定する金額の受験手数料を、当該提出により得られた納付情報により、納付しなければならない。
       </article_item>
     </articles>
-    <articles number="第八条" title="（合格証書の交付等）">
-      <article_item number="第八条">
+    <articles number="第九条" title="（合格証書の交付等）">
+      <article_item number="第九条">
         税関長は、通関士試験に合格した者に、当該試験に合格したことを証する証書を交付するとともに、その氏名を官報で公告しなければならない。
       </article_item>
     </articles>

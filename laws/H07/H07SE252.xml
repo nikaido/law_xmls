@@ -3,7 +3,7 @@
   <head>
     <title>沖縄県における駐留軍用地跡地の有効かつ適切な利用の推進に関する特別措置法施行令</title>
     <defined>平成七年六月十六日政令第二百五十二号</defined>
-    <updated>平成二七年三月三一日政令第一六三号</updated>
+    <updated>平成二八年四月一日政令第一八八号</updated>
   </head>
   <body>
     <preamble>
@@ -66,8 +66,31 @@
         法第二十七条第一項の政令で定める面積は、二百ヘクタールとする。
       </article_item>
     </articles>
-    <articles number="第八条" title="（特定給付金の支給の手続等）">
+    <articles number="第八条" title="（法第二十九条第二項の政令で定める期間）">
       <article_item number="第八条">
+        法第二十九条第二項の政令で定める期間は、次の表の上欄に掲げる駐留軍用地跡地について、同表の下欄に掲げるとおりとする。
+        <table>
+          <tr>
+            <td>
+              駐留軍用地跡地
+            </td>
+            <td>
+              期間
+            </td>
+          </tr>
+          <tr>
+            <td>
+              平成二十二年七月三十一日にアメリカ合衆国から返還を受けたキャンプ瑞慶覧の区域
+            </td>
+            <td>
+              二年
+            </td>
+          </tr>
+        </table>
+      </article_item>
+    </articles>
+    <articles number="第九条" title="（特定給付金の支給の手続等）">
+      <article_item number="第九条">
         法第二十九条第一項の特定給付金（次項において単に「特定給付金」という。）は、基準日（同条第一項に規定する基準日をいう。）以後一年ごとに区分した各期間（一年未満の期間が生じたときは、その一年未満の期間）について支給するものとする。
       </article_item>
       <article_item number="２">

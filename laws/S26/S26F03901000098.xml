@@ -3,7 +3,7 @@
   <head>
     <title>港湾法施行規則</title>
     <defined>昭和二十六年十一月二十二日運輸省令第九十八号</defined>
-    <updated>平成二七年七月一五日国土交通省令第五三号</updated>
+    <updated>平成二八年二月二九日国土交通省令第八号</updated>
   </head>
   <body>
     <preamble>
@@ -823,8 +823,21 @@
         第十一条の八の規定は、法第四十三条の十九第三項の規定による公示について準用する。
       </article_item>
     </articles>
-    <articles number="第十一条の十三" title="（財務及び営業の方針の決定に対して重要な影響を与えることが推測される事実）">
+    <articles number="第十一条の十三" title="（埠頭群の運営の事業の引継ぎ等）">
       <article_item number="第十一条の十三">
+        法第四十三条の十九第一項又は第二項の規定による指定の取消しに係る国際戦略港湾又は国際拠点港湾の港湾運営会社は、次に掲げる事項を行わなければならない。
+        <go>
+          <go_item number="一">
+            埠頭群の運営の事業に関する書類を国際戦略港湾若しくは国際拠点港湾の港湾管理者又は当該埠頭群の運営の事業の全部を承継するものとして国土交通大臣若しくは国際拠点港湾の港湾管理者が指定する港湾運営会社に引き継ぐこと。
+          </go_item>
+          <go_item number="二">
+            その他国土交通大臣が必要と認める事項
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第十一条の十四" title="（財務及び営業の方針の決定に対して重要な影響を与えることが推測される事実）">
+      <article_item number="第十一条の十四">
         法第四十三条の二十一第一項に規定する国土交通省令で定める事実は、次に掲げる事実とする。
         <go>
           <go_item number="一">
@@ -845,8 +858,8 @@
         </go>
       </article_item>
     </articles>
-    <articles number="第十一条の十四" title="（取得又は保有の態様その他の事情を勘案して取得又は保有する議決権から除く議決権）">
-      <article_item number="第十一条の十四">
+    <articles number="第十一条の十五" title="（取得又は保有の態様その他の事情を勘案して取得又は保有する議決権から除く議決権）">
+      <article_item number="第十一条の十五">
         法第四十三条の二十一第一項に規定する国土交通省令で定めるものは、次に掲げるものとする。
         <go>
           <go_item number="一">
@@ -867,8 +880,8 @@
         </go>
       </article_item>
     </articles>
-    <articles number="第十一条の十五" title="（取得等の制限の適用除外）">
-      <article_item number="第十一条の十五">
+    <articles number="第十一条の十六" title="（取得等の制限の適用除外）">
+      <article_item number="第十一条の十六">
         法第四十三条の二十一第二項に規定する国土交通省令で定める場合は、次に掲げる場合とする。
         <go>
           <go_item number="一">
@@ -886,8 +899,8 @@
         </go>
       </article_item>
     </articles>
-    <articles number="第十一条の十六" title="（特定保有者の届出）">
-      <article_item number="第十一条の十六">
+    <articles number="第十一条の十七" title="（特定保有者の届出）">
+      <article_item number="第十一条の十七">
         法第四十三条の二十一第三項の届出は、特定保有者となつた日から二週間以内に行わなければならない。
       </article_item>
       <article_item number="２">
@@ -908,8 +921,8 @@
         </go>
       </article_item>
     </articles>
-    <articles number="第十一条の十七" title="（特別の関係にある者）">
-      <article_item number="第十一条の十七">
+    <articles number="第十一条の十八" title="（特別の関係にある者）">
+      <article_item number="第十一条の十八">
         法第四十三条の二十一第五項第二号（法第四十三条の二十二第二項において準用する場合を含む。）に規定する国土交通省令で定める特別の関係にある者は、次に掲げる関係にある者（地方公共団体若しくは港務局又はその総株主の議決権の三分の二以上の数の議決権を地方公共団体が保有している株式会社を除く。）とする。
         <go>
           <go_item number="一">
@@ -939,21 +952,21 @@
         第一項第二号及び第二項から前項までの場合において、これらの規定に規定する者が保有する議決権には、社債、株式等の振替に関する法律（平成十三年法律第七十五号）第百四十七条第一項又は第百四十八条第一項の規定により発行者に対抗することができない株式に係る議決権を含むものとする。
       </article_item>
     </articles>
-    <articles number="第十一条の十八" title="（対象議決権保有届出書の提出等）">
-      <article_item number="第十一条の十八">
+    <articles number="第十一条の十九" title="（対象議決権保有届出書の提出等）">
+      <article_item number="第十一条の十九">
         法第四十三条の二十二第一項の規定により対象議決権保有届出書を提出する者は、対象議決権保有者となつた日から二週間以内に、第三号の二様式により作成した対象議決権保有届出書を、当該港湾運営会社の指定をした国土交通大臣又は国際拠点港湾の港湾管理者に提出するものとする。
       </article_item>
       <article_item number="２">
         法第四十三条の二十二第一項に規定する対象議決権保有割合、保有の目的その他国土交通省令で定める事項は、第三号の二様式に定める事項とする。
       </article_item>
     </articles>
-    <articles number="第十一条の十九" title="（証明書の様式）">
-      <article_item number="第十一条の十九">
+    <articles number="第十一条の二十" title="（証明書の様式）">
+      <article_item number="第十一条の二十">
         法第四十三条の二十三第二項の規定による証明書は、第三号の三様式によるものとする。
       </article_item>
     </articles>
-    <articles number="第十一条の二十" title="（発行済株式総数の公表等）">
-      <article_item number="第十一条の二十">
+    <articles number="第十一条の二十一" title="（発行済株式総数の公表等）">
+      <article_item number="第十一条の二十一">
         法第四十三条の二十四の規定による公表は、港湾運営会社のウェブサイトへの掲載その他の適切な方法により行うものとする。
       </article_item>
       <article_item number="２">

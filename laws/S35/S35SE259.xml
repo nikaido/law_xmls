@@ -3,7 +3,7 @@
   <head>
     <title>放射性同位元素等による放射線障害の防止に関する法律施行令</title>
     <defined>昭和三十五年九月三十日政令第二百五十九号</defined>
-    <updated>平成二七年三月一八日政令第七四号</updated>
+    <updated>平成二八年三月三〇日政令第八六号</updated>
   </head>
   <body>
     <preamble>
@@ -313,42 +313,33 @@
               放射性同位元素等による放射線障害の防止に関する法律
             </go_item>
             <go_item number="二">
-              大気汚染防止法（昭和四十三年法律第九十七号）
-            </go_item>
-            <go_item number="三">
               海洋汚染等及び海上災害の防止に関する法律（昭和四十五年法律第百三十六号）
             </go_item>
-            <go_item number="四">
+            <go_item number="三">
               廃棄物の処理及び清掃に関する法律（昭和四十五年法律第百三十七号）
             </go_item>
-            <go_item number="五">
-              水質汚濁防止法（昭和四十五年法律第百三十八号）
-            </go_item>
-            <go_item number="六">
+            <go_item number="四">
               農用地の土壌の汚染防止等に関する法律（昭和四十五年法律第百三十九号）
             </go_item>
-            <go_item number="七">
+            <go_item number="五">
               海洋水産資源開発促進法（昭和四十六年法律第六十号）
             </go_item>
-            <go_item number="八">
+            <go_item number="六">
               資源の有効な利用の促進に関する法律（平成三年法律第四十八号）
             </go_item>
-            <go_item number="九">
+            <go_item number="七">
               特定有害廃棄物等の輸出入等の規制に関する法律（平成四年法律第百八号）
             </go_item>
-            <go_item number="十">
-              環境影響評価法（平成九年法律第八十一号）
-            </go_item>
-            <go_item number="十一">
+            <go_item number="八">
               土壌汚染対策法（平成十四年法律第五十三号）
             </go_item>
-            <go_item number="十二">
+            <go_item number="九">
               輸出貿易管理令（昭和二十四年政令第三百七十八号）
             </go_item>
-            <go_item number="十三">
+            <go_item number="十">
               放射性同位元素等による放射線障害の防止に関する法律施行令
             </go_item>
-            <go_item number="十四">
+            <go_item number="十一">
               武力攻撃事態等における国民の保護のための措置に関する法律施行令（平成十六年政令第二百七十五号）
             </go_item>
           </go>
@@ -1098,7 +1089,7 @@
               国立研究開発法人物質・材料研究機構
             </go_item>
             <go_item number="四">
-              国立研究開発法人放射線医学総合研究所
+              国立研究開発法人量子科学技術研究開発機構
             </go_item>
             <go_item number="五">
               独立行政法人国立美術館
@@ -1107,73 +1098,64 @@
               独立行政法人国立文化財機構
             </go_item>
             <go_item number="七">
-              独立行政法人労働安全衛生総合研究所
-            </go_item>
-            <go_item number="八">
               独立行政法人農林水産消費安全技術センター
             </go_item>
-            <go_item number="九">
-              独立行政法人水産大学校
-            </go_item>
-            <go_item number="十">
+            <go_item number="八">
               国立研究開発法人農業・食品産業技術総合研究機構
             </go_item>
-            <go_item number="十一">
-              国立研究開発法人農業生物資源研究所
-            </go_item>
-            <go_item number="十二">
-              国立研究開発法人農業環境技術研究所
-            </go_item>
-            <go_item number="十三">
+            <go_item number="九">
               国立研究開発法人国際農林水産業研究センター
             </go_item>
-            <go_item number="十四">
+            <go_item number="十">
               国立研究開発法人森林総合研究所
             </go_item>
-            <go_item number="十五">
-              国立研究開発法人水産総合研究センター
+            <go_item number="十一">
+              国立研究開発法人水産研究・教育機構
             </go_item>
-            <go_item number="十六">
+            <go_item number="十二">
               国立研究開発法人産業技術総合研究所
             </go_item>
-            <go_item number="十七">
+            <go_item number="十三">
               独立行政法人製品評価技術基盤機構
             </go_item>
-            <go_item number="十八">
-              独立行政法人交通安全環境研究所
+            <go_item number="十四">
+              国立研究開発法人海上・港湾・航空技術研究所
             </go_item>
-            <go_item number="十九">
-              国立研究開発法人海上技術安全研究所
-            </go_item>
-            <go_item number="二十">
+            <go_item number="十五">
               独立行政法人海技教育機構
             </go_item>
-            <go_item number="二十一">
+            <go_item number="十六">
               国立研究開発法人国立環境研究所
             </go_item>
-            <go_item number="二十二">
+            <go_item number="十七">
               独立行政法人国立高等専門学校機構
             </go_item>
-            <go_item number="二十三">
+            <go_item number="十八">
               独立行政法人国立病院機構
             </go_item>
-            <go_item number="二十四">
+            <go_item number="十九">
               国立研究開発法人国立がん研究センター
             </go_item>
-            <go_item number="二十五">
+            <go_item number="二十">
               国立研究開発法人国立循環器病研究センター
             </go_item>
-            <go_item number="二十六">
+            <go_item number="二十一">
               国立研究開発法人国立精神・神経医療研究センター
             </go_item>
-            <go_item number="二十七">
+            <go_item number="二十二">
               国立研究開発法人国立国際医療研究センター
             </go_item>
-            <go_item number="二十八">
+            <go_item number="二十三">
               国立研究開発法人国立成育医療研究センター
             </go_item>
-            <go_item number="二十九">
+            <go_item number="二十四">
               国立研究開発法人国立長寿医療研究センター
+            </go_item>
+            <go_item number="二十五">
+              独立行政法人自動車技術総合機構
+            </go_item>
+            <go_item number="二十六">
+              独立行政法人労働者健康安全機構
             </go_item>
           </go>
         </article_item>

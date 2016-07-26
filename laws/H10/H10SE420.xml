@@ -3,7 +3,7 @@
   <head>
     <title>感染症の予防及び感染症の患者に対する医療に関する法律施行令</title>
     <defined>平成十年十二月二十八日政令第四百二十号</defined>
-    <updated>平成二七年三月三一日政令第一三八号</updated>
+    <updated>平成二八年二月五日政令第四一号</updated>
   </head>
   <body>
     <preamble>
@@ -53,78 +53,81 @@
             サル痘
           </go_item>
           <go_item number="九">
-            重症熱性血小板減少症候群（病原体がフレボウイルス属ＳＦＴＳウイルスであるものに限る。）
+            ジカウイルス感染症
           </go_item>
           <go_item number="十">
-            腎症候性出血熱
+            重症熱性血小板減少症候群（病原体がフレボウイルス属ＳＦＴＳウイルスであるものに限る。）
           </go_item>
           <go_item number="十一">
-            西部ウマ脳炎
+            腎症候性出血熱
           </go_item>
           <go_item number="十二">
-            ダニ媒介脳炎
+            西部ウマ脳炎
           </go_item>
           <go_item number="十三">
-            チクングニア熱
+            ダニ媒介脳炎
           </go_item>
           <go_item number="十四">
-            つつが虫病
+            チクングニア熱
           </go_item>
           <go_item number="十五">
-            デング熱
+            つつが虫病
           </go_item>
           <go_item number="十六">
-            東部ウマ脳炎
+            デング熱
           </go_item>
           <go_item number="十七">
-            ニパウイルス感染症
+            東部ウマ脳炎
           </go_item>
           <go_item number="十八">
-            日本紅斑熱
+            ニパウイルス感染症
           </go_item>
           <go_item number="十九">
-            日本脳炎
+            日本紅斑熱
           </go_item>
           <go_item number="二十">
-            ハンタウイルス肺症候群
+            日本脳炎
           </go_item>
           <go_item number="二十一">
-            Ｂウイルス病
+            ハンタウイルス肺症候群
           </go_item>
           <go_item number="二十二">
-            鼻疽
+            Ｂウイルス病
           </go_item>
           <go_item number="二十三">
-            ブルセラ症
+            鼻疽
           </go_item>
           <go_item number="二十四">
-            ベネズエラウマ脳炎
+            ブルセラ症
           </go_item>
           <go_item number="二十五">
-            ヘンドラウイルス感染症
+            ベネズエラウマ脳炎
           </go_item>
           <go_item number="二十六">
-            発しんチフス
+            ヘンドラウイルス感染症
           </go_item>
           <go_item number="二十七">
-            ライム病
+            発しんチフス
           </go_item>
           <go_item number="二十八">
-            リッサウイルス感染症
+            ライム病
           </go_item>
           <go_item number="二十九">
-            リフトバレー熱
+            リッサウイルス感染症
           </go_item>
           <go_item number="三十">
-            類鼻疽
+            リフトバレー熱
           </go_item>
           <go_item number="三十一">
-            レジオネラ症
+            類鼻疽
           </go_item>
           <go_item number="三十二">
-            レプトスピラ症
+            レジオネラ症
           </go_item>
           <go_item number="三十三">
+            レプトスピラ症
+          </go_item>
+          <go_item number="三十四">
             ロッキー山紅斑熱
           </go_item>
         </go>
@@ -431,7 +434,18 @@
               第二十六条において読み替えて準用する第二十条第二項若しくは第三項
             </td>
           </tr>
-        </table> 
+          <tr>
+            <td>
+              第二十五条第七項
+            </td>
+            <td>
+              第十九条第三項又は第五項
+            </td>
+            <td>
+              第二十六条において読み替えて準用する第十九条第三項又は第五項
+            </td>
+          </tr>
+        </table>
       </article_item>
     </articles>
     <articles number="第八条" title="（建物に係る措置の基準）">

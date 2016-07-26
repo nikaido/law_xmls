@@ -3,7 +3,7 @@
   <head>
     <title>労働安全衛生法施行令</title>
     <defined>昭和四十七年八月十九日政令第三百十八号</defined>
-    <updated>平成二七年八月一二日政令第二九四号</updated>
+    <updated>平成二八年二月二四日政令第五〇号</updated>
   </head>
   <body>
     <preamble>
@@ -749,321 +749,12 @@
         法第五十七条第一項の政令で定める物は、次のとおりとする。
         <go>
           <go_item number="一">
-            アクリルアミド
-          </go_item>
-          <go_item number="一の二">
-            アクリロニトリル
-          </go_item>
-          <go_item number="一の三">
-            アセトン
+            別表第九に掲げる物（イットリウム、インジウム、カドミウム、銀、クロム、コバルト、すず、タリウム、タングステン、タンタル、銅、鉛、ニッケル、白金、ハフニウム、フェロバナジウム、マンガン、モリブデン又はロジウムにあつては、粉状のものに限る。）
           </go_item>
           <go_item number="二">
-            アルキル水銀化合物（アルキル基がメチル基又はエチル基である物に限る。）
-          </go_item>
-          <go_item number="二の二">
-            イソブチルアルコール
-          </go_item>
-          <go_item number="二の三">
-            イソプロピルアルコール
-          </go_item>
-          <go_item number="二の四">
-            イソペンチルアルコール（別名イソアミルアルコール）
-          </go_item>
-          <go_item number="二の五">
-            インジウム化合物
-          </go_item>
-          <go_item number="二の六">
-            エチルアミン
-          </go_item>
-          <go_item number="二の七">
-            エチルエーテル
-          </go_item>
-          <go_item number="二の八">
-            エチルベンゼン
+            別表第九に掲げる物を含有する製剤その他の物で、厚生労働省令で定めるもの
           </go_item>
           <go_item number="三">
-            エチレンイミン
-          </go_item>
-          <go_item number="三の二">
-            エチレンオキシド
-          </go_item>
-          <go_item number="三の三">
-            エチレングリコールモノエチルエーテル（別名セロソルブ）
-          </go_item>
-          <go_item number="三の四">
-            エチレングリコールモノエチルエーテルアセテート（別名セロソルブアセテート）
-          </go_item>
-          <go_item number="三の五">
-            エチレングリコールモノ－ノルマル－ブチルエーテル（別名ブチルセロソルブ）
-          </go_item>
-          <go_item number="三の六">
-            エチレングリコールモノメチルエーテル（別名メチルセロソルブ）
-          </go_item>
-          <go_item number="四">
-            塩化ビニル
-          </go_item>
-          <go_item number="五">
-            オーラミン
-          </go_item>
-          <go_item number="五の二">
-            オルト－ジクロルベンゼン
-          </go_item>
-          <go_item number="六">
-            オルト－フタロジニトリル
-          </go_item>
-          <go_item number="六の二">
-            過酸化水素
-          </go_item>
-          <go_item number="七">
-            カドミウム化合物
-          </go_item>
-          <go_item number="七の二">
-            キシレン
-          </go_item>
-          <go_item number="七の三">
-            クレゾール
-          </go_item>
-          <go_item number="八">
-            クロム酸及びその塩
-          </go_item>
-          <go_item number="八の二">
-            クロルベンゼン
-          </go_item>
-          <go_item number="九">
-            クロロホルム
-          </go_item>
-          <go_item number="九の二">
-            クロロメチルメチルエーテル
-          </go_item>
-          <go_item number="九の三">
-            五酸化バナジウム
-          </go_item>
-          <go_item number="九の四">
-            コバルト及びその無機化合物
-          </go_item>
-          <go_item number="九の五">
-            コールタール
-          </go_item>
-          <go_item number="九の六">
-            酢酸イソブチル
-          </go_item>
-          <go_item number="九の七">
-            酢酸イソプロピル
-          </go_item>
-          <go_item number="九の八">
-            酢酸イソペンチル（別名酢酸イソアミル）
-          </go_item>
-          <go_item number="九の九">
-            酢酸エチル
-          </go_item>
-          <go_item number="九の十">
-            酢酸ノルマル－ブチル
-          </go_item>
-          <go_item number="九の十一">
-            酢酸ノルマル－プロピル
-          </go_item>
-          <go_item number="九の十二">
-            酢酸ノルマル－ペンチル（別名酢酸ノルマル－アミル）
-          </go_item>
-          <go_item number="九の十三">
-            酢酸メチル
-          </go_item>
-          <go_item number="九の十四">
-            酸化プロピレン
-          </go_item>
-          <go_item number="十">
-            次亜塩素酸カルシウム
-          </go_item>
-          <go_item number="十一">
-            四アルキル鉛
-          </go_item>
-          <go_item number="十二">
-            シアン化カリウム
-          </go_item>
-          <go_item number="十三">
-            シアン化ナトリウム
-          </go_item>
-          <go_item number="十四">
-            四塩化炭素
-          </go_item>
-          <go_item number="十四の二">
-            一・四－ジオキサン
-          </go_item>
-          <go_item number="十四の三">
-            シクロヘキサノール
-          </go_item>
-          <go_item number="十四の四">
-            シクロヘキサノン
-          </go_item>
-          <go_item number="十四の五">
-            一・二－ジクロルエタン（別名二塩化エチレン）
-          </go_item>
-          <go_item number="十四の六">
-            一・二－ジクロルエチレン（別名二塩化アセチレン）
-          </go_item>
-          <go_item number="十四の七">
-            ジクロルメタン（別名二塩化メチレン）
-          </go_item>
-          <go_item number="十四の八">
-            三・三´－ジクロロ－四・四´－ジアミノジフエニルメタン
-          </go_item>
-          <go_item number="十四の九">
-            一・四－ジクロロ－二－ブテン
-          </go_item>
-          <go_item number="十四の十">
-            一・二－ジクロロプロパン
-          </go_item>
-          <go_item number="十四の十一">
-            ジメチル－二・二－ジクロロビニルホスフェイト（別名ＤＤＶＰ）
-          </go_item>
-          <go_item number="十四の十二">
-            一・一－ジメチルヒドラジン
-          </go_item>
-          <go_item number="十四の十三">
-            Ｎ・Ｎ－ジメチルホルムアミド
-          </go_item>
-          <go_item number="十五">
-            臭化メチル
-          </go_item>
-          <go_item number="十六">
-            重クロム酸及びその塩
-          </go_item>
-          <go_item number="十六の二">
-            硝酸アンモニウム
-          </go_item>
-          <go_item number="十七">
-            水銀及びその無機化合物（硫化水銀を除く。）
-          </go_item>
-          <go_item number="十七の二">
-            スチレン
-          </go_item>
-          <go_item number="十八">
-            一・一・二・二－テトラクロルエタン（別名四塩化アセチレン）
-          </go_item>
-          <go_item number="十九">
-            テトラクロルエチレン（別名パークロルエチレン）
-          </go_item>
-          <go_item number="十九の二">
-            テトラヒドロフラン
-          </go_item>
-          <go_item number="二十">
-            一・一・一－トリクロルエタン
-          </go_item>
-          <go_item number="二十一">
-            トリクロルエチレン
-          </go_item>
-          <go_item number="二十二">
-            トリレンジイソシアネート
-          </go_item>
-          <go_item number="二十三">
-            トルエン
-          </go_item>
-          <go_item number="二十三の二">
-            ナフタレン
-          </go_item>
-          <go_item number="二十四">
-            鉛化合物（酸化鉛、水酸化鉛その他の厚生労働大臣が指定する物に限る。）
-          </go_item>
-          <go_item number="二十四の二">
-            ニツケル化合物（次号に掲げる物を除き、粉状の物に限る。）
-          </go_item>
-          <go_item number="二十五">
-            ニツケルカルボニル
-          </go_item>
-          <go_item number="二十五の二">
-            ニトログリセリン
-          </go_item>
-          <go_item number="二十五の三">
-            ニトロセルローズ
-          </go_item>
-          <go_item number="二十六">
-            二硫化炭素
-          </go_item>
-          <go_item number="二十七">
-            ノルマルヘキサン
-          </go_item>
-          <go_item number="二十七の二">
-            パラ－ジメチルアミノアゾベンゼン
-          </go_item>
-          <go_item number="二十八">
-            パラ－ニトロクロルベンゼン
-          </go_item>
-          <go_item number="二十八の二">
-            ピクリン酸
-          </go_item>
-          <go_item number="二十八の三">
-            砒素及びその化合物（アルシン及び砒化ガリウムを除く。）
-          </go_item>
-          <go_item number="二十九">
-            フエノール
-          </go_item>
-          <go_item number="二十九の二">
-            一・三－ブタジエン
-          </go_item>
-          <go_item number="二十九の三">
-            一－ブタノール
-          </go_item>
-          <go_item number="二十九の四">
-            二－ブタノール
-          </go_item>
-          <go_item number="三十">
-            弗化水素
-          </go_item>
-          <go_item number="三十の二">
-            一・三－プロパンスルトン
-          </go_item>
-          <go_item number="三十一">
-            ベータ－プロピオラクトン
-          </go_item>
-          <go_item number="三十二">
-            ベンゼン
-          </go_item>
-          <go_item number="三十三">
-            ペンタクロルフエノール（別名ＰＣＰ）及びそのナトリウム塩
-          </go_item>
-          <go_item number="三十四">
-            ホルムアルデヒド
-          </go_item>
-          <go_item number="三十五">
-            マゼンタ
-          </go_item>
-          <go_item number="三十六">
-            メタノール
-          </go_item>
-          <go_item number="三十六の二">
-            メチルイソブチルケトン
-          </go_item>
-          <go_item number="三十六の三">
-            メチルエチルケトン
-          </go_item>
-          <go_item number="三十六の四">
-            メチルシクロヘキサノール
-          </go_item>
-          <go_item number="三十六の五">
-            メチルシクロヘキサノン
-          </go_item>
-          <go_item number="三十六の六">
-            メチル－ノルマル－ブチルケトン
-          </go_item>
-          <go_item number="三十七">
-            沃化メチル
-          </go_item>
-          <go_item number="三十七の二">
-            リフラクトリーセラミックファイバー
-          </go_item>
-          <go_item number="三十七の三">
-            硫化水素ナトリウム
-          </go_item>
-          <go_item number="三十七の四">
-            硫化ナトリウム
-          </go_item>
-          <go_item number="三十八">
-            硫酸ジメチル
-          </go_item>
-          <go_item number="三十九">
-            前各号に掲げる物を含有する製剤その他の物で、厚生労働省令で定めるもの
-          </go_item>
-          <go_item number="四十">
             別表第三第一号１から７までに掲げる物を含有する製剤その他の物（同号８に掲げる物を除く。）で、厚生労働省令で定めるもの
           </go_item>
         </go>
@@ -1071,12 +762,23 @@
     </articles>
     <articles number="第十八条の二" title="（名称等を通知すべき危険物及び有害物）">
       <article_item number="第十八条の二">
-        法第五十七条の二第一項の政令で定める物は、別表第九に掲げる物とする。
+        法第五十七条の二第一項の政令で定める物は、次のとおりとする。
+        <go>
+          <go_item number="一">
+            別表第九に掲げる物
+          </go_item>
+          <go_item number="二">
+            別表第九に掲げる物を含有する製剤その他の物で、厚生労働省令で定めるもの
+          </go_item>
+          <go_item number="三">
+            別表第三第一号１から７までに掲げる物を含有する製剤その他の物（同号８に掲げる物を除く。）で、厚生労働省令で定めるもの
+          </go_item>
+        </go>
       </article_item>
     </articles>
-    <articles number="第十八条の三" title="（法第五十七条の三第一項の政令で定める化学物質）">
+    <articles number="第十八条の三" title="（法第五十七条の四第一項の政令で定める化学物質）">
       <article_item number="第十八条の三">
-        法第五十七条の三第一項の政令で定める化学物質は、次のとおりとする。
+        法第五十七条の四第一項の政令で定める化学物質は、次のとおりとする。
         <go>
           <go_item number="一">
             元素
@@ -1093,14 +795,14 @@
         </go>
       </article_item>
     </articles>
-    <articles number="第十八条の四" title="（法第五十七条の三第一項ただし書の政令で定める場合）">
+    <articles number="第十八条の四" title="（法第五十七条の四第一項ただし書の政令で定める場合）">
       <article_item number="第十八条の四">
-        法第五十七条の三第一項ただし書の政令で定める場合は、同項に規定する新規化学物質（以下この条において「新規化学物質」という。）を製造し、又は輸入しようとする事業者が、厚生労働省令で定めるところにより、一の事業場における一年間の製造量又は輸入量（当該新規化学物質を製造し、及び輸入しようとする事業者にあつては、これらを合計した量）が百キログラム以下である旨の厚生労働大臣の確認を受けた場合において、その確認を受けたところに従つて当該新規化学物質を製造し、又は輸入しようとするときとする。
+        法第五十七条の四第一項ただし書の政令で定める場合は、同項に規定する新規化学物質（以下この条において「新規化学物質」という。）を製造し、又は輸入しようとする事業者が、厚生労働省令で定めるところにより、一の事業場における一年間の製造量又は輸入量（当該新規化学物質を製造し、及び輸入しようとする事業者にあつては、これらを合計した量）が百キログラム以下である旨の厚生労働大臣の確認を受けた場合において、その確認を受けたところに従つて当該新規化学物質を製造し、又は輸入しようとするときとする。
       </article_item>
     </articles>
-    <articles number="第十八条の五" title="（法第五十七条の四第一項の政令で定める有害性の調査）">
+    <articles number="第十八条の五" title="（法第五十七条の五第一項の政令で定める有害性の調査）">
       <article_item number="第十八条の五">
-        法第五十七条の四第一項の政令で定める有害性の調査は、実験動物を用いて吸入投与、経口投与等の方法により行うがん原性の調査とする。
+        法第五十七条の五第一項の政令で定める有害性の調査は、実験動物を用いて吸入投与、経口投与等の方法により行うがん原性の調査とする。
       </article_item>
     </articles>
     <articles number="第十九条" title="（職長等の教育を行うべき業種）">

@@ -3,6 +3,7 @@
   <head>
     <title>九州旅客鉄道株式会社の経営安定基金の取崩しに関する省令</title>
     <defined>平成二十七年八月二十一日国土交通省令第六十一号</defined>
+    <updated>平成二七年一二月二八日国土交通省令第八九号</updated>
   </head>
   <body>
     <preamble>
@@ -43,6 +44,11 @@
       </article_item>
       <article_item number="３">
         九州旅客鉄道株式会社は、第一項の承認を受けた設備投資計画を変更しようとするときは、あらかじめ、国土交通大臣の承認を受けなければならない。
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（経営安定基金を取り崩した場合の経理の整理）">
+      <article_item number="第三条">
+        改正法附則第七条第一項の規定により経営安定基金を取り崩したときは、その取り崩した額に相当する金額を純資産の部にその他資本剰余金として整理するものとする。
       </article_item>
     </articles>
   </body>

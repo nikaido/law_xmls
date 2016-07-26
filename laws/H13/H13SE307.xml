@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <law xmlns="http://law.2nx.info/xml_law">
   <head>
-    <title>漁船法第三十三条第一項の期間等を定める政令</title>
+    <title>漁船法施行令</title>
     <defined>平成十三年九月十九日政令第三百七号</defined>
+    <updated>平成二七年一一月二六日政令第三九二号</updated>
   </head>
   <body>
     <preamble>
@@ -10,9 +11,14 @@
         内閣は、漁船法（昭和二十五年法律第百七十八号）第三十三条第一項（同法第四十七条において準用する場合を含む。）の規定に基づき、この政令を制定する。
       </p>
     </preamble>
-    <articles>
-      <article_item>
-        漁船法第三十三条第一項（同法第四十七条において準用する場合を含む。）の政令で定める期間は、五年とする。
+    <articles number="第一条" title="（指定認定機関等の指定の有効期間）">
+      <article_item number="第一条">
+        漁船法（以下「法」という。）第三十三条第一項（法第四十七条において準用する場合を含む。）の政令で定める期間は、五年とする。 
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（行政不服審査法施行令の準用）">
+      <article_item number="第二条">
+        法第四十八条第一項の意見の聴取については、行政不服審査法施行令（平成二十七年政令第三百九十一号）第八条の規定を準用する。この場合において、同条中「総務省令」とあるのは、「農林水産省令」と読み替えるものとする。
       </article_item>
     </articles>
   </body>

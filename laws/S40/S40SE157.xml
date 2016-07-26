@@ -3,7 +3,7 @@
   <head>
     <title>近畿圏の近郊整備区域及び都市開発区域の整備及び開発に関する法律施行令</title>
     <defined>昭和四十年五月十四日政令第百五十七号</defined>
-    <updated>平成二四年三月三〇日政令第八八号</updated>
+    <updated>平成二八年二月一七日政令第四三号</updated>
   </head>
   <body>
     <preamble>
@@ -26,8 +26,13 @@
         法第四条第一項第八号に規定する政令で定める主要な施設は、通信施設、医療施設、職業訓練施設その他当該近郊整備区域又は都市開発区域を計画的に整備し、又は開発するため特に必要と認められる主要な施設とする。
       </article_item>
     </articles>
-    <articles number="第四条及び第五条">
-      <article_item number="第四条及び第五条">
+    <articles number="第四条" title="（近郊整備区域建設計画等に定めるべき施設）">
+      <article_item number="第四条">
+        削除 
+      </article_item>
+    </articles>
+    <articles number="第五条">
+      <article_item number="第五条">
         削除
       </article_item>
     </articles>
@@ -89,7 +94,7 @@
             自動車ターミナル法（昭和三十四年法律第百三十六号）の規定による自動車ターミナル事業
           </go_item>
           <go_item number="八">
-            電気事業法（昭和三十九年法律第百七十号）の規定による一般電気事業又は特定電気事業
+            電気事業法（昭和三十九年法律第百七十号）の規定による一般送配電事業、送電事業、特定送配電事業又は発電事業
           </go_item>
           <go_item number="九">
             ガス事業法（昭和二十九年法律第五十一号）の規定によるガス事業

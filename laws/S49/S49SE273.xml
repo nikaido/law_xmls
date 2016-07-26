@@ -3,7 +3,7 @@
   <head>
     <title>水源地域対策特別措置法第二条第二項のダム、同条第三項の湖沼水位調節施設及び同法第九条第一項の指定ダムを指定する政令</title>
     <defined>昭和四十九年七月二十日政令第二百七十三号</defined>
-    <updated>平成二一年一月二三日政令第六号</updated>
+    <updated>平成二八年三月三〇日政令第九二号</updated>
   </head>
   <body>
     <preamble>
@@ -295,12 +295,15 @@
             川棚川水系石木川石木ダム
           </go_item>
           <go_item number="九十四">
-            菊池川水系迫間川竜門ダム
+            本明川水系本明川本明川ダム
           </go_item>
           <go_item number="九十五">
-            球磨川水系川辺川川辺川ダム
+            菊池川水系迫間川竜門ダム
           </go_item>
           <go_item number="九十六">
+            球磨川水系川辺川川辺川ダム
+          </go_item>
+          <go_item number="九十七">
             大分川水系七瀬川大分川ダム
           </go_item>
         </go>

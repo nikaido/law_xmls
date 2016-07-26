@@ -410,7 +410,7 @@
         第一項の農産物検査の結果については、第三十三条第一項の規定による申出を行うことができる。
       </article_item>
       <article_item number="５">
-        第一項の農産物検査の結果については、行政不服審査法（昭和三十七年法律第百六十号）による不服申立てをすることができない。
+        第一項の農産物検査の結果については、審査請求をすることができない。
       </article_item>
       <article_item number="６">
         第一項の農産物検査の結果に不服がある者は、第三十三条第一項の規定による申出に係る農林水産大臣の処分又は不作為に対してのみ、行政事件訴訟法（昭和三十七年法律第百三十九号）による訴えを提起することができる。
@@ -421,8 +421,13 @@
         前条第一項の規定により農林水産大臣の行う農産物検査を受けようとする者は、実費を勘案して政令で定める額の手数料を納付しなければならない。
       </article_item>
     </articles>
-    <articles number="第三十七条" title="（罰則）">
+    <articles number="第三十七条" title="（都道府県が処理する事務）">
       <article_item number="第三十七条">
+        この法律に規定する農林水産大臣の権限に属する事務の一部は、政令で定めるところにより、都道府県知事が行うこととすることができる。
+      </article_item>
+    </articles>
+    <articles number="第三十八条" title="（罰則）">
+      <article_item number="第三十八条">
         次の各号のいずれかに該当する者は、一年以下の懲役又は百万円以下の罰金に処する。
         <go>
           <go_item number="一">
@@ -437,13 +442,13 @@
         </go>
       </article_item>
     </articles>
-    <articles number="第三十八条" title="（罰則）">
-      <article_item number="第三十八条">
+    <articles number="第三十九条" title="（罰則）">
+      <article_item number="第三十九条">
         第二十四条第二項の規定による業務の停止の命令に違反したときは、その違反行為をした登録検査機関の役員又は職員は、一年以下の懲役又は百万円以下の罰金に処する。
       </article_item>
     </articles>
-    <articles number="第三十九条" title="（罰則）">
-      <article_item number="第三十九条">
+    <articles number="第四十条" title="（罰則）">
+      <article_item number="第四十条">
         次の各号のいずれかに該当する者は、五十万円以下の罰金に処する。
         <go>
           <go_item number="一">
@@ -458,8 +463,8 @@
         </go>
       </article_item>
     </articles>
-    <articles number="第四十条" title="（罰則）">
-      <article_item number="第四十条">
+    <articles number="第四十一条" title="（罰則）">
+      <article_item number="第四十一条">
         次の各号のいずれかに掲げる違反があつた場合においては、その行為をした登録検査機関の役員又は職員は、五十万円以下の罰金に処する。
         <go>
           <go_item number="一">
@@ -477,9 +482,9 @@
         </go>
       </article_item>
     </articles>
-    <articles number="第四十一条" title="（罰則）">
-      <article_item number="第四十一条">
-        法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関して、第三十七条又は第三十九条の違反行為をしたときは、行為者を罰するほか、その法人又は人に対しても各本条の罰金刑を科する。
+    <articles number="第四十二条" title="（罰則）">
+      <article_item number="第四十二条">
+        法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関して、第三十八条又は第四十条の違反行為をしたときは、行為者を罰するほか、その法人又は人に対しても各本条の罰金刑を科する。
       </article_item>
     </articles>
   </body>

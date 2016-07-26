@@ -3,7 +3,7 @@
   <head>
     <title>育児休業、介護休業等育児又は家族介護を行う労働者の福祉に関する法律施行規則</title>
     <defined>平成三年十月十五日労働省令第二十五号</defined>
-    <updated>平成二七年三月三一日厚生労働省令第七三号</updated>
+    <updated>平成二八年三月三一日厚生労働省令第七二号</updated>
   </head>
   <body>
     <preamble>
@@ -1929,54 +1929,15 @@
         </article_item>
       </articles>
     </section>
-    <section title="第十章　指定法人" type="Sho">
-      <articles number="第三十五条" title="（指定の申請）">
+    <section title="第十章　削除" type="Sho">
+      <articles number="第三十五条">
         <article_item number="第三十五条">
-          法第三十六条第一項の規定による指定を受けようとする者は、次の事項を記載した申請書を厚生労働大臣に提出しなければならない。
-          <go>
-            <go_item number="一">
-              名称及び住所
-            </go_item>
-            <go_item number="二">
-              代表者の氏名
-            </go_item>
-            <go_item number="三">
-              事務所の所在地
-            </go_item>
-          </go>
-        </article_item>
-        <article_item number="２">
-          前項の申請書には、次に掲げる書面を添付しなければならない。
-          <go>
-            <go_item number="一">
-              定款及び登記事項証明書
-            </go_item>
-            <go_item number="二">
-              最近の事業年度における事業報告書、貸借対照表、収支決算書、財産目録その他の経理的及び技術的基礎を有することを明らかにする書類
-            </go_item>
-            <go_item number="三">
-              申請の日を含む事業年度及び翌事業年度における法第三十八条に規定する業務に関する基本的な計画及びこれに伴う予算
-            </go_item>
-            <go_item number="四">
-              役員の氏名及び略歴を記載した書面
-            </go_item>
-          </go>
+          削除
         </article_item>
       </articles>
-      <articles number="第三十六条" title="（名称等の変更の届出）">
+      <articles number="第三十六条">
         <article_item number="第三十六条">
-          法第三十六条第二項に規定する指定法人（以下「指定法人」という。）は、同条第三項の規定による届出をしようとするときは、次の事項を記載した届出書を厚生労働大臣に提出しなければならない。
-          <go>
-            <go_item number="一">
-              変更後の名称若しくは住所又は事務所の所在地
-            </go_item>
-            <go_item number="二">
-              変更しようとする日
-            </go_item>
-            <go_item number="三">
-              変更しようとする理由
-            </go_item>
-          </go>
+          削除
         </article_item>
       </articles>
       <articles number="第三十七条">
@@ -1999,284 +1960,104 @@
           削除
         </article_item>
       </articles>
-      <articles number="第四十一条" title="（福祉関係業務を行う事務所の変更の届出）">
+      <articles number="第四十一条">
         <article_item number="第四十一条">
-          指定法人は、法第三十九条第三項後段の規定による届出をしようとするときは、次の事項を記載した届出書を厚生労働大臣に提出しなければならない。
-          <go>
-            <go_item number="一">
-              変更後の法第三十九条第一項に規定する福祉関係業務（以下「福祉関係業務」という。）を行う事務所の所在地
-            </go_item>
-            <go_item number="二">
-              変更しようとする日
-            </go_item>
-            <go_item number="三">
-              変更しようとする理由
-            </go_item>
-          </go>
+          削除
         </article_item>
       </articles>
-      <articles number="第四十二条" title="（業務規程の記載事項）">
+      <articles number="第四十二条">
         <article_item number="第四十二条">
-          法第四十条第三項の業務規程に記載すべき事項は次のとおりとする。
-          <go>
-            <go_item number="一">
-              法第三十九条第一項第一号の相談その他の援助に関する事項
-            </go_item>
-            <go_item number="二">
-              法第三十九条第一項第二号の給付金の支給に関する事項
-            </go_item>
-            <go_item number="三">
-              法第三十九条第一項第三号の相談、講習その他の援助に関する事項
-            </go_item>
-            <go_item number="四">
-              法第三十九条第一項第四号の対象労働者等の雇用の継続、再就職の促進その他これらの者の福祉の増進を図るために必要な事業に関する事項
-            </go_item>
-          </go>
+          削除
         </article_item>
       </articles>
-      <articles number="第四十三条" title="（業務規程の変更の認可の申請）">
+      <articles number="第四十三条">
         <article_item number="第四十三条">
-          指定法人は、法第四十条第一項後段の規定による認可を受けようとするときは、次の事項を記載した申請書を厚生労働大臣に提出しなければならない。
-          <go>
-            <go_item number="一">
-              変更しようとする事項
-            </go_item>
-            <go_item number="二">
-              変更しようとする日
-            </go_item>
-            <go_item number="三">
-              変更しようとする理由
-            </go_item>
-          </go>
+          削除
         </article_item>
       </articles>
-      <articles number="第四十四条" title="（福祉関係給付金の支給に係る厚生労働大臣の認可）">
+      <articles number="第四十四条">
         <article_item number="第四十四条">
-          指定法人は、法第四十一条の規定による認可を受けようとするときは、次の事項を記載した申請書を提出しなければならない。
-          <go>
-            <go_item number="一">
-              支給を受けようとする給付金の名称
-            </go_item>
-            <go_item number="二">
-              支給を受けようとする給付金の額及び算出の基礎
-            </go_item>
-            <go_item number="三">
-              その他厚生労働大臣が必要と認める事項
-            </go_item>
-          </go>
+          削除
         </article_item>
       </articles>
-      <articles number="第四十五条" title="（経理原則）">
+      <articles number="第四十五条">
         <article_item number="第四十五条">
-          指定法人は、その業務の財政状態を明らかにするため、財産の増減及び異動をその発生の事実に基づいて経理しなければならない。
+          削除
         </article_item>
       </articles>
-      <articles number="第四十六条" title="（区分経理の方法）">
+      <articles number="第四十六条">
         <article_item number="第四十六条">
-          指定法人は、福祉関係業務に係る経理について特別の勘定（第五十二条第二項及び第五十四条第三項において「福祉関係業務特別勘定」という。）を設け、福祉関係業務以外の業務に係る経理と区分して整理しなければならない。
+          削除
         </article_item>
       </articles>
-      <articles number="第四十七条" title="（事業計画書等の認可の申請）">
+      <articles number="第四十七条">
         <article_item number="第四十七条">
-          指定法人は、法第四十三条第一項前段の規定による認可を受けようとするときは、毎事業年度開始前に（指定を受けた日の属する事業年度にあっては、その指定を受けた後遅滞なく）、事業計画書及び収支予算書を厚生労働大臣に提出して申請しなければならない。
+          削除
         </article_item>
       </articles>
-      <articles number="第四十八条" title="（事業計画書の記載事項）">
+      <articles number="第四十八条">
         <article_item number="第四十八条">
-          法第四十三条第一項の事業計画書には、次に掲げる事項に関する計画を記載しなければならない。
-          <go>
-            <go_item number="一">
-              法第三十九条第一項第一号の相談その他の援助に関する事項
-            </go_item>
-            <go_item number="二">
-              法第三十九条第一項第二号の給付金の支給に関する事項
-            </go_item>
-            <go_item number="三">
-              法第三十九条第一項第三号の相談、講習その他の援助に関する事項
-            </go_item>
-            <go_item number="四">
-              法第三十九条第一項第四号の対象労働者等の雇用の継続、再就職の促進その他これらの者の福祉の増進を図るために必要な事業に関する事項
-            </go_item>
-            <go_item number="五">
-              前各号に掲げるもののほか、法第三十八条各号に掲げる業務に関する事項
-            </go_item>
-          </go>
+          削除
         </article_item>
       </articles>
-      <articles number="第四十九条" title="（収支予算書）">
+      <articles number="第四十九条">
         <article_item number="第四十九条">
-          収支予算書は、収入にあってはその性質、支出にあってはその目的に従って区分するものとする。
+          削除
         </article_item>
       </articles>
-      <articles number="第五十条" title="（収支予算書の添付書類）">
+      <articles number="第五十条">
         <article_item number="第五十条">
-          指定法人は、収支予算書について法第四十三条第一項前段の規定による認可を受けようとするときは、次に掲げる書類を添付して厚生労働大臣に提出しなければならない。
-          <go>
-            <go_item number="一">
-              前事業年度の予定貸借対照表
-            </go_item>
-            <go_item number="二">
-              当該事業年度の予定貸借対照表
-            </go_item>
-            <go_item number="三">
-              前二号に掲げるもののほか、当該収支予算書の参考となる書類
-            </go_item>
-          </go>
+          削除
         </article_item>
       </articles>
-      <articles number="第五十一条" title="（事業計画書等の変更の認可の申請）">
+      <articles number="第五十一条">
         <article_item number="第五十一条">
-          指定法人は、事業計画書又は収支予算書について法第四十三条第一項後段の規定による変更の認可を受けようとするときは、変更しようとする事項及びその理由を記載した申請書を厚生労働大臣に提出しなければならない。この場合において、収支予算書の変更が前条第二号又は第三号に掲げる書類の変更を伴うときは、当該変更後の書類を添付しなければならない。
+          削除
         </article_item>
       </articles>
-      <articles number="第五十二条" title="（予備費）">
+      <articles number="第五十二条">
         <article_item number="第五十二条">
-          指定法人は、予見することができない理由による支出予算の不足を補うため、収入支出予算に予備費を設けることができる。
-        </article_item>
-        <article_item number="２">
-          指定法人は、福祉関係業務特別勘定の予備費を使用したときは、速やかに、その旨を厚生労働大臣に通知しなければならない。
-        </article_item>
-        <article_item number="３">
-          前項の規定による通知は、使用の理由、金額及び積算の基礎を明らかにした書類をもってするものとする。
+          削除
         </article_item>
       </articles>
-      <articles number="第五十三条" title="（予算の流用等）">
+      <articles number="第五十三条">
         <article_item number="第五十三条">
-          指定法人は、支出予算については、収支予算書に定める目的の外に使用してはならない。ただし、予算の実施上適当かつ必要であるときは、第四十九条の規定による区分にかかわらず、相互流用することができる。
-        </article_item>
-        <article_item number="２">
-          指定法人は、厚生労働大臣が指定する経費の金額については、厚生労働大臣の承認を受けなければ、それらの経費の間又は他の経費との間に相互流用し、又はこれに予備費を使用することができない。
-        </article_item>
-        <article_item number="３">
-          指定法人は、前項の規定による予算の流用又は予備費の使用について厚生労働大臣の承認を受けようとするときは、流用又は使用の理由、金額及び積算の基礎を明らかにした書類を厚生労働大臣に提出しなければならない。
+          削除
         </article_item>
       </articles>
-      <articles number="第五十四条" title="（予算の繰越し）">
+      <articles number="第五十四条">
         <article_item number="第五十四条">
-          指定法人は、支出予算の経費の金額のうち当該事業年度内に支出決定を終わらないものについて、予算の実施上必要があるときは、これを翌事業年度に繰り越して使用することができる。ただし、厚生労働大臣が指定する経費の金額については、あらかじめ、厚生労働大臣の承認を受けなければならない。
-        </article_item>
-        <article_item number="２">
-          指定法人は、前項ただし書の規定による承認を受けようとするときは、当該事業年度末までに、事項ごとに繰越しを必要とする理由及び金額を明らかにした書類を厚生労働大臣に提出しなければならない。
-        </article_item>
-        <article_item number="３">
-          指定法人は、福祉関係業務特別勘定について第一項の規定による繰越しをしたときは、当該事業年度終了後二月以内に、繰越計算書を厚生労働大臣に提出しなければならない。
-        </article_item>
-        <article_item number="４">
-          前項の繰越計算書は、支出予算と同一の区分により作成し、かつ、当該繰越計算書に繰越しに係る経費の予算現額並びに当該経費の予算現額のうち支出決定済額、翌事業年度への繰越額及び不用額を記載しなければならない。
+          削除
         </article_item>
       </articles>
-      <articles number="第五十五条" title="（事業報告書等の承認の申請）">
+      <articles number="第五十五条">
         <article_item number="第五十五条">
-          指定法人は、法第四十三条第二項の規定による承認を受けようとするときは、毎事業年度終了後三月以内に申請しなければならない。
+          削除
         </article_item>
       </articles>
-      <articles number="第五十六条" title="（収支決算書）">
+      <articles number="第五十六条">
         <article_item number="第五十六条">
-          収支決算書は、収入支出予算と同一の区分により作成し、かつ、当該収支決算書に次に掲げる事項を示さなければならない。
-          <go>
-            <go_item number="一">
-              収入
-              <go>
-                <go_item number="イ">
-                  収入予算額
-                </go_item>
-                <go_item number="ロ">
-                  収入決定済額
-                </go_item>
-                <go_item number="ハ">
-                  収入予算額と収入決定済額との差額
-                </go_item>
-              </go>
-            </go_item>
-            <go_item number="二">
-              支出
-              <go>
-                <go_item number="イ">
-                  支出予算額
-                </go_item>
-                <go_item number="ロ">
-                  前事業年度からの繰越額
-                </go_item>
-                <go_item number="ハ">
-                  予備費の使用の金額及びその理由
-                </go_item>
-                <go_item number="ニ">
-                  流用の金額及びその理由
-                </go_item>
-                <go_item number="ホ">
-                  支出予算の現額
-                </go_item>
-                <go_item number="ヘ">
-                  支出決定済額
-                </go_item>
-                <go_item number="ト">
-                  翌事業年度への繰越額
-                </go_item>
-                <go_item number="チ">
-                  不用額
-                </go_item>
-              </go>
-            </go_item>
-          </go>
+          削除
         </article_item>
       </articles>
-      <articles number="第五十七条" title="（会計規程）">
+      <articles number="第五十七条">
         <article_item number="第五十七条">
-          指定法人は、その財務及び会計に関し、法及びこの省令で定めるもののほか、会計規程を定めなければならない。
-        </article_item>
-        <article_item number="２">
-          指定法人は、前項の会計規程を定めようとするときは、その基本的事項について厚生労働大臣の承認を受けなければならない。これを変更しようとするときも同様とする。
-        </article_item>
-        <article_item number="３">
-          指定法人は、第一項の会計規程を制定し、又は変更したときは、その理由及び内容を明らかにして、遅滞なく厚生労働大臣に提出しなければならない。
+          削除
         </article_item>
       </articles>
-      <articles number="第五十八条" title="（役員の選任及び解任の認可の申請）">
+      <articles number="第五十八条">
         <article_item number="第五十八条">
-          指定法人は、法第四十七条第一項の規定による認可を受けようとするときは、次の事項を記載した申請書を厚生労働大臣に提出しなければならない。
-          <go>
-            <go_item number="一">
-              選任又は解任に係る役員の氏名及び略歴
-            </go_item>
-            <go_item number="二">
-              選任又は解任の理由
-            </go_item>
-          </go>
+          削除
         </article_item>
       </articles>
-      <articles number="第五十九条" title="（立入検査のための証明書）">
+      <articles number="第五十九条">
         <article_item number="第五十九条">
-          法第四十九条第二項の証明書は、厚生労働大臣の定める様式によるものとする。
+          削除
         </article_item>
       </articles>
-      <articles number="第六十条" title="（福祉関係業務の引継ぎ等）">
+      <articles number="第六十条">
         <article_item number="第六十条">
-          法第五十二条第一項の規定により厚生労働大臣が福祉関係業務を行うものとするときは、指定法人は次の事項を行わなければならない。
-          <go>
-            <go_item number="一">
-              福祉関係業務を厚生労働大臣に引き継ぐこと。
-            </go_item>
-            <go_item number="二">
-              福祉関係業務に関する帳簿及び書類を厚生労働大臣に引き継ぐこと。
-            </go_item>
-            <go_item number="三">
-              その他厚生労働大臣が必要と認める事項
-            </go_item>
-          </go>
-        </article_item>
-        <article_item number="２">
-          法第五十二条第一項の規定により厚生労働大臣が行っている福祉関係業務を行わないものとするときは、厚生労働大臣は次の事項を行わなければならない。
-          <go>
-            <go_item number="一">
-              福祉関係業務を指定法人に引き継ぐこと。
-            </go_item>
-            <go_item number="二">
-              福祉関係業務に関する帳簿及び書類を指定法人に引き継ぐこと。
-            </go_item>
-            <go_item number="三">
-              その他厚生労働大臣が必要と認める事項
-            </go_item>
-          </go>
+          削除
         </article_item>
       </articles>
     </section>

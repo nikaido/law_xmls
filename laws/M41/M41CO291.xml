@@ -3,7 +3,7 @@
   <head>
     <title>勲章褫奪令</title>
     <defined>明治四十一年十二月二日勅令第二百九十一号</defined>
-    <updated>平成一八年五月八日政令第一九三号</updated>
+    <updated>平成二八年四月一五日政令第一九九号</updated>
   </head>
   <body>
     <articles number="第一条">
@@ -19,7 +19,7 @@
         勲章ヲ有スル者左ノ各号ノ一ニ該当スルトキハ情状ニ依リ其ノ勲等、又ハ年金ヲ褫奪シ外国勲章ハ其ノ佩用ヲ禁止ス
         <go>
           <go_item number="一">
-            刑ノ執行ヲ猶予セラレタルトキ
+            刑ノ全部ノ執行ヲ猶予セラレタルトキ
           </go_item>
           <go_item number="二">
             三年未満ノ禁錮ニ処セラレタルトキ

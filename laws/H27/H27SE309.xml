@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <law xmlns="http://law.2nx.info/xml_law">
   <head>
-    <title>電力取引監視等委員会令</title>
+    <title>電力・ガス取引監視等委員会令</title>
     <defined>平成二十七年八月二十八日政令第三百九号</defined>
+    <updated>平成二八年二月二四日政令第四八号</updated>
   </head>
   <body>
     <preamble>
@@ -12,7 +13,7 @@
     </preamble>
     <articles number="第一条" title="（特別委員）">
       <article_item number="第一条">
-        電力取引監視等委員会（以下「委員会」という。）に、あっせん又は仲裁に参与させるため、特別委員を置くことができる。
+        電力・ガス取引監視等委員会（以下「委員会」という。）に、あっせん又は仲裁に参与させるため、特別委員を置くことができる。
       </article_item>
       <article_item number="２">
         特別委員は、学識経験のある者のうちから、経済産業大臣が任命する。

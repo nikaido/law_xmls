@@ -3,7 +3,7 @@
   <head>
     <title>刑事施設及び被収容者の処遇に関する規則</title>
     <defined>平成十八年五月二十三日法務省令第五十七号</defined>
-    <updated>平成二七年四月一〇日法務省令第二一号</updated>
+    <updated>平成二八年三月三〇日法務省令第一四号</updated>
   </head>
   <body>
     <preamble>
@@ -122,7 +122,15 @@
       </articles>
       <articles number="第七条" title="（刑務官の指定）">
         <article_item number="第七条">
-          刑務官は、刑事施設の職員であって、一般職の職員の給与に関する法律（昭和二十五年法律第九十五号）別表第四イ公安職俸給表（一）の適用を受ける法務事務官であるもののうちから指定する。
+          刑務官は、次に掲げる者のうちから指定する。
+          <go>
+            <go_item number="一">
+              刑事施設の長
+            </go_item>
+            <go_item number="二">
+              刑事施設の職員（刑事施設の長を除く。）であって、一般職の職員の給与に関する法律（昭和二十五年法律第九十五号）別表第四イ公安職俸給表（一）の適用を受ける法務事務官
+            </go_item>
+          </go>
         </article_item>
       </articles>
       <articles number="第八条" title="（刑務官の階級）">

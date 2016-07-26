@@ -194,7 +194,7 @@
       </articles>
       <articles number="第二十六条" title="（会長）">
         <article_item number="第二十六条">
-          会長は、内閣官房長官をもって充てる。
+          会長は、内閣総理大臣をもって充てる。
         </article_item>
         <article_item number="２">
           会長は、会務を総理する。
@@ -208,23 +208,26 @@
           委員は、次に掲げる者をもって充てる。
           <go>
             <go_item number="一">
-              内閣官房長官以外の国務大臣のうちから、内閣総理大臣が指定する者
+              国家公安委員会委員長
             </go_item>
             <go_item number="二">
+              国家公安委員会委員長以外の国務大臣のうちから、内閣総理大臣が指定する者
+            </go_item>
+            <go_item number="三">
               犯罪被害者等の支援等に関し優れた識見を有する者のうちから、内閣総理大臣が任命する者
             </go_item>
           </go>
         </article_item>
         <article_item number="２">
-          前項第二号の委員は、非常勤とする。
+          前項第三号の委員は、非常勤とする。
         </article_item>
       </articles>
       <articles number="第二十八条" title="（委員の任期）">
         <article_item number="第二十八条">
-          前条第一項第二号の委員の任期は、二年とする。ただし、補欠の委員の任期は、前任者の残任期間とする。
+          前条第一項第三号の委員の任期は、二年とする。ただし、補欠の委員の任期は、前任者の残任期間とする。
         </article_item>
         <article_item number="２">
-          前条第一項第二号の委員は、再任されることができる。
+          前条第一項第三号の委員は、再任されることができる。
         </article_item>
       </articles>
       <articles number="第二十九条" title="（資料提出の要求等）">

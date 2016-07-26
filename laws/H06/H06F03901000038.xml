@@ -3,7 +3,7 @@
   <head>
     <title>国際会議等の誘致の促進及び開催の円滑化等による国際観光の振興に関する法律施行規則</title>
     <defined>平成六年九月十九日運輸省令第三十八号</defined>
-    <updated>平成一二年一一月二九日運輸省令第三九号</updated>
+    <updated>平成二八年三月二五日国土交通省令第二〇号</updated>
   </head>
   <body>
     <preamble>
@@ -11,9 +11,14 @@
         国際会議等の誘致の促進及び開催の円滑化等による国際観光の振興に関する法律（平成六年法律第七十九号）第四条第二項第一号及び第二号、第五条第一項第一号から第三号まで、第六条第二項並びに第九条第一項の規定に基づき、国際会議等の誘致の促進及び開催の円滑化等による国際観光の振興に関する法律施行規則を次のように定める。
       </p>
     </preamble>
-    <articles number="第一条" title="（国際会議等の用に供する会議場施設等）">
+    <articles number="第一条" title="（国際会議等）">
       <article_item number="第一条">
-        国際会議等の誘致の促進及び開催の円滑化等による国際観光の振興に関する法律（以下「法」という。）第四条第二項第一号の国土交通省令で定める施設は、次のとおりとする。
+        国際会議等の誘致の促進及び開催の円滑化等による国際観光の振興に関する法律（以下「法」という。）第二条に規定する国際会議等は、国際観光の振興を図るため、誘致の促進及び開催の円滑化等の措置が特に必要なものとして、海外の複数の参加国からおおむね十人以上の外国人の参加が見込まれ、かつ、外国人の観光の魅力の増進及び外国人と国民との間の交流の促進に資するものとする。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（国際会議等の用に供する会議場施設等） ">
+      <article_item number="第二条">
+        法第四条第二項第一号の国土交通省令で定める施設は、次のとおりとする。 
         <go>
           <go_item number="一">
             国際会議場施設
@@ -33,8 +38,8 @@
         </go>
       </article_item>
     </articles>
-    <articles number="第二条" title="（国際会議等に参加する者の利用に供する施設）">
-      <article_item number="第二条">
+    <articles number="第三条" title="（国際会議等に参加する者の利用に供する施設）">
+      <article_item number="第三条">
         法第四条第二項第二号の国土交通省令で定める施設は、次のとおりとする。
         <go>
           <go_item number="一">
@@ -49,8 +54,8 @@
         </go>
       </article_item>
     </articles>
-    <articles number="第三条" title="（国際会議等の用に供する会議場施設等の基準）">
-      <article_item number="第三条">
+    <articles number="第四条" title="（国際会議等の用に供する会議場施設等の基準）">
+      <article_item number="第四条">
         法第五条第一項第一号の国土交通省令で定める基準は、次のとおりとする。
         <go>
           <go_item number="一">
@@ -71,8 +76,8 @@
         </go>
       </article_item>
     </articles>
-    <articles number="第四条" title="（国際会議等に参加する者の利用に供する施設の基準）">
-      <article_item number="第四条">
+    <articles number="第五条" title="（国際会議等に参加する者の利用に供する施設の基準）">
+      <article_item number="第五条">
         法第五条第一項第二号の国土交通省令で定める基準は、次のとおりとする。
         <go>
           <go_item number="一">
@@ -106,8 +111,8 @@
         </go>
       </article_item>
     </articles>
-    <articles number="第五条" title="（国際会議等の誘致及びその開催の円滑化に関する業務）">
-      <article_item number="第五条">
+    <articles number="第六条" title="（国際会議等の誘致及びその開催の円滑化に関する業務）">
+      <article_item number="第六条">
         法第五条第一項第三号の国土交通省令で定める業務は、次のとおりとする。
         <go>
           <go_item number="一">
@@ -122,15 +127,15 @@
         </go>
       </article_item>
     </articles>
-    <articles number="第六条" title="（認定事項の変更）">
-      <article_item number="第六条">
+    <articles number="第七条" title="（認定事項の変更）">
+      <article_item number="第七条">
         法第六条第二項の国土交通省令で定める変更は、次のとおりとする。
         <go>
           <go_item number="一">
-            第一条に規定する施設が第三条の基準に適合しなくなり、かつ、一年以上にわたって回復する見込みがない変更
+            第二条に規定する施設が第四条の基準に適合しなくなり、かつ、一年以上にわたって回復する見込みがない変更
           </go_item>
           <go_item number="二">
-            第二条に規定する施設が第四条の基準に適合しなくなり、かつ、一年以上にわたって回復する見込みがない変更
+            第三条に規定する施設が第五条の基準に適合しなくなり、かつ、一年以上にわたって回復する見込みがない変更
           </go_item>
           <go_item number="三">
             法第四条第二項第三号に規定する業務を実施する体制が一年以上にわたって当該業務を適確に遂行できなくなる変更
@@ -138,15 +143,15 @@
         </go>
       </article_item>
     </articles>
-    <articles number="第七条" title="（開催の円滑化を図るべき国際会議等）">
-      <article_item number="第七条">
+    <articles number="第八条" title="（開催の円滑化を図るべき国際会議等）">
+      <article_item number="第八条">
         法第九条第一項の国土交通省令で定める国際会議等は、次の各号のいずれにも該当するものとする。
         <go>
           <go_item number="一">
             おおむね五十人以上の外国人が参加するものであること。
           </go_item>
           <go_item number="二">
-            開催に要する経費がおおむね二千五百万円以上であること。
+            開催に要する経費がおおむね五百万円以上であること。
           </go_item>
           <go_item number="三">
             実施計画及び資金計画が当該国際会議等を円滑かつ確実に開催するために適切なものであること。

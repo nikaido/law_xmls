@@ -3,7 +3,7 @@
   <head>
     <title>国土利用計画法施行令</title>
     <defined>昭和四十九年十二月二十日政令第三百八十七号</defined>
-    <updated>平成二六年九月三日政令第二九一号</updated>
+    <updated>平成二七年一一月二六日政令第三九二号</updated>
   </head>
   <body>
     <preamble>
@@ -270,6 +270,11 @@
       </article_item>
       <article_item number="３">
         第十一条の規定は、買取り請求に係る者が負担した宅地の造成等のための費用について準用する。
+      </article_item>
+    </articles>
+    <articles number="第十六条の二" title="（口頭審理についての準用）">
+      <article_item number="第十六条の二">
+        法第二十条第三項の口頭審理については、行政不服審査法施行令（平成二十七年政令第三百九十一号）第二条の規定により読み替えられた同令第八条の規定を準用する。この場合において、同条中「総務省令」とあるのは、「国土交通省令」と読み替えるものとする。
       </article_item>
     </articles>
     <articles number="第十七条" title="（土地に関する権利の移転又は設定後における利用目的等の届出を要しない場合）">

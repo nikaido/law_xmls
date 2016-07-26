@@ -3,7 +3,7 @@
   <head>
     <title>宮内庁組織令</title>
     <defined>昭和二十七年八月三十日政令第三百七十七号</defined>
-    <updated>平成二七年四月一〇日政令第一七九号</updated>
+    <updated>平成二八年三月三一日政令第一〇八号</updated>
   </head>
   <body>
     <preamble>
@@ -27,7 +27,7 @@
         </articles>
         <articles number="第三条" title="（特別な職）">
           <article_item number="第三条">
-            長官官房に、審議官、宮務主管、皇室経済主管及び皇室医務主管それぞれ一人並びに参事官二人を置く。
+            長官官房に、審議官、宮務主管、皇室経済主管及び皇室医務主管それぞれ一人並びに参事官二人及び宮務参事官一人を置く。
           </article_item>
           <article_item number="２">
             審議官は、命を受けて、皇室関係の重要事項の調査、審議及び立案に関する事務を総括する。
@@ -43,6 +43,9 @@
           </article_item>
           <article_item number="６">
             参事官は、命を受けて、皇室関係の重要事項の調査、審議及び立案に関する事務に参画する。
+          </article_item>
+          <article_item number="７">
+            宮務参事官は、命を受けて、皇族（内廷にある皇族を除く。）に関する特定事項の調査、審議及び立案に関する事務に参画する。
           </article_item>
         </articles>
         <articles number="第四条" title="（特別な職）">

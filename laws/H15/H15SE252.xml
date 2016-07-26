@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <law xmlns="http://law.2nx.info/xml_law">
   <head>
-    <title>武力攻撃事態等における我が国の平和と独立並びに国及び国民の安全の確保に関する法律施行令</title>
+    <title>武力攻撃事態等及び存立危機事態における我が国の平和と独立並びに国及び国民の安全の確保に関する法律施行令</title>
     <defined>平成十五年六月十三日政令第二百五十二号</defined>
-    <updated>平成二七年九月一八日政令第三三四号</updated>
+    <updated>平成二八年三月三〇日政令第八六号</updated>
   </head>
   <body>
     <preamble>
@@ -13,7 +13,7 @@
     </preamble>
     <articles number="第一条" title="（指定行政機関）">
       <article_item number="第一条">
-        武力攻撃事態等における我が国の平和と独立並びに国及び国民の安全の確保に関する法律（以下「法」という。）第二条第四号の政令で定める機関は、次のとおりとする。
+        武力攻撃事態等及び存立危機事態における我が国の平和と独立並びに国及び国民の安全の確保に関する法律（平成十五年法律第七十九号。以下「法」という。）第二条第五号の政令で定める機関は、次のとおりとする。
         <go>
           <go_item number="一">
             内閣府
@@ -113,7 +113,7 @@
     </articles>
     <articles number="第二条" title="（指定地方行政機関）">
       <article_item number="第二条">
-        法第二条第五号の政令で定める機関は、次のとおりとする。
+        法第二条第六号の政令で定める機関は、次のとおりとする。
         <go>
           <go_item number="一">
             沖縄総合事務局
@@ -195,127 +195,121 @@
     </articles>
     <articles number="第三条" title="（指定公共機関）">
       <article_item number="第三条">
-        法第二条第六号の政令で定める公共的機関及び公益的事業を営む法人は、次のとおりとする。
+        法第二条第七号の政令で定める公共的機関及び公益的事業を営む法人は、次のとおりとする。
         <go>
           <go_item number="一">
-            国立研究開発法人海上技術安全研究所
+            国立研究開発法人海上・港湾・航空技術研究所
           </go_item>
           <go_item number="二">
             国立研究開発法人建築研究所
           </go_item>
           <go_item number="三">
-            国立研究開発法人港湾空港技術研究所
-          </go_item>
-          <go_item number="四">
             独立行政法人国立病院機構
           </go_item>
-          <go_item number="五">
+          <go_item number="四">
             国立研究開発法人産業技術総合研究所
           </go_item>
-          <go_item number="六">
+          <go_item number="五">
             独立行政法人情報処理推進機構
           </go_item>
-          <go_item number="七">
+          <go_item number="六">
             国立研究開発法人情報通信研究機構
           </go_item>
-          <go_item number="八">
+          <go_item number="七">
             国立研究開発法人森林総合研究所
           </go_item>
-          <go_item number="九">
-            国立研究開発法人水産総合研究センター
+          <go_item number="八">
+            国立研究開発法人水産研究・教育機構
           </go_item>
-          <go_item number="十">
+          <go_item number="九">
             国立研究開発法人土木研究所
           </go_item>
-          <go_item number="十一">
+          <go_item number="十">
             国立研究開発法人日本原子力研究開発機構
           </go_item>
-          <go_item number="十二">
+          <go_item number="十一">
             独立行政法人日本高速道路保有・債務返済機構
           </go_item>
-          <go_item number="十三">
+          <go_item number="十二">
             国立研究開発法人農業・食品産業技術総合研究機構
           </go_item>
-          <go_item number="十四">
-            国立研究開発法人放射線医学総合研究所
-          </go_item>
-          <go_item number="十五">
+          <go_item number="十三">
             独立行政法人水資源機構
           </go_item>
-          <go_item number="十六">
+          <go_item number="十四">
+            国立研究開発法人量子科学技術研究開発機構
+          </go_item>
+          <go_item number="十五">
             日本銀行
           </go_item>
-          <go_item number="十七">
+          <go_item number="十六">
             日本赤十字社
           </go_item>
-          <go_item number="十八">
+          <go_item number="十七">
             日本放送協会
           </go_item>
-          <go_item number="十九">
+          <go_item number="十八">
             広域的運営推進機関
           </go_item>
-          <go_item number="二十">
+          <go_item number="十九">
             東日本高速道路株式会社
           </go_item>
-          <go_item number="二十一">
+          <go_item number="二十">
             首都高速道路株式会社
           </go_item>
-          <go_item number="二十二">
+          <go_item number="二十一">
             中日本高速道路株式会社
           </go_item>
-          <go_item number="二十三">
+          <go_item number="二十二">
             西日本高速道路株式会社
           </go_item>
-          <go_item number="二十四">
+          <go_item number="二十三">
             阪神高速道路株式会社
           </go_item>
-          <go_item number="二十五">
+          <go_item number="二十四">
             本州四国連絡高速道路株式会社
           </go_item>
-          <go_item number="二十六">
+          <go_item number="二十五">
             新関西国際空港株式会社
           </go_item>
-          <go_item number="二十七">
+          <go_item number="二十六">
             中部国際空港株式会社
           </go_item>
-          <go_item number="二十八">
+          <go_item number="二十七">
             成田国際空港株式会社
           </go_item>
-          <go_item number="二十九">
+          <go_item number="二十八">
             北海道旅客鉄道株式会社
           </go_item>
-          <go_item number="三十">
+          <go_item number="二十九">
             四国旅客鉄道株式会社
           </go_item>
-          <go_item number="三十一">
-            九州旅客鉄道株式会社
-          </go_item>
-          <go_item number="三十二">
+          <go_item number="三十">
             日本貨物鉄道株式会社
           </go_item>
-          <go_item number="三十三">
+          <go_item number="三十一">
             東京地下鉄株式会社
           </go_item>
-          <go_item number="三十四">
+          <go_item number="三十二">
             日本郵便株式会社
           </go_item>
-          <go_item number="三十五">
+          <go_item number="三十三">
             日本電信電話株式会社
           </go_item>
-          <go_item number="三十六">
+          <go_item number="三十四">
             東日本電信電話株式会社
           </go_item>
-          <go_item number="三十七">
+          <go_item number="三十五">
             西日本電信電話株式会社
           </go_item>
-          <go_item number="三十八">
+          <go_item number="三十六">
             海洋汚染等及び海上災害の防止に関する法律（昭和四十五年法律第百三十六号）第四十二条の十三第一項の指定海上防災機関
           </go_item>
-          <go_item number="三十九">
+          <go_item number="三十七">
             次に掲げる事業者のうち内閣総理大臣が指定して公示するもの
             <go>
               <go_item number="イ">
-                電気事業法（昭和三十九年法律第百七十号）第二条第一項第二号に規定する一般電気事業者及び同項第四号に規定する卸電気事業者
+                電気事業法（昭和三十九年法律第百七十号）第二条第一項第三号に規定する小売電気事業者（同法第二条の十三第一項に規定する小売供給契約に係る件数、内容その他の事情からみて、その営む同法第二条第一項第二号に規定する小売電気事業が円滑に実施されないことが公共の利益を著しく阻害すると認められるものに限る。）、同法第二条第一項第九号に規定する一般送配電事業者、同項第十一号に規定する送電事業者及び同項第十五号に規定する発電事業者（その事業の用に供する発電用の電気工作物（同項第十八号に規定する電気工作物をいう。）に係る出力の合計、発電の方法その他の事情からみて、その営む同項第十四号に規定する発電事業が円滑に実施されないことが公共の利益を著しく阻害すると認められるものに限る。）
               </go_item>
               <go_item number="ロ">
                 ガス事業法（昭和二十九年法律第五十一号）第二条第二項に規定する一般ガス事業者であって、供給区域内におけるガスメーターの取付数その他の事項からみて、その営む同条第一項に規定する一般ガス事業によるガスの供給が円滑に実施されないことが公共の利益を著しく阻害すると認められるもの（供給区域が一の都道府県の区域内にとどまるものを除く。）

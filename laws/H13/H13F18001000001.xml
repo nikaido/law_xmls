@@ -3,7 +3,7 @@
   <head>
     <title>環境省組織規則</title>
     <defined>平成十三年一月六日環境省令第一号</defined>
-    <updated>平成二七年四月一〇日環境省令第一七号</updated>
+    <updated>平成二八年五月二七日環境省令第一一号</updated>
   </head>
   <body>
     <preamble>
@@ -13,47 +13,11 @@
     </preamble>
     <section title="第一章　内部部局" type="Sho">
       <section title="第一節　大臣官房" type="Setsu">
-        <articles number="第一条" title="（調査官）">
+        <articles number="第一条" title="（地方環境室及び調査官）">
           <article_item number="第一条">
-            秘書課に、調査官一人を置く。
+            秘書課に、地方環境室及び調査官一人を置く。
           </article_item>
           <article_item number="２">
-            調査官は、秘書課の所掌事務に関する重要事項の調査並びに企画及び立案を行う。
-          </article_item>
-        </articles>
-        <articles number="第二条" title="（環境情報室及び企画官）">
-          <article_item number="第二条">
-            総務課に、環境情報室及び企画官一人を置く。
-          </article_item>
-          <article_item number="２">
-            環境情報室は、次に掲げる事務をつかさどる。
-            <go>
-              <go_item number="一">
-                環境省の情報システムの整備及び管理に関すること。
-              </go_item>
-              <go_item number="二">
-                国立国会図晝館支部環境省図書館に関すること。
-              </go_item>
-              <go_item number="三">
-                環境省の所掌事務に関する情報（統計を除く。）の整理及び提供に関する事務の総括に関すること。
-              </go_item>
-            </go>
-          </article_item>
-          <article_item number="３">
-            環境情報室に、室長を置く。
-          </article_item>
-          <article_item number="４">
-            企画官は、総務課の所掌事務に関する特定事項の企画及び立案並びに調整に関する事務を行う。
-          </article_item>
-        </articles>
-        <articles number="第三条" title="（広報室及び地方環境室）">
-          <article_item number="第三条">
-            政策評価広報課に、広報室及び地方環境室を置く。
-          </article_item>
-          <article_item number="２">
-            広報室は、広報に関する事務（地球環境局の所掌に属するものを除く。）をつかさどる。
-          </article_item>
-          <article_item number="３">
             地方環境室は、次に掲げる事務をつかさどる。
             <go>
               <go_item number="一">
@@ -64,12 +28,37 @@
               </go_item>
             </go>
           </article_item>
+          <article_item number="３">
+            地方環境室に、室長を置く。
+          </article_item>
           <article_item number="４">
-            広報室及び地方環境室に、室長を置く。
+            調査官は、秘書課の所掌事務に関する重要事項の調査並びに企画及び立案を行う。
           </article_item>
         </articles>
-        <articles number="第四条" title="（循環型社会推進室及びリサイクル推進室）">
-          <article_item number="第四条">
+        <articles number="第二条" title="（政策評価室及び広報室）">
+          <article_item number="第二条">
+            総務課に、政策評価室及び広報室を置く。
+          </article_item>
+          <article_item number="２">
+            政策評価室は、次に掲げる事務をつかさどる。
+            <go>
+              <go_item number="一">
+                行政の考査に関すること。
+              </go_item>
+              <go_item number="二">
+                環境省の所掌事務に関する政策の評価に関すること。
+              </go_item>
+            </go>
+          </article_item>
+          <article_item number="３">
+            広報室は、広報に関する事務（地球環境局の所掌に属するものを除く。）をつかさどる。
+          </article_item>
+          <article_item number="４">
+            政策評価室及び広報室に、室長を置く。
+          </article_item>
+        </articles>
+        <articles number="第三条" title="（循環型社会推進室及びリサイクル推進室）">
+          <article_item number="第三条">
             廃棄物・リサイクル対策部企画課に、循環型社会推進室及びリサイクル推進室を置く。
           </article_item>
           <article_item number="２">
@@ -101,19 +90,22 @@
             循環型社会推進室及びリサイクル推進室に、室長を置く。
           </article_item>
         </articles>
-        <articles number="第五条" title="（浄化槽推進室）">
-          <article_item number="第五条">
-            廃棄物・リサイクル対策部廃棄物対策課に、浄化槽推進室を置く。
+        <articles number="第四条" title="（災害廃棄物対策室及び浄化槽推進室）">
+          <article_item number="第四条">
+            廃棄物・リサイクル対策部廃棄物対策課に、災害廃棄物対策室及び浄化槽推進室を置く。
           </article_item>
           <article_item number="２">
-            浄化槽推進室は、浄化槽によるし尿及び雑排水の処理に関する事務をつかさどる。
+            災害廃棄物対策室は、災害廃棄物（災害により生じた廃棄物をいう。）の適正な処理に関する事務（企画課及び産業廃棄物課の所掌に属するものを除く。）をつかさどる。
           </article_item>
           <article_item number="３">
-            浄化槽推進室に、室長を置く。
+            浄化槽推進室は、浄化槽によるし尿及び雑排水の処理に関する事務をつかさどる。
+          </article_item>
+          <article_item number="４">
+            災害廃棄物対策室及び浄化槽推進室に、室長を置く。
           </article_item>
         </articles>
-        <articles number="第六条" title="（適正処理・不法投棄対策室）">
-          <article_item number="第六条">
+        <articles number="第五条" title="（適正処理・不法投棄対策室）">
+          <article_item number="第五条">
             廃棄物・リサイクル対策部産業廃棄物課に、適正処理・不法投棄対策室を置く。
           </article_item>
           <article_item number="２">
@@ -136,8 +128,8 @@
         </articles>
       </section>
       <section title="第二節　総合環境政策局" type="Setsu">
-        <articles number="第七条" title="（環境研究技術室並びに企画官及び調査官）">
-          <article_item number="第七条">
+        <articles number="第六条" title="（環境研究技術室並びに企画官及び調査官）">
+          <article_item number="第六条">
             総務課に、環境研究技術室並びに企画官及び調査官それぞれ一人を置く。
           </article_item>
           <article_item number="２">
@@ -176,16 +168,16 @@
             調査官は、総務課の所掌事務に関する重要事項の調査並びに企画及び立案を行う。
           </article_item>
         </articles>
-        <articles number="第八条" title="（計画官）">
-          <article_item number="第八条">
+        <articles number="第七条" title="（計画官）">
+          <article_item number="第七条">
             環境計画課に、計画官一人を置く。
           </article_item>
           <article_item number="２">
             計画官は、環境基本計画（環境基本法（平成五年法律第九十一号）第十五条第一項に規定する計画をいう。）に関する事務をつかさどる。
           </article_item>
         </articles>
-        <articles number="第九条" title="（環境教育推進室）">
-          <article_item number="第九条">
+        <articles number="第八条" title="（環境教育推進室）">
+          <article_item number="第八条">
             環境経済課に、環境教育推進室を置く。
           </article_item>
           <article_item number="２">
@@ -209,8 +201,8 @@
             環境教育推進室に、室長を置く。
           </article_item>
         </articles>
-        <articles number="第十条" title="（環境影響審査室）">
-          <article_item number="第十条">
+        <articles number="第九条" title="（環境影響審査室）">
+          <article_item number="第九条">
             環境影響評価課に、環境影響審査室を置く。
           </article_item>
           <article_item number="２">
@@ -220,9 +212,9 @@
             環境影響審査室に、室長を置く。
           </article_item>
         </articles>
-        <articles number="第十一条" title="（保健業務室、特殊疾病対策室、石綿健康被害対策室及び化学物質審査室並びに調査官）">
-          <article_item number="第十一条">
-            環境保健部企画課に、保健業務室、特殊疾病対策室、石綿健康被害対策室及び化学物質審査室並びに調査官一人を置く。 
+        <articles number="第十条" title="（保健業務室、特殊疾病対策室、石綿健康被害対策室及び化学物質審査室並びに調査官）">
+          <article_item number="第十条">
+            環境保健部環境保健企画管理課に、保健業務室、特殊疾病対策室、石綿健康被害対策室及び化学物質審査室並びに調査官一人を置く。 
           </article_item>
           <article_item number="２">
             保健業務室は、公害に係る健康被害の認定及び補償の給付並びに公害保健福祉事業（公害健康被害の補償等に関する法律（昭和四十八年法律第百十一号）に規定する公害保健福祉事業をいう。次項第一号において同じ。）に関する事務（特殊疾病対策室の所掌に属するものを除く。）をつかさどる。
@@ -251,11 +243,11 @@
             保健業務室、特殊疾病対策室、石綿健康被害対策室及び化学物質審査室に、室長を置く。
           </article_item>
           <article_item number="７">
-            調査官は、環境保健部企画課の所掌事務に関する重要事項の調査並びに企画及び立案を行う。
+            調査官は、環境保健部環境保健企画管理課の所掌事務に関する重要事項の調査並びに企画及び立案を行う。
           </article_item>
         </articles>
-        <articles number="第十二条" title="（環境リスク評価室）">
-          <article_item number="第十二条">
+        <articles number="第十一条" title="（環境リスク評価室）">
+          <article_item number="第十一条">
             環境保健部環境安全課に、環境リスク評価室を置く。
           </article_item>
           <article_item number="２">
@@ -275,8 +267,8 @@
         </articles>
       </section>
       <section title="第三節　地球環境局" type="Setsu">
-        <articles number="第十三条" title="（低炭素社会推進室及び研究調査室並びに調査官）">
-          <article_item number="第十三条">
+        <articles number="第十二条" title="（低炭素社会推進室及び研究調査室並びに調査官）">
+          <article_item number="第十二条">
             総務課に、低炭素社会推進室及び研究調査室並びに調査官一人を置く。
           </article_item>
           <article_item number="２">
@@ -317,18 +309,18 @@
             調査官は、総務課の所掌事務に関する重要事項の調査並びに企画及び立案を行う。
           </article_item>
         </articles>
-        <articles number="第十四条" title="（市場メカニズム室及びフロン対策室並びに調整官） ">
-          <article_item number="第十四条">
-            地球温暖化対策課に、市場メカニズム室及びフロン対策室並びに調整官一人を置く。 
+        <articles number="第十三条" title="（市場メカニズム室及びフロン対策室並びに調整官及び事業監理官） ">
+          <article_item number="第十三条">
+            地球温暖化対策課に、市場メカニズム室及びフロン対策室並びに調整官及び事業監理官それぞれ一人を置く。 
           </article_item>
           <article_item number="２">
             市場メカニズム室は、次に掲げる事務をつかさどる。
             <go>
               <go_item number="一">
-                気候変動に関する国際連合枠組条約の京都議定書（以下この号において「京都議定書」という。）第六条１に規定する事業、京都議定書第十二条１に規定する低排出型の開発の制度及び京都議定書第十七条に規定する排出量取引を活用するための制度に関する企画及び立案に関すること。
+                気候変動に関する国際連合枠組条約の京都議定書第十二条１に規定する低排出型の開発の制度に関する企画及び立案に関すること。
               </go_item>
               <go_item number="二">
-                地球温暖化対策の推進に関する法律第二十九条第一項の割当量口座簿の管理に関すること。
+                地球温暖化対策の推進に関する法律第四十三条第一項の割当量口座簿の管理に関すること。
               </go_item>
               <go_item number="三">
                 前二号に掲げるもののほか、地球温暖化対策課の所掌事務に係る経済的措置に関する事務に関すること。
@@ -352,9 +344,12 @@
           <article_item number="５">
             調整官は、地球温暖化対策課の所掌事務に関する特定事項の企画及び立案並びに調整に関する事務を行う。
           </article_item>
+          <article_item number="６">
+            事業監理官は、地球温暖化対策課の所掌事務に関する事業の指導及び監督に関する重要事項を処理する。
+          </article_item>
         </articles>
-        <articles number="第十五条" title="（国際地球温暖化対策室）">
-          <article_item number="第十五条">
+        <articles number="第十四条" title="（国際地球温暖化対策室）">
+          <article_item number="第十四条">
             国際連携課に、国際地球温暖化対策室を置く。
           </article_item>
           <article_item number="２">
@@ -366,8 +361,8 @@
         </articles>
       </section>
       <section title="第四節　水・大気環境局" type="Setsu">
-        <articles number="第十六条" title="（除染渉外広報室及び調査官）">
-          <article_item number="第十六条">
+        <articles number="第十五条" title="（除染渉外広報室及び調査官）">
+          <article_item number="第十五条">
             総務課に、除染渉外広報室及び調査官一人を置く。
           </article_item>
           <article_item number="２">
@@ -380,8 +375,8 @@
             調査官は、総務課の所掌事務に関する重要事項の調査並びに企画及び立案を行う。
           </article_item>
         </articles>
-        <articles number="第十七条" title="（大気生活環境室）">
-          <article_item number="第十七条">
+        <articles number="第十六条" title="（大気生活環境室）">
+          <article_item number="第十六条">
             大気環境課に、大気生活環境室を置く。
           </article_item>
           <article_item number="２">
@@ -402,8 +397,8 @@
             大気生活環境室に、室長を置く。
           </article_item>
         </articles>
-        <articles number="第十八条" title="（閉鎖性海域対策室及び海洋環境室）">
-          <article_item number="第十八条">
+        <articles number="第十七条" title="（閉鎖性海域対策室及び海洋環境室）">
+          <article_item number="第十七条">
             水環境課に、閉鎖性海域対策室及び海洋環境室を置く。
           </article_item>
           <article_item number="２">
@@ -441,8 +436,8 @@
             閉鎖性海域対策室及び海洋環境室に、室長を置く。
           </article_item>
         </articles>
-        <articles number="第十九条" title="（農薬環境管理室及び地下水・地盤環境室）">
-          <article_item number="第十九条">
+        <articles number="第十八条" title="（農薬環境管理室及び地下水・地盤環境室）">
+          <article_item number="第十八条">
             土壌環境課に、農薬環境管理室及び地下水・地盤環境室を置く。
           </article_item>
           <article_item number="２">
@@ -474,8 +469,8 @@
         </articles>
       </section>
       <section title="第五節　自然環境局" type="Setsu">
-        <articles number="第二十条" title="（国民公園管理事務所等）">
-          <article_item number="第二十条">
+        <articles number="第十九条" title="（国民公園管理事務所等）">
+          <article_item number="第十九条">
             自然環境局総務課の管理の下に、国民公園管理事務所、千鳥ケ淵戦没者墓苑管理事務所及び生物多様性センターを置く。
           </article_item>
           <article_item number="２">
@@ -508,8 +503,8 @@
             </go>
           </article_item>
         </articles>
-        <articles number="第二十一条" title="（国民公園管理事務所等の名称及び位置）">
-          <article_item number="第二十一条">
+        <articles number="第二十条" title="（国民公園管理事務所等の名称及び位置）">
+          <article_item number="第二十条">
             国民公園管理事務所の名称及び位置は、次のとおりとする。
             <table>
               <tr>
@@ -553,21 +548,21 @@
             生物多様性センターは、富士吉田市に置く。
           </article_item>
         </articles>
-        <articles number="第二十二条" title="（国民公園管理事務所等の所長等）">
-          <article_item number="第二十二条">
+        <articles number="第二十一条" title="（国民公園管理事務所等の所長等）">
+          <article_item number="第二十一条">
             国民公園管理事務所及び千鳥ケ淵戦没者墓苑管理事務所に所長を、生物多様性センターに生物多様性センター長を置く。
           </article_item>
         </articles>
-        <articles number="第二十三条" title="（調査官）">
-          <article_item number="第二十三条">
+        <articles number="第二十二条" title="（調査官）">
+          <article_item number="第二十二条">
             総務課に、調査官一人を置く。
           </article_item>
           <article_item number="２">
             調査官は、総務課の所掌事務に関する重要事項の調査並びに企画及び立案を行う。
           </article_item>
         </articles>
-        <articles number="第二十四条" title="（生物多様性地球戦略企画室及び生物多様性施策推進室）">
-          <article_item number="第二十四条">
+        <articles number="第二十三条" title="（生物多様性地球戦略企画室及び生物多様性施策推進室）">
+          <article_item number="第二十三条">
             自然環境計画課に、生物多様性地球戦略企画室及び生物多様性施策推進室を置く。
           </article_item>
           <article_item number="２">
@@ -591,15 +586,15 @@
             生物多様性地球戦略企画室及び生物多様性施策推進室に、室長を置く。
           </article_item>
         </articles>
-        <articles number="第二十四条の二" title="（生物多様性地球戦略企画室及び生物多様性施策推進室）">
-          <article_item number="第二十四条の二">
+        <articles number="第二十四条" title="（国立公園利用推進室）">
+          <article_item number="第二十四条">
             国立公園課に、国立公園利用推進室を置く。
           </article_item>
           <article_item number="２">
             国立公園利用推進室は、次に掲げる事務をつかさどる。
             <go>
               <go_item number="一">
-                国立公園の保護及び整備に関すること（地域の魅力の増進のために行うものに係るものに限る。）並びに自然公園及び温泉に関する事業の振興に関すること。
+                国立公園の保護及び整備に関すること（地域の魅力の増進のために行うものに係るものに限る。）並びに自然公園に関する事業の振興に関すること。
               </go_item>
               <go_item number="二">
                 自然公園並びに景勝地及び休養地並びに公園に係る観光及び休養に関する調査に関すること。

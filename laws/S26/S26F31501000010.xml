@@ -3,7 +3,7 @@
   <head>
     <title>特別史跡名勝天然記念物又は史跡名勝天然記念物の現状変更等の許可申請等に関する規則</title>
     <defined>昭和二十六年七月十三日文化財保護委員会規則第十号</defined>
-    <updated>平成一七年三月二八日文部科学省令第一一号</updated>
+    <updated>平成二七年一二月二一日文部科学省令第三六号</updated>
   </head>
   <body>
     <preamble>
@@ -145,7 +145,7 @@
     </articles>
     <articles number="第六条" title="（管理計画）">
       <article_item number="第六条">
-        令第五条第四項第一号ヌの管理のための計画（以下「管理計画」という。）には、次に掲げる事項を記載するものとする。
+        令第五条第四項の管理計画には、次に掲げる事項を記載するものとする。
         <go>
           <go_item number="一">
             史跡、名勝又は天然記念物の別及び名称
@@ -175,6 +175,19 @@
       </article_item>
       <article_item number="２">
         管理計画には、史跡、名勝又は天然記念物の許可の基準の適用区域を示す図面を添えるものとする。
+      </article_item>
+    </articles>
+    <articles number="第七条" title="（市の区域に係る事務の処理の開始の公示）">
+      <article_item number="第七条">
+        令第五条第七項の規定による公示は、次に掲げる事項について行うものとする。
+        <go>
+          <go_item number="一">
+            令第五条第四項各号に掲げる事務のうち市の区域に係るものの処理を開始する旨
+          </go_item>
+          <go_item number="二">
+            令第五条第四項各号に掲げる事務のうち市の区域に係るものの処理を開始する日
+          </go_item>
+        </go>
       </article_item>
     </articles>
   </body>

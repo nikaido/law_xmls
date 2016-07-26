@@ -3,7 +3,7 @@
   <head>
     <title>エネルギーの使用の合理化等に関する法律施行規則</title>
     <defined>昭和五十四年九月二十九日通商産業省令第七十四号</defined>
-    <updated>平成二七年五月二二日経済産業省令第四六号</updated>
+    <updated>平成二八年五月二七日経済産業省令第七一号</updated>
   </head>
   <body>
     <preamble>
@@ -966,7 +966,15 @@
         令第二十一条第十号の経済産業省令で定める電気冷蔵庫は、次に掲げるものとする。
         <go>
           <go_item number="一">
-            家庭用のもののうち、吸収式のもの
+            家庭用のもののうち、次に掲げるもの
+            <go>
+              <go_item number="イ">
+                吸収式のもの
+              </go_item>
+              <go_item number="ロ">
+                ワイン貯蔵が主な用途であるもの
+              </go_item>
+            </go>
           </go_item>
           <go_item number="二">
             家庭用以外のもののうち、次に掲げるもの

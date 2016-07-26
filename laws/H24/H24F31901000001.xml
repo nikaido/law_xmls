@@ -3,7 +3,7 @@
   <head>
     <title>原子力規制委員会組織規則</title>
     <defined>平成二十四年九月十九日原子力規制委員会規則第一号</defined>
-    <updated>平成二七年四月一〇日原子力規制委員会規則第二号</updated>
+    <updated>平成二八年三月三一日原子力規制委員会規則第五号</updated>
   </head>
   <body>
     <preamble>
@@ -15,7 +15,7 @@
       <section title="第一節　特別な職の設置等" type="Setsu">
         <articles number="第一条">
           <article_item number="第一条">
-            長官官房に、緊急事態対策監一人、技術総括審議官一人、核物質・放射線総括審議官一人及び審議官三人を置く。
+            長官官房に、緊急事態対策監一人、技術総括審議官一人、核物質・放射線総括審議官一人、審議官三人及びサイバーセキュリティ・情報化参事官一人を置く。
           </article_item>
           <article_item number="２">
             緊急事態対策監は、原子力事故（原子力規制委員会設置法第四条第一項第十号に規定する原子力事故をいう。以下同じ。）による緊急の事態の発生の防止及び緊急の事態への対処に関する事務を総括整理する。
@@ -28,6 +28,9 @@
           </article_item>
           <article_item number="５">
             審議官は、命を受けて、委員会の所掌事務に関する重要事項についての企画及び立案に参画し、関係事務を総括整理する。
+          </article_item>
+          <article_item number="６">
+            サイバーセキュリティ・情報化参事官は、命を受けて、委員会の所掌事務に関するサイバーセキュリティ（サイバーセキュリティ基本法（平成二十六年法律第百四号）第二条に規定するサイバーセキュリティをいう。以下同じ。）の確保並びに情報システムの整備及び管理並びにこれらと併せて行われる事務の運営の改善及び効率化に関する重要事項についての企画及び立案に参画する。
           </article_item>
         </articles>
       </section>
@@ -299,9 +302,9 @@
       </section>
       <section title="第三節　課の内部組織等" type="Setsu">
         <section title="第一款　長官官房" type="Kan">
-          <articles number="第十四条" title="（法務室、広報室及び国際室並びに企画官、国際協力推進官、地域原子力規制総括調整官、企画調査官及び情報システム管理官）">
+          <articles number="第十四条" title="（法務室、監査・業務改善推進室、広報室及び国際室並びに企画官、国際協力推進官、地域原子力規制総括調整官、企画調査官及び情報システム管理官）">
             <article_item number="第十四条">
-              総務課に、法務室、広報室及び国際室並びに企画官二人、地域原子力規制総括調整官三人、企画調査官一人及び情報システム管理官一人を置く。
+              総務課に、法務室、監査・業務改善推進室、広報室及び国際室並びに企画官一人、地域原子力規制総括調整官三人、企画調査官一人及び情報システム管理官一人を置く。
             </article_item>
             <article_item number="２">
               法務室は、次に掲げる事務をつかさどる。
@@ -324,6 +327,12 @@
               法務室に、室長を置く。
             </article_item>
             <article_item number="４">
+              監査・業務改善推進室は、委員会の行政の考査に関する事務をつかさどる。
+            </article_item>
+            <article_item number="５">
+              監査・業務改善推進室に、室長を置く。
+            </article_item>
+            <article_item number="６">
               広報室は、次に掲げる事務をつかさどる。
               <go>
                 <go_item number="一">
@@ -334,10 +343,10 @@
                 </go_item>
               </go>
             </article_item>
-            <article_item number="５">
+            <article_item number="７">
               広報室に、室長を置く。 
             </article_item>
-            <article_item number="６">
+            <article_item number="８">
               国際室は、次に掲げる事務をつかさどる。
               <go>
                 <go_item number="一">
@@ -348,22 +357,22 @@
                 </go_item>
               </go>
             </article_item>
-            <article_item number="７">
+            <article_item number="９">
               国際室に、室長及び国際協力推進官一人を置く。 
             </article_item>
-            <article_item number="８">
+            <article_item number="１０">
               国際協力推進官は、命を受けて、国際室の所掌事務に関する特定事項についての外国の行政機関との連絡調整に関する事務を行う。
             </article_item>
-            <article_item number="９">
+            <article_item number="１１">
               企画官は、命を受けて、総務課の所掌事務に関する特定事項の企画及び立案並びに調整に関する事務を行う。
             </article_item>
-            <article_item number="１０">
+            <article_item number="１２">
               地域原子力規制総括調整官は、命を受けて、特定の地域に関する事項についての調整に関する事務を行う。
             </article_item>
-            <article_item number="１１">
+            <article_item number="１３">
               企画調査官は、命を受けて、総務課の所掌事務に関する特定事項に係るものを調査し、企画する事務を行う。
             </article_item>
-            <article_item number="１２">
+            <article_item number="１４">
               情報システム管理官は、命を受けて、委員会の情報システムの整備及び管理に関する事務を行う。
             </article_item>
           </articles>
@@ -377,7 +386,7 @@
           </articles>
           <articles number="第十六条" title="（企画官）">
             <article_item number="第十六条">
-              技術基盤課に、企画官三人を置く。
+              技術基盤課に、企画官二人を置く。
             </article_item>
             <article_item number="２">
               企画官は、命を受けて、技術基盤課の所掌事務に関する特定事項の企画及び立案並びに調整に関する事務を行う。
@@ -436,7 +445,7 @@
           </articles>
           <articles number="第十八条" title="（放射線環境対策室並びに企画官及び地方放射線モニタリング対策官）">
             <article_item number="第十八条">
-              監視情報課に、放射線環境対策室並びに企画官一人及び地方放射線モニタリング対策官十四人を置く。
+              監視情報課に、放射線環境対策室並びに企画官一人及び地方放射線モニタリング対策官二十人を置く。
             </article_item>
             <article_item number="２">
               放射線環境対策室は、次に掲げる事務をつかさどる。
@@ -487,7 +496,7 @@
           </articles>
           <articles number="第二十条" title="（企画官、経理調査官、首席技術研究調査官、上席会計監査官及び上席技術研究調査官）">
             <article_item number="第二十条">
-              長官官房に、企画官三人、経理調査官一人、首席技術研究調査官十一人、上席会計監査官一人及び上席技術研究調査官九人を置く。
+              長官官房に、企画官三人、経理調査官一人、首席技術研究調査官十人、上席会計監査官一人及び上席技術研究調査官九人を置く。
             </article_item>
             <article_item number="２">
               企画官は、命を受けて、安全技術管理官のつかさどる職務のうち特定事項の企画及び立案並びに調整に関するものを助ける。
@@ -590,7 +599,7 @@
               原子力利用における安全の確保に関する人材の育成及び研修の実施に関すること（国際研修課の所掌に属するものを除く。）。
             </go_item>
             <go_item number="二">
-              核燃料取扱主任者及び原子炉主任技術者の試験及び免状の交付を行うこと。
+              核燃料取扱主任者及び原子炉主任技術者の試験及び免状の交付に関すること。
             </go_item>
           </go>
         </article_item>

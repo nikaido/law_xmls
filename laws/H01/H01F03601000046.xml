@@ -3,7 +3,7 @@
   <head>
     <title>歯科衛生士法施行規則</title>
     <defined>平成元年十月三十一日厚生省令第四十六号</defined>
-    <updated>平成二四年六月二九日厚生労働省令第九七号</updated>
+    <updated>平成二八年四月八日厚生労働省令第九一号</updated>
   </head>
   <body>
     <preamble>
@@ -143,7 +143,7 @@
               氏名及び年齢
             </go_item>
             <go_item number="二">
-              本籍地都道府県名（日本の国籍を有しない者については、その国籍）及び住所
+              住所
             </go_item>
             <go_item number="三">
               名簿の登録番号及び登録年月日

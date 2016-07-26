@@ -3,7 +3,7 @@
   <head>
     <title>中小企業の新たな事業活動の促進に関する法律</title>
     <defined>平成十一年三月三十一日法律第十八号</defined>
-    <updated>平成二七年六月二六日法律第五〇号</updated>
+    <updated>平成二八年四月二二日法律第三一号</updated>
   </head>
   <body>
     <section title="第一章　総則" type="Sho">
@@ -855,12 +855,17 @@
           内閣総理大臣は、この法律による権限（金融庁の所掌に係るものに限り、政令で定めるものを除く。）を金融庁長官に委任する。
         </article_item>
       </articles>
+      <articles number="第四十条の二" title="（都道府県が処理する事務）">
+        <article_item number="第四十条の二">
+          この法律に規定する経済産業大臣の権限に属する事務の一部は、政令で定めるところにより、都道府県知事が行うこととすることができる。
+        </article_item>
+      </articles>
       <articles number="第四十一条" title="（権限の委任）">
         <article_item number="第四十一条">
           この法律による行政庁（都道府県の知事を除く。）及び主務大臣の権限は、政令で定めるところにより、地方支分部局の長に行わせることができる。
         </article_item>
         <article_item number="２">
-          金融庁長官は、政令で定めるところにより、前条第六項の規定により委任された権限の一部を財務局長又は財務支局長に委任することができる。
+          金融庁長官は、政令で定めるところにより、第四十条第六項の規定により委任された権限の一部を財務局長又は財務支局長に委任することができる。
         </article_item>
       </articles>
     </section>

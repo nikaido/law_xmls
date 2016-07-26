@@ -58,13 +58,32 @@
             海岸保全施設の整備に関する次に掲げる事項
             <go>
               <go_item number="イ">
-                海岸保全施設を整備しようとする区域
+                海岸保全施設の新設又は改良に関する次に掲げる事項
+                <go>
+                  <go_item number="（１）">
+                    海岸保全施設を新設又は改良しようとする区域
+                  </go_item>
+                  <go_item number="（２）">
+                    海岸保全施設の種類、規模及び配置
+                  </go_item>
+                  <go_item number="（３）">
+                    海岸保全施設による受益の地域及びその状況
+                  </go_item>
+                </go>
               </go_item>
               <go_item number="ロ">
-                海岸保全施設の種類、規模及び配置等
-              </go_item>
-              <go_item number="ハ">
-                海岸保全施設による受益の地域及びその状況
+                海岸保全施設の維持又は修繕に関する次に掲げる事項
+                <go>
+                  <go_item number="（１）">
+                    海岸保全施設の存する区域
+                  </go_item>
+                  <go_item number="（２）">
+                    海岸保全施設の種類、規模及び配置
+                  </go_item>
+                  <go_item number="（３）">
+                    海岸保全施設の維持又は修繕の方法
+                  </go_item>
+                </go>
               </go_item>
             </go>
           </go_item>

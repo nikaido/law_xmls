@@ -3,7 +3,7 @@
   <head>
     <title>貿易保険法施行令</title>
     <defined>昭和二十八年七月三十一日政令第百四十一号</defined>
-    <updated>平成二六年九月二五日政令第三一二号</updated>
+    <updated>平成二八年一月五日政令第一号</updated>
   </head>
   <body>
     <preamble>
@@ -348,6 +348,11 @@
     </articles>
     <articles number="第二十条" title="（出資外国法人等貿易保険）">
       <article_item number="第二十条">
+        法第三十一条第二項第一号トの政令で定める者は、日本国の政府及び地方公共団体とする。
+      </article_item>
+    </articles>
+    <articles number="第二十一条" title="（出資外国法人等貿易保険）">
+      <article_item number="第二十一条">
         法第三十一条第二項第二号の貨物は、次のとおりとする。
         <go>
           <go_item number="一">
@@ -357,11 +362,6 @@
             石油、可燃性天然ガス、石炭及び金属鉱物
           </go_item>
         </go>
-      </article_item>
-    </articles>
-    <articles number="第二十一条" title="（出資外国法人等貿易保険）">
-      <article_item number="第二十一条">
-        法第三十一条第二項第二号ホの政令で定める者は、日本国の政府及び地方公共団体とする。
       </article_item>
     </articles>
     <articles number="第二十二条" title="（出資外国法人等貿易保険）">
@@ -388,6 +388,19 @@
           </go_item>
           <go_item number="七">
             技術の提供又はこれに伴う労務の提供のために使用する施設又は建設機械の賃借料
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第二十二条の二" title="（貿易代金貸付保険）">
+      <article_item number="第二十二条の二">
+        法第三十四条第二項の附帯の債権は、次のとおりとする。
+        <go>
+          <go_item number="一">
+            利子
+          </go_item>
+          <go_item number="二">
+            遅延損害金
           </go_item>
         </go>
       </article_item>
@@ -502,7 +515,7 @@
     </articles>
     <articles number="第三十三条" title="（海外投資保険）">
       <article_item number="第三十三条">
-        法第五十二条第三項の期間は、十五年とする。ただし、当該外国法人がその事業の全部を開始するまでに相当の期間を要すると認められるときは、十五年にその事業の全部を開始するまでに要する期間以内において経済産業大臣が定める期間を加えた期間とする。
+        法第五十二条第三項の期間は、三十年とする。ただし、当該外国法人がその事業の全部を開始するまでに相当の期間を要すると認められるときは、三十年にその事業の全部を開始するまでに要する期間以内において経済産業大臣が定める期間を加えた期間とする。
       </article_item>
     </articles>
     <articles number="第三十四条" title="（海外投資保険）">

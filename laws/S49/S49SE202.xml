@@ -3,7 +3,7 @@
   <head>
     <title>化学物質の審査及び製造等の規制に関する法律施行令</title>
     <defined>昭和四十九年六月七日政令第二百二号</defined>
-    <updated>平成二六年三月一九日政令第六八号</updated>
+    <updated>平成二八年三月二日政令第五二号</updated>
   </head>
   <body>
     <preamble>
@@ -19,7 +19,7 @@
             ポリ塩化ビフェニル
           </go_item>
           <go_item number="二">
-            ポリ塩化ナフタレン（塩素数が三以上のものに限る。）
+            ポリ塩化ナフタレン（塩素数が二以上のものに限る。）
           </go_item>
           <go_item number="三">
             ヘキサクロロベンゼン
@@ -104,6 +104,9 @@
           </go_item>
           <go_item number="三十">
             ヘキサブロモシクロドデカン
+          </go_item>
+          <go_item number="三十一">
+            ペンタクロロフェノール又はその塩若しくはエステル
           </go_item>
         </go>
       </article_item>

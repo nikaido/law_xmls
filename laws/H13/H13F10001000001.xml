@@ -3,7 +3,7 @@
   <head>
     <title>内閣府本府組織規則</title>
     <defined>平成十三年一月六日内閣府令第一号</defined>
-    <updated>平成二七年四月一〇日内閣府令第三〇号</updated>
+    <updated>平成二八年四月一九日内閣府令第三七号</updated>
   </head>
   <body>
     <preamble>
@@ -27,7 +27,7 @@
             企画官は、命を受けて、総務課の所掌事務のうち特定事項の調査、企画及び立案を行う。
           </article_item>
           <article_item number="５">
-            企画官の定数は、併任の者を除き、二人とする。
+            企画官の定数は、併任の者を除き、一人とする。
           </article_item>
         </articles>
         <articles number="第一条の二" title="（調査官）">
@@ -51,15 +51,21 @@
         </articles>
         <articles number="第三条" title="（調査官）">
           <article_item number="第三条">
-            会計課に、調査官二人を置く。
+            会計課に、監査室及び調査官二人を置く。
           </article_item>
           <article_item number="２">
+            監査室は、内閣府の所掌に係る会計の監査に関する事務をつかさどる。
+          </article_item>
+          <article_item number="３">
+            監査室に、室長（関係のある他の職を占める者をもって充てられるものとする。）を置く。
+          </article_item>
+          <article_item number="４">
             調査官は、命を受けて、会計課の所掌事務のうち専門的事項の調査、企画及び立案を行う。
           </article_item>
         </articles>
-        <articles number="第四条" title="（国際室及び情報システム室）">
+        <articles number="第四条" title="（国際室及び企画官）">
           <article_item number="第四条">
-            企画調整課に、国際室及び情報システム室を置く。
+            企画調整課に、国際室及び企画官一人を置く。
           </article_item>
           <article_item number="２">
             国際室は、次に掲げる事務をつかさどる。
@@ -79,10 +85,7 @@
             国際室に、室長を置く。
           </article_item>
           <article_item number="４">
-            情報システム室は、本府の情報システムの整備及び管理に関する事務をつかさどる。
-          </article_item>
-          <article_item number="５">
-            情報システム室に、室長を置く。
+            企画官は、命を受けて、企画調整課の所掌事務のうち特定事項の調査、企画及び立案を行う。
           </article_item>
         </articles>
         <articles number="第五条" title="（調査官及び能率専門官）">
@@ -140,7 +143,7 @@
             原子力専門調査官は、命を受けて、参事官の職務のうち原子力の研究、開発及び利用に関する専門的事項（安全の確保のうちその実施に関するものを除く。）の調査、企画及び立案を助ける。
           </article_item>
           <article_item number="８">
-            企画官の定数は、併任の者を除き二十八人と、調査官の定数は、併任の者を除き三人と、防災情報通信システム官の定数は、一人と、地域原子力防災推進官の定数は、四人と、原子力防災訓練推進官の定数は、一人と、原子力専門調査官の定数は、十人とする。
+            企画官の定数は、併任の者を除き二十六人と、調査官の定数は、併任の者を除き三人と、防災情報通信システム官の定数は、一人と、地域原子力防災推進官の定数は、四人と、原子力防災訓練推進官の定数は、一人と、原子力専門調査官の定数は、十人とする。
           </article_item>
         </articles>
       </section>
@@ -163,12 +166,9 @@
         </articles>
       </section>
       <section title="第四節　男女共同参画局" type="Setsu">
-        <articles number="第十一条" title="（企画官）">
+        <articles number="第十一条">
           <article_item number="第十一条">
-            総務課に、企画官一人を置く。
-          </article_item>
-          <article_item number="２">
-            企画官は、命を受けて、総務課の所掌事務のうち特定事項の調査、企画及び立案を行う。
+            削除
           </article_item>
         </articles>
         <articles number="第十二条" title="（調査官及び男女共同参画分析官）">
@@ -182,9 +182,9 @@
             男女共同参画分析官は、命を受けて、政府の施策に関する男女共同参画社会の形成の観点からの調査及び分析を行う。
           </article_item>
         </articles>
-        <articles number="第十三条" title="（暴力対策推進室及び男女共同参画推進官）">
+        <articles number="第十三条" title="（暴力対策推進室並びに積極措置政策調整官及び男女共同参画推進官）">
           <article_item number="第十三条">
-            推進課に、暴力対策推進室及び男女共同参画推進官一人を置く。
+            推進課に、暴力対策推進室並びに積極措置政策調整官及び男女共同参画推進官それぞれ一人を置く。
           </article_item>
           <article_item number="２">
             暴力対策推進室は、次に掲げる事務をつかさどる。
@@ -201,7 +201,10 @@
             暴力対策推進室に、室長を置く。
           </article_item>
           <article_item number="４">
-            男女共同参画推進官は、命を受けて、男女共同参画社会基本法（平成十一年法律第七十八号）第五条に規定する政策又は方針の立案及び決定に男女が共同して参画する機会の確保に関する施策の推進を行う。
+            積極措置政策調整官は、命を受けて、推進課の所掌事務のうち男女共同参画社会基本法（平成十一年法律第七十八号）第二条に規定する積極的改善措置に関するものの企画及び立案並びに調整を行う。
+          </article_item>
+          <article_item number="５">
+            男女共同参画推進官は、命を受けて、男女共同参画社会基本法第五条に規定する政策又は方針の立案及び決定に男女が共同して参画する機会の確保に関する施策の推進を行う。
           </article_item>
         </articles>
       </section>
@@ -602,7 +605,7 @@
                 迎賓館の所掌に係る会計及び会計の監査に関すること。
               </go_item>
               <go_item number="五">
-                迎賓館の施設及び迎賓館所属の物品の管理に関すること。
+                迎賓館の施設及び迎賓館所属の物品の管理に関すること（運営課の所掌に属するものを除く。）。
               </go_item>
               <go_item number="六">
                 公文書類の接受、発送、編集及び保存に関すること。
@@ -625,6 +628,9 @@
               </go_item>
               <go_item number="二">
                 迎賓館の運営に関すること。
+              </go_item>
+              <go_item number="三">
+                迎賓館の参観に関すること。
               </go_item>
             </go>
           </article_item>
@@ -686,19 +692,52 @@
             </go>
           </article_item>
         </articles>
+        <articles number="第五十二条" title="（企画官）">
+          <article_item number="第五十二条">
+            地方創生推進事務局に、企画官を置くことができる。
+          </article_item>
+          <article_item number="２">
+            企画官は、関係のある他の職を占める者をもって充てられるものとする。
+          </article_item>
+          <article_item number="３">
+            企画官は、命を受けて、地方創生推進事務局の事務のうち特定事項の調査、企画及び立案に関する事務を行う。
+          </article_item>
+        </articles>
+        <articles number="第五十三条" title="（企画官）">
+          <article_item number="第五十三条">
+            知的財産戦略推進事務局に、企画官を置くことができる。
+          </article_item>
+          <article_item number="２">
+            企画官は、関係のある他の職を占める者をもって充てられるものとする。
+          </article_item>
+          <article_item number="３">
+            企画官は、命を受けて、知的財産戦略推進事務局の事務のうち特定事項の調査、企画及び立案に関する事務を行う。
+          </article_item>
+        </articles>
+        <articles number="第五十四条" title="（企画官）">
+          <article_item number="第五十四条">
+            宇宙開発戦略推進事務局に、企画官を置く。
+          </article_item>
+          <article_item number="２">
+            企画官は、命を受けて、宇宙開発戦略推進事務局の事務のうち特定事項の調査、企画及び立案に関する事務を行う。
+          </article_item>
+          <article_item number="３">
+            企画官の定数は、併任の者を除き、二人とする。
+          </article_item>
+        </articles>
       </section>
     </section>
     <section title="第三章　特別の機関" type="Sho">
-      <articles number="第五十二条" title="（調査官）">
-        <article_item number="第五十二条">
+      <articles number="第五十五条" title="（調査官）">
+        <article_item number="第五十五条">
           北方対策本部に、調査官一人を置く。
         </article_item>
         <article_item number="２">
           調査官は、命を受けて、北方対策本部の事務のうち専門的事項の調査、企画及び立案を行う。
         </article_item>
       </articles>
-      <articles number="第五十三条" title="（児童手当管理室並びに企画官及び業務管理体制検査官）">
-        <article_item number="第五十三条">
+      <articles number="第五十六条" title="（児童手当管理室並びに企画官及び業務管理体制検査官）">
+        <article_item number="第五十六条">
           子ども・子育て本部に、児童手当管理室並びに企画官及び業務管理体制検査官を置く。
         </article_item>
         <article_item number="２">
@@ -728,20 +767,20 @@
           業務管理体制検査官は、命を受けて、参事官の職務のうち子ども・子育て支援法第五十六条第一項及び第四項並びに第五十七条の規定による事務を助ける。
         </article_item>
         <article_item number="７">
-          企画官の定数は、併任の者を除き二人と、業務管理体制検査官の定数は一人とする。
+          企画官の定数は、併任の者を除き三人と、業務管理体制検査官の定数は、二人とする。
         </article_item>
       </articles>
     </section>
     <section title="第四章　地方支分部局" type="Sho">
-      <articles number="第五十四条">
-        <article_item number="第五十四条">
+      <articles number="第五十七条">
+        <article_item number="第五十七条">
           沖縄総合事務局については、沖縄総合事務局組織規則（平成十三年内閣府令第四号）の定めるところによる。
         </article_item>
       </articles>
     </section>
     <section title="第五章　顧問及び参与" type="Sho">
-      <articles number="第五十五条" title="（顧問）">
-        <article_item number="第五十五条">
+      <articles number="第五十八条" title="（顧問）">
+        <article_item number="第五十八条">
           本府に、顧問を置くことができる。
         </article_item>
         <article_item number="２">
@@ -751,8 +790,8 @@
           顧問は、非常勤とする。
         </article_item>
       </articles>
-      <articles number="第五十六条" title="（参与）">
-        <article_item number="第五十六条">
+      <articles number="第五十九条" title="（参与）">
+        <article_item number="第五十九条">
           本府に、参与を置くことができる。
         </article_item>
         <article_item number="２">

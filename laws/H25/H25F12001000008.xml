@@ -3,7 +3,7 @@
   <head>
     <title>矯正管区組織規則</title>
     <defined>平成二十五年五月十六日法務省令第八号</defined>
-    <updated>平成二七年六月一日法務省令第三四号</updated>
+    <updated>平成二八年三月三一日法務省令第二三号</updated>
   </head>
   <body>
     <preamble>
@@ -31,6 +31,17 @@
       </article_item>
       <article_item number="３">
         管区監査官は、首席管区監査官のつかさどる職務を助ける。
+      </article_item>
+    </articles>
+    <articles number="第一条の二" title="（矯正就労支援情報センター室）">
+      <article_item number="第一条の二">
+        東京矯正管区及び大阪矯正管区に、それぞれ矯正就労支援情報センター室を置く。
+      </article_item>
+      <article_item number="２">
+        矯正就労支援情報センター室は、刑務所、少年刑務所、拘置所及び少年院に収容中の者の就業に係る情報の収集、整理及び提供に関する事務をつかさどる。
+      </article_item>
+      <article_item number="３">
+        矯正就労支援情報センター室に、室長を置く。
       </article_item>
     </articles>
     <articles number="第二条" title="（第一部の所掌事務）">
@@ -125,7 +136,7 @@
     </articles>
     <articles number="第五条" title="（第一部に置く課等）">
       <article_item number="第五条">
-        第一部に、次に掲げる課を置く。<br/>　総務課<br/>　職員課
+        第一部に、次に掲げる課を置く。<br/>　総務課<br/>　職員課<br/>　矯正医事課
       </article_item>
       <article_item number="２">
         前項に掲げる課のほか、第一部に、それぞれ管区調査官一人を置く。
@@ -167,6 +178,11 @@
             矯正の事務に従事する職員の福祉に関すること。
           </go_item>
         </go>
+      </article_item>
+    </articles>
+    <articles number="第七条の二" title="（矯正医事課の所掌事務）">
+      <article_item number="第七条の二">
+        矯正医事課は、被収容者の給養、保健、衛生、医療及び薬剤に関する事務をつかさどる。
       </article_item>
     </articles>
     <articles number="第八条" title="（管区調査官の職務）">
