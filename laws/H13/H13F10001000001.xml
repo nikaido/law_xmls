@@ -3,7 +3,7 @@
   <head>
     <title>内閣府本府組織規則</title>
     <defined>平成十三年一月六日内閣府令第一号</defined>
-    <updated>平成二八年四月一九日内閣府令第三七号</updated>
+    <updated>平成二八年七月二一日内閣府令第五一号</updated>
   </head>
   <body>
     <preamble>
@@ -650,7 +650,7 @@
         </articles>
         <articles number="第五十条" title="（京都事務所の所掌事務）">
           <article_item number="第五十条">
-            京都事務所は、京都に置かれる迎賓館の施設（以下「京都迎賓館」という。）における国賓及びこれに準ずる賓客の接遇の実施に関する事務をつかさどる。
+            京都事務所は、京都市に置かれる迎賓館の施設（以下「京都迎賓館」という。）における国賓及びこれに準ずる賓客の接遇の実施に関する事務をつかさどる。
           </article_item>
         </articles>
         <articles number="第五十一条" title="（京都事務所に置く課）">
@@ -670,7 +670,7 @@
                 京都事務所に係る会計及び会計の監査に関すること。
               </go_item>
               <go_item number="四">
-                京都迎賓館の施設及び所属の物品の管理に関すること。
+                京都迎賓館の施設及び所属の物品の管理に関すること（運営課の所掌に属するものを除く。）。
               </go_item>
               <go_item number="五">
                 京都迎賓館の警備に関すること。
@@ -688,6 +688,9 @@
               </go_item>
               <go_item number="二">
                 京都迎賓館の運営に関すること。
+              </go_item>
+              <go_item number="三">
+                京都迎賓館の参観に関すること。
               </go_item>
             </go>
           </article_item>

@@ -3,7 +3,7 @@
   <head>
     <title>公認会計士・監査審査会事務局組織規則</title>
     <defined>平成十六年三月十六日内閣府令第十一号</defined>
-    <updated>平成二五年五月一六日内閣府令第三四号</updated>
+    <updated>平成二八年六月三〇日内閣府令第四四号</updated>
   </head>
   <body>
     <preamble>
@@ -13,7 +13,7 @@
     </preamble>
     <articles number="第一条" title="（事務局に置く室等）">
       <article_item number="第一条">
-        公認会計士・監査審査会（以下「審査会」という。）の事務局に、総務試験室及び審査検査室並びに総括調整官一人、試験専門官一人、公認会計士監査審査官一人、主任公認会計士監査検査官七人及び公認会計士監査検査官三十二人以内を置く。
+        公認会計士・監査審査会（以下「審査会」という。）の事務局に、総務試験室及び審査検査室並びに総括調整官一人、試験専門官一人、公認会計士監査審査官一人、総括公認会計士監査検査官一人、主任公認会計士監査検査官六人及び公認会計士監査検査官三十二人以内を置く。
       </article_item>
     </articles>
     <articles number="第二条" title="（総務試験室）">
@@ -84,13 +84,18 @@
         公認会計士監査審査官は、命を受けて、審査検査室の所掌事務のうち重要事項についての調整、検査の計画の立案並びに検査の実施に必要な資料及び情報の収集整理に関する事務に従事する。
       </article_item>
     </articles>
-    <articles number="第七条" title="（主任公認会計士監査検査官の職務）">
+    <articles number="第七条" title="（総括公認会計士監査検査官の職務）">
       <article_item number="第七条">
+        総括公認会計士監査検査官は、命を受けて、検査を実施し、並びに主任公認会計士監査検査官及び公認会計士監査検査官の行う事務を整理する。
+      </article_item>
+    </articles>
+    <articles number="第八条" title="（主任公認会計士監査検査官の職務）">
+      <article_item number="第八条">
         主任公認会計士監査検査官は、命を受けて、検査を実施し、及び公認会計士監査検査官の行う事務を整理する。
       </article_item>
     </articles>
-    <articles number="第八条" title="（公認会計士監査検査官の職務）">
-      <article_item number="第八条">
+    <articles number="第九条" title="（公認会計士監査検査官の職務）">
+      <article_item number="第九条">
         公認会計士監査検査官は、命を受けて、検査を実施する。
       </article_item>
     </articles>

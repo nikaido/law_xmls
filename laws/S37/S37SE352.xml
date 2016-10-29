@@ -3,7 +3,7 @@
   <head>
     <title>地方公務員等共済組合法施行令</title>
     <defined>昭和三十七年九月八日政令第三百五十二号</defined>
-    <updated>平成二八年四月一五日政令第一九九号</updated>
+    <updated>平成二八年九月三〇日政令第三一九号</updated>
   </head>
   <body>
     <preamble>
@@ -2683,6 +2683,9 @@
             <go_item number="百七">
               株式会社海外通信・放送・郵便事業支援機構
             </go_item>
+            <go_item number="百八">
+              使用済燃料再処理機構
+            </go_item>
           </go>
         </article_item>
       </articles>
@@ -3107,6 +3110,9 @@
             </go_item>
             <go_item number="百四">
               独立行政法人労働者健康安全機構
+            </go_item>
+            <go_item number="百五">
+              使用済燃料再処理機構
             </go_item>
           </go>
         </article_item>

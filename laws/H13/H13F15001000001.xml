@@ -3,7 +3,7 @@
   <head>
     <title>経済産業省組織規則</title>
     <defined>平成十三年一月六日経済産業省令第一号</defined>
-    <updated>平成二八年三月三一日経済産業省令第五九号</updated>
+    <updated>平成二八年六月一七日経済産業省令第七五号</updated>
   </head>
   <body>
     <preamble>
@@ -27,7 +27,7 @@
           </articles>
           <articles number="第二条" title="（政策企画官、企画官、国会事務連絡調整官、業務管理官及び情報化総括責任者補佐官） ">
             <article_item number="第二条">
-              総務課に、政策企画官十一人、企画官四十八人、国会事務連絡調整官一人、業務管理官九人及び情報化総括責任者補佐官一人（関係のある他の職を占める者をもって充てられるものとする。）を置く。 
+              総務課に、政策企画官十一人、企画官五十人、国会事務連絡調整官一人、業務管理官九人及び情報化総括責任者補佐官一人（関係のある他の職を占める者をもって充てられるものとする。）を置く。 
             </article_item>
             <article_item number="２">
               政策企画官は、命を受けて、総務課の所掌事務に関する重要事項の企画及び立案に関する事務並びに関係事務に参画する。
@@ -206,28 +206,28 @@
               産業税制専門官は、命を受けて、経済産業省の所掌に係る事業に関する税制に関する調整に関する重要事項を処理する。
             </article_item>
           </articles>
-          <articles number="第九条" title="（統括地域活性化企画官、地域活性化企画官及び地方調査企画官）">
+          <articles number="第九条" title="（地方調査企画官）">
             <article_item number="第九条">
-              地域経済産業政策課に、地域活性化企画官二人及び地方調査企画官一人を置く。
+              地域経済産業政策課に、地方調査企画官一人を置く。
+            </article_item>
+            <article_item number="２">
+              地方調査企画官は、命を受けて、地方情勢の調査及び地域経済産業政策課の所掌事務に関する重要な施策の企画及び立案に参画する。
+            </article_item>
+          </articles>
+          <articles number="第十条" title="（統括地域活性化企画官、地域活性化企画官及び工業用水道計画官）">
+            <article_item number="第十条">
+              地域産業基盤整備課に、地域活性化企画官二人及び工業用水道計画官一人を置く。
             </article_item>
             <article_item number="２">
               地域活性化企画官二人のうちから経済産業大臣が指名する者を統括地域活性化企画官とする。
             </article_item>
             <article_item number="３">
-              地域活性化企画官は、命を受けて、地域経済産業政策課の所掌事務のうち地域別の産業立地及び地域における商鉱工業一般の振興に関する政策の企画及び立案に参画する。
+              地域活性化企画官は、命を受けて、地域産業基盤整備課の所掌事務のうち産業立地及び地域における商鉱工業一般の振興に関する政策の企画及び立案に参画する。
             </article_item>
             <article_item number="４">
-              統括地域活性化企画官は、命を受けて、地域経済産業政策課の所掌事務のうち地域別の産業立地及び地域における商鉱工業一般の振興に関する政策の企画及び立案に参画し、及び地域活性化企画官の職務を統括する。
+              統括地域活性化企画官は、命を受けて、地域産業基盤整備課の所掌事務のうち産業立地及び地域における商鉱工業一般の振興に関する政策の企画及び立案に参画し、及び地域活性化企画官の職務を統括する。
             </article_item>
             <article_item number="５">
-              地方調査企画官は、命を受けて、地方情勢の調査及び地域経済産業政策課の所掌事務に関する重要な施策の企画及び立案に参画する。
-            </article_item>
-          </articles>
-          <articles number="第十条" title="（工業用水道計画官）">
-            <article_item number="第十条">
-              産業施設課に、工業用水道計画官一人を置く。
-            </article_item>
-            <article_item number="２">
               工業用水道計画官は、命を受けて、工業用水道に関する計画及び調査に関する事務を処理する。
             </article_item>
           </articles>
@@ -273,16 +273,8 @@
               東アジア経済統合企画官は、命を受けて、国際経済課の所掌事務のうち東アジア地域における経済統合に関する事務に参画する。
             </article_item>
           </articles>
-          <articles number="第十四条の二" title="（アフリカ地域企画官）">
+          <articles number="第十四条の二" title="（南西アジア室）">
             <article_item number="第十四条の二">
-              中東アフリカ課に、アフリカ地域企画官一人を置く。
-            </article_item>
-            <article_item number="２">
-              アフリカ地域企画官は、命を受けて、中東アフリカ課の所掌事務のうちアフリカ地域内の特定の地域に関する重要事項についての企画及び立案に関する事務並びに関係事務に参画する。
-            </article_item>
-          </articles>
-          <articles number="第十四条の三" title="（南西アジア室）">
-            <article_item number="第十四条の三">
               アジア大洋州課に、南西アジア室を置く。
             </article_item>
             <article_item number="２">
@@ -306,8 +298,8 @@
               南西アジア室に、室長を置く。
             </article_item>
           </articles>
-          <articles number="第十四条の四" title="（韓国室）">
-            <article_item number="第十四条の四">
+          <articles number="第十四条の三" title="（韓国室）">
+            <article_item number="第十四条の三">
               北東アジア課に、韓国室を置く。
             </article_item>
             <article_item number="２">
@@ -418,20 +410,14 @@
               農水産室に、室長を置く。
             </article_item>
           </articles>
-          <articles number="第二十条" title="（安全保障貿易検査官室及び情報調査室）">
+          <articles number="第二十条" title="（情報調査室）">
             <article_item number="第二十条">
-              安全保障貿易管理課に、安全保障貿易検査官室及び情報調査室を置く。
+              安全保障貿易管理政策課に、情報調査室を置く。
             </article_item>
             <article_item number="２">
-              安全保障貿易検査官室は、国際的な平和及び安全の維持を妨げることとなると認められる外国貿易の管理及び通商に伴う外国為替の管理に関する事務のうち事後審査に関するものをつかさどる。
+              情報調査室は、輸出及び輸入の管理並びに通商に伴う外国為替の管理に関する基本的な政策のうち国際的な平和及び安全の維持に関する情報の収集及び分析に関する事務をつかさどる。
             </article_item>
             <article_item number="３">
-              安全保障貿易検査官室に、室長を置く。
-            </article_item>
-            <article_item number="４">
-              情報調査室は、国際的な平和及び安全の維持を妨げることとなると認められる外国貿易の管理及び通商に伴う外国為替の管理に関する情報の収集及び分析に関する事務をつかさどる。
-            </article_item>
-            <article_item number="５">
               情報調査室に、室長を置く。
             </article_item>
           </articles>
@@ -645,7 +631,7 @@
           </articles>
           <articles number="第二十八条" title="（アルコール室）">
             <article_item number="第二十八条">
-              化学課に、アルコール室を置く。
+              素材産業課に、アルコール室を置く。
             </article_item>
             <article_item number="２">
               アルコール室は、次に掲げる事務をつかさどる。
@@ -664,7 +650,7 @@
           </articles>
           <articles number="第二十九条" title="（輸入住宅振興官）">
             <article_item number="第二十九条">
-              住宅産業窯業建材課に、輸入住宅振興官一人を置く。
+              生活製品課に、輸入住宅振興官一人を置く。
             </article_item>
             <article_item number="２">
               輸入住宅振興官は、命を受けて、住宅の輸入の振興に関する事務を処理する。
@@ -715,9 +701,17 @@
             </article_item>
           </articles>
         </section>
-        <section title="第七款　商務情報政策局" type="Kan">
-          <articles number="第三十二条" title="（サービス産業室）">
+        <section title="第七款　商務情報政策局 " type="Kan">
+          <articles number="第三十二条" title="（国際サイバーセキュリティ企画官）">
             <article_item number="第三十二条">
+              サイバーセキュリティ課に、国際サイバーセキュリティ企画官一人を置く。
+            </article_item>
+            <article_item number="２">
+              国際サイバーセキュリティ企画官は、命を受けて、サイバーセキュリティ課の所掌事務のうち国際関係事務に関する総合的な政策の企画及び立案並びに推進に関する事務に参画する。
+            </article_item>
+          </articles>
+          <articles number="第三十二条の二" title="（サービス産業室）">
+            <article_item number="第三十二条の二">
               サービス政策課に、サービス産業室を置く。 
             </article_item>
             <article_item number="２">
@@ -3082,29 +3076,8 @@
               国際室に、室長を置く。
             </article_item>
           </articles>
-          <articles number="第二百五十五条の三" title="（再生可能エネルギー推進室）">
+          <articles number="第二百五十五条の三" title="（鉱業管理官及び地熱資源開発官）">
             <article_item number="第二百五十五条の三">
-              新エネルギー対策課に、再生可能エネルギー推進室を置く。
-            </article_item>
-            <article_item number="２">
-              再生可能エネルギー推進室は、次に掲げる事務をつかさどる。
-              <go>
-                <go_item number="一">
-                  再生可能エネルギー源の利用の推進に関する政策の企画及び立案に関すること。
-                </go_item>
-                <go_item number="二">
-                  再生可能エネルギー源の利用の推進に関する広報並びに情報の収集及び分析に関すること。
-                </go_item>
-              </go>
-            </article_item>
-            <article_item number="３">
-              再生可能エネルギー推進室に、室長を置く。
-            </article_item>
-          </articles>
-        </section>
-        <section title="第三款　資源・燃料部" type="Kan">
-          <articles number="第二百五十五条の四" title="（鉱業管理官及び地熱資源開発官）">
-            <article_item number="第二百五十五条の四">
               政策課に、鉱業管理官一人及び地熱資源開発官一人を置く。
             </article_item>
             <article_item number="２">
@@ -3122,8 +3095,10 @@
               地熱資源開発官は、命を受けて、地熱資源の開発に関する総合的な政策の企画及び立案並びに推進に関する事務に参画する。
             </article_item>
           </articles>
-          <articles number="第二百五十五条の五" title="（海洋資源開発企画官）">
-            <article_item number="第二百五十五条の五">
+        </section>
+        <section title="第三款　資源・燃料部 " type="Kan">
+          <articles number="第二百五十五条の四" title="（海洋資源開発企画官）">
+            <article_item number="第二百五十五条の四">
               石油・天然ガス課に、海洋資源開発企画官一人を置く。
             </article_item>
             <article_item number="２">
@@ -3143,9 +3118,26 @@
           </articles>
         </section>
         <section title="第四款　電力・ガス事業部" type="Kan">
-          <articles number="第二百五十七条">
+          <articles number="第二百五十七条" title="（ガス市場整備室） ">
             <article_item number="第二百五十七条">
-              削除
+              政策課に、ガス市場整備室を置く。
+            </article_item>
+            <article_item number="２">
+              ガス市場整備室は、次に掲げる事務をつかさどる。
+              <go>
+                <go_item number="一">
+                  ガス市場の整備に関すること。
+                </go_item>
+                <go_item number="二">
+                  ガスの供給条件に関すること（電力・ガス取引監視等委員会の所掌に属するものを除く。）。
+                </go_item>
+                <go_item number="三">
+                  ガス事業の運営の調整に関すること。
+                </go_item>
+                <go_item number="四">
+                  ガス事業の資金に関すること。
+                </go_item>
+              </go>
             </article_item>
           </articles>
           <articles number="第二百五十八条" title="（電力需給・流通政策室）">
@@ -3206,9 +3198,12 @@
               原子力広報官は、命を受けて、エネルギーに関する原子力政策に係る広報に関する事務を処理する。
             </article_item>
           </articles>
-          <articles number="第二百六十一条">
+          <articles number="第二百六十一条" title="（放射性廃棄物対策企画官）">
             <article_item number="第二百六十一条">
-              削除
+              放射性廃棄物対策課に、放射性廃棄物対策企画官一人を置く。
+            </article_item>
+            <article_item number="２">
+              放射性廃棄物対策企画官は、命を受けて、放射性廃棄物対策課の所掌事務のうち原子力に係る廃棄の事業の発達、改善及び調整に関する重要事項についての企画及び立案に関する事務並びに関係事務に参画する。
             </article_item>
           </articles>
           <articles number="第二百六十二条">
@@ -3593,7 +3588,7 @@
                     工業所有権に関する外国との連絡に関すること。
                   </go_item>
                   <go_item number="四">
-                    前三号に掲げる事務のほか、工業所有権に関する多数国間の国際機関及び国際会議に関すること。
+                    前三号に掲げる事務のほか、工業所有権に関する多数国間の国際機関及び国際会議に関すること（総務課の所掌に属するものを除く。）。
                   </go_item>
                 </go>
               </article_item>
@@ -3621,9 +3616,6 @@
                     工業所有権に関する情報の提供、相談その他の渉外事務で外国人に係るものに関すること。
                   </go_item>
                   <go_item number="七">
-                    特許及び実用新案に係る国際出願（実用新案技術評価書に関する書類及び工業所有権に関する手続等の特例に関する法律（平成二年法律第三十号）の規定により出願書類又は実用新案技術評価とみなされるものを含む。以下単に「国際出願」という。）、意匠に係る国際登録出願並びに商標に係る国際登録出願の手続に係る国際的な調整に関する企画及び立案並びにその実施のための連絡調整に関すること（総務課及び国際政策課の所掌に属するものを除く。）。
-                  </go_item>
-                  <go_item number="八">
                     第三号に掲げる事務のほか、特許庁の所掌事務に係る国際協力に関する事務のうち商標及び意匠に関すること。
                   </go_item>
                 </go>

@@ -3,7 +3,7 @@
   <head>
     <title>社会保障審議会令</title>
     <defined>平成十二年六月七日政令第二百八十二号</defined>
-    <updated>平成二七年九月一八日政令第三三〇号</updated>
+    <updated>平成二八年六月一七日政令第二三八号</updated>
   </head>
   <body>
     <preamble>
@@ -191,22 +191,19 @@
         審議会の庶務は、厚生労働省政策統括官において総括し、及び処理する。ただし、次の各号に掲げる分科会に係るものについては、それぞれ当該各号に定める課において処理する。
         <go>
           <go_item number="一">
-            統計分科会　厚生労働省大臣官房統計情報部企画課
-          </go_item>
-          <go_item number="二">
             医療分科会　厚生労働省医政局総務課
           </go_item>
-          <go_item number="三">
+          <go_item number="二">
             福祉文化分科会　厚生労働省雇用均等・児童家庭局総務課
           </go_item>
-          <go_item number="四">
+          <go_item number="三">
             介護給付費分科会　厚生労働省老健局老人保健課
           </go_item>
-          <go_item number="五">
+          <go_item number="四">
             医療保険保険料率分科会　厚生労働省保険局総務課
           </go_item>
-          <go_item number="六">
-            年金記録訂正分科会　厚生労働省年金局事業企画課
+          <go_item number="五">
+            年金記録訂正分科会　厚生労働省年金局事業管理課
           </go_item>
         </go>
       </article_item>

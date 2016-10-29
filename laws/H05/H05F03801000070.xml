@@ -229,7 +229,7 @@
           </articles>
           <articles number="第十四条" title="（複合特定計量器）">
             <article_item number="第十四条">
-              特定計量器は、当該特定計量器と構造上一体となっている計量器（当該特定計量器の計ることができる範囲を切換装置によって変更した後のものを含む。以下同じ。）が検定に合格しない特定計量器又は有効期間の経過した検定証印若しくは法第九十六条第一項の表示（以下「検定証印等」という。）の付された特定計量器であってはならない。
+              特定計量器は、当該特定計量器と構造上一体となっている計量器が検定に合格しない特定計量器又は有効期間の経過した検定証印若しくは法第九十六条第一項の表示（以下「検定証印等」という。）の付された特定計量器であってはならない。
             </article_item>
             <article_item number="２">
               特定計量器は、法定計量単位等以外の計量単位による表記等がある計量器と構造上一体となっているものであってはならない。
@@ -284,7 +284,7 @@
           </articles>
           <articles number="第二十条" title="（標準物質）">
             <article_item number="第二十条">
-              法第七十一条第三項の経済産業省令で定める特定計量器は、次の表の上欄に掲げるものとし、同項で定める標準物質は、法第百三十五条の特定標準物質を用いて標準物質の値付けが行われたものであって、それぞれ次の表の下欄に掲げるもの又は同表の第二号から第五号までの上欄に掲げる特定計量器にあっては、下欄に掲げる標準物質を用いて経済産業大臣が別に定める基準に適合すると認められる校正用装置により得られるものとする。
+              法第七十一条第三項の経済産業省令で定める特定計量器は、次の表の上欄に掲げるものとし、同項で定める標準物質は、法第百三十五条の特定標準物質を用いて標準物質の値付けが行われたものであって、それぞれ次の表の下欄に掲げるもの又は同表の第一号から第四号までの上欄に掲げる特定計量器にあっては、下欄に掲げる標準物質を用いて日本工業規格Ｂ七九五九に定める基準に適合すると認められる校正用装置により得られるものとする。
               <table>
                 <tr>
                   <td>
@@ -6349,15 +6349,9 @@
         </section>
       </section>
       <section title="第二十二章　ジルコニア式酸素濃度計等" type="Sho">
-        <articles number="第八百八十二条" title="（定義）">
+        <articles number="第八百八十二条">
           <article_item number="第八百八十二条">
-            この章において「検査用ガス」とは、第二十条中の表の第二号から第五号までに規定する標準物質又はこれらの標準物質を用いて同条に規定する校正用装置により得られたものをいう。
-          </article_item>
-          <article_item number="２">
-            この章において「零位調整ガス」とは、磁気式酸素濃度計にあっては窒素、ジルコニア式酸素濃度計にあっては窒素と空気とを一定比率で混合したガス、その他の濃度計にあっては窒素又は空気をいう。
-          </article_item>
-          <article_item number="３">
-            この章において「感度調整ガス」とは、検査用ガスであって、その濃度が濃度計の計ることのできる最高の濃度（以下「最高濃度」という。）の九十パーセント（酸素を計量成分とする濃度計であって最高濃度が二十一体積百分率から二十五体積百分率までの範囲のものにあっては、八十パーセント）以上のものをいう。
+            削除
           </article_item>
         </articles>
         <section title="第一節　検定" type="Setsu">
@@ -6365,1374 +6359,911 @@
             <section title="第一目　表記事項" type="Moku">
               <articles number="第八百八十三条" title="（表記）">
                 <article_item number="第八百八十三条">
-                  ジルコニア式酸素濃度計等（以下この章において単に「濃度計」という。）には、その見やすい箇所に、次に掲げる事項が表記されていなければならない。
-                  <go>
-                    <go_item number="一">
-                      施行令第二条第十七号イからリに掲げる特定計量器名
-                    </go_item>
-                    <go_item number="二">
-                      計量成分の種類及び計量範囲（二以上の計量範囲を有するものにあっては、それぞれの計量範囲）
-                    </go_item>
-                    <go_item number="三">
-                      電源の種類及び定格電圧
-                    </go_item>
-                    <go_item number="四">
-                      四時間以下の周期で零位調整及び感度調整を行う必要のあるものにあっては、その旨の表記
-                    </go_item>
-                    <go_item number="五">
-                      溶液導電率式二酸化硫黄濃度計以外の濃度計にあっては、試料ガス導入口及び校正用ガス導入口の表記
-                    </go_item>
-                    <go_item number="六">
-                      溶液導電率式二酸化硫黄濃度計にあっては、試料ガス導入口、校正用ガス導入口及び吸収液注入口の表記
-                    </go_item>
-                    <go_item number="七">
-                      濃度計の主な目盛線にあっては、その目盛線が表す数値
-                    </go_item>
-                  </go>
+                  ジルコニア式酸素濃度計等（以下この章において単に「濃度計」という。）の表記事項は、日本工業規格Ｂ七九五九（二〇一五）による。
                 </article_item>
               </articles>
             </section>
             <section title="第二目　性能" type="Moku">
-              <articles number="第八百八十四条" title="（目量）">
+              <articles number="第八百八十四条" title="（性能）">
                 <article_item number="第八百八十四条">
-                  濃度計の目量は、アナログ指示機構のものにあっては最高濃度の二パーセント以下、デジタル表示機構のものにあっては最高濃度の一パーセント以下でなければならない。
+                  濃度計の性能は、日本工業規格Ｂ七九五九（二〇一五）による。
                 </article_item>
               </articles>
-              <articles number="第八百八十五条" title="（機構）">
+              <articles number="第八百八十五条">
                 <article_item number="第八百八十五条">
-                  濃度計は、零位及び感度の調整ができる機能を有するものでなければならない。
-                </article_item>
-                <article_item number="２">
-                  濃度計は、校正用ガス導入口を有するものでなければならない。
-                </article_item>
-                <article_item number="３">
-                  化学発光式窒素酸化物濃度計は、オゾンを分解処理する機能を有するものでなければならない。
-                </article_item>
-                <article_item number="４">
-                  電池を電源とするものは、有効に作動することが識別できる機構又は電源電圧の範囲が表示される機構を有するものでなければならない。
+                  削除
                 </article_item>
               </articles>
-              <articles number="第八百八十六条" title="（応答性）">
+              <articles number="第八百八十六条">
                 <article_item number="第八百八十六条">
-                  濃度計（溶液導電率式二酸化硫黄濃度計及び紫外線式窒素酸化物濃度計であって酸素酸化型のものを除く。）の表示機構は、計量範囲内の任意の濃度のガスを試料ガス導入口から流したときに、四分（一酸化炭素を計量成分とする濃度計にあっては、二分三十秒）以内に計量値がガスの導入時から十分（一酸化炭素を計量成分とする濃度計にあっては、六分）後の計量値の九十パーセント以上となるものでなければならない。
-                </article_item>
-                <article_item number="２">
-                  溶液導電率式二酸化硫黄濃度計の表示機構は、計量範囲内の任意の濃度のガスを試料ガス導入口から流したときに、十五分以内に計量値がガスの導入時から四十分後の計量値の九十パーセント以上となるものでなければならない。
+                  削除
                 </article_item>
               </articles>
-              <articles number="第八百八十七条" title="（器差試験）">
+              <articles number="第八百八十七条">
                 <article_item number="第八百八十七条">
-                  濃度計は、最高濃度の約五分の一、約五分の二、約五分の三及び約五分の四の濃度の検査用ガスを計量したときに、器差が検定公差を超えるものであってはならない。
+                  削除
                 </article_item>
               </articles>
-              <articles number="第八百八十八条" title="（繰り返し性）">
+              <articles number="第八百八十八条">
                 <article_item number="第八百八十八条">
-                  濃度計の計量値の繰り返し性の度合（計量値とその平均値との差を言う。）は、最高濃度の二パーセントを超えてはならない。
+                  削除
                 </article_item>
               </articles>
-              <articles number="第八百八十九条" title="（安定性）">
+              <articles number="第八百八十九条">
                 <article_item number="第八百八十九条">
-                  濃度計は、零位調整ガスを二十四時間（第八百八十三条第四号の表記のあるものにあっては四時間）計量したときに、最大の計量値及び最小の計量値と初期値との差が最高濃度の二パーセントを超えるものであってはならない。
-                </article_item>
-                <article_item number="２">
-                  濃度計は、前項の試験中に感度調整ガスを三回以上計量したときに、最大の計量値及び最小の計量値と初期値との差が最高濃度の二パーセントを超えるものであってはならない。
+                  削除
                 </article_item>
               </articles>
-              <articles number="第八百九十条" title="（変換効率）">
+              <articles number="第八百九十条">
                 <article_item number="第八百九十条">
-                  非分散型赤外線式窒素酸化物濃度計及び化学発光式窒素酸化物濃度計（一酸化窒素のみを計量成分とするものを除く。）は、計量範囲内の任意の濃度の二酸化窒素を試料ガス導入口から流したときの計量値が、当該二酸化窒素と同一の濃度の一酸化窒素を同導入口から流したときの計量値の九十パーセント以上となるものでなければならない。
-                </article_item>
-                <article_item number="２">
-                  紫外線式窒素酸化物濃度計（一酸化窒素のみを計量成分とするもの、二酸化窒素のみを計量成分とするもの及び一酸化窒素と二酸化窒素をそれぞれ個別に計量できるものを除く。）は、計量範囲内の任意の濃度の一酸化窒素を試料ガス導入口から流したときの計量値と当該一酸化窒素と同一の濃度の二酸化窒素を同導入口から流したときの計量値を比べたとき、低い方の計量値が高い方の計量値の九十パーセント以上となるものでなければならない。
-                </article_item>
-                <article_item number="３">
-                  非分散型赤外線式窒素酸化物濃度計及び化学発光式窒素酸化物濃度計（一酸化窒素のみを計量成分とするものを除く。）は、約二百体積百万分率のアンモニアを試料ガス導入口から流したときの計量値がアンモニア濃度の五パーセントを超えるものであってはならない。
+                  削除
                 </article_item>
               </articles>
-              <articles number="第八百九十一条" title="（干渉成分）">
+              <articles number="第八百九十一条">
                 <article_item number="第八百九十一条">
-                  <br/>　　　濃度計が干渉成分から受ける影響は、ジルコニア式酸素濃度計にあっては次の表の一、溶液導電率式二酸化硫黄濃度計にあっては次の表の二、磁気式酸素濃度計にあっては次の表の三、紫外線式濃度計にあっては次の表の四、非分散型赤外線式濃度計にあっては次の表の五、化学発光式窒素酸化物濃度計にあっては次の表の六の第一欄に掲げる計量成分の種類及びそれぞれの表の第二欄に掲げる最高濃度の区分に応じ、それぞれの表の第三欄に掲げる干渉成分の種類及びそれぞれの表の第四欄に掲げる干渉成分の濃度でもって、それぞれの表の第五欄に掲げる限度を超えるものであってはならない。ただし、それぞれの表の第三欄に掲げる干渉成分の種類が二種類あるものにあっては、その干渉成分から受ける影響は、その合量がそれぞれの表の第五欄に掲げる限度を超えるものであってはならない。<br/>　　表の一
-                    <table>
-                      <tr>
-                        <td>
-                          計量成分の種類
-                        </td>
-                        <td>
-                          最高濃度の区分（体積百分率）
-                        </td>
-                        <td>
-                          干渉成分の種類
-                        </td>
-                        <td>
-                          干渉成分の濃度（体積百分率）
-                        </td>
-                        <td>
-                          限度（計量成分換算）
-                        </td>
-                      </tr>
-                      <tr>
-                        <td>
-                          酸素
-                        </td>
-                        <td>
-                          　
-                        </td>
-                        <td>
-                          一酸化炭素
-                        </td>
-                        <td>
-                          〇・一（酸素四パーセントを含む）
-                        </td>
-                        <td>
-                          最高濃度の五パーセント
-                        </td>
-                      </tr>
-                    </table><br/>　　表の二
-                    <table>
-                      <tr>
-                        <td>
-                          計量成分の種類
-                        </td>
-                        <td>
-                          最高濃度の区分（体積百万分率）
-                        </td>
-                        <td>
-                          干渉成分の種類
-                        </td>
-                        <td>
-                          干渉成分の濃度（体積百分率）
-                        </td>
-                        <td>
-                          限度（計量成分換算）
-                        </td>
-                      </tr>
-                      <tr>
-                        <td rowspan="4">二酸化硫黄
-                        </td>
-                        <td rowspan="2">百未満
-                        </td>
-                        <td>
-                          二酸化炭素
-                        </td>
-                        <td>
-                          十五
-                        </td>
-                        <td rowspan="2">七・五体積百万分率
-                        </td>
-                      </tr>
-                      <tr>
-                        <td>
-                          二酸化窒素
-                        </td>
-                        <td>
-                          〇・〇〇五
-                        </td>
-                      </tr>
-                      <tr>
-                        <td rowspan="2">百以上
-                        </td>
-                        <td>
-                          二酸化炭素
-                        </td>
-                        <td>
-                          十五
-                        </td>
-                        <td rowspan="2">最高濃度の七・五パーセント
-                        </td>
-                      </tr>
-                      <tr>
-                        <td>
-                          二酸化窒素
-                        </td>
-                        <td>
-                          〇・〇〇五
-                        </td>
-                      </tr>
-                    </table><br/>　　表の三
-                    <table>
-                      <tr>
-                        <td>
-                          計量成分の種類
-                        </td>
-                        <td>
-                          最高濃度の区分（体積百分率）
-                        </td>
-                        <td>
-                          干渉成分の種類
-                        </td>
-                        <td>
-                          干渉成分の濃度（体積百分率）
-                        </td>
-                        <td>
-                          限度（計量成分換算）
-                        </td>
-                      </tr>
-                      <tr>
-                        <td rowspan="2">酸素
-                        </td>
-                        <td rowspan="2">　
-                        </td>
-                        <td>
-                          二酸化炭素
-                        </td>
-                        <td>
-                          十五
-                        </td>
-                        <td rowspan="2">最高濃度の七・五パーセント
-                        </td>
-                      </tr>
-                      <tr>
-                        <td>
-                          一酸化窒素
-                        </td>
-                        <td>
-                          〇・一
-                        </td>
-                      </tr>
-                    </table><br/>　　表の四
-                    <table>
-                      <tr>
-                        <td>
-                          計量成分の種類
-                        </td>
-                        <td>
-                          最高濃度の区分（体積百万分率）
-                        </td>
-                        <td>
-                          干渉成分の種類
-                        </td>
-                        <td>
-                          干渉成分の濃度（体積百分率）
-                        </td>
-                        <td>
-                          限度（計量成分換算）
-                        </td>
-                      </tr>
-                      <tr>
-                        <td rowspan="2">二酸化硫黄
-                        </td>
-                        <td>
-                          百未満
-                        </td>
-                        <td>
-                          二酸化窒素
-                        </td>
-                        <td>
-                          〇・〇〇五
-                        </td>
-                        <td>
-                          五体積百万分率
-                        </td>
-                      </tr>
-                      <tr>
-                        <td>
-                          百以上
-                        </td>
-                        <td>
-                          二酸化窒素
-                        </td>
-                        <td>
-                          〇・〇〇五
-                        </td>
-                        <td>
-                          最高濃度の五パーセント
-                        </td>
-                      </tr>
-                      <tr>
-                        <td>
-                          窒素酸化物
-                        </td>
-                        <td>
-                          　
-                        </td>
-                        <td>
-                          二酸化硫黄
-                        </td>
-                        <td>
-                          〇・〇五
-                        </td>
-                        <td>
-                          最高濃度の五パーセント
-                        </td>
-                      </tr>
-                    </table><br/>　　表の五
-                    <table>
-                      <tr>
-                        <td>
-                          計量成分の種類
-                        </td>
-                        <td>
-                          最高濃度の区分（体積百万分率）
-                        </td>
-                        <td>
-                          干渉成分の種類
-                        </td>
-                        <td>
-                          干渉成分の濃度（体積百分率）
-                        </td>
-                        <td>
-                          限度（計量成分換算）
-                        </td>
-                      </tr>
-                      <tr>
-                        <td rowspan="3">二酸化硫黄
-                        </td>
-                        <td>
-                          百未満
-                        </td>
-                        <td>
-                          二酸化炭素
-                        </td>
-                        <td>
-                          十五
-                        </td>
-                        <td>
-                          七・五体積百万分率
-                        </td>
-                      </tr>
-                      <tr>
-                        <td>
-                          百以上
-                        </td>
-                        <td>
-                          二酸化炭素
-                        </td>
-                        <td>
-                          十五
-                        </td>
-                        <td>
-                          最高濃度の七・五パーセント
-                        </td>
-                      </tr>
-                      <tr>
-                        <td>
-                          　
-                        </td>
-                        <td>
-                          水分
-                        </td>
-                        <td>
-                          三及び十二
-                        </td>
-                        <td>
-                          最高濃度の五パーセント
-                        </td>
-                      </tr>
-                      <tr>
-                        <td rowspan="3">窒素酸化物
-                        </td>
-                        <td>
-                          百未満
-                        </td>
-                        <td>
-                          二酸化炭素
-                        </td>
-                        <td>
-                          十五
-                        </td>
-                        <td rowspan="2">七・五体積百万分率
-                        </td>
-                      </tr>
-                      <tr>
-                        <td>
-                          百以上
-                        </td>
-                        <td>
-                          二酸化硫黄
-                        </td>
-                        <td>
-                          〇・〇五
-                        </td>
-                      </tr>
-                      <tr>
-                        <td>
-                          　
-                        </td>
-                        <td>
-                          水分
-                        </td>
-                        <td>
-                          三及び十二
-                        </td>
-                        <td>
-                          最高濃度の五パーセント
-                        </td>
-                      </tr>
-                      <tr>
-                        <td rowspan="6">一酸化炭素
-                        </td>
-                        <td rowspan="2">五十未満
-                        </td>
-                        <td>
-                          水分
-                        </td>
-                        <td>
-                          三
-                        </td>
-                        <td rowspan="2">二・五体積百万分率
-                        </td>
-                      </tr>
-                      <tr>
-                        <td>
-                          二酸化炭素
-                        </td>
-                        <td>
-                          〇・〇五
-                        </td>
-                      </tr>
-                      <tr>
-                        <td rowspan="2">五十以上五百未満
-                        </td>
-                        <td>
-                          水分
-                        </td>
-                        <td>
-                          三
-                        </td>
-                        <td rowspan="2">最高濃度の五パーセント
-                        </td>
-                      </tr>
-                      <tr>
-                        <td>
-                          二酸化炭素
-                        </td>
-                        <td>
-                          〇・〇五
-                        </td>
-                      </tr>
-                      <tr>
-                        <td rowspan="2">五百以上
-                        </td>
-                        <td>
-                          水分
-                        </td>
-                        <td>
-                          三
-                        </td>
-                        <td rowspan="2">最高濃度の七・五パーセント
-                        </td>
-                      </tr>
-                      <tr>
-                        <td>
-                          二酸化炭素
-                        </td>
-                        <td>
-                          十五
-                        </td>
-                      </tr>
-                    </table><br/>　　表の六
-                    <table>
-                      <tr>
-                        <td>
-                          計量成分の種類
-                        </td>
-                        <td>
-                          最高濃度の区分（体積百万分率）
-                        </td>
-                        <td>
-                          干渉成分の種類
-                        </td>
-                        <td>
-                          干渉成分の濃度（体積百分率）
-                        </td>
-                        <td>
-                          限度（計量成分換算）
-                        </td>
-                      </tr>
-                      <tr>
-                        <td>
-                          窒素酸化物
-                        </td>
-                        <td>
-                          　
-                        </td>
-                        <td>
-                          二酸化炭素
-                        </td>
-                        <td>
-                          十五
-                        </td>
-                        <td>
-                          最高濃度の七・五パーセント
-                        </td>
-                      </tr>
-                    </table>
-                  </article_item>
-                </articles>
-                <articles number="第八百九十二条" title="（流量変動による影響）">
-                  <article_item number="第八百九十二条">
-                    濃度計は、計量範囲内の任意の濃度のガスの流量を規定の流量から五パーセント増減させたときに、流量を変化させる前の計量値と変化させた後の計量値との差が、最高濃度の二パーセントを超えるものであってはならない。
-                  </article_item>
-                </articles>
-                <articles number="第八百九十三条" title="（電圧変動）">
-                  <article_item number="第八百九十三条">
-                    濃度計は、表記されている定格電圧のプラスマイナス十パーセントの範囲内の電圧変動（電池を電源とするものにあっては、有効に作動することができる範囲内の電圧変動）を与えたときに、電圧変動を与える前の計量値と与えた後の計量値との差が最高濃度の一パーセントを超えるものであってはならない。
-                  </article_item>
-                </articles>
-                <articles number="第八百九十四条" title="（絶縁抵抗）">
-                  <article_item number="第八百九十四条">
-                    濃度計（電池を電源とするものを除く。以下次条、第九百五条及び第九百六条において同じ。）の電源端子とアース端子との間の絶縁抵抗は、五メガオーム以上のものでなければならない。
-                  </article_item>
-                </articles>
-                <articles number="第八百九十五条" title="（耐電圧）">
-                  <article_item number="第八百九十五条">
-                    濃度計は、商用周波数で千ボルトの正弦波交流電圧を一分間加えることにより、その性能に支障があるものであってはならない。
-                  </article_item>
-                </articles>
-              </section>
-            </section>
-            <section title="第二款　検定公差" type="Kan">
-              <articles number="第八百九十六条" title="（検定公差）">
-                <article_item number="第八百九十六条">
-                  濃度計の検定公差は、最高濃度の四パーセントとする。
+                  削除
                 </article_item>
               </articles>
-            </section>
-            <section title="第三款　検定の方法" type="Kan">
-              <section title="第一目　構造検定の方法" type="Moku">
-                <articles number="第八百九十七条" title="（応答性）">
-                  <article_item number="第八百九十七条">
-                    濃度計（溶液導電率式二酸化硫黄濃度計及び紫外線式濃度計であって酸素酸化型のものを除く。）が第八百八十六条第一項の規定に適合するかどうかの試験は、九十湿度百分率以上に加湿した感度調整ガスを試料ガス導入口から流してから四分（一酸化炭素を計量成分とする濃度計にあっては、二分三十秒）後の計量値及び十分（一酸化炭素を計量成分とする濃度計にあっては、六分）後の計量値を比較して行う。
-                  </article_item>
-                  <article_item number="２">
-                    溶液導電率式二酸化硫黄濃度計が第八百八十六条第二項の規定に適合するかどうかの試験は、九十湿度百分率以上に加湿した感度調整ガスを試料ガス導入口から流してから十五分後の計量値及び四十分後の計量値を比較して行う。
-                  </article_item>
-                </articles>
-                <articles number="第八百九十八条" title="（器差試験）">
-                  <article_item number="第八百九十八条">
-                    濃度計が第八百八十七条の規定に適合するかどうかの試験は、零位調整ガスを校正用ガス導入口から流して零位調整し、感度調整ガスを同導入口から流して感度調整した後、検査用ガスをそれぞれ同導入口から流したときの器差を求めて行う。
-                  </article_item>
-                </articles>
-                <articles number="第八百九十九条" title="（繰り返し性）">
-                  <article_item number="第八百九十九条">
-                    濃度計が第八百八十八条の規定に適合するかどうかの試験は、零位調整ガス及び感度調整ガスを校正用ガス導入口から交互に三回流して計量し、それぞれの計量値と平均値との差を算出して行う。
-                  </article_item>
-                </articles>
-                <articles number="第九百条" title="（安定性）">
-                  <article_item number="第九百条">
-                    濃度計が第八百八十九条の規定に適合するかどうかの試験は、次に掲げる方法により行う。
-                    <go>
-                      <go_item number="一">
-                        零位調整ガスを校正用ガス導入口から連続して導入し、表示が安定した後、二十四時間（第八百八十三条第四号の表記のあるものにあっては四時間）規定の流量で流して行う。
-                      </go_item>
-                      <go_item number="二">
-                        前号の試験中感度調整ガスを校正用ガス導入口から三回以上規定の流量で流して行う。零点移動があるときはその影響を補正する。
-                      </go_item>
-                    </go>
-                  </article_item>
-                </articles>
-                <articles number="第九百一条" title="（変換効率）">
-                  <article_item number="第九百一条">
-                    非分散型赤外線式窒素酸化物濃度計及び化学発光式窒素酸化物濃度計（一酸化窒素のみを計量成分とするものを除く。）が第八百九十条第一項及び紫外線式窒素酸化物濃度計（一酸化窒素のみを計量成分とするもの、二酸化窒素のみを計量成分とするもの及び一酸化窒素と二酸化窒素をそれぞれ個別に計量できるものを除く。）が第八百九十条第二項の規定に適合するかどうかの試験は、零位調整ガスを試料ガス導入口から流して零位調整し、感度調整ガスを同導入口から流して感度調整した後、計量範囲内の任意の濃度の一酸化窒素及び二酸化窒素を同導入口からそれぞれに流して行う。
-                  </article_item>
-                  <article_item number="２">
-                    非分散型赤外線式窒素酸化物濃度計及び化学発光式窒素酸化物濃度計（一酸化窒素のみを計量成分とするものを除く。）が第八百九十条第三項の規定に適合するかどうかの試験は、零位調整ガスを試料ガス導入口から流して零位調整し、感度調整ガスを同導入口から流して感度調整した後、二百体積百万分率プラスマイナス十パーセント以内の濃度のアンモニアを試料ガス導入口から流して行う。
-                  </article_item>
-                </articles>
-                <articles number="第九百二条" title="（干渉成分）">
-                  <article_item number="第九百二条">
-                    濃度計が第八百九十一条の規定に適合するかどうかの試験は、ジルコニア式酸素濃度計にあっては同条の表の一、溶液導電率式二酸化硫黄濃度計にあっては同条の表の二、磁気式酸素濃度計にあっては同条の表の三、紫外線式濃度計にあっては同条の表の四、非分散型赤外線式濃度計にあっては同条の表の五、化学発光式窒素酸化物濃度計にあっては同条の表の六の第一欄に掲げる計量成分の種類及びそれぞれの表の第二欄に掲げる最高濃度の区分に応じ、それぞれの表の第三欄に掲げる種類ごとに、干渉成分をそれぞれの表の第四欄に掲げる濃度で試料ガス導入口から流したときの計量値（非分散型赤外線式二酸化硫黄濃度計及び非分散型赤外線式窒素酸化物濃度計にあって水分が干渉成分であるときは、温度二十五度で水分を飽和させた窒素を導入したときの計量値と温度五十度で水分を飽和させた窒素を導入したときの計量値との差）を計量して行う。
-                  </article_item>
-                </articles>
-                <articles number="第九百三条" title="（流量変動による影響）">
-                  <article_item number="第九百三条">
-                    濃度計が第八百九十二条の規定に適合するかどうかの試験は、感度調整ガスを連続して試料ガス導入口から流し、試料ガス導入口において、流量を規定の流量から五パーセント増減させたときの、計量値の差を算出して行う。
-                  </article_item>
-                </articles>
-                <articles number="第九百四条" title="（電圧変動）">
-                  <article_item number="第九百四条">
-                    濃度計が第八百九十三条の規定に適合するかどうかの試験は、感度調整ガスを校正用ガス導入口から流し、電源電圧を定格電圧のプラスマイナス十パーセントの範囲内（電池を電源とするものは有効に作動する範囲内）で連続的に変化させたときの計量値の差を算出して行う。
-                  </article_item>
-                </articles>
-                <articles number="第九百五条" title="（絶縁抵抗）">
-                  <article_item number="第九百五条">
-                    濃度計が第八百九十四条の規定に適合するかどうかの試験は、六十五湿度百分率プラスマイナス二十湿度百分率の範囲内の湿度を有する外気中で、五百ボルトの直流電圧を電源端子とアース端子との間に加えて行う。
-                  </article_item>
-                </articles>
-                <articles number="第九百六条" title="（耐電圧）">
-                  <article_item number="第九百六条">
-                    濃度計が第八百九十五条の規定に適合するかどうかの試験は、六十五湿度百分率プラスマイナス二十湿度百分率の範囲内の湿度を有する外気中で、電源端子とアース端子との間に商用周波数の千ボルトの正弦波交流電圧を加えて行う。
-                  </article_item>
-                </articles>
-              </section>
-              <section title="第二目　器差検定の方法" type="Moku">
-                <articles number="第九百七条" title="（器差検定の方法）">
-                  <article_item number="第九百七条">
-                    濃度計の器差検定は、零位調整ガスを校正用ガス導入口から流して零位調整し、感度調整ガスを同導入口から流して感度調整をした後、最高濃度の三分の一から三分の二の範囲内の任意の濃度の検査用ガスを同導入口から流したときの計量値と当該ガスの濃度との差を算出して行う。
-                  </article_item>
-                </articles>
-              </section>
-            </section>
-          </section>
-          <section title="第二節　使用中検査" type="Setsu">
-            <section title="第一款　性能に係る技術上の基準" type="Kan">
-              <articles number="第九百八条" title="（準用）">
-                <article_item number="第九百八条">
-                  第八百八十七条及び第八百八十八条の規定は、濃度計についての性能に係る技術上の基準に準用する。この場合において第八百八十七条中「検定公差」とあるのは「使用公差」、第八百八十八条中「二パーセント」とあるのは「三パーセント」と読み替えるものとする。
+              <articles number="第八百九十二条">
+                <article_item number="第八百九十二条">
+                  削除
                 </article_item>
               </articles>
-            </section>
-            <section title="第二款　使用公差" type="Kan">
-              <articles number="第九百九条" title="（使用公差）">
-                <article_item number="第九百九条">
-                  濃度計の使用公差は、検定公差の一・五倍とする。
+              <articles number="第八百九十三条">
+                <article_item number="第八百九十三条">
+                  削除
                 </article_item>
               </articles>
-            </section>
-            <section title="第三款　使用中検査の方法" type="Kan">
-              <section title="第一目　性能に関する検査の方法" type="Moku">
-                <articles number="第九百十条" title="（準用）">
-                  <article_item number="第九百十条">
-                    第八百九十八条及び第八百九十九条の規定は、濃度計についての性能に関する検査の方法に準用する。
-                  </article_item>
-                </articles>
-              </section>
-              <section title="第二目　器差検査の方法" type="Moku">
-                <articles number="第九百十一条" title="（準用）">
-                  <article_item number="第九百十一条">
-                    第九百七条の規定は、濃度計についての器差検査の方法に準用する。
-                  </article_item>
-                </articles>
-              </section>
-            </section>
-          </section>
-        </section>
-        <section title="第二十三章　ガラス電極式水素イオン濃度検出器" type="Sho">
-          <section title="第一節　検定" type="Setsu">
-            <section title="第一款　構造に係る技術上の基準" type="Kan">
-              <section title="第一目　表記事項" type="Moku">
-                <articles number="第九百十二条" title="（表記）">
-                  <article_item number="第九百十二条">
-                    ガラス電極式水素イオン濃度検出器（以下この章において「検出器」という。）の表記事項は、日本工業規格Ｂ七九六〇－一（二〇一五）による。
-                  </article_item>
-                </articles>
-              </section>
-              <section title="第二目　材質" type="Moku">
-                <articles number="第九百十三条" title="（材質）">
-                  <article_item number="第九百十三条">
-                    検出器の材質は、日本工業規格Ｂ七九六〇－一（二〇一五）による。
-                  </article_item>
-                </articles>
-              </section>
-              <section title="第三目　性能" type="Moku">
-                <articles number="第九百十四条" title="（性能）">
-                  <article_item number="第九百十四条">
-                    検出器の性能は、日本工業規格Ｂ七九六〇－一（二〇一五）による。
-                  </article_item>
-                </articles>
-                <articles number="第九百十五条">
-                  <article_item number="第九百十五条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第九百十六条">
-                  <article_item number="第九百十六条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第九百十七条">
-                  <article_item number="第九百十七条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第九百十八条">
-                  <article_item number="第九百十八条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第九百十九条">
-                  <article_item number="第九百十九条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第九百二十条">
-                  <article_item number="第九百二十条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第九百二十一条">
-                  <article_item number="第九百二十一条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第九百二十二条">
-                  <article_item number="第九百二十二条">
-                    削除
-                  </article_item>
-                </articles>
-              </section>
-            </section>
-            <section title="第二款　検定公差" type="Kan">
-              <articles number="第九百二十三条" title="（検定公差）">
-                <article_item number="第九百二十三条">
-                  検出器の検定公差は、日本工業規格Ｂ七九六〇－一（二〇一五）による。
+              <articles number="第八百九十四条">
+                <article_item number="第八百九十四条">
+                  削除
                 </article_item>
               </articles>
-            </section>
-            <section title="第三款　検定の方法" type="Kan">
-              <section title="第一目　構造検定の方法" type="Moku">
-                <articles number="第九百二十四条" title="（構造検定の方法）">
-                  <article_item number="第九百二十四条">
-                    検出器の構造検定の方法は、日本工業規格Ｂ七九六〇－一（二〇一五）による。
-                  </article_item>
-                </articles>
-                <articles number="第九百二十五条">
-                  <article_item number="第九百二十五条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第九百二十六条">
-                  <article_item number="第九百二十六条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第九百二十七条">
-                  <article_item number="第九百二十七条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第九百二十八条">
-                  <article_item number="第九百二十八条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第九百二十九条">
-                  <article_item number="第九百二十九条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第九百三十条">
-                  <article_item number="第九百三十条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第九百三十一条">
-                  <article_item number="第九百三十一条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第九百三十二条">
-                  <article_item number="第九百三十二条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第九百三十三条">
-                  <article_item number="第九百三十三条">
-                    削除
-                  </article_item>
-                </articles>
-              </section>
-              <section title="第二目　器差検定の方法" type="Moku">
-                <articles number="第九百三十四条" title="（器差検定の方法）">
-                  <article_item number="第九百三十四条">
-                    検出器の器差検定の方法は、日本工業規格Ｂ七九六〇－一（二〇一五）による。
-                  </article_item>
-                </articles>
-                <articles number="第九百三十五条">
-                  <article_item number="第九百三十五条">
-                    削除
-                  </article_item>
-                </articles>
-              </section>
-            </section>
-          </section>
-          <section title="第二節　使用中検査" type="Setsu">
-            <section title="第一款　性能に係る技術上の基準" type="Kan">
-              <articles number="第九百三十六条" title="（性能に係る技術上の基準）">
-                <article_item number="第九百三十六条">
-                  検出器の性能に係る技術上の基準は、日本工業規格Ｂ七九六〇－一（二〇一五）による。
-                </article_item>
-              </articles>
-            </section>
-            <section title="第二款　使用公差" type="Kan">
-              <articles number="第九百三十七条" title="（使用公差）">
-                <article_item number="第九百三十七条">
-                  検出器の使用公差は、日本工業規格Ｂ七九六〇－一（二〇一五）による。
-                </article_item>
-              </articles>
-            </section>
-            <section title="第三款　使用中検査の方法" type="Kan">
-              <section title="第一目　性能に関する検査の方法" type="Moku">
-                <articles number="第九百三十八条" title="（性能に関する検査の方法）">
-                  <article_item number="第九百三十八条">
-                    検出器の性能に関する検査の方法は、日本工業規格Ｂ七九六〇－一（二〇一五）による。
-                  </article_item>
-                </articles>
-              </section>
-              <section title="第二目　器差検査の方法" type="Moku">
-                <articles number="第九百三十九条" title="（器差検査の方法）">
-                  <article_item number="第九百三十九条">
-                    検出器の器差検査の方法は、日本工業規格Ｂ七九六〇－一（二〇一五）による。
-                  </article_item>
-                </articles>
-              </section>
-            </section>
-          </section>
-        </section>
-        <section title="第二十四章　ガラス電極式水素イオン濃度指示計" type="Sho">
-          <section title="第一節　検定" type="Setsu">
-            <section title="第一款　構造に係る技術上の基準" type="Kan">
-              <section title="第一目　表記事項" type="Moku">
-                <articles number="第九百四十条" title="（表記）">
-                  <article_item number="第九百四十条">
-                    ガラス電極式水素イオン濃度指示計（以下この章において「指示計」という。）の表記事項は、日本工業規格Ｂ七九六〇－二（二〇一五）による。
-                  </article_item>
-                </articles>
-              </section>
-              <section title="第二目　性能" type="Moku">
-                <articles number="第九百四十一条" title="（性能）">
-                  <article_item number="第九百四十一条">
-                    指示計の性能は、日本工業規格Ｂ七九六〇－二（二〇一五）による。
-                  </article_item>
-                </articles>
-                <articles number="第九百四十二条">
-                  <article_item number="第九百四十二条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第九百四十三条">
-                  <article_item number="第九百四十三条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第九百四十四条">
-                  <article_item number="第九百四十四条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第九百四十五条">
-                  <article_item number="第九百四十五条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第九百四十六条">
-                  <article_item number="第九百四十六条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第九百四十七条">
-                  <article_item number="第九百四十七条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第九百四十八条">
-                  <article_item number="第九百四十八条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第九百四十九条">
-                  <article_item number="第九百四十九条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第九百五十条">
-                  <article_item number="第九百五十条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第九百五十一条">
-                  <article_item number="第九百五十一条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第九百五十二条">
-                  <article_item number="第九百五十二条">
-                    削除
-                  </article_item>
-                </articles>
-              </section>
-            </section>
-            <section title="第二款　検定公差" type="Kan">
-              <articles number="第九百五十三条" title="（検定公差）">
-                <article_item number="第九百五十三条">
-                  指示計の検定公差は、日本工業規格Ｂ七九六〇－二（二〇一五）による。
-                </article_item>
-              </articles>
-            </section>
-            <section title="第三款　検定の方法" type="Kan">
-              <section title="第一目　構造検定の方法" type="Moku">
-                <articles number="第九百五十四条" title="（構造検定の方法）">
-                  <article_item number="第九百五十四条">
-                    指示計の構造検定の方法は、日本工業規格Ｂ七九六〇－二（二〇一五）による。
-                  </article_item>
-                </articles>
-                <articles number="第九百五十五条">
-                  <article_item number="第九百五十五条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第九百五十六条">
-                  <article_item number="第九百五十六条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第九百五十七条">
-                  <article_item number="第九百五十七条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第九百五十八条">
-                  <article_item number="第九百五十八条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第九百五十九条">
-                  <article_item number="第九百五十九条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第九百六十条">
-                  <article_item number="第九百六十条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第九百六十一条">
-                  <article_item number="第九百六十一条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第九百六十二条">
-                  <article_item number="第九百六十二条">
-                    削除
-                  </article_item>
-                </articles>
-              </section>
-              <section title="第二目　器差検定の方法" type="Moku">
-                <articles number="第九百六十三条" title="（器差検定の方法）">
-                  <article_item number="第九百六十三条">
-                    指示計の器差検定の方法は、日本工業規格Ｂ七九六〇－二（二〇一五）による。
-                  </article_item>
-                </articles>
-              </section>
-            </section>
-          </section>
-          <section title="第二節　使用中検査" type="Setsu">
-            <section title="第一款　性能に係る技術上の基準" type="Kan">
-              <articles number="第九百六十四条" title="（性能に係る技術上の基準）">
-                <article_item number="第九百六十四条">
-                  指示計の性能に係る技術上の基準は、日本工業規格Ｂ七九六〇－二（二〇一五）による。
-                </article_item>
-              </articles>
-            </section>
-            <section title="第二款　使用公差" type="Kan">
-              <articles number="第九百六十五条" title="（使用公差）">
-                <article_item number="第九百六十五条">
-                  指示計の使用公差は、日本工業規格Ｂ七九六〇－二（二〇一五）による。
-                </article_item>
-              </articles>
-            </section>
-            <section title="第三款　使用中検査の方法" type="Kan">
-              <section title="第一目　性能に関する検査の方法" type="Moku">
-                <articles number="第九百六十六条" title="（性能に関する検査の方法）">
-                  <article_item number="第九百六十六条">
-                    指示計の性能に関する検査の方法は、日本工業規格Ｂ七九六〇－二（二〇一五）による。
-                  </article_item>
-                </articles>
-              </section>
-              <section title="第二目　器差検査の方法" type="Moku">
-                <articles number="第九百六十七条" title="（器差検査の方法）">
-                  <article_item number="第九百六十七条">
-                    指示計の器差検査の方法は、日本工業規格Ｂ七九六〇－二（二〇一五）による。
-                  </article_item>
-                </articles>
-              </section>
-            </section>
-          </section>
-        </section>
-        <section title="第二十五章　酒精度浮ひょう" type="Sho">
-          <section title="第一節　検定" type="Setsu">
-            <section title="第一款　構造に係る技術上の基準" type="Kan">
-              <section title="第一目　表記事項" type="Moku">
-                <articles number="第九百六十八条" title="（表記）">
-                  <article_item number="第九百六十八条">
-                    酒精度浮ひょうの表記事項は、日本工業規格Ｂ七五四八（二〇〇九）による。
-                  </article_item>
-                </articles>
-              </section>
-              <section title="第二目　材質" type="Moku">
-                <articles number="第九百六十九条" title="（材料）">
-                  <article_item number="第九百六十九条">
-                    酒精度浮ひょうの材料は、日本工業規格Ｂ七五四八（二〇〇九）による。
-                  </article_item>
-                </articles>
-              </section>
-              <section title="第三目　性能" type="Moku">
-                <articles number="第九百七十条" title="（性能）">
-                  <article_item number="第九百七十条">
-                    酒精度浮ひょうの性能は、日本工業規格Ｂ七五四八（二〇〇九）による。
-                  </article_item>
-                </articles>
-                <articles number="第九百七十一条">
-                  <article_item number="第九百七十一条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第九百七十二条">
-                  <article_item number="第九百七十二条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第九百七十三条">
-                  <article_item number="第九百七十三条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第九百七十四条">
-                  <article_item number="第九百七十四条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第九百七十五条">
-                  <article_item number="第九百七十五条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第九百七十六条" title="（個々に定める性能）">
-                  <article_item number="第九百七十六条">
-                    法第七十一条第一項第一号の経済産業省令で定める技術上の基準であって、同条第二項の経済産業省令で定めるものは、酒精度浮ひょうについては、日本工業規格Ｂ七五四八（二〇〇九）による。
-                  </article_item>
-                </articles>
-              </section>
-            </section>
-            <section title="第二款　検定公差" type="Kan">
-              <articles number="第九百七十七条" title="（検定公差）">
-                <article_item number="第九百七十七条">
-                  酒精度浮ひょうの検定公差は、日本工業規格Ｂ七五四八（二〇〇九）による。
-                </article_item>
-              </articles>
-            </section>
-            <section title="第三款　検定の方法" type="Kan">
-              <section title="第一目　構造検定の方法" type="Moku">
-                <articles number="第九百七十八条" title="（構造検定の方法）">
-                  <article_item number="第九百七十八条">
-                    酒精度浮ひょうの構造検定の方法は、日本工業規格Ｂ七五四八（二〇〇九）による。
-                  </article_item>
-                </articles>
-                <articles number="第九百七十九条">
-                  <article_item number="第九百七十九条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第九百八十条">
-                  <article_item number="第九百八十条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第九百八十一条">
-                  <article_item number="第九百八十一条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第九百八十二条">
-                  <article_item number="第九百八十二条">
-                    削除
-                  </article_item>
-                </articles>
-              </section>
-              <section title="第二目　器差検定の方法" type="Moku">
-                <articles number="第九百八十三条" title="（器差検定の方法）">
-                  <article_item number="第九百八十三条">
-                    酒精度浮ひょうの器差検定の方法は、日本工業規格Ｂ七五四八（二〇〇九）による。
-                  </article_item>
-                </articles>
-                <articles number="第九百八十四条">
-                  <article_item number="第九百八十四条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第九百八十五条">
-                  <article_item number="第九百八十五条">
-                    削除
-                  </article_item>
-                </articles>
-              </section>
-            </section>
-          </section>
-          <section title="第二節　使用中検査" type="Setsu">
-            <section title="第一款　性能に係る技術上の基準" type="Kan">
-              <articles number="第九百八十六条" title="（性能に係る技術上の基準）">
-                <article_item number="第九百八十六条">
-                  酒精度浮ひょうの性能に係る技術上の基準は、日本工業規格Ｂ七五四八（二〇〇九）による。
-                </article_item>
-              </articles>
-            </section>
-            <section title="第二款　使用公差" type="Kan">
-              <articles number="第九百八十七条" title="（使用公差）">
-                <article_item number="第九百八十七条">
-                  酒精度浮ひょうの使用公差は、日本工業規格Ｂ七五四八（二〇〇九）による。
-                </article_item>
-              </articles>
-            </section>
-            <section title="第三款　使用中検査の方法" type="Kan">
-              <section title="第一目　性能に関する検査の方法" type="Moku">
-                <articles number="第九百八十八条" title="（性能に関する検査の方法）">
-                  <article_item number="第九百八十八条">
-                    酒精度浮ひょうの性能に関する検査の方法は、日本工業規格Ｂ七五四八（二〇〇九）による。
-                  </article_item>
-                </articles>
-              </section>
-              <section title="第二目　器差検査の方法" type="Moku">
-                <articles number="第九百八十九条" title="（器差検査の方法）">
-                  <article_item number="第九百八十九条">
-                    酒精度浮ひょうの器差検査の方法は、日本工業規格Ｂ七五四八（二〇〇九）による。
-                  </article_item>
-                </articles>
-                <articles number="第九百九十条">
-                  <article_item number="第九百九十条">
-                    削除
-                  </article_item>
-                </articles>
-              </section>
-            </section>
-          </section>
-          <section title="第三節　比較検査" type="Setsu">
-            <section title="第一款　通則" type="Kan">
-              <articles number="第九百九十一条" title="（準用）">
-                <article_item number="第九百九十一条">
-                  第三条第一項、第四項、第五項及び第七項、第四条第一項から第四項まで、第五条並びに第七十三条第一項の規定は、比較検査に準用する。この場合において、第七十三条第一項中「検定等」とあるのは、「比較検査」と読み替えるものとする。
-                </article_item>
-              </articles>
-              <articles number="第九百九十二条" title="（比較検査証印等）">
-                <article_item number="第九百九十二条">
-                  法附則第二十条第二項の規定による旧法第百一条第一項の比較検査証印の形状、種類及び大きさは、次のとおりとする。
-                  <go>
-                    <go_item number="一">
-                      比較検査証印の形状は、次のとおりとする。
-                    </go_item>
-                    <go_item number="二">
-                      比較検査証印は、すり付け印とする。
-                    </go_item>
-                    <go_item number="三">
-                      比較検査証印は、一辺の長さが三ミリメートル又は五ミリメートルの正方形とする。
-                    </go_item>
-                  </go>
-                </article_item>
-                <article_item number="２">
-                  比較検査証印を付する特定計量器の部分は、酒精度浮ひょうの胴部又は目盛面の上部とする。
-                </article_item>
-              </articles>
-              <articles number="第九百九十三条" title="（比較検査成績書等）">
-                <article_item number="第九百九十三条">
-                  法附則第二十条第二項の規定による旧法第百二条の比較検査成績書は、様式第二十五による。
-                </article_item>
-                <article_item number="２">
-                  比較検査成績書に器差を記載するために、検査をする目盛線の箇所は、比較検査を受けようとする者が申請する六箇所以下の箇所とする。
-                </article_item>
-                <article_item number="３">
-                  法附則第二十九条第二項による計量法（昭和二十六年法律第二百七号。以下「旧法」という。）第百四条第一項の規定により比較検査成績書に附する消印は、一辺の長さが三センチメートルの正方形であって次の形状のものとする。
-                </article_item>
-              </articles>
-              <articles number="第九百九十四条" title="（比較検査の期限）">
-                <article_item number="第九百九十四条">
-                  法附則第二十条第三項において準用する法第百六十条第一項の経済産業省令で定める期間は、五十日とする。
-                </article_item>
-              </articles>
-            </section>
-            <section title="第二款　構造" type="Kan">
-              <articles number="第九百九十五条" title="（構造）">
-                <article_item number="第九百九十五条">
-                  酒精度浮ひょうについての法附則第二十条第二項の規定による旧法第九十九条第一項第二号の通商産業省令で定める構造は、第十条及び第九百七十条に定めるところによるほか、次条に定めるところによる。ただし、目量は、〇・一体積百分率及び〇・二体積百分率のものでなければならない。
-                </article_item>
-              </articles>
-              <articles number="第九百九十六条" title="（表記）">
-                <article_item number="第九百九十六条">
-                  酒精度浮ひょうには、その見やすい箇所に、第九百六十八条に規定する事項のほか、製造番号が表記されていなければならない。
-                </article_item>
-              </articles>
-            </section>
-            <section title="第三款　比較検査公差" type="Kan">
-              <articles number="第九百九十七条" title="（比較検査公差）">
-                <article_item number="第九百九十七条">
-                  第十六条第一項の規定は、法附則第二十条第二項の規定による旧法第九十九条第一項第三号の通商産業省令で定める比較検査公差に準用する。この場合において、第十六条第一項中「検定公差」とあるのは「比較検査公差」と読み替えるものとする。
-                </article_item>
-                <article_item number="２">
-                  第九百七十七条の規定は、酒精度浮ひょうについての比較検査公差に準用する。
-                </article_item>
-              </articles>
-              <articles number="第九百九十八条">
-                <article_item number="第九百九十八条">
+              <articles number="第八百九十五条">
+                <article_item number="第八百九十五条">
                   削除
                 </article_item>
               </articles>
             </section>
-            <section title="第四款　比較検査の方法" type="Kan">
-              <articles number="第九百九十九条" title="（比較検査の方法）">
-                <article_item number="第九百九十九条">
-                  酒精度浮ひょうについての旧法第九十九条第二項及び第三項の通商産業省令で定める比較検査の方法は、次項並びに日本工業規格Ｂ七五四八（二〇〇九）の七・二及び九・三（ａを除く。）に定めるところによるほか、目視その他必要と認められる適切な方法とする。
+          </section>
+          <section title="第二款　検定公差" type="Kan">
+            <articles number="第八百九十六条" title="（検定公差）">
+              <article_item number="第八百九十六条">
+                濃度計の検定公差は、日本工業規格Ｂ七九五九（二〇一五）による。
+              </article_item>
+            </articles>
+          </section>
+          <section title="第三款　検定の方法" type="Kan">
+            <section title="第一目　構造検定の方法" type="Moku">
+              <articles number="第八百九十七条" title="（構造検定の方法）">
+                <article_item number="第八百九十七条">
+                  濃度計の構造検定の方法は、日本工業規格Ｂ七九五九（二〇一五）による。
                 </article_item>
-                <article_item number="２">
-                  酒精度浮ひょうの器差の検査は、検査を行う目盛線について二回以上計量し、その平均値を算出して行う。
+              </articles>
+              <articles number="第八百九十八条">
+                <article_item number="第八百九十八条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第八百九十九条">
+                <article_item number="第八百九十九条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第九百条">
+                <article_item number="第九百条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第九百一条">
+                <article_item number="第九百一条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第九百二条">
+                <article_item number="第九百二条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第九百三条">
+                <article_item number="第九百三条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第九百四条">
+                <article_item number="第九百四条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第九百五条">
+                <article_item number="第九百五条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第九百六条">
+                <article_item number="第九百六条">
+                  削除
+                </article_item>
+              </articles>
+            </section>
+            <section title="第二目　器差検定の方法" type="Moku">
+              <articles number="第九百七条" title="（器差検定の方法）">
+                <article_item number="第九百七条">
+                  濃度計の器差検定の方法は、日本工業規格Ｂ七九五九（二〇一五）による。
                 </article_item>
               </articles>
             </section>
           </section>
         </section>
-        <section title="第二十六章　浮ひょう型比重計" type="Sho">
-          <section title="第一節　検定" type="Setsu">
-            <section title="第一款　構造に係る技術上の基準" type="Kan">
-              <section title="第一目　表記事項" type="Moku">
-                <articles number="第千条" title="（表記）">
-                  <article_item number="第千条">
-                    浮ひょう型比重計の表記事項は、日本工業規格Ｂ七五二五－三（二〇一三）浮ひょう－浮ひょう型比重計附属書Ｂによる。
-                  </article_item>
-                </articles>
-              </section>
-              <section title="第二目　材質" type="Moku">
-                <articles number="第千一条" title="（材質）">
-                  <article_item number="第千一条">
-                    浮ひょう型比重計の材質は、日本工業規格Ｂ七五二五－三（二〇一三）浮ひょう－浮ひょう型比重計附属書Ｂによる。
-                  </article_item>
-                </articles>
-              </section>
-              <section title="第三目　性能" type="Moku">
-                <articles number="第千二条" title="（性能）">
-                  <article_item number="第千二条">
-                    浮ひょう型比重計の性能は、日本工業規格Ｂ七五二五－三（二〇一三）浮ひょう－浮ひょう型比重計附属書Ｂによる。
-                  </article_item>
-                </articles>
-                <articles number="第千三条">
-                  <article_item number="第千三条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第千四条">
-                  <article_item number="第千四条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第千五条">
-                  <article_item number="第千五条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第千六条">
-                  <article_item number="第千六条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第千七条">
-                  <article_item number="第千七条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第千八条">
-                  <article_item number="第千八条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第千九条">
-                  <article_item number="第千九条">
-                    削除
-                  </article_item>
-                </articles>
-              </section>
-            </section>
-            <section title="第二款　検定公差" type="Kan">
-              <articles number="第千十条" title="（検定公差）">
-                <article_item number="第千十条">
-                  浮ひょう型比重計の検定公差は、日本工業規格Ｂ七五二五－三（二〇一三）浮ひょう－浮ひょう型比重計附属書Ｂによる。
-                </article_item>
-              </articles>
-            </section>
-            <section title="第三款　検定の方法" type="Kan">
-              <section title="第一目　構造検定の方法" type="Moku">
-                <articles number="第千十一条" title="（構造検定の方法）">
-                  <article_item number="第千十一条">
-                    浮ひょう型比重計の構造検定の方法は、日本工業規格Ｂ七五二五－三（二〇一三）浮ひょう－浮ひょう型比重計附属書Ｂによる。
-                  </article_item>
-                </articles>
-                <articles number="第千十二条">
-                  <article_item number="第千十二条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第千十三条">
-                  <article_item number="第千十三条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第千十四条">
-                  <article_item number="第千十四条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第千十五条">
-                  <article_item number="第千十五条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第千十六条">
-                  <article_item number="第千十六条">
-                    削除
-                  </article_item>
-                </articles>
-              </section>
-              <section title="第二目　器差検定の方法" type="Moku">
-                <articles number="第千十七条" title="（器差検定の方法）">
-                  <article_item number="第千十七条">
-                    浮ひょう型比重計の器差検定の方法は、日本工業規格Ｂ七五二五－三（二〇一三）浮ひょう－浮ひょう型比重計附属書Ｂによる。
-                  </article_item>
-                </articles>
-                <articles number="第千十八条">
-                  <article_item number="第千十八条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第千十九条">
-                  <article_item number="第千十九条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第千二十条">
-                  <article_item number="第千二十条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第千二十一条">
-                  <article_item number="第千二十一条">
-                    削除
-                  </article_item>
-                </articles>
-                <articles number="第千二十二条">
-                  <article_item number="第千二十二条">
-                    削除
-                  </article_item>
-                </articles>
-              </section>
-            </section>
+        <section title="第二節　使用中検査" type="Setsu">
+          <section title="第一款　性能に係る技術上の基準" type="Kan">
+            <articles number="第九百八条" title="（性能に係る技術上の基準）">
+              <article_item number="第九百八条">
+                濃度計の性能に係る技術上の基準は、日本工業規格Ｂ七九五九（二〇一五）による。
+              </article_item>
+            </articles>
           </section>
-          <section title="第二節　使用中検査" type="Setsu">
-            <section title="第一款　性能に係る技術上の基準" type="Kan">
-              <articles number="第千二十三条" title="（性能に係る技術上の基準）">
-                <article_item number="第千二十三条">
-                  浮ひょう型比重計の性能に係る技術上の基準は、日本工業規格Ｂ七五二五－三（二〇一三）浮ひょう－浮ひょう型比重計附属書Ｂによる。
+          <section title="第二款　使用公差" type="Kan">
+            <articles number="第九百九条" title="（使用公差）">
+              <article_item number="第九百九条">
+                濃度計の使用公差は、日本工業規格Ｂ七九五九（二〇一五）による。
+              </article_item>
+            </articles>
+          </section>
+          <section title="第三款　使用中検査の方法" type="Kan">
+            <section title="第一目　性能に関する検査の方法" type="Moku">
+              <articles number="第九百十条" title="（性能に関する検査の方法）">
+                <article_item number="第九百十条">
+                  濃度計の性能に関する検査の方法は、日本工業規格Ｂ七九五九（二〇一五）による。
                 </article_item>
               </articles>
             </section>
-            <section title="第二款　使用公差" type="Kan">
-              <articles number="第千二十四条" title="（使用公差）">
-                <article_item number="第千二十四条">
-                  浮ひょう型比重計の使用公差は、日本工業規格Ｂ七五二五－三（二〇一三）浮ひょう－浮ひょう型比重計附属書Ｂによる。
+            <section title="第二目　器差検査の方法" type="Moku">
+              <articles number="第九百十一条" title="（器差検査の方法）">
+                <article_item number="第九百十一条">
+                  濃度計の器差検査の方法は、日本工業規格Ｂ七九五九（二〇一五）による。
                 </article_item>
               </articles>
-            </section>
-            <section title="第三款　使用中検査の方法" type="Kan">
-              <section title="第一目　性能に関する検査の方法" type="Moku">
-                <articles number="第千二十五条" title="（性能に関する検査の方法）">
-                  <article_item number="第千二十五条">
-                    浮ひょう型比重計の性能に関する検査の方法は、日本工業規格Ｂ七五二五－三（二〇一三）浮ひょう－浮ひょう型比重計附属書Ｂによる。
-                  </article_item>
-                </articles>
-              </section>
-              <section title="第二目　器差検査の方法" type="Moku">
-                <articles number="第千二十六条" title="（器差検査の方法）">
-                  <article_item number="第千二十六条">
-                    浮ひょう型比重計の器差検査の方法は、日本工業規格Ｂ七五二五－三（二〇一三）浮ひょう－浮ひょう型比重計附属書Ｂによる。
-                  </article_item>
-                </articles>
-              </section>
             </section>
           </section>
         </section>
-      </body>
+      </section>
+      <section title="第二十三章　ガラス電極式水素イオン濃度検出器" type="Sho">
+        <section title="第一節　検定" type="Setsu">
+          <section title="第一款　構造に係る技術上の基準" type="Kan">
+            <section title="第一目　表記事項" type="Moku">
+              <articles number="第九百十二条" title="（表記）">
+                <article_item number="第九百十二条">
+                  ガラス電極式水素イオン濃度検出器（以下この章において「検出器」という。）の表記事項は、日本工業規格Ｂ七九六〇－一（二〇一五）による。
+                </article_item>
+              </articles>
+            </section>
+            <section title="第二目　材質" type="Moku">
+              <articles number="第九百十三条" title="（材質）">
+                <article_item number="第九百十三条">
+                  検出器の材質は、日本工業規格Ｂ七九六〇－一（二〇一五）による。
+                </article_item>
+              </articles>
+            </section>
+            <section title="第三目　性能" type="Moku">
+              <articles number="第九百十四条" title="（性能）">
+                <article_item number="第九百十四条">
+                  検出器の性能は、日本工業規格Ｂ七九六〇－一（二〇一五）による。
+                </article_item>
+              </articles>
+              <articles number="第九百十五条">
+                <article_item number="第九百十五条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第九百十六条">
+                <article_item number="第九百十六条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第九百十七条">
+                <article_item number="第九百十七条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第九百十八条">
+                <article_item number="第九百十八条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第九百十九条">
+                <article_item number="第九百十九条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第九百二十条">
+                <article_item number="第九百二十条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第九百二十一条">
+                <article_item number="第九百二十一条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第九百二十二条">
+                <article_item number="第九百二十二条">
+                  削除
+                </article_item>
+              </articles>
+            </section>
+          </section>
+          <section title="第二款　検定公差" type="Kan">
+            <articles number="第九百二十三条" title="（検定公差）">
+              <article_item number="第九百二十三条">
+                検出器の検定公差は、日本工業規格Ｂ七九六〇－一（二〇一五）による。
+              </article_item>
+            </articles>
+          </section>
+          <section title="第三款　検定の方法" type="Kan">
+            <section title="第一目　構造検定の方法" type="Moku">
+              <articles number="第九百二十四条" title="（構造検定の方法）">
+                <article_item number="第九百二十四条">
+                  検出器の構造検定の方法は、日本工業規格Ｂ七九六〇－一（二〇一五）による。
+                </article_item>
+              </articles>
+              <articles number="第九百二十五条">
+                <article_item number="第九百二十五条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第九百二十六条">
+                <article_item number="第九百二十六条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第九百二十七条">
+                <article_item number="第九百二十七条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第九百二十八条">
+                <article_item number="第九百二十八条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第九百二十九条">
+                <article_item number="第九百二十九条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第九百三十条">
+                <article_item number="第九百三十条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第九百三十一条">
+                <article_item number="第九百三十一条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第九百三十二条">
+                <article_item number="第九百三十二条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第九百三十三条">
+                <article_item number="第九百三十三条">
+                  削除
+                </article_item>
+              </articles>
+            </section>
+            <section title="第二目　器差検定の方法" type="Moku">
+              <articles number="第九百三十四条" title="（器差検定の方法）">
+                <article_item number="第九百三十四条">
+                  検出器の器差検定の方法は、日本工業規格Ｂ七九六〇－一（二〇一五）による。
+                </article_item>
+              </articles>
+              <articles number="第九百三十五条">
+                <article_item number="第九百三十五条">
+                  削除
+                </article_item>
+              </articles>
+            </section>
+          </section>
+        </section>
+        <section title="第二節　使用中検査" type="Setsu">
+          <section title="第一款　性能に係る技術上の基準" type="Kan">
+            <articles number="第九百三十六条" title="（性能に係る技術上の基準）">
+              <article_item number="第九百三十六条">
+                検出器の性能に係る技術上の基準は、日本工業規格Ｂ七九六〇－一（二〇一五）による。
+              </article_item>
+            </articles>
+          </section>
+          <section title="第二款　使用公差" type="Kan">
+            <articles number="第九百三十七条" title="（使用公差）">
+              <article_item number="第九百三十七条">
+                検出器の使用公差は、日本工業規格Ｂ七九六〇－一（二〇一五）による。
+              </article_item>
+            </articles>
+          </section>
+          <section title="第三款　使用中検査の方法" type="Kan">
+            <section title="第一目　性能に関する検査の方法" type="Moku">
+              <articles number="第九百三十八条" title="（性能に関する検査の方法）">
+                <article_item number="第九百三十八条">
+                  検出器の性能に関する検査の方法は、日本工業規格Ｂ七九六〇－一（二〇一五）による。
+                </article_item>
+              </articles>
+            </section>
+            <section title="第二目　器差検査の方法" type="Moku">
+              <articles number="第九百三十九条" title="（器差検査の方法）">
+                <article_item number="第九百三十九条">
+                  検出器の器差検査の方法は、日本工業規格Ｂ七九六〇－一（二〇一五）による。
+                </article_item>
+              </articles>
+            </section>
+          </section>
+        </section>
+      </section>
+      <section title="第二十四章　ガラス電極式水素イオン濃度指示計" type="Sho">
+        <section title="第一節　検定" type="Setsu">
+          <section title="第一款　構造に係る技術上の基準" type="Kan">
+            <section title="第一目　表記事項" type="Moku">
+              <articles number="第九百四十条" title="（表記）">
+                <article_item number="第九百四十条">
+                  ガラス電極式水素イオン濃度指示計（以下この章において「指示計」という。）の表記事項は、日本工業規格Ｂ七九六〇－二（二〇一五）による。
+                </article_item>
+              </articles>
+            </section>
+            <section title="第二目　性能" type="Moku">
+              <articles number="第九百四十一条" title="（性能）">
+                <article_item number="第九百四十一条">
+                  指示計の性能は、日本工業規格Ｂ七九六〇－二（二〇一五）による。
+                </article_item>
+              </articles>
+              <articles number="第九百四十二条">
+                <article_item number="第九百四十二条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第九百四十三条">
+                <article_item number="第九百四十三条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第九百四十四条">
+                <article_item number="第九百四十四条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第九百四十五条">
+                <article_item number="第九百四十五条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第九百四十六条">
+                <article_item number="第九百四十六条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第九百四十七条">
+                <article_item number="第九百四十七条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第九百四十八条">
+                <article_item number="第九百四十八条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第九百四十九条">
+                <article_item number="第九百四十九条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第九百五十条">
+                <article_item number="第九百五十条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第九百五十一条">
+                <article_item number="第九百五十一条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第九百五十二条">
+                <article_item number="第九百五十二条">
+                  削除
+                </article_item>
+              </articles>
+            </section>
+          </section>
+          <section title="第二款　検定公差" type="Kan">
+            <articles number="第九百五十三条" title="（検定公差）">
+              <article_item number="第九百五十三条">
+                指示計の検定公差は、日本工業規格Ｂ七九六〇－二（二〇一五）による。
+              </article_item>
+            </articles>
+          </section>
+          <section title="第三款　検定の方法" type="Kan">
+            <section title="第一目　構造検定の方法" type="Moku">
+              <articles number="第九百五十四条" title="（構造検定の方法）">
+                <article_item number="第九百五十四条">
+                  指示計の構造検定の方法は、日本工業規格Ｂ七九六〇－二（二〇一五）による。
+                </article_item>
+              </articles>
+              <articles number="第九百五十五条">
+                <article_item number="第九百五十五条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第九百五十六条">
+                <article_item number="第九百五十六条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第九百五十七条">
+                <article_item number="第九百五十七条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第九百五十八条">
+                <article_item number="第九百五十八条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第九百五十九条">
+                <article_item number="第九百五十九条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第九百六十条">
+                <article_item number="第九百六十条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第九百六十一条">
+                <article_item number="第九百六十一条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第九百六十二条">
+                <article_item number="第九百六十二条">
+                  削除
+                </article_item>
+              </articles>
+            </section>
+            <section title="第二目　器差検定の方法" type="Moku">
+              <articles number="第九百六十三条" title="（器差検定の方法）">
+                <article_item number="第九百六十三条">
+                  指示計の器差検定の方法は、日本工業規格Ｂ七九六〇－二（二〇一五）による。
+                </article_item>
+              </articles>
+            </section>
+          </section>
+        </section>
+        <section title="第二節　使用中検査" type="Setsu">
+          <section title="第一款　性能に係る技術上の基準" type="Kan">
+            <articles number="第九百六十四条" title="（性能に係る技術上の基準）">
+              <article_item number="第九百六十四条">
+                指示計の性能に係る技術上の基準は、日本工業規格Ｂ七九六〇－二（二〇一五）による。
+              </article_item>
+            </articles>
+          </section>
+          <section title="第二款　使用公差" type="Kan">
+            <articles number="第九百六十五条" title="（使用公差）">
+              <article_item number="第九百六十五条">
+                指示計の使用公差は、日本工業規格Ｂ七九六〇－二（二〇一五）による。
+              </article_item>
+            </articles>
+          </section>
+          <section title="第三款　使用中検査の方法" type="Kan">
+            <section title="第一目　性能に関する検査の方法" type="Moku">
+              <articles number="第九百六十六条" title="（性能に関する検査の方法）">
+                <article_item number="第九百六十六条">
+                  指示計の性能に関する検査の方法は、日本工業規格Ｂ七九六〇－二（二〇一五）による。
+                </article_item>
+              </articles>
+            </section>
+            <section title="第二目　器差検査の方法" type="Moku">
+              <articles number="第九百六十七条" title="（器差検査の方法）">
+                <article_item number="第九百六十七条">
+                  指示計の器差検査の方法は、日本工業規格Ｂ七九六〇－二（二〇一五）による。
+                </article_item>
+              </articles>
+            </section>
+          </section>
+        </section>
+      </section>
+      <section title="第二十五章　酒精度浮ひょう" type="Sho">
+        <section title="第一節　検定" type="Setsu">
+          <section title="第一款　構造に係る技術上の基準" type="Kan">
+            <section title="第一目　表記事項" type="Moku">
+              <articles number="第九百六十八条" title="（表記）">
+                <article_item number="第九百六十八条">
+                  酒精度浮ひょうの表記事項は、日本工業規格Ｂ七五四八（二〇〇九）による。
+                </article_item>
+              </articles>
+            </section>
+            <section title="第二目　材質" type="Moku">
+              <articles number="第九百六十九条" title="（材料）">
+                <article_item number="第九百六十九条">
+                  酒精度浮ひょうの材料は、日本工業規格Ｂ七五四八（二〇〇九）による。
+                </article_item>
+              </articles>
+            </section>
+            <section title="第三目　性能" type="Moku">
+              <articles number="第九百七十条" title="（性能）">
+                <article_item number="第九百七十条">
+                  酒精度浮ひょうの性能は、日本工業規格Ｂ七五四八（二〇〇九）による。
+                </article_item>
+              </articles>
+              <articles number="第九百七十一条">
+                <article_item number="第九百七十一条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第九百七十二条">
+                <article_item number="第九百七十二条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第九百七十三条">
+                <article_item number="第九百七十三条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第九百七十四条">
+                <article_item number="第九百七十四条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第九百七十五条">
+                <article_item number="第九百七十五条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第九百七十六条" title="（個々に定める性能）">
+                <article_item number="第九百七十六条">
+                  法第七十一条第一項第一号の経済産業省令で定める技術上の基準であって、同条第二項の経済産業省令で定めるものは、酒精度浮ひょうについては、日本工業規格Ｂ七五四八（二〇〇九）による。
+                </article_item>
+              </articles>
+            </section>
+          </section>
+          <section title="第二款　検定公差" type="Kan">
+            <articles number="第九百七十七条" title="（検定公差）">
+              <article_item number="第九百七十七条">
+                酒精度浮ひょうの検定公差は、日本工業規格Ｂ七五四八（二〇〇九）による。
+              </article_item>
+            </articles>
+          </section>
+          <section title="第三款　検定の方法" type="Kan">
+            <section title="第一目　構造検定の方法" type="Moku">
+              <articles number="第九百七十八条" title="（構造検定の方法）">
+                <article_item number="第九百七十八条">
+                  酒精度浮ひょうの構造検定の方法は、日本工業規格Ｂ七五四八（二〇〇九）による。
+                </article_item>
+              </articles>
+              <articles number="第九百七十九条">
+                <article_item number="第九百七十九条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第九百八十条">
+                <article_item number="第九百八十条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第九百八十一条">
+                <article_item number="第九百八十一条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第九百八十二条">
+                <article_item number="第九百八十二条">
+                  削除
+                </article_item>
+              </articles>
+            </section>
+            <section title="第二目　器差検定の方法" type="Moku">
+              <articles number="第九百八十三条" title="（器差検定の方法）">
+                <article_item number="第九百八十三条">
+                  酒精度浮ひょうの器差検定の方法は、日本工業規格Ｂ七五四八（二〇〇九）による。
+                </article_item>
+              </articles>
+              <articles number="第九百八十四条">
+                <article_item number="第九百八十四条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第九百八十五条">
+                <article_item number="第九百八十五条">
+                  削除
+                </article_item>
+              </articles>
+            </section>
+          </section>
+        </section>
+        <section title="第二節　使用中検査" type="Setsu">
+          <section title="第一款　性能に係る技術上の基準" type="Kan">
+            <articles number="第九百八十六条" title="（性能に係る技術上の基準）">
+              <article_item number="第九百八十六条">
+                酒精度浮ひょうの性能に係る技術上の基準は、日本工業規格Ｂ七五四八（二〇〇九）による。
+              </article_item>
+            </articles>
+          </section>
+          <section title="第二款　使用公差" type="Kan">
+            <articles number="第九百八十七条" title="（使用公差）">
+              <article_item number="第九百八十七条">
+                酒精度浮ひょうの使用公差は、日本工業規格Ｂ七五四八（二〇〇九）による。
+              </article_item>
+            </articles>
+          </section>
+          <section title="第三款　使用中検査の方法" type="Kan">
+            <section title="第一目　性能に関する検査の方法" type="Moku">
+              <articles number="第九百八十八条" title="（性能に関する検査の方法）">
+                <article_item number="第九百八十八条">
+                  酒精度浮ひょうの性能に関する検査の方法は、日本工業規格Ｂ七五四八（二〇〇九）による。
+                </article_item>
+              </articles>
+            </section>
+            <section title="第二目　器差検査の方法" type="Moku">
+              <articles number="第九百八十九条" title="（器差検査の方法）">
+                <article_item number="第九百八十九条">
+                  酒精度浮ひょうの器差検査の方法は、日本工業規格Ｂ七五四八（二〇〇九）による。
+                </article_item>
+              </articles>
+              <articles number="第九百九十条">
+                <article_item number="第九百九十条">
+                  削除
+                </article_item>
+              </articles>
+            </section>
+          </section>
+        </section>
+        <section title="第三節　比較検査" type="Setsu">
+          <section title="第一款　通則" type="Kan">
+            <articles number="第九百九十一条" title="（準用）">
+              <article_item number="第九百九十一条">
+                第三条第一項、第四項、第五項及び第七項、第四条第一項から第四項まで、第五条並びに第七十三条第一項の規定は、比較検査に準用する。この場合において、第七十三条第一項中「検定等」とあるのは、「比較検査」と読み替えるものとする。
+              </article_item>
+            </articles>
+            <articles number="第九百九十二条" title="（比較検査証印等）">
+              <article_item number="第九百九十二条">
+                法附則第二十条第二項の規定による旧法第百一条第一項の比較検査証印の形状、種類及び大きさは、次のとおりとする。
+                <go>
+                  <go_item number="一">
+                    比較検査証印の形状は、次のとおりとする。
+                  </go_item>
+                  <go_item number="二">
+                    比較検査証印は、すり付け印とする。
+                  </go_item>
+                  <go_item number="三">
+                    比較検査証印は、一辺の長さが三ミリメートル又は五ミリメートルの正方形とする。
+                  </go_item>
+                </go>
+              </article_item>
+              <article_item number="２">
+                比較検査証印を付する特定計量器の部分は、酒精度浮ひょうの胴部又は目盛面の上部とする。
+              </article_item>
+            </articles>
+            <articles number="第九百九十三条" title="（比較検査成績書等）">
+              <article_item number="第九百九十三条">
+                法附則第二十条第二項の規定による旧法第百二条の比較検査成績書は、様式第二十五による。
+              </article_item>
+              <article_item number="２">
+                比較検査成績書に器差を記載するために、検査をする目盛線の箇所は、比較検査を受けようとする者が申請する六箇所以下の箇所とする。
+              </article_item>
+              <article_item number="３">
+                法附則第二十九条第二項による計量法（昭和二十六年法律第二百七号。以下「旧法」という。）第百四条第一項の規定により比較検査成績書に附する消印は、一辺の長さが三センチメートルの正方形であって次の形状のものとする。
+              </article_item>
+            </articles>
+            <articles number="第九百九十四条" title="（比較検査の期限）">
+              <article_item number="第九百九十四条">
+                法附則第二十条第三項において準用する法第百六十条第一項の経済産業省令で定める期間は、五十日とする。
+              </article_item>
+            </articles>
+          </section>
+          <section title="第二款　構造" type="Kan">
+            <articles number="第九百九十五条" title="（構造）">
+              <article_item number="第九百九十五条">
+                酒精度浮ひょうについての法附則第二十条第二項の規定による旧法第九十九条第一項第二号の通商産業省令で定める構造は、第十条及び第九百七十条に定めるところによるほか、次条に定めるところによる。ただし、目量は、〇・一体積百分率及び〇・二体積百分率のものでなければならない。
+              </article_item>
+            </articles>
+            <articles number="第九百九十六条" title="（表記）">
+              <article_item number="第九百九十六条">
+                酒精度浮ひょうには、その見やすい箇所に、第九百六十八条に規定する事項のほか、製造番号が表記されていなければならない。
+              </article_item>
+            </articles>
+          </section>
+          <section title="第三款　比較検査公差" type="Kan">
+            <articles number="第九百九十七条" title="（比較検査公差）">
+              <article_item number="第九百九十七条">
+                第十六条第一項の規定は、法附則第二十条第二項の規定による旧法第九十九条第一項第三号の通商産業省令で定める比較検査公差に準用する。この場合において、第十六条第一項中「検定公差」とあるのは「比較検査公差」と読み替えるものとする。
+              </article_item>
+              <article_item number="２">
+                第九百七十七条の規定は、酒精度浮ひょうについての比較検査公差に準用する。
+              </article_item>
+            </articles>
+            <articles number="第九百九十八条">
+              <article_item number="第九百九十八条">
+                削除
+              </article_item>
+            </articles>
+          </section>
+          <section title="第四款　比較検査の方法" type="Kan">
+            <articles number="第九百九十九条" title="（比較検査の方法）">
+              <article_item number="第九百九十九条">
+                酒精度浮ひょうについての旧法第九十九条第二項及び第三項の通商産業省令で定める比較検査の方法は、次項並びに日本工業規格Ｂ七五四八（二〇〇九）の七・二及び九・三（ａを除く。）に定めるところによるほか、目視その他必要と認められる適切な方法とする。
+              </article_item>
+              <article_item number="２">
+                酒精度浮ひょうの器差の検査は、検査を行う目盛線について二回以上計量し、その平均値を算出して行う。
+              </article_item>
+            </articles>
+          </section>
+        </section>
+      </section>
+      <section title="第二十六章　浮ひょう型比重計" type="Sho">
+        <section title="第一節　検定" type="Setsu">
+          <section title="第一款　構造に係る技術上の基準" type="Kan">
+            <section title="第一目　表記事項" type="Moku">
+              <articles number="第千条" title="（表記）">
+                <article_item number="第千条">
+                  浮ひょう型比重計の表記事項は、日本工業規格Ｂ七五二五－三（二〇一三）浮ひょう－浮ひょう型比重計附属書Ｂによる。
+                </article_item>
+              </articles>
+            </section>
+            <section title="第二目　材質" type="Moku">
+              <articles number="第千一条" title="（材質）">
+                <article_item number="第千一条">
+                  浮ひょう型比重計の材質は、日本工業規格Ｂ七五二五－三（二〇一三）浮ひょう－浮ひょう型比重計附属書Ｂによる。
+                </article_item>
+              </articles>
+            </section>
+            <section title="第三目　性能" type="Moku">
+              <articles number="第千二条" title="（性能）">
+                <article_item number="第千二条">
+                  浮ひょう型比重計の性能は、日本工業規格Ｂ七五二五－三（二〇一三）浮ひょう－浮ひょう型比重計附属書Ｂによる。
+                </article_item>
+              </articles>
+              <articles number="第千三条">
+                <article_item number="第千三条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第千四条">
+                <article_item number="第千四条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第千五条">
+                <article_item number="第千五条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第千六条">
+                <article_item number="第千六条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第千七条">
+                <article_item number="第千七条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第千八条">
+                <article_item number="第千八条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第千九条">
+                <article_item number="第千九条">
+                  削除
+                </article_item>
+              </articles>
+            </section>
+          </section>
+          <section title="第二款　検定公差" type="Kan">
+            <articles number="第千十条" title="（検定公差）">
+              <article_item number="第千十条">
+                浮ひょう型比重計の検定公差は、日本工業規格Ｂ七五二五－三（二〇一三）浮ひょう－浮ひょう型比重計附属書Ｂによる。
+              </article_item>
+            </articles>
+          </section>
+          <section title="第三款　検定の方法" type="Kan">
+            <section title="第一目　構造検定の方法" type="Moku">
+              <articles number="第千十一条" title="（構造検定の方法）">
+                <article_item number="第千十一条">
+                  浮ひょう型比重計の構造検定の方法は、日本工業規格Ｂ七五二五－三（二〇一三）浮ひょう－浮ひょう型比重計附属書Ｂによる。
+                </article_item>
+              </articles>
+              <articles number="第千十二条">
+                <article_item number="第千十二条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第千十三条">
+                <article_item number="第千十三条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第千十四条">
+                <article_item number="第千十四条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第千十五条">
+                <article_item number="第千十五条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第千十六条">
+                <article_item number="第千十六条">
+                  削除
+                </article_item>
+              </articles>
+            </section>
+            <section title="第二目　器差検定の方法" type="Moku">
+              <articles number="第千十七条" title="（器差検定の方法）">
+                <article_item number="第千十七条">
+                  浮ひょう型比重計の器差検定の方法は、日本工業規格Ｂ七五二五－三（二〇一三）浮ひょう－浮ひょう型比重計附属書Ｂによる。
+                </article_item>
+              </articles>
+              <articles number="第千十八条">
+                <article_item number="第千十八条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第千十九条">
+                <article_item number="第千十九条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第千二十条">
+                <article_item number="第千二十条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第千二十一条">
+                <article_item number="第千二十一条">
+                  削除
+                </article_item>
+              </articles>
+              <articles number="第千二十二条">
+                <article_item number="第千二十二条">
+                  削除
+                </article_item>
+              </articles>
+            </section>
+          </section>
+        </section>
+        <section title="第二節　使用中検査" type="Setsu">
+          <section title="第一款　性能に係る技術上の基準" type="Kan">
+            <articles number="第千二十三条" title="（性能に係る技術上の基準）">
+              <article_item number="第千二十三条">
+                浮ひょう型比重計の性能に係る技術上の基準は、日本工業規格Ｂ七五二五－三（二〇一三）浮ひょう－浮ひょう型比重計附属書Ｂによる。
+              </article_item>
+            </articles>
+          </section>
+          <section title="第二款　使用公差" type="Kan">
+            <articles number="第千二十四条" title="（使用公差）">
+              <article_item number="第千二十四条">
+                浮ひょう型比重計の使用公差は、日本工業規格Ｂ七五二五－三（二〇一三）浮ひょう－浮ひょう型比重計附属書Ｂによる。
+              </article_item>
+            </articles>
+          </section>
+          <section title="第三款　使用中検査の方法" type="Kan">
+            <section title="第一目　性能に関する検査の方法" type="Moku">
+              <articles number="第千二十五条" title="（性能に関する検査の方法）">
+                <article_item number="第千二十五条">
+                  浮ひょう型比重計の性能に関する検査の方法は、日本工業規格Ｂ七五二五－三（二〇一三）浮ひょう－浮ひょう型比重計附属書Ｂによる。
+                </article_item>
+              </articles>
+            </section>
+            <section title="第二目　器差検査の方法" type="Moku">
+              <articles number="第千二十六条" title="（器差検査の方法）">
+                <article_item number="第千二十六条">
+                  浮ひょう型比重計の器差検査の方法は、日本工業規格Ｂ七五二五－三（二〇一三）浮ひょう－浮ひょう型比重計附属書Ｂによる。
+                </article_item>
+              </articles>
+            </section>
+          </section>
+        </section>
+      </section>
+    </body>
 </law>

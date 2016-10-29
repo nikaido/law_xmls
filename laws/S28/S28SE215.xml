@@ -3,7 +3,7 @@
   <head>
     <title>国家公務員退職手当法施行令</title>
     <defined>昭和二十八年八月二十五日政令第二百十五号</defined>
-    <updated>平成二八年三月三一日政令第一〇三号</updated>
+    <updated>平成二八年九月三〇日政令第三一九号</updated>
   </head>
   <body>
     <preamble>
@@ -1045,6 +1045,9 @@
             <go_item number="百八十一">
               旧航海訓練所（平成十八年独法改革国土交通省関係法整備法の施行の日の前日までの間におけるものを除く。）
             </go_item>
+            <go_item number="百八十二">
+              使用済燃料再処理機構
+            </go_item>
           </go>
         </article_item>
       </articles>
@@ -1443,6 +1446,9 @@
             </go_item>
             <go_item number="百二十八">
               旧独立行政法人労働者健康福祉機構法第二条の独立行政法人労働者健康福祉機構及び旧労働安全衛生総合研究所
+            </go_item>
+            <go_item number="百二十九">
+              使用済燃料再処理機構
             </go_item>
           </go>
         </article_item>

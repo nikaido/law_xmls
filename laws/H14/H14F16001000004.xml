@@ -3,7 +3,7 @@
   <head>
     <title>小型船舶登録規則</title>
     <defined>平成十四年二月一日国土交通省令第四号</defined>
-    <updated>平成一八年三月三一日国土交通省令第三〇号</updated>
+    <updated>平成二八年七月一日国土交通省令第五八号</updated>
   </head>
   <body>
     <preamble>
@@ -44,6 +44,9 @@
             </go_item>
             <go_item number="五">
               告示で定める水域のみを航行する船舶
+            </go_item>
+            <go_item number="六">
+              前各号に掲げるもののほか、登録の必要性が乏しいものとして告示で定める船舶
             </go_item>
           </go>
         </article_item>

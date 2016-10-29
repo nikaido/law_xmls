@@ -3,7 +3,7 @@
   <head>
     <title>刑事訴訟法</title>
     <defined>昭和二十三年七月十日法律第百三十一号</defined>
-    <updated>平成二六年六月二五日法律第七九号</updated>
+    <updated>平成二八年六月三日法律第五四号</updated>
   </head>
   <body>
     <section title="第一編　総則" type="Hen">
@@ -902,7 +902,7 @@
         </articles>
         <articles number="第九十条">
           <article_item number="第九十条">
-            裁判所は、適当と認めるときは、職権で保釈を許すことができる。
+            裁判所は、保釈された場合に被告人が逃亡し又は罪証を隠滅するおそれの程度のほか、身体の拘束の継続により被告人が受ける健康上、経済上、社会生活上又は防御の準備上の不利益の程度その他の事情を考慮し、適当と認めるときは、職権で保釈を許すことができる。
           </article_item>
         </articles>
         <articles number="第九十一条">
@@ -1429,10 +1429,7 @@
         </articles>
         <articles number="第百五十一条">
           <article_item number="第百五十一条">
-            証人として召喚を受け正当な理由がなく出頭しない者は、十万円以下の罰金又は拘留に処する。
-          </article_item>
-          <article_item number="○２">
-            前項の罪を犯した者には、情状により、罰金及び拘留を併科することができる。
+            証人として召喚を受け正当な理由がなく出頭しない者は、一年以下の懲役又は三十万円以下の罰金に処する。
           </article_item>
         </articles>
         <articles number="第百五十二条">
@@ -1552,10 +1549,7 @@
         </articles>
         <articles number="第百六十一条">
           <article_item number="第百六十一条">
-            正当な理由がなく宣誓又は証言を拒んだ者は、十万円以下の罰金又は拘留に処する。
-          </article_item>
-          <article_item number="○２">
-            前項の罪を犯した者には、情状により、罰金及び拘留を併科することができる。
+            正当な理由がなく宣誓又は証言を拒んだ者は、一年以下の懲役又は三十万円以下の罰金に処する。
           </article_item>
         </articles>
         <articles number="第百六十二条">

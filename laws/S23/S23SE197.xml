@@ -3,7 +3,7 @@
   <head>
     <title>予防接種法施行令</title>
     <defined>昭和二十三年七月三十一日政令第百九十七号</defined>
-    <updated>平成二八年三月三一日政令第一七二号</updated>
+    <updated>平成二八年六月二二日政令第二四一号</updated>
   </head>
   <body>
     <preamble>
@@ -20,6 +20,9 @@
           </go_item>
           <go_item number="二">
             水痘
+          </go_item>
+          <go_item number="三">
+            Ｂ型肝炎
           </go_item>
         </go>
       </article_item>
@@ -122,7 +125,7 @@
               結核
             </td>
             <td>
-              生後一歳に至るまでの間にある者
+              一歳に至るまでの間にある者
             </td>
           </tr>
           <tr>
@@ -155,6 +158,14 @@
             </td>
             <td>
               生後十二月から生後三十六月に至るまでの間にある者
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Ｂ型肝炎
+            </td>
+            <td>
+              一歳に至るまでの間にある者
             </td>
           </tr>
           <tr>

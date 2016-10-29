@@ -3,7 +3,7 @@
   <head>
     <title>特定非営利活動促進法</title>
     <defined>平成十年三月二十五日法律第七号</defined>
-    <updated>平成二五年一一月二七日法律第八六号</updated>
+    <updated>平成二八年六月七日法律第七〇号</updated>
   </head>
   <body>
     <section title="第一章　総則" type="Sho">
@@ -1443,9 +1443,12 @@
       </articles>
     </section>
     <section title="第五章　雑則" type="Sho">
-      <articles number="第七十二条" title="（情報の提供）">
+      <articles number="第七十二条" title="（情報の提供等）">
         <article_item number="第七十二条">
           内閣総理大臣及び所轄庁は、特定非営利活動法人に対する寄附その他の特定非営利活動への市民の参画を促進するため、認定特定非営利活動法人等その他の特定非営利活動法人の事業報告書その他の活動の状況に関するデータベースの整備を図り、国民にインターネットその他の高度情報通信ネットワークの利用を通じて迅速に情報を提供できるよう必要な措置を講ずるものとする。
+        </article_item>
+        <article_item number="２">
+          所轄庁及び特定非営利活動法人は、特定非営利活動法人の事業報告書その他の活動の状況に関する情報を前項の規定により内閣総理大臣が整備するデータベースに記録することにより、当該情報の積極的な公表に努めるものとする。
         </article_item>
       </articles>
       <articles number="第七十三条" title="（協力依頼）">

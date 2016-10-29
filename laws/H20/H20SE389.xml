@@ -3,7 +3,7 @@
   <head>
     <title>職員の退職管理に関する政令</title>
     <defined>平成二十年十二月二十五日政令第三百八十九号</defined>
-    <updated>平成二八年三月三一日政令第一二六号</updated>
+    <updated>平成二八年九月三〇日政令第三一九号</updated>
   </head>
   <body>
     <preamble>
@@ -271,6 +271,9 @@
           </go_item>
           <go_item number="八十四">
             株式会社海外通信・放送・郵便事業支援機構
+          </go_item>
+          <go_item number="八十五">
+            使用済燃料再処理機構
           </go_item>
         </go>
       </article_item>
