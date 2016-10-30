@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>行政不服審査会事務局組織規則</title>
+    <defined>平成二十八年四月一日総務省令第四十五号</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        行政不服審査法施行令（平成二十七年政令第三百九十一号）第二十四条第三項の規定に基づき、行政不服審査会事務局組織規則を次のように定める。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（事務局に置く課等）">
+      <article_item number="第一条">
+        行政不服審査会事務局に、総務課及び審査官一人を置く。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（総務課の所掌事務）">
+      <article_item number="第二条">
+        総務課は、次に掲げる事務をつかさどる。
+        <go>
+          <go_item number="一">
+            会長の官印及び行政不服審査会印の保管に関すること。
+          </go_item>
+          <go_item number="二">
+            局務の総合調整に関すること。
+          </go_item>
+          <go_item number="三">
+            行政不服審査会の人事に関すること。
+          </go_item>
+          <go_item number="四">
+            行政不服審査会の所掌に係る会計及び会計の監査に関すること。
+          </go_item>
+          <go_item number="五">
+            行政不服審査会所属の物品の管理に関すること。
+          </go_item>
+          <go_item number="六">
+            公文書類の接受、発送、編集及び保存に関すること。
+          </go_item>
+          <go_item number="七">
+            行政不服審査会の保有する情報の公開に関すること。
+          </go_item>
+          <go_item number="八">
+            行政不服審査会の保有する個人情報の保護に関すること。
+          </go_item>
+          <go_item number="九">
+            広報に関すること。
+          </go_item>
+          <go_item number="十">
+            審査請求に係る事件についての調査審議に関すること（審査官の所掌に属するものを除く。）。
+          </go_item>
+          <go_item number="十一">
+            前各号に掲げるもののほか、局務で審査官の所掌に属しないものに関すること。
+          </go_item>
+        </go>
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（審査官の職務）">
+      <article_item number="第三条">
+        審査官は、命を受けて、審査請求に係る事件についての調査審議に関する事務を分掌する。
+      </article_item>
+    </articles>
+  </body>
+</law>

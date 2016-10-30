@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>迎賓館の施設に係る参観料の徴収に関する内閣府令</title>
+    <defined>平成二十八年四月十九日内閣府令第三十八号</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        迎賓館の施設に係る参観料の徴収に関する内閣府令を次のように定める。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（趣旨）">
+      <article_item number="第一条">
+        迎賓館の施設に係る参観料の徴収に関しては、この府令の定めるところによる。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（参観料の徴収）">
+      <article_item number="第二条">
+        迎賓館の施設のうち内閣総理大臣が別に定めるものを参観しようとする者は、参観料を国に納めるものとする。
+      </article_item>
+      <article_item number="２">
+        前項の参観料の額は、内閣総理大臣が別に定めるものとする。
+      </article_item>
+    </articles>
+  </body>
+</law>

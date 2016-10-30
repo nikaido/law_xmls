@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>平成二十八年熊本地震による災害についての総合法律支援法第三十条第一項第四号の規定による指定等に関する政令</title>
+    <defined>平成二十八年七月一日政令第二百五十三号</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、総合法律支援法（平成十六年法律第七十四号）第三十条第一項第四号の規定に基づき、この政令を制定する。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（法第三十条第一項第四号に規定する非常災害の指定）">
+      <article_item number="第一条">
+        総合法律支援法（次条において「法」という。）第三十条第一項第四号に規定する非常災害として、平成二十八年熊本地震による災害を指定する。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（法第三十条第一項第四号の政令で定める地区及び期間）">
+      <article_item number="第二条">
+        前条の非常災害についての法第三十条第一項第四号の政令で定める地区は、熊本県の区域とする。
+      </article_item>
+      <article_item number="２">
+        前条の非常災害についての法第三十条第一項第四号の政令で定める期間は、この政令の施行の日から平成二十九年四月十三日までとする。
+      </article_item>
+    </articles>
+  </body>
+</law>

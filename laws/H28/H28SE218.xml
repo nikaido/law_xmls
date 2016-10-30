@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>平成二十八年熊本地震による災害についての非常災害の指定に関する政令</title>
+    <defined>平成二十八年五月十三日政令第二百十八号</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、大規模災害からの復興に関する法律（平成二十五年法律第五十五号）第二条第九号の規定に基づき、この政令を制定する。
+      </p>
+    </preamble>
+    <articles>
+      <article_item>
+        大規模災害からの復興に関する法律第二条第九号の非常災害として、平成二十八年熊本地震による災害を指定する。
+      </article_item>
+    </articles>
+  </body>
+</law>

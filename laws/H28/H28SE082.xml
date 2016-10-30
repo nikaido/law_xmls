@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>医療法の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令　抄</title>
+    <defined>平成二十八年三月二十五日政令第八十二号</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、医療法の一部を改正する法律（平成二十七年法律第七十四号）の一部の施行に伴い、並びに同法附則第十条及び関係法律の規定に基づき、並びに医療法（昭和二十三年法律第二百五号）を実施するため、この政令を制定する。
+      </p>
+    </preamble>
+    <section title="第一章　関係政令の整備" type="Sho">
+      <articles number="第一条" title="（医療法施行令の一部改正）">
+        <article_item number="第一条">
+          略
+        </article_item>
+      </articles>
+      <articles number="第二条" title="（組合等登記令の一部改正）">
+        <article_item number="第二条">
+          略
+        </article_item>
+      </articles>
+      <articles number="第三条" title="（国家戦略特別区域法施行令の一部改正）">
+        <article_item number="第三条">
+          略
+        </article_item>
+      </articles>
+    </section>
+    <section title="第二章　経過措置" type="Sho">
+      <articles number="第四条">
+        <article_item number="第四条">
+          医療法の一部を改正する法律（以下「改正法」という。）第一条の規定による改正後の医療法（以下「第二号新法」という。）第四十六条の四第二項（第三号及び第四号の規定に限る。）の規定は、改正法附則第一条第二号に掲げる規定の施行の日（以下「第二号施行日」という。）以後にした行為により同項第三号及び第四号の規定に規定する刑に処せられた者について適用する。
+        </article_item>
+        <article_item number="２">
+          改正法附則第一条第二号に掲げる規定の施行の際現に財団たる医療法人の評議員である者に対する第二号施行日から起算して二年を経過する日までの間における第二号新法第四十六条の四第三項の規定の適用については、同項中「役員又は職員」とあるのは、「役員」とする。
+        </article_item>
+      </articles>
+    </section>
+  </body>
+</law>

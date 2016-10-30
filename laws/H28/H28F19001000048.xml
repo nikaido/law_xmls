@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>自殺対策基本法第十四条に規定する交付金に関する省令</title>
+    <defined>平成二十八年三月三十日厚生労働省令第四十八号</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        自殺対策基本法（平成十八年法律第八十五号）第十四条の規定に基づき、自殺対策基本法第十四条に規定する交付金に関する省令を次のように定める。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（交付金の交付）">
+      <article_item number="第一条">
+        自殺対策基本法（平成十八年法律第八十五号）第十四条に規定する交付金（以下「交付金」という。）は、地方公共団体が実施する地域の状況に応じた自殺対策のために必要な事業、その総合的かつ効果的な取組等のうち、厚生労働大臣が適当と認めるものの実施に要する経費に充てるために交付するものとする。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（委任規定）">
+      <article_item number="第二条">
+        前条に定めるもののほか、交付金の額を算出するために必要な事項、交付金の交付の手続、交付金の経理その他の必要な事項については、厚生労働大臣の定めるところによる。
+      </article_item>
+    </articles>
+  </body>
+</law>

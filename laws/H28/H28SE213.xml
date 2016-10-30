@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>平成二十八年熊本地震による災害についての特定非常災害及びこれに対し適用すべき措置の指定に関する政令</title>
+    <defined>平成二十八年五月二日政令第二百十三号</defined>
+    <updated>平成二八年六月二四日政令第二四二号</updated>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、特定非常災害の被害者の権利利益の保全等を図るための特別措置に関する法律（平成八年法律第八十五号）第二条第一項及び第二項前段、第三条第一項、第四条第一項、第五条第一項並びに第六条の規定に基づき、この政令を制定する。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（特定非常災害の指定）">
+      <article_item number="第一条">
+        特定非常災害の被害者の権利利益の保全等を図るための特別措置に関する法律（以下「法」という。）第二条第一項の特定非常災害として平成二十八年熊本地震による災害を指定し、同年四月十四日を同項の特定非常災害発生日として定める。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（特定非常災害に対し適用すべき措置の指定）">
+      <article_item number="第二条">
+        前条の特定非常災害に対し適用すべき措置として法第三条から第七条までに規定する措置を指定する。
+      </article_item>
+    </articles>
+    <articles number="第三条" title="（延長期日）">
+      <article_item number="第三条">
+        第一条の特定非常災害についての法第三条第一項の政令で定める日は、平成二十八年九月三十日とする。
+      </article_item>
+    </articles>
+    <articles number="第四条" title="（免責期限）">
+      <article_item number="第四条">
+        第一条の特定非常災害についての法第四条第一項の政令で定める特定義務の不履行についての免責に係る期限は、平成二十八年七月二十九日とする。
+      </article_item>
+    </articles>
+    <articles number="第五条" title="（法人の破産手続開始の決定の特例に関する措置に係る期日）">
+      <article_item number="第五条">
+        第一条の特定非常災害についての法第五条第一項の政令で定める日は、平成三十年四月十三日とする。
+      </article_item>
+    </articles>
+    <articles number="第六条" title="（相続の承認又は放棄をすべき期間の特例に関する措置に係る地区及び期日）">
+      <article_item number="第六条">
+        第一条の特定非常災害についての法第六条の政令で定める地区は、熊本県の区域とする。
+      </article_item>
+      <article_item number="２">
+        第一条の特定非常災害についての法第六条の政令で定める日は、平成二十八年十二月二十八日とする。
+      </article_item>
+    </articles>
+    <articles number="第七条" title="（調停の申立ての手数料の特例に関する措置に係る地区及び期日）">
+      <article_item number="第七条">
+        第一条の特定非常災害についての法第七条の政令で定める地区は、熊本県の区域とする。
+      </article_item>
+      <article_item number="２">
+        第一条の特定非常災害についての法第七条の政令で定める日は、平成三十一年三月三十一日とする。
+      </article_item>
+    </articles>
+  </body>
+</law>
