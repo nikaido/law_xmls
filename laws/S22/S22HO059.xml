@@ -7,12 +7,12 @@
   </head>
   <body>
     <section title="第一編　総則" type="Hen">
-      <articles number="第一条" title="この法律の趣旨">
+      <articles number="第一条" title="（この法律の趣旨）">
         <article_item number="第一条">
           日本国憲法に定める最高裁判所及び下級裁判所については、この法律の定めるところによる。
         </article_item>
       </articles>
-      <articles number="第二条" title="下級裁判所">
+      <articles number="第二条" title="（下級裁判所）">
         <article_item number="第二条">
           下級裁判所は、高等裁判所、地方裁判所、家庭裁判所及び簡易裁判所とする。
         </article_item>
@@ -20,7 +20,7 @@
           下級裁判所の設立、廃止及び管轄区域は、別に法律でこれを定める。
         </article_item>
       </articles>
-      <articles number="第三条" title="裁判所の権限">
+      <articles number="第三条" title="（裁判所の権限）">
         <article_item number="第三条">
           裁判所は、日本国憲法に特別の定のある場合を除いて一切の法律上の争訟を裁判し、その他法律において特に定める権限を有する。
         </article_item>
@@ -31,12 +31,12 @@
           この法律の規定は、刑事について、別に法律で陪審の制度を設けることを妨げない。
         </article_item>
       </articles>
-      <articles number="第四条" title="上級審の裁判の拘束力">
+      <articles number="第四条" title="（上級審の裁判の拘束力）">
         <article_item number="第四条">
           上級審の裁判所の裁判における判断は、その事件について下級審の裁判所を拘束する。
         </article_item>
       </articles>
-      <articles number="第五条" title="裁判官">
+      <articles number="第五条" title="（裁判官）">
         <article_item number="第五条">
           最高裁判所の裁判官は、その長たる裁判官を最高裁判所長官とし、その他の裁判官を最高裁判所判事とする。
         </article_item>
@@ -49,12 +49,12 @@
       </articles>
     </section>
     <section title="第二編　最高裁判所" type="Hen">
-      <articles number="第六条" title="所在地">
+      <articles number="第六条" title="（所在地）">
         <article_item number="第六条">
           最高裁判所は、これを東京都に置く。
         </article_item>
       </articles>
-      <articles number="第七条" title="裁判権">
+      <articles number="第七条" title="（裁判権）">
         <article_item number="第七条">
           最高裁判所は、左の事項について裁判権を有する。
           <go>
@@ -67,12 +67,12 @@
           </go>
         </article_item>
       </articles>
-      <articles number="第八条" title="その他の権限">
+      <articles number="第八条" title="（その他の権限）">
         <article_item number="第八条">
           最高裁判所は、この法律に定めるものの外、他の法律において特に定める権限を有する。
         </article_item>
       </articles>
-      <articles number="第九条" title="大法廷・小法廷">
+      <articles number="第九条" title="（大法廷・小法廷）">
         <article_item number="第九条">
           最高裁判所は、大法廷又は小法廷で審理及び裁判をする。
         </article_item>
@@ -86,7 +86,7 @@
           各合議体では、最高裁判所の定める員数の裁判官が出席すれば、審理及び裁判をすることができる。
         </article_item>
       </articles>
-      <articles number="第十条" title="大法廷及び小法廷の審判">
+      <articles number="第十条" title="（大法廷及び小法廷の審判）">
         <article_item number="第十条">
           事件を大法廷又は小法廷のいずれで取り扱うかについては、最高裁判所の定めるところによる。但し、左の場合においては、小法廷では裁判をすることができない。
           <go>
@@ -102,12 +102,12 @@
           </go>
         </article_item>
       </articles>
-      <articles number="第十一条" title="大法廷及び小法廷の審判">
+      <articles number="第十一条" title="（大法廷及び小法廷の審判）">
         <article_item number="第十一条">
           裁判書には、各裁判官の意見を表示しなければならない。
         </article_item>
       </articles>
-      <articles number="第十二条" title="大法廷及び小法廷の審判">
+      <articles number="第十二条" title="（大法廷及び小法廷の審判）">
         <article_item number="第十二条">
           最高裁判所が司法行政事務を行うのは、裁判官会議の議によるものとし、最高裁判所長官が、これを総括する。
         </article_item>
@@ -115,22 +115,22 @@
           裁判官会議は、全員の裁判官でこれを組織し、最高裁判所長官が、その議長となる。
         </article_item>
       </articles>
-      <articles number="第十三条" title="大法廷及び小法廷の審判">
+      <articles number="第十三条" title="（大法廷及び小法廷の審判）">
         <article_item number="第十三条">
           最高裁判所の庶務を掌らせるため、最高裁判所に事務総局を置く。
         </article_item>
       </articles>
-      <articles number="第十四条" title="大法廷及び小法廷の審判">
+      <articles number="第十四条" title="（大法廷及び小法廷の審判）">
         <article_item number="第十四条">
           裁判官の研究及び修養並びに司法修習生の修習に関する事務を取り扱わせるため、最高裁判所に司法研修所を置く。
         </article_item>
       </articles>
-      <articles number="第十四条の二" title="大法廷及び小法廷の審判">
+      <articles number="第十四条の二" title="（大法廷及び小法廷の審判）">
         <article_item number="第十四条の二">
           裁判所書記官、家庭裁判所調査官その他の裁判官以外の裁判所の職員の研究及び修養に関する事務を取り扱わせるため、最高裁判所に裁判所職員総合研修所を置く。
         </article_item>
       </articles>
-      <articles number="第十四条の三" title="大法廷及び小法廷の審判">
+      <articles number="第十四条の三" title="（大法廷及び小法廷の審判）">
         <article_item number="第十四条の三">
           最高裁判所に国立国会図書館の支部図書館として、最高裁判所図書館を置く。
         </article_item>

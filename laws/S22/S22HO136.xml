@@ -7,12 +7,12 @@
   </head>
   <body>
     <section title="第一章　総則" type="Sho">
-      <articles number="第一条" title="この法律の趣旨">
+      <articles number="第一条" title="（この法律の趣旨）">
         <article_item number="第一条">
           最高裁判所の裁判官の任命に関する国民の審査については、この法律の定めるところによる。
         </article_item>
       </articles>
-      <articles number="第二条" title="審査の期日">
+      <articles number="第二条" title="（審査の期日）">
         <article_item number="第二条">
           審査は、各裁判官につき、その任命後初めて行われる衆議院議員総選挙の期日に、これを行う。
         </article_item>
@@ -20,22 +20,22 @@
           各裁判官については、最初の審査の期日から十年を経過した後初めて行われる衆議院議員総選挙の期日に、更に審査を行い、その後も、また同様とする。
         </article_item>
       </articles>
-      <articles number="第三条" title="審査を行う区域">
+      <articles number="第三条" title="（審査を行う区域）">
         <article_item number="第三条">
           審査は、全都道府県の区域を通じて、これを行う。
         </article_item>
       </articles>
-      <articles number="第四条" title="審査権">
+      <articles number="第四条" title="（審査権）">
         <article_item number="第四条">
           衆議院議員の選挙権を有する者は、審査権を有する。
         </article_item>
       </articles>
-      <articles number="第五条" title="審査の期日及び裁判官の氏名の告示">
+      <articles number="第五条" title="（審査の期日及び裁判官の氏名の告示）">
         <article_item number="第五条">
           中央選挙管理会は、審査の期日前十二日までに、審査の期日及び審査に付される裁判官の氏名を官報で告示しなければならない。
         </article_item>
       </articles>
-      <articles number="第六条" title="審査の方法">
+      <articles number="第六条" title="（審査の方法）">
         <article_item number="第六条">
           審査は、投票によりこれを行う。
         </article_item>
@@ -43,22 +43,22 @@
           投票は、一人一票に限る。
         </article_item>
       </articles>
-      <articles number="第七条" title="投票区及び開票区">
+      <articles number="第七条" title="（投票区及び開票区）">
         <article_item number="第七条">
           審査の投票区及び開票区は、衆議院小選挙区選出議員の選挙の投票区及び開票区による。
         </article_item>
       </articles>
-      <articles number="第八条" title="審査人の名簿">
+      <articles number="第八条" title="（審査人の名簿）">
         <article_item number="第八条">
           審査には、公職選挙法（昭和二十五年法律第百号）に規定する選挙人名簿で衆議院議員総選挙について用いられるものを用いる。
         </article_item>
       </articles>
-      <articles number="第九条" title="審査に関する事務の管理">
+      <articles number="第九条" title="（審査に関する事務の管理）">
         <article_item number="第九条">
           審査に関する事務は、中央選挙管理会が管理する。
         </article_item>
       </articles>
-      <articles number="第十条" title="技術的な助言及び勧告並びに資料の提出の要求">
+      <articles number="第十条" title="（技術的な助言及び勧告並びに資料の提出の要求）">
         <article_item number="第十条">
           中央選挙管理会は、審査に関する事務について、都道府県又は市町村に対し、都道府県又は市町村の事務の運営その他の事項について適切と認める技術的な助言若しくは勧告をし、又は当該助言若しくは勧告をするため若しくは都道府県又は市町村の事務の適正な処理に関する情報を提供するため必要な資料の提出を求めることができる。
         </article_item>
@@ -69,7 +69,7 @@
           都道府県又は市町村の選挙管理委員会は、中央選挙管理会に対し、審査に関する事務の管理及び執行について技術的な助言若しくは勧告又は必要な情報の提供を求めることができる。
         </article_item>
       </articles>
-      <articles number="第十条の二" title="技術的な助言及び勧告並びに資料の提出の要求">
+      <articles number="第十条の二" title="（技術的な助言及び勧告並びに資料の提出の要求）">
         <article_item number="第十条の二">
           中央選挙管理会は、この法律又はこの法律に基づく政令に係る都道府県の地方自治法第二条第九項第一号に規定する第一号法定受託事務（以下この条及び次条において「第一号法定受託事務」という。）の処理が法令の規定に違反していると認めるとき、又は著しく適正を欠き、かつ、明らかに公益を害していると認めるときは、当該都道府県に対し、当該第一号法定受託事務の処理について違反の是正又は改善のため講ずべき措置に関し、必要な指示をすることができる。
         </article_item>
@@ -80,7 +80,7 @@
           中央選挙管理会は、前項の規定によるほか、この法律又はこの法律に基づく政令に係る市町村の第一号法定受託事務の処理が法令の規定に違反していると認める場合、又は著しく適正を欠き、かつ、明らかに公益を害していると認める場合において、緊急を要するときその他特に必要があると認めるときは、自ら当該市町村に対し、当該第一号法定受託事務の処理について違反の是正又は改善のため講ずべき措置に関し、必要な指示をすることができる。
         </article_item>
       </articles>
-      <articles number="第十条の三" title="技術的な助言及び勧告並びに資料の提出の要求">
+      <articles number="第十条の三" title="（技術的な助言及び勧告並びに資料の提出の要求）">
         <article_item number="第十条の三">
           中央選挙管理会は、この法律又はこの法律に基づく政令に係る都道府県の第一号法定受託事務の処理について、都道府県が当該第一号法定受託事務を処理するに当たりよるべき基準を定めることができる。
         </article_item>
@@ -97,7 +97,7 @@
           第一項又は第三項の規定により定める基準は、その目的を達成するために必要な最小限度のものでなければならない。
         </article_item>
       </articles>
-      <articles number="第十一条" title="技術的な助言及び勧告並びに資料の提出の要求">
+      <articles number="第十一条" title="（技術的な助言及び勧告並びに資料の提出の要求）">
         <article_item number="第十一条">
           審査に付される裁判官が、審査の期日前その官を失い、又は死亡したときは、その裁判官についての審査は、これを行わない。 
         </article_item>

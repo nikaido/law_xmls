@@ -7,12 +7,12 @@
   </head>
   <body>
     <section title="第一章　総則" type="Sho">
-      <articles number="第一条" title="この法律の趣旨">
+      <articles number="第一条" title="（この法律の趣旨）">
         <article_item number="第一条">
           裁判官の弾劾については、国会法に定めるものの外、この法律の定めるところによる。
         </article_item>
       </articles>
-      <articles number="第二条" title="弾劾による罷免の事由">
+      <articles number="第二条" title="（弾劾による罷免の事由）">
         <article_item number="第二条">
           弾劾により裁判官を罷免するのは、左の場合とする。
           <go>
@@ -25,17 +25,17 @@
           </go>
         </article_item>
       </articles>
-      <articles number="第三条" title="裁判官弾劾裁判所及び裁判官訴追委員会の所在地">
+      <articles number="第三条" title="（裁判官弾劾裁判所及び裁判官訴追委員会の所在地）">
         <article_item number="第三条">
           裁判官弾劾裁判所（以下弾劾裁判所という。）及び裁判官訴追委員会（以下訴追委員会という。）は、これを東京都に置く。
         </article_item>
       </articles>
-      <articles number="第四条" title="弾劾裁判所及び訴追委員会の職権行使">
+      <articles number="第四条" title="（弾劾裁判所及び訴追委員会の職権行使）">
         <article_item number="第四条">
           弾劾裁判所及び訴追委員会は、国会の閉会中でも職権を行うことができる。
         </article_item>
       </articles>
-      <articles number="第四条の二" title="弾劾裁判所及び訴追委員会の職権行使">
+      <articles number="第四条の二" title="（弾劾裁判所及び訴追委員会の職権行使）">
         <article_item number="第四条の二">
           弾劾裁判所又は訴追委員会の予算は、裁判長又は委員長がこれを調成し、両議院の議院運営委員会に提出する。
         </article_item>
@@ -45,7 +45,7 @@
       </articles>
     </section>
     <section title="第二章　訴追" type="Sho">
-      <articles number="第五条" title="裁判官訴追委員・予備員">
+      <articles number="第五条" title="（裁判官訴追委員・予備員）">
         <article_item number="第五条">
           裁判官訴追委員（以下訴追委員という。）の員数は、衆議院議員及び参議院議員各十人とし、その予備員の員数は、衆議院議員及び参議院議員各五人とする。
         </article_item>
@@ -77,7 +77,7 @@
           委員長は、国会の開会中その職務を行う場合においては、両議院の議長の協議して定めるところにより、職務雑費を受ける。国会議員の歳費、旅費及び手当等に関する法律（昭和二十二年法律第八十号）第九条第二項の規定は、この場合について準用する。
         </article_item>
       </articles>
-      <articles number="第六条" title="委員長の職務">
+      <articles number="第六条" title="（委員長の職務）">
         <article_item number="第六条">
           訴追委員会の委員長は、会務を統理し、訴追委員会を代表する。
         </article_item>
@@ -85,7 +85,7 @@
           委員長に事故のあるときは、予め訴追委員会の定める順序により、他の訴追委員が、臨時に委員長の職務を行う。
         </article_item>
       </articles>
-      <articles number="第七条" title="事務局">
+      <articles number="第七条" title="（事務局）">
         <article_item number="第七条">
           訴追委員会に事務局を置く。
         </article_item>
@@ -111,12 +111,12 @@
           委員長は、必要に応じ、課を置き、事務の分掌を定めることができる。
         </article_item>
       </articles>
-      <articles number="第八条" title="職権の独立">
+      <articles number="第八条" title="（職権の独立）">
         <article_item number="第八条">
           訴追委員は、独立してその職権を行う。
         </article_item>
       </articles>
-      <articles number="第九条" title="招集">
+      <articles number="第九条" title="（招集）">
         <article_item number="第九条">
           訴追委員会は、委員長がこれを招集する。
         </article_item>
@@ -124,7 +124,7 @@
           五人以上の訴追委員の要求があるときは、委員長は、訴追委員会を招集しなければならない。
         </article_item>
       </articles>
-      <articles number="第十条" title="議事">
+      <articles number="第十条" title="（議事）">
         <article_item number="第十条">
           訴追委員会は、衆議院議員たる訴追委員及び参議院議員たる訴追委員がそれぞれ七人以上出席しなければ、議事を開き議決することができない。
         </article_item>
@@ -135,7 +135,7 @@
           訴追委員会の議事は、これを公開しない。
         </article_item>
       </articles>
-      <articles number="第十一条" title="議事">
+      <articles number="第十一条" title="（議事）">
         <article_item number="第十一条">
           訴追委員会は裁判官について、訴追の請求があつたとき又は弾劾による罷免の事由があると思料するときは、その事由を調査しなければならない。
         </article_item>
@@ -149,7 +149,7 @@
           前項の要求により出頭した証人には、弾劾裁判所に証人が出頭した場合の例により、旅費、日当及び止宿料を支給する。
         </article_item>
       </articles>
-      <articles number="第十一条の二" title="議事">
+      <articles number="第十一条の二" title="（議事）">
         <article_item number="第十一条の二">
           訴追委員会は、調査のため訴追委員を派遣することができる。
         </article_item>
@@ -160,17 +160,17 @@
           前二項の規定により訴追委員が派遣されたときは、両議院の議長の協議して定めるところにより、派遣旅費を受ける。
         </article_item>
       </articles>
-      <articles number="第十二条" title="議事">
+      <articles number="第十二条" title="（議事）">
         <article_item number="第十二条">
           罷免の訴追は、弾劾による罷免の事由があつた後三年を経過したときは、これをすることができない。但し、その期間内に、衆議院議員の任期が満了し、又は衆議院が解散されたときは、その後初めて召集される国会において衆議院議員たる訴追委員が選挙されて後一箇月を経過するまで、又、同一の事由について刑事訴追があつたときは、事件の判決が確定した後一年を経過するまで罷免の訴追をすることができる。
         </article_item>
       </articles>
-      <articles number="第十三条" title="議事">
+      <articles number="第十三条" title="（議事）">
         <article_item number="第十三条">
           訴追委員会は、情状により訴追の必要がないと認めるときは、罷免の訴追を猶予することができる。
         </article_item>
       </articles>
-      <articles number="第十四条" title="議事">
+      <articles number="第十四条" title="（議事）">
         <article_item number="第十四条">
           罷免の訴追は、弾劾裁判所に訴追状を提出してこれをするものとする。
         </article_item>
@@ -181,7 +181,7 @@
           訴追委員会は、弾劾裁判所に訴追状を提出したときは、直ちにその旨を最高裁判所に通知しなければならない。
         </article_item>
       </articles>
-      <articles number="第十五条" title="議事">
+      <articles number="第十五条" title="（議事）">
         <article_item number="第十五条">
           何人も、裁判官について弾劾による罷免の事由があると思料するときは、訴追委員会に対し、罷免の訴追をすべきことを求めることができる。
         </article_item>
