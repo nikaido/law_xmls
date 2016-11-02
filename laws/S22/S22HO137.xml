@@ -35,7 +35,7 @@
           弾劾裁判所及び訴追委員会は、国会の閉会中でも職権を行うことができる。
         </article_item>
       </articles>
-      <articles number="第四条の二" title="（弾劾裁判所及び訴追委員会の職権行使）">
+      <articles number="第四条の二" title="（予算）">
         <article_item number="第四条の二">
           弾劾裁判所又は訴追委員会の予算は、裁判長又は委員長がこれを調成し、両議院の議院運営委員会に提出する。
         </article_item>
@@ -135,7 +135,7 @@
           訴追委員会の議事は、これを公開しない。
         </article_item>
       </articles>
-      <articles number="第十一条" title="（議事）">
+      <articles number="第十一条" title="（調査）">
         <article_item number="第十一条">
           訴追委員会は裁判官について、訴追の請求があつたとき又は弾劾による罷免の事由があると思料するときは、その事由を調査しなければならない。
         </article_item>
@@ -149,7 +149,7 @@
           前項の要求により出頭した証人には、弾劾裁判所に証人が出頭した場合の例により、旅費、日当及び止宿料を支給する。
         </article_item>
       </articles>
-      <articles number="第十一条の二" title="（議事）">
+      <articles number="第十一条の二" title="（訴追委員の派遣）">
         <article_item number="第十一条の二">
           訴追委員会は、調査のため訴追委員を派遣することができる。
         </article_item>
@@ -160,17 +160,17 @@
           前二項の規定により訴追委員が派遣されたときは、両議院の議長の協議して定めるところにより、派遣旅費を受ける。
         </article_item>
       </articles>
-      <articles number="第十二条" title="（議事）">
+      <articles number="第十二条" title="（訴追期間）">
         <article_item number="第十二条">
           罷免の訴追は、弾劾による罷免の事由があつた後三年を経過したときは、これをすることができない。但し、その期間内に、衆議院議員の任期が満了し、又は衆議院が解散されたときは、その後初めて召集される国会において衆議院議員たる訴追委員が選挙されて後一箇月を経過するまで、又、同一の事由について刑事訴追があつたときは、事件の判決が確定した後一年を経過するまで罷免の訴追をすることができる。
         </article_item>
       </articles>
-      <articles number="第十三条" title="（議事）">
+      <articles number="第十三条" title="（訴追の猶予）">
         <article_item number="第十三条">
           訴追委員会は、情状により訴追の必要がないと認めるときは、罷免の訴追を猶予することができる。
         </article_item>
       </articles>
-      <articles number="第十四条" title="（議事）">
+      <articles number="第十四条" title="（訴追状の提出）">
         <article_item number="第十四条">
           罷免の訴追は、弾劾裁判所に訴追状を提出してこれをするものとする。
         </article_item>
@@ -181,7 +181,7 @@
           訴追委員会は、弾劾裁判所に訴追状を提出したときは、直ちにその旨を最高裁判所に通知しなければならない。
         </article_item>
       </articles>
-      <articles number="第十五条" title="（議事）">
+      <articles number="第十五条" title="（訴追の請求）">
         <article_item number="第十五条">
           何人も、裁判官について弾劾による罷免の事由があると思料するときは、訴追委員会に対し、罷免の訴追をすべきことを求めることができる。
         </article_item>
@@ -197,7 +197,7 @@
       </articles>
     </section>
     <section title="第三章　裁判" type="Sho">
-      <articles number="第十六条">
+      <articles number="第十六条" title="（裁判員・予備員）">
         <article_item number="第十六条">
           裁判員の員数は、衆議院議員及び参議院議員各七人とし、その予備員の員数は、衆議院議員及び参議院議員各四人とする。
         </article_item>
@@ -226,7 +226,7 @@
           裁判長は、国会開会中その職務を行う場合においては、両議院の議長の協議して定めるところにより、職務雑費を受ける。第五条第十項後段の規定は、この場合について準用する。
         </article_item>
       </articles>
-      <articles number="第十七条">
+      <articles number="第十七条" title="（裁判長の職務）">
         <article_item number="第十七条">
           弾劾裁判所の裁判長は、口頭弁論を指揮し、法廷における秩序を維持し、裁判の評議を整理する外、弾劾裁判所の事務を統理し、弾劾裁判所を代表する。
         </article_item>
@@ -234,7 +234,7 @@
           裁判長に事故のあるときは、予め弾劾裁判所の定める順序により、他の裁判員が、臨時に裁判長の職務を行う。
         </article_item>
       </articles>
-      <articles number="第十八条">
+      <articles number="第十八条" title="（事務局）">
         <article_item number="第十八条">
           弾劾裁判所に事務局を置く。
         </article_item>
@@ -263,22 +263,22 @@
           裁判長は、必要に応じ、課を置き、事務の分掌を定めることができる。
         </article_item>
       </articles>
-      <articles number="第十九条">
+      <articles number="第十九条" title="（職権の独立）">
         <article_item number="第十九条">
           裁判員は、独立してその職権を行う。
         </article_item>
       </articles>
-      <articles number="第二十条">
+      <articles number="第二十条" title="（合議制）">
         <article_item number="第二十条">
           弾劾裁判所は、衆議院議員たる裁判員及び参議院議員たる裁判員がそれぞれ五人以上出席しなければ、審理及び裁判をすることができない。但し、法廷ですべき審理及び裁判を除いて、その他の事項につき弾劾裁判所が特定の定をした場合は、この限りでない。
         </article_item>
       </articles>
-      <articles number="第二十一条">
+      <articles number="第二十一条" title="（訴追状の送達）">
         <article_item number="第二十一条">
           弾劾裁判所は、罷免の訴追があつたときは、直ちに訴追状の謄本を罷免の訴追を受けた裁判官に送達しなければならない。
         </article_item>
       </articles>
-      <articles number="第二十二条">
+      <articles number="第二十二条" title="（弁護人の選任）">
         <article_item number="第二十二条">
           罷免の訴追を受けた裁判官は、何時でも弁護人を選任することができる。
         </article_item>
@@ -286,7 +286,7 @@
           弁護人については、刑事訴訟に関する法令の規定を準用する。
         </article_item>
       </articles>
-      <articles number="第二十三条">
+      <articles number="第二十三条" title="（口頭弁論）">
         <article_item number="第二十三条">
           罷免の裁判は、口頭弁論に基いてこれをしなければならない。
         </article_item>
@@ -294,12 +294,12 @@
           罷免の訴追を受けた裁判官が口頭弁論の期日に出頭しないときは、更に期日を定めなければならない。その裁判官が正当な理由がなくその期日に出頭しないときは、前項の規定にかかわらず、その陳述を聴かないで審理及び裁判をすることができる。
         </article_item>
       </articles>
-      <articles number="第二十四条">
+      <articles number="第二十四条" title="（訴追委員の立会）">
         <article_item number="第二十四条">
           訴追委員会の委員長又はその指定する訴追委員は、法廷における審理及び裁判の宣告に立ち合う。
         </article_item>
       </articles>
-      <articles number="第二十五条">
+      <articles number="第二十五条" title="（開廷の場所）">
         <article_item number="第二十五条">
           法廷は、弾劾裁判所でこれを開く。
         </article_item>
@@ -307,17 +307,17 @@
           弾劾裁判所は、必要と認めるときは、前項の規定にかかわらず、他の場所で法廷を開くことができる。
         </article_item>
       </articles>
-      <articles number="第二十六条">
+      <articles number="第二十六条" title="（審判の公開）">
         <article_item number="第二十六条">
           弾劾裁判所の対審及び裁判の宣告は、公開の法廷でこれを行う。
         </article_item>
       </articles>
-      <articles number="第二十七条">
+      <articles number="第二十七条" title="（法廷の秩序維持）">
         <article_item number="第二十七条">
           裁判長は、法廷における弾劾裁判所の職務の執行を妨げ、又は不当な行状をする者に対し、退廷を命じその他法廷における秩序を維持するのに必要な事項を命じ、又は処置を執ることができる。
         </article_item>
       </articles>
-      <articles number="第二十八条">
+      <articles number="第二十八条" title="（訊問）">
         <article_item number="第二十八条">
           弾劾裁判所は、罷免の訴追を受けた裁判官を召喚し、これを訊問することができる。
         </article_item>
@@ -325,7 +325,7 @@
           前項の場合には、刑事訴訟に関する法令の規定を準用する。但し、勾引することはできない。
         </article_item>
       </articles>
-      <articles number="第二十九条">
+      <articles number="第二十九条" title="（証拠）">
         <article_item number="第二十九条">
           弾劾裁判所は、申立により又は職権で、必要な証拠を取り調べ、又は地方裁判所にその取調を嘱託することができる。
         </article_item>
@@ -347,7 +347,7 @@
           </go>
         </article_item>
       </articles>
-      <articles number="第二十九条の二">
+      <articles number="第二十九条の二" title="（裁判員の派遣）">
         <article_item number="第二十九条の二">
           弾劾裁判所は、審理又は裁判のため、裁判員を派遣することができる。
         </article_item>
@@ -358,12 +358,12 @@
           前二項の規定により裁判員が派遣されたときは、両議院の議長の協議して定めるところにより、派遣旅費を受ける。
         </article_item>
       </articles>
-      <articles number="第三十条">
+      <articles number="第三十条" title="（刑事訴訟に関する法令の準用）">
         <article_item number="第三十条">
           裁判員及び参事の除斥、忌避及び回避、法廷における審理、調書の作成並びに手続の費用については、刑事訴訟に関する法令の規定を準用する。
         </article_item>
       </articles>
-      <articles number="第三十一条">
+      <articles number="第三十一条" title="（裁判の評議）">
         <article_item number="第三十一条">
           裁判の評議は、これを公行しない。
         </article_item>
@@ -371,12 +371,12 @@
           裁判は、審理に関与した裁判員の過半数の意見による。但し、罷免の裁判をするには、審理に関与した裁判員の三分の二以上の多数の意見による。
         </article_item>
       </articles>
-      <articles number="第三十二条">
+      <articles number="第三十二条" title="（一事不再理）">
         <article_item number="第三十二条">
           弾劾裁判所は、既に裁判を経た事由については、罷免の裁判をすることができない。
         </article_item>
       </articles>
-      <articles number="第三十三条">
+      <articles number="第三十三条" title="（裁判の理由）">
         <article_item number="第三十三条">
           裁判には、理由を附さなければならない。
         </article_item>
@@ -384,7 +384,7 @@
           罷免の裁判に附する理由には、罷免の事由及びこれを認めた証拠を示さなければならない。
         </article_item>
       </articles>
-      <articles number="第三十四条">
+      <articles number="第三十四条" title="（裁判書）">
         <article_item number="第三十四条">
           裁判をするときは、裁判書を作らなければならない。
         </article_item>
@@ -392,22 +392,22 @@
           裁判書には、裁判をした裁判員がこれに署名押印しなければならない。裁判長が署名押印できないときは、他の裁判員が、裁判長以外の裁判員が署名押印できないときは、裁判長が、その理由を附記して署名押印しなければならない。
         </article_item>
       </articles>
-      <articles number="第三十五条">
+      <articles number="第三十五条" title="（裁判書の送達）">
         <article_item number="第三十五条">
           弾劾裁判所は、終局裁判をしたときは、直ちに裁判書の謄本を罷免の訴追を受けた裁判官及び最高裁判所に送達しなければならない。
         </article_item>
       </articles>
-      <articles number="第三十六条">
+      <articles number="第三十六条" title="（裁判の公示）">
         <article_item number="第三十六条">
           弾劾裁判所の終局裁判は、官報に掲載してこれを公示しなければならない。
         </article_item>
       </articles>
-      <articles number="第三十七条">
+      <articles number="第三十七条" title="（罷免の裁判の効果）">
         <article_item number="第三十七条">
           裁判官は、罷免の裁判の宣告により罷免される。
         </article_item>
       </articles>
-      <articles number="第三十八条">
+      <articles number="第三十八条" title="（資格回復の裁判）">
         <article_item number="第三十八条">
           弾劾裁判所は左の場合においては、罷免の裁判を受けた者の請求により、資格回復の裁判をすることができる。
           <go>
@@ -423,34 +423,34 @@
           資格回復の裁判は、罷免の裁判を受けた者がその裁判を受けたため他の法律の定めるところにより失つた資格を回復する。
         </article_item>
       </articles>
-      <articles number="第三十九条">
+      <articles number="第三十九条" title="（裁判官の職務の停止）">
         <article_item number="第三十九条">
           弾劾裁判所は、相当と認めるときは、何時でも、罷免の訴追を受けた裁判官の職務を停止することができる。
         </article_item>
       </articles>
-      <articles number="第四十条">
+      <articles number="第四十条" title="（刑事訴訟との関係）">
         <article_item number="第四十条">
           弾劾裁判所は、同一の事由について刑事訴訟が係属する間は、手続を中止することができる。
         </article_item>
       </articles>
-      <articles number="第四十一条">
+      <articles number="第四十一条" title="（免官の留保）">
         <article_item number="第四十一条">
           罷免の訴追を受けた裁判官は、本人が免官を願い出た場合でも、弾劾裁判所の終局裁判があるまでは、その免官を行う権限を有するものにおいてこれを免ずることができない。
         </article_item>
       </articles>
-      <articles number="第四十一条の二">
+      <articles number="第四十一条の二" title="（公職選挙法の適用除外）">
         <article_item number="第四十一条の二">
           第十五条第三項の規定により最高裁判所から罷免の訴追をすべきことを求められており、又は訴追委員会から罷免の訴追をされている裁判官については、公職選挙法（昭和二十五年法律第百号）第九十条（他の法律において準用する場合を含む。）の規定は、適用しない。
         </article_item>
       </articles>
-      <articles number="第四十二条">
+      <articles number="第四十二条" title="（規則の制定）">
         <article_item number="第四十二条">
           弾劾裁判所は、この法律に特別の定のある場合を除いて、審理及び裁判の手続について規則を定めることができる。 
         </article_item>
       </articles>
     </section>
     <section title="第四章　罰則" type="Sho">
-      <articles number="第四十三条">
+      <articles number="第四十三条" title="（虚偽申告の罪）">
         <article_item number="第四十三条">
           裁判官に弾劾による罷免の裁判を受けさせる目的で、虚偽の申告をした者は、三月以上十年以下の懲役に処する。
         </article_item>
@@ -458,7 +458,7 @@
           前項の罪を犯した者が申告した事件の裁判の宣告前であつて、且つ、犯罪の発覚する前に自白したときは、その刑を減軽又は免除することができる。
         </article_item>
       </articles>
-      <articles number="第四十四条">
+      <articles number="第四十四条" title="（証人等に対する罰則）">
         <article_item number="第四十四条">
           次の各号の一に該当する者は、これを十万円以下の過料に処する。
           <go>

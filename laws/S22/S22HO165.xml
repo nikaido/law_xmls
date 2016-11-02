@@ -69,7 +69,7 @@
           郵便物が検疫を受けるべき場合には、他の物件に先立つて、直ちに検疫を受ける。
         </article_item>
       </articles>
-      <articles number="第十一条" title="（検疫の優先）">
+      <articles number="第十一条" title="（郵便に関する条約）">
         <article_item number="第十一条">
           郵便に関し条約に別段の定めのある場合には、その規定による。
         </article_item>
@@ -77,7 +77,7 @@
     </section>
     <section title="第二章　郵便の役務" type="Sho">
       <section title="第一節　郵便物" type="Setsu">
-        <articles number="第十二条">
+        <articles number="第十二条" title="（郵便禁制品）">
           <article_item number="第十二条">
             次に掲げる物は、これを郵便物として差し出すことができない。
             <go>
@@ -96,17 +96,17 @@
             </go>
           </article_item>
         </articles>
-        <articles number="第十三条">
+        <articles number="第十三条" title="（郵便約款による差出しの禁止）">
           <article_item number="第十三条">
             会社は、郵便の業務に従事する者又は他の郵便物に対する傷害又は損害を避けるため必要があると認めるときは、郵便約款で物を指定して、その物を郵便物として差し出すことを禁止することができる。
           </article_item>
         </articles>
-        <articles number="第十四条">
+        <articles number="第十四条" title="（郵便物の種類）">
           <article_item number="第十四条">
             郵便物は、第一種郵便物、第二種郵便物、第三種郵便物及び第四種郵便物とする。
           </article_item>
         </articles>
-        <articles number="第十五条">
+        <articles number="第十五条" title="（大きさ等の制限）">
           <article_item number="第十五条">
             郵便物は、次に掲げる大きさ及び重量を超えることができない。
             <go>
@@ -144,22 +144,22 @@
             会社は、第一項の規定にかかわらず、同項に規定する大きさ又は重量の制限を超える郵便物（第二種郵便物を除く。）であつて郵便物の取扱上支障がないものとして郵便約款の定めるものを、郵便約款の定めるところにより、取り扱うことができる。
           </article_item>
         </articles>
-        <articles number="第十六条">
+        <articles number="第十六条" title="（包装の仕方及びあて名等の記載方）">
           <article_item number="第十六条">
             会社は、郵便約款で、郵便物の包装の仕方及びあて名その他郵便物の取扱上必要な事項の記載方を定めることができる。
           </article_item>
         </articles>
-        <articles number="第十七条">
+        <articles number="第十七条" title="（現金及び貴重品の差出し方）">
           <article_item number="第十七条">
             現金又は郵便約款の定める貴金属、宝石その他の貴重品を郵便物として差し出すときは、書留（第四十五条第四項の規定によるものを除く。）の郵便物としなければならない。
           </article_item>
         </articles>
-        <articles number="第十八条">
+        <articles number="第十八条" title="（郵便葉書の無償交付等）">
           <article_item number="第十八条">
             会社は、天災その他非常の災害があつた場合において、必要があると認めるときは、総務省令の定めるところにより、当該災害地の被災者（法人を除く。以下この条において同じ。）に対し料額印面の付いた郵便葉書及び郵便書簡を無償で交付し、又は当該災害地の被災者が差し出す郵便物の料金（特殊取扱の料金を含む。）を免除することができる。
           </article_item>
         </articles>
-        <articles number="第十九条">
+        <articles number="第十九条" title="（救助用の郵便物等の料金の免除）">
           <article_item number="第十九条">
             会社は、天災その他非常の災害があつた場合において、必要があると認めるときは、総務省令の定めるところにより、当該災害地の被災者の救助を行う地方公共団体、日本赤十字社その他総務省令で定める法人又は団体にあてた救助用の物を内容とする郵便物の料金（特殊取扱の料金を含む。）を免除することができる。
           </article_item>
@@ -167,7 +167,7 @@
             会社は、総務省令の定めるところにより、社会福祉の増進を目的とする事業を行う法人又は団体であつて総務総務省令で定めるものにあてた当該事業の実施に必要な費用に充てることを目的とする寄附金を内容とする郵便物の料金（特殊取扱の料金を含む。）を免除することができる。  
           </article_item>
         </articles>
-        <articles number="第二十条">
+        <articles number="第二十条" title="（第一種郵便物）">
           <article_item number="第二十条">
             次に掲げる郵便物は、第一種郵便物とする。
             <go>
@@ -186,7 +186,7 @@
             郵便書簡は、会社が、郵便約款でその規格及び様式を定めて、これを発行する。
           </article_item>
         </articles>
-        <articles number="第二十一条">
+        <articles number="第二十一条" title="（第二種郵便物）">
           <article_item number="第二十一条">
             郵便葉書は、第二種郵便物とし、通常葉書及び往復葉書とする。
           </article_item>
@@ -194,7 +194,7 @@
             郵便葉書は、会社が、郵便約款でその規格及び様式を定めて、これを発行する。ただし、郵便約款の定める通常葉書又は往復葉書の規格及び様式を標準として、これを会社以外の者が作成することを妨げない。
           </article_item>
         </articles>
-        <articles number="第二十二条">
+        <articles number="第二十二条" title="（第三種郵便物）">
           <article_item number="第二十二条">
             第三種郵便物の承認のあることを表す文字を掲げた定期刊行物を内容とする郵便物で開封とし、郵便約款の定めるところにより差し出されるものは、第三種郵便物とする。
           </article_item>
@@ -222,12 +222,12 @@
             第三種郵便物の承認は、承認を受けた日以後に発行するものにつき、その効力を有する。
           </article_item>
         </articles>
-        <articles number="第二十三条">
+        <articles number="第二十三条" title="（定期刊行物の提出）">
           <article_item number="第二十三条">
             前条第二項の承認を受けた定期刊行物の発行人は、郵便約款の定めるところにより、会社に当該承認を受けた日以後に発行する当該承認に係る定期刊行物を提出しなければならない。
           </article_item>
         </articles>
-        <articles number="第二十四条">
+        <articles number="第二十四条" title="（調査）">
           <article_item number="第二十四条">
             会社は、特に必要があると認めるときは、第二十二条第二項の承認を受けた定期刊行物が同条第三項各号の条件を具備しているかどうかの調査を行うことができる。
           </article_item>
@@ -235,7 +235,7 @@
             会社は、郵便約款の定めるところにより、第二十二条第二項の承認を受けた定期刊行物の発行人に対し、前項の調査に必要な報告又は資料の提出を求めることができる。
           </article_item>
         </articles>
-        <articles number="第二十五条">
+        <articles number="第二十五条" title="（第三種郵便物の承認の取消し）">
           <article_item number="第二十五条">
             会社は、第二十二条第二項の承認を受けた定期刊行物が次の各号のいずれかに該当するときは、その承認を取り消すことができる。
             <go>
@@ -251,12 +251,12 @@
             </go>
           </article_item>
         </articles>
-        <articles number="第二十六条">
+        <articles number="第二十六条" title="（第三種郵便物の題号等の変更）">
           <article_item number="第二十六条">
             第二十二条第二項の承認を受けた定期刊行物の題号、掲載事項の種類又は発行人の変更については、郵便約款の定めるところにより、会社の承認を受けなければならない。
           </article_item>
         </articles>
-        <articles number="第二十七条">
+        <articles number="第二十七条" title="（第四種郵便物）">
           <article_item number="第二十七条">
             次に掲げる郵便物で開封とするものは、第四種郵便物とする。蚕種を内容とする郵便物で会社の承認のもとに密閉したものも、同様とする。
             <go>
@@ -280,7 +280,7 @@
         </articles>
       </section>
       <section title="第二節　郵便に関する料金の支払" type="Setsu">
-        <articles number="第二十八条">
+        <articles number="第二十八条" title="（料金支払の方法及び時期）">
           <article_item number="第二十八条">
             郵便に関する料金は、この法律若しくはこの法律に基づく総務省令又は郵便約款に別段の定めのある場合を除いて、郵便切手で前払をしなければならない。
           </article_item>
@@ -288,19 +288,19 @@
             料額印面の付いた郵便葉書及び郵便書簡については、これを郵便物として差し出したときに、料額印面に表された金額の限度において料金の支払があつたものとする。
           </article_item>
         </articles>
-        <articles number="第二十九条">
+        <articles number="第二十九条" title="（切手類の発行及び販売）">
           <article_item number="第二十九条">
             郵便切手その他郵便に関する料金を表す証票は、会社がこれを発行し、及び販売する。
           </article_item>
         </articles>
-        <articles number="第三十条">
+        <articles number="第三十条" title="（無効な切手類）">
           <article_item number="第三十条">
             汚染し、若しくはき損された郵便切手又は料額印面の汚染し、若しくはき損された郵便葉書若しくは郵便書簡は、これを無効とする。
           </article_item>
         </articles>
       </section>
       <section title="第三節　郵便物の取扱い" type="Setsu">
-        <articles number="第三十一条">
+        <articles number="第三十一条" title="（引受けの際の説明及び開示）">
           <article_item number="第三十一条">
             会社は、郵便物の引受けの際、郵便物の内容である物の種類及び性質につき、差出人に説明を求めることができる。
           </article_item>
@@ -311,7 +311,7 @@
             差出人が第一項の説明又は前項の開示を拒んだときは、会社は、その郵便物の引受けをしないことができる。
           </article_item>
         </articles>
-        <articles number="第三十二条">
+        <articles number="第三十二条" title="（取扱中に係る郵便物の開示）">
           <article_item number="第三十二条">
             会社は、その取扱中に係る郵便物がこの法律若しくはこの法律に基づく総務省令の規定又は郵便約款に違反して差し出された疑いがあるときは、差出人又は受取人にその開示を求めることができる。
           </article_item>
@@ -319,32 +319,32 @@
             差出人又は受取人が前項の開示を拒んだとき、又は差出人若しくは受取人に開示を求めることができないときは、会社は、その郵便物を開くことができる。ただし、封かんした第一種郵便物は、開かないで差出人にこれを還付する。
           </article_item>
         </articles>
-        <articles number="第三十三条">
+        <articles number="第三十三条" title="（危険物の処置）">
           <article_item number="第三十三条">
             会社は、その取扱中に係る郵便物が第十二条第一号から第三号までに掲げる物を内容とするときは、危険の発生を避けるため棄却その他必要な処置をすることができる。この場合には、直ちに差出人にその旨を通知しなければならない。
           </article_item>
         </articles>
-        <articles number="第三十四条">
+        <articles number="第三十四条" title="（あて名変更及び取戻し）">
           <article_item number="第三十四条">
             郵便物の差出人は、当該郵便物の配達前又は交付前に限り、郵便約款の定めるところにより、あて名の変更又は取戻しを請求することができる。
           </article_item>
         </articles>
-        <articles number="第三十五条">
+        <articles number="第三十五条" title="（転送）">
           <article_item number="第三十五条">
             郵便物（郵便約款の定めるものを除く。）は、その受取人がその住所又は居所を変更した場合においてその受取人から郵便約款の定めるところによりその後の住所又は居所を届け出ているときは、その届出の日から一年内に限り、これをその届出に係る住所又は居所に転送する。
           </article_item>
         </articles>
-        <articles number="第三十六条">
+        <articles number="第三十六条" title="（受取人の証明）">
           <article_item number="第三十六条">
             会社は、郵便物の受取人の真偽を調査するため、受取人に対して必要な証明を求めることができる。
           </article_item>
         </articles>
-        <articles number="第三十七条">
+        <articles number="第三十七条" title="（正当の交付）">
           <article_item number="第三十七条">
             この法律若しくはこの法律に基づく総務省令又は郵便約款に規定する手続を経て郵便物を交付したときは、正当の交付をしたものとみなす。
           </article_item>
         </articles>
-        <articles number="第三十八条">
+        <articles number="第三十八条" title="（郵便差出箱の設置）">
           <article_item number="第三十八条">
             郵便差出箱は、会社が設置する。ただし、会社の承認を受けて会社以外の者が設置することを妨げない。
           </article_item>
@@ -352,12 +352,12 @@
             会社以外の者による郵便差出箱の設置に関する条件は、郵便約款で定める。 
           </article_item>
         </articles>
-        <articles number="第三十九条">
+        <articles number="第三十九条" title="（料金未払又は料金不足の郵便物）">
           <article_item number="第三十九条">
             料金未払又は料金不足の郵便物で特殊取扱（郵便約款の定めるものを除く。）としないものは、受取人が、その未払金額又は不足金額を支払つてこれを受け取ることができる。
           </article_item>
         </articles>
-        <articles number="第四十条">
+        <articles number="第四十条" title="（郵便物の還付）">
           <article_item number="第四十条">
             受取人に交付することができない郵便物は、これを差出人に還付する。
           </article_item>
@@ -368,7 +368,7 @@
             郵便物の差出人が還付すべき郵便物の受取を拒んだときは、その郵便物は、会社に帰属する。
           </article_item>
         </articles>
-        <articles number="第四十一条">
+        <articles number="第四十一条" title="（還付不能の郵便物）">
           <article_item number="第四十一条">
             差出人に還付すべき郵便物で、差出人不明その他の事由により還付することができないものは、会社において、これを開くことができる。
           </article_item>
@@ -382,7 +382,7 @@
             前項の規定により売却された有価物以外の有価物及び同項の規定により保管される売却代金は、当該郵便物の保管を開始した日から一年以内にその交付を請求する者がないときは、会社に帰属する。
           </article_item>
         </articles>
-        <articles number="第四十二条">
+        <articles number="第四十二条" title="（誤配達郵便物の処理）">
           <article_item number="第四十二条">
             郵便物の誤配達を受けた者は、その郵便物にその旨を表示して郵便差出箱に差し入れ、又はその旨を会社に通知しなければならない。
           </article_item>
@@ -390,14 +390,14 @@
             前項の場合において誤つてその郵便物を開いた者は、これを修補し、かつ、その旨並びに氏名及び住所又は居所を郵便物に表示しなければならない。
           </article_item>
         </articles>
-        <articles number="第四十三条">
+        <articles number="第四十三条" title="（高層建築物に係る郵便受箱の設置）">
           <article_item number="第四十三条">
             階数が三以上であり、かつ、その全部又は一部を住宅、事務所又は事業所の用に供する建築物で総務省令で定めるものには、総務省令の定めるところにより、その建築物の出入口又はその付近に郵便受箱を設置するものとする。
           </article_item>
         </articles>
       </section>
       <section title="第四節　郵便物の特殊取扱" type="Setsu">
-        <articles number="第四十四条">
+        <articles number="第四十四条" title="（特殊取扱）">
           <article_item number="第四十四条">
             会社は、この節に定めるところによるほか、郵便約款の定めるところにより、書留、引受時刻証明、配達証明、内容証明及び特別送達の郵便物の特殊取扱を実施する。
           </article_item>
@@ -408,7 +408,7 @@
             引受時刻証明、配達証明、内容証明及び特別送達の取扱いは、書留とする郵便物につき、これをするものとする。
           </article_item>
         </articles>
-        <articles number="第四十五条">
+        <articles number="第四十五条" title="（書留）">
           <article_item number="第四十五条">
             書留の取扱いにおいては、会社において、当該郵便物の引受けから配達に至るまでの記録をし、もし、送達の途中において当該郵便物を亡失し、又はき損した場合には、差出しの際差出人から会社に申出のあつた損害要償額の全部又は一部を賠償する。
           </article_item>
@@ -430,17 +430,17 @@
             </go>
           </article_item>
         </articles>
-        <articles number="第四十六条">
+        <articles number="第四十六条" title="（引受時刻証明）">
           <article_item number="第四十六条">
             引受時刻証明の取扱いにおいては、会社において、当該郵便物を引き受けた時刻を証明する。
           </article_item>
         </articles>
-        <articles number="第四十七条">
+        <articles number="第四十七条" title="（配達証明）">
           <article_item number="第四十七条">
             配達証明の取扱いにおいては、会社において、当該郵便物を配達し、又は交付した事実を証明する。
           </article_item>
         </articles>
-        <articles number="第四十八条">
+        <articles number="第四十八条" title="（内容証明）">
           <article_item number="第四十八条">
             内容証明の取扱いにおいては、会社において、当該郵便物の内容である文書の内容を証明する。
           </article_item>
@@ -448,7 +448,7 @@
             前項の取扱いにおいては、郵便認証司による第五十八条第一号の認証を受けるものとする。
           </article_item>
         </articles>
-        <articles number="第四十九条">
+        <articles number="第四十九条" title="（特別送達）">
           <article_item number="第四十九条">
             特別送達の取扱いにおいては、会社において、当該郵便物を民事訴訟法（平成八年法律第百九号）第百三条から第百六条まで及び第百九条に掲げる方法により、送達し、その送達の事実を証明する。
           </article_item>
@@ -461,7 +461,7 @@
         </articles>
       </section>
       <section title="第五節　損害賠償" type="Setsu">
-        <articles number="第五十条">
+        <articles number="第五十条" title="（損害賠償の範囲）">
           <article_item number="第五十条">
             会社は、この法律若しくはこの法律に基づく総務省令の規定又は郵便約款に従つて差し出された郵便物が次の各号のいずれかに該当する場合には、その損害を賠償する。
             <go>
@@ -500,17 +500,17 @@
             会社は、第一項及び第三項本文に規定する場合を除くほか、郵便の役務をその本旨に従つて提供せず、又は提供することができなかつたことにより生じた損害を賠償する責任を負わない。
           </article_item>
         </articles>
-        <articles number="第五十一条">
+        <articles number="第五十一条" title="（免責）">
           <article_item number="第五十一条">
             前条第一項に規定する損害が差出人若しくは受取人の過失又は当該郵便物の性質若しくは欠陥により発生したものであるときは、会社は、同項の規定にかかわらず、その損害を賠償しない。
           </article_item>
         </articles>
-        <articles number="第五十二条">
+        <articles number="第五十二条" title="（郵便物の無損害の推定）">
           <article_item number="第五十二条">
             郵便物を交付する際外部に破損の跡がなく、かつ、重量に変わりがないときは、その郵便物に損害が生じていないものと推定する。
           </article_item>
         </articles>
-        <articles number="第五十三条">
+        <articles number="第五十三条" title="（郵便物の損害の検査）">
           <article_item number="第五十三条">
             郵便物に会社の賠償すべき損害があると認められる場合において、郵便物の受取人又は差出人がその郵便物の受取を拒んだときは、会社は、その者の立会いを求め、その立会いの下に当該郵便物を開いて、損害の有無及び程度につき検査をしなければならない。
           </article_item>
@@ -518,22 +518,22 @@
             前項の場合において、当該郵便物の受取を拒んだ者が、同項の立会いを求められた日から十日以内に正当の事由なく同項の求めに応じなかつたときは、会社は、その郵便物をその者に配達し、又は還付する。
           </article_item>
         </articles>
-        <articles number="第五十四条">
+        <articles number="第五十四条" title="（郵便物受取による損害賠償請求権の消滅）">
           <article_item number="第五十四条">
             郵便物の受取人又は差出人は、その郵便物を受け取つた後、又は前条第一項の規定により受取を拒んだ場合において、同条第二項に規定する期間内に正当の事由なく同条第一項の求めに応じなかつたときは、その郵便物に生じた損害につき、損害賠償の請求をすることができない。
           </article_item>
         </articles>
-        <articles number="第五十五条">
+        <articles number="第五十五条" title="（特定の場合の損害賠償の請求権者）">
           <article_item number="第五十五条">
             第五十条第一項の規定による損害賠償の請求をすることができる者は、当該郵便物の差出人又はその承諾を得た受取人とする。
           </article_item>
         </articles>
-        <articles number="第五十六条">
+        <articles number="第五十六条" title="（損害賠償を請求することができる期間）">
           <article_item number="第五十六条">
             損害賠償の請求権は、当該郵便物を差し出した日（総務省令で定める郵便の役務に係る損害にあつては、当該役務を提供した日）から一年間これを行わないことによつて消滅する。
           </article_item>
         </articles>
-        <articles number="第五十七条">
+        <articles number="第五十七条" title="（損害賠償後の郵便物発見）">
           <article_item number="第五十七条">
             会社は、郵便物に生じた損害につき損害賠償があつた後その郵便物の全部又は一部を発見したときは、その旨をその賠償受領者（その者がその郵便物の差出人又は受取人以外の者であるときは、その郵便物の差出人。以下この条において同じ。）に通知しなければならない。この場合において、賠償受領者は、その通知を受けた日から三箇月以内に、郵便約款の定めるところにより、賠償金の額の全部又は一部に相当する金額を支払つて、その郵便物の交付を請求することができる。
           </article_item>
@@ -825,7 +825,7 @@
       </articles>
     </section>
     <section title="第五章　罰則" type="Sho">
-      <articles number="第七十六条">
+      <articles number="第七十六条" title="（事業の独占を乱す罪）">
         <article_item number="第七十六条">
           第四条の規定に違反した者は、これを三年以下の懲役又は三百万円以下の罰金に処する。
         </article_item>
@@ -833,17 +833,17 @@
           前項の場合において、金銭物品を収得したときは、これを没収する。既に消費し、又は譲渡したときは、その価額を追徴する。
         </article_item>
       </articles>
-      <articles number="第七十七条">
+      <articles number="第七十七条" title="（郵便物を開く等の罪）">
         <article_item number="第七十七条">
           会社の取扱中に係る郵便物を正当の事由なく開き、き損し、隠匿し、放棄し、又は受取人でない者に交付した者は、これを三年以下の懲役又は五十万円以下の罰金に処する。ただし、刑法の罪に触れるときは、その行為者は、同法の罪と比較して、重きに従つて処断する。
         </article_item>
       </articles>
-      <articles number="第七十八条">
+      <articles number="第七十八条" title="（郵便用物件を損傷する等の罪）">
         <article_item number="第七十八条">
           郵便専用の物件又は現に郵便の用に供する物件に対し損傷その他郵便の障害となるべき行為をした者は、これを五年以下の懲役又は五十万円以下の罰金に処する。
         </article_item>
       </articles>
-      <articles number="第七十九条">
+      <articles number="第七十九条" title="（郵便物の取扱いをしない等の罪）">
         <article_item number="第七十九条">
           郵便の業務に従事する者が殊更に郵便の取扱いをせず、又はこれを遅延させたときは、これを一年以下の懲役又は三十万円以下の罰金に処する。
         </article_item>
@@ -851,7 +851,7 @@
           郵便の業務に従事する者が重大な過失によつて郵便物を失つたときは、これを三十万円以下の罰金に処する。
         </article_item>
       </articles>
-      <articles number="第八十条">
+      <articles number="第八十条" title="（信書の秘密を侵す罪）">
         <article_item number="第八十条">
           会社の取扱中に係る信書の秘密を侵した者は、これを一年以下の懲役又は五十万円以下の罰金に処する。
         </article_item>
@@ -859,22 +859,22 @@
           郵便の業務に従事する者が前項の行為をしたときは、これを二年以下の懲役又は百万円以下の罰金に処する。
         </article_item>
       </articles>
-      <articles number="第八十一条">
+      <articles number="第八十一条" title="（郵便禁制品を差し出す罪）">
         <article_item number="第八十一条">
           第十二条の規定の違反があつたときは、その違反行為をした者を五十万円以下の罰金に処し、その郵便物として差し出した物を没収する。
         </article_item>
       </articles>
-      <articles number="第八十二条">
+      <articles number="第八十二条" title="（郵便を不正に利用する罪）">
         <article_item number="第八十二条">
           詐欺、恐喝又は脅迫の目的をもつて、真実に反する住所、居所、所在地、氏名、名称又は通信文を記載した郵便物を差し出し、又は他人にこれを差し出させた者は、五十万円以下の罰金に処する。
         </article_item>
       </articles>
-      <articles number="第八十三条">
+      <articles number="第八十三条" title="（第三種郵便物の承認を偽る罪）">
         <article_item number="第八十三条">
           第三種郵便物の承認のない定期刊行物に第三種郵便物の承認のあることを表す文字を掲げたときは、その定期刊行物の発行人を三十万円以下の罰金に処する。
         </article_item>
       </articles>
-      <articles number="第八十四条">
+      <articles number="第八十四条" title="（料金を免れる罪）">
         <article_item number="第八十四条">
           不法に郵便に関する料金を免れ、又は他人にこれを免れさせた者は、これを三十万円以下の罰金に処する。
         </article_item>
@@ -882,7 +882,7 @@
           郵便の業務に従事する者が前項の行為をしたときは、これを一年以下の懲役又は五十万円以下の罰金に処する。
         </article_item>
       </articles>
-      <articles number="第八十五条">
+      <articles number="第八十五条" title="（切手類を偽造する等の罪）">
         <article_item number="第八十五条">
           行使の目的をもつて会社又は外国の郵便切手その他郵便に関する料金を表す証票又は郵便料金計器（郵便に関する料金の支払のために使用する計器であつて、郵便物又は郵便物にはり付けることができる物に郵便に関する料金を表す印影を生じさせるものをいう。以下この項において同じ。）の印影その他郵便に関する料金を表す印影を偽造し、若しくは変造し、又はその使用の跡を除去した者は、これを十年以下の懲役に処する。偽造し、変造し、若しくは使用の跡を除去した郵便切手その他郵便に関する料金を表す証票若しくは郵便料金計器の印影その他郵便に関する料金を表す印影を行使し、又は行使の目的をもつて輸入し、他人に交付し、若しくはその交付を受けた者も、同様とする。 
         </article_item>
@@ -890,7 +890,7 @@
           前項の罪は、日本国外において同項の罪を犯した者にも適用する。
         </article_item>
       </articles>
-      <articles number="第八十六条">
+      <articles number="第八十六条" title="（未遂罪及び予備罪）">
         <article_item number="第八十六条">
           第七十六条から第七十八条まで、第八十条及び前二条の未遂罪は、これを罰する。
         </article_item>
@@ -898,7 +898,7 @@
           前条の罪を犯す目的でその予備をした者は、これを二年以下の懲役又は十万円以下の罰金に処し、その用に供した物は、これを没収する。
         </article_item>
       </articles>
-      <articles number="第八十七条">
+      <articles number="第八十七条" title="（不当に郵便の役務を提供する等の罪）">
         <article_item number="第八十七条">
           次の各号のいずれかに該当する者は、百万円以下の罰金に処する。
           <go>
@@ -917,27 +917,27 @@
           </go>
         </article_item>
       </articles>
-      <articles number="第八十八条">
+      <articles number="第八十八条" title="（検査を拒む等の罪）">
         <article_item number="第八十八条">
           第六十五条第一項の規定による報告をせず、若しくは虚偽の報告をし、又は同項の規定による検査を拒み、妨げ、若しくは忌避した郵便認証司は、三十万円以下の罰金に処する。
         </article_item>
       </articles>
-      <articles number="第八十九条">
+      <articles number="第八十九条" title="（報告をしない等の罪）">
         <article_item number="第八十九条">
           第六十七条第七項の規定による報告をせず、又は虚偽の報告をした会社の取締役又は執行役は、三十万円以下の罰金に処する。
         </article_item>
       </articles>
-      <articles number="第九十条">
+      <articles number="第九十条" title="（両罰規定）">
         <article_item number="第九十条">
           法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関し、第七十六条第一項、第八十条第二項、第八十六条第一項（第七十六条第一項及び第八十条第二項に係る部分に限る。）又は第八十七条の違反行為をしたときは、行為者を罰するほか、その法人又は人に対しても、各本条の罰金刑を科する。
         </article_item>
       </articles>
-      <articles number="第九十一条">
+      <articles number="第九十一条" title="（収支状況を公表しない場合等の過料）">
         <article_item number="第九十一条">
           第六十七条第七項の規定による公表をせず、又は虚偽の公表をした会社の取締役又は執行役は、百万円以下の過料に処する。
         </article_item>
       </articles>
-      <articles number="第九十二条">
+      <articles number="第九十二条" title="（料金等を掲示しない場合等の過料）">
         <article_item number="第九十二条">
           第六十九条の規定による掲示をせず、又は虚偽の掲示をした会社の取締役、執行役又は職員は、五十万円以下の過料に処する。
         </article_item>
