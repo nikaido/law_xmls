@@ -11,9 +11,9 @@
         内閣は、大気汚染防止法（昭和四十三年法律第九十七号）第二条第三項、第五項及び第六項、第三条第一項、第二十二条、第二十六条第一項並びに第三十一条の規定に基づき、並びに同法を実施するため、この政令を制定する。
       </p>
     </preamble>
-    <articles number="第一条" title="（有害物質） ">
+    <articles number="第一条" title="（有害物質）">
       <article_item number="第一条">
-        大気汚染防止法（以下「法」という。）第二条第一項第三号の政令で定める物質は、次に掲げる物質とする。 
+        大気汚染防止法（以下「法」という。）第二条第一項第三号の政令で定める物質は、次に掲げる物質とする。
         <go>
           <go_item number="一">
             カドミウム及びその化合物
@@ -33,9 +33,9 @@
         </go>
       </article_item>
     </articles>
-    <articles number="第二条" title="（ばい煙発生施設） ">
+    <articles number="第二条" title="（ばい煙発生施設）">
       <article_item number="第二条">
-        法第二条第二項の政令で定める施設は、別表第一の中欄に掲げる施設であつて、その規模がそれぞれ同表の下欄に該当するものとする。 
+        法第二条第二項の政令で定める施設は、別表第一の中欄に掲げる施設であつて、その規模がそれぞれ同表の下欄に該当するものとする。
       </article_item>
     </articles>
     <articles number="第二条の二" title="（揮発性有機化合物から除く物質）">
@@ -115,7 +115,7 @@
         </go>
       </article_item>
     </articles>
-    <articles number="第四条" title="（自動車排出ガス） ">
+    <articles number="第四条" title="（自動車排出ガス）">
       <article_item number="第四条">
         法第二条第十四項の政令で定める物質は、次に掲げる物質とする。
         <go>
@@ -203,9 +203,9 @@
         法第十五条第一項の政令で定める地域は、別表第四に掲げる区域とする。
       </article_item>
     </articles>
-    <articles number="第十条" title="（特定物質） ">
+    <articles number="第十条" title="（特定物質）">
       <article_item number="第十条">
-        法第十七条第一項の政令で定める物質は、次に掲げる物質とする。 
+        法第十七条第一項の政令で定める物質は、次に掲げる物質とする。
         <go>
           <go_item number="一">
             アンモニア

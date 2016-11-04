@@ -11,15 +11,15 @@
         電気事業法（昭和三十九年法律第百七十号）第三十九条第一項の規定に基づき、原子力発電工作物に係る電気設備に関する技術基準を定める省令を次のように定める。
       </p>
     </preamble>
-    <section title="第一章　総則 " type="Sho">
-      <section title="第一節　適用範囲 " type="Setsu">
+    <section title="第一章　総則" type="Sho">
+      <section title="第一節　適用範囲" type="Setsu">
         <articles number="第一条" title="（適用範囲）">
           <article_item number="第一条">
             この省令は、原子力発電工作物について適用する。
           </article_item>
         </articles>
       </section>
-      <section title="第二節　定義 " type="Setsu">
+      <section title="第二節　定義" type="Setsu">
         <articles number="第二条" title="（用語の定義）">
           <article_item number="第二条">
             この省令において使用する用語は、電気設備に関する技術基準を定める省令（平成九年通商産業省令第五十二号。以下「電技省令」という。）において使用する用語の例による。
@@ -281,7 +281,7 @@
           </article_item>
         </articles>
       </section>
-      <section title="第四節　危険な施設の禁止 " type="Setsu">
+      <section title="第四節　危険な施設の禁止" type="Setsu">
         <articles number="第二十九条" title="（油入開閉器等の施設制限）">
           <article_item number="第二十九条">
             絶縁油を使用する開閉器、断路器及び遮断器は、架空電線路の支持物に施設してはならない。

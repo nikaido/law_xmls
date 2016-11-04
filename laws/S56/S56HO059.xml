@@ -1442,7 +1442,7 @@
       </articles>
     </section>
     <section title="第七章の三　株主" type="Sho">
-      <section title="第一節　通則 " type="Setsu">
+      <section title="第一節　通則" type="Setsu">
         <articles number="第五十二条の二の十一" title="（銀行等の議決権保有に係る届出書の提出）">
           <article_item number="第五十二条の二の十一">
             一の銀行の総株主の議決権の百分の五を超える議決権又は一の銀行持株会社の総株主の議決権の百分の五を超える議決権の保有者（国、地方公共団体その他これらに準ずるものとして政令で定める法人（第五十二条の九において「国等」という。）を除く。以下この章及び第九章において「銀行議決権大量保有者」という。）は、内閣府令で定めるところにより、銀行議決権大量保有者となつた日から五日（日曜日その他政令で定める休日の日数は、算入しない。次条第一項において同じ。）以内（保有する議決権の数に増加がない場合その他の内閣府令で定める場合にあつては、内閣府令で定める日以内）に、次に掲げる事項を記載した届出書（以下この章において「銀行議決権保有届出書」という。）を内閣総理大臣に提出しなければならない。
@@ -1537,8 +1537,8 @@
           </article_item>
         </articles>
       </section>
-      <section title="第二節　銀行主要株主に係る特例 " type="Setsu">
-        <section title="第一款　通則 " type="Kan">
+      <section title="第二節　銀行主要株主に係る特例" type="Setsu">
+        <section title="第一款　通則" type="Kan">
           <articles number="第五十二条の九" title="（銀行主要株主に係る認可等）">
             <article_item number="第五十二条の九">
               次に掲げる取引若しくは行為により一の銀行の主要株主基準値以上の数の議決権の保有者になろうとする者又は銀行の主要株主基準値以上の数の議決権の保有者である会社その他の法人の設立をしようとする者（国等並びに第五十二条の十七第一項に規定する持株会社になろうとする会社、同項に規定する者及び銀行を子会社としようとする銀行持株会社を除く。）は、あらかじめ、内閣総理大臣の認可を受けなければならない。
@@ -1600,7 +1600,7 @@
             </article_item>
           </articles>
         </section>
-        <section title="第二款　監督 " type="Kan">
+        <section title="第二款　監督" type="Kan">
           <articles number="第五十二条の十一" title="（銀行主要株主による報告又は資料の提出）">
             <article_item number="第五十二条の十一">
               内閣総理大臣は、銀行の業務の健全かつ適切な運営を確保するため特に必要があると認めるときは、その必要の限度において、当該銀行の主要株主基準値以上の数の議決権の保有者である銀行主要株主に対し、当該銀行の業務又は財産の状況に関し参考となるべき報告又は資料の提出を求めることができる。
@@ -1639,7 +1639,7 @@
             </article_item>
           </articles>
         </section>
-        <section title="第三款　雑則 " type="Kan">
+        <section title="第三款　雑則" type="Kan">
           <articles number="第五十二条の十六" title="（外国銀行主要株主に対する法律の適用関係）">
             <article_item number="第五十二条の十六">
               銀行の主要株主基準値以上の数の議決権の保有者であつて外国人又は外国法人であるもの（以下この条において「外国銀行主要株主」という。）に対しこの法律を適用する場合における特例及び技術的読替えその他外国銀行主要株主に対するこの法律の規定の適用に関し必要な事項は、政令で定める。
@@ -1647,7 +1647,7 @@
           </articles>
         </section>
       </section>
-      <section title="第三節　銀行持株会社に係る特例 " type="Setsu">
+      <section title="第三節　銀行持株会社に係る特例" type="Setsu">
         <section title="第一款　通則" type="Kan">
           <articles number="第五十二条の十七" title="（銀行持株会社に係る認可等）">
             <article_item number="第五十二条の十七">
@@ -1730,7 +1730,7 @@
             </article_item>
           </articles>
         </section>
-        <section title="第二款　業務及び子会社等 " type="Kan">
+        <section title="第二款　業務及び子会社等" type="Kan">
           <articles number="第五十二条の二十一" title="（銀行持株会社の業務範囲等）">
             <article_item number="第五十二条の二十一">
               銀行持株会社は、その子会社である銀行、第五十二条の二十三第一項各号に掲げる会社及び第五十二条の二十三の二第一項に規定する特例子会社対象会社の経営管理を行うこと並びにこれに附帯する業務のほか、他の業務を営むことができない。
@@ -1967,7 +1967,7 @@
             </article_item>
           </articles>
         </section>
-        <section title="第三款　経理 " type="Kan">
+        <section title="第三款　経理" type="Kan">
           <articles number="第五十二条の二十六" title="（銀行持株会社の事業年度）">
             <article_item number="第五十二条の二十六">
               銀行持株会社の事業年度は、四月一日から翌年三月三十一日までとする。
@@ -2024,7 +2024,7 @@
             </article_item>
           </articles>
         </section>
-        <section title="第四款　監督 " type="Kan">
+        <section title="第四款　監督" type="Kan">
           <articles number="第五十二条の三十一" title="（銀行持株会社等による報告又は資料の提出）">
             <article_item number="第五十二条の三十一">
               内閣総理大臣は、銀行の業務の健全かつ適切な運営を確保するため必要があると認めるときは、当該銀行を子会社とする銀行持株会社に対し、当該銀行の業務又は財産の状況に関し参考となるべき報告又は資料の提出を求めることができる。
@@ -2093,7 +2093,7 @@
             </article_item>
           </articles>
         </section>
-        <section title="第五款　雑則 " type="Kan">
+        <section title="第五款　雑則" type="Kan">
           <articles number="第五十二条の三十五" title="（銀行持株会社に係る合併、会社分割又は事業の譲渡若しくは譲受けの認可）">
             <article_item number="第五十二条の三十五">
               銀行持株会社を全部又は一部の当事者とする合併（当該合併前に銀行持株会社であつた一の会社が当該合併後も銀行持株会社として存続するものに限る。）は、内閣総理大臣の認可を受けなければ、その効力を生じない。

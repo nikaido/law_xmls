@@ -11,7 +11,7 @@
         酒税法（昭和十五年法律第三十五号）の全部を改正する。
       </p>
     </preamble>
-    <section title="第一章　総則 " type="Sho">
+    <section title="第一章　総則" type="Sho">
       <articles number="第一条" title="（課税物件）">
         <article_item number="第一条">
           酒類には、この法律により、酒税を課する。
@@ -360,7 +360,7 @@
         </article_item>
       </articles>
     </section>
-    <section title="第二章　酒類の製造免許及び酒類の販売業免許等 " type="Sho">
+    <section title="第二章　酒類の製造免許及び酒類の販売業免許等" type="Sho">
       <articles number="第七条" title="（酒類の製造免許）">
         <article_item number="第七条">
           酒類を製造しようとする者は、政令で定める手続により、製造しようとする酒類の品目（第三条第七号から第二十三号までに掲げる酒類の区分をいう。以下同じ。）別に、製造場ごとに、その製造場の所在地の所轄税務署長の免許（以下「製造免許」という。）を受けなければならない。ただし、酒類の製造免許を受けた者（以下「酒類製造者」という。）が、その製造免許を受けた製造場において当該酒類の原料とするため製造する酒類については、この限りでない。
@@ -638,7 +638,7 @@
         </article_item>
       </articles>
     </section>
-    <section title="第三章　課税標準及び税率 " type="Sho">
+    <section title="第三章　課税標準及び税率" type="Sho">
       <articles number="第二十二条" title="（課税標準）">
         <article_item number="第二十二条">
           酒税の課税標準は、酒類の製造場から移出し、又は保税地域から引き取る酒類の数量とする。
@@ -909,7 +909,7 @@
         </article_item>
       </articles>
     </section>
-    <section title="第五章　申告及び納付等 " type="Sho">
+    <section title="第五章　申告及び納付等" type="Sho">
       <articles number="第三十条の二" title="（移出に係る酒類についての課税標準及び税額の申告）">
         <article_item number="第三十条の二">
           酒類製造者は、その製造場ごとに、毎月（当該製造場からの移出がない月を除く。）、政令で定めるところにより、次に掲げる事項を記載した申告書を、翌月末日までに、その製造場の所在地の所轄税務署長に提出しなければならない。
@@ -1025,7 +1025,7 @@
         </article_item>
       </articles>
     </section>
-    <section title="第六章　納税の担保 " type="Sho">
+    <section title="第六章　納税の担保" type="Sho">
       <articles number="第三十一条" title="（担保の提供及び酒類の保存）">
         <article_item number="第三十一条">
           国税庁長官、国税局長又は税務署長は、酒税の保全のため必要があると認めるときは、政令で定めるところにより、酒類製造者に対し、金額及び期間を指定し、酒税につき担保の提供を命ずることができる。この場合において、提供すべき担保がないとき、又は酒類製造者の申請があつたときは、担保の提供に代え、納税の担保として酒類の保存を命ずることができる。
@@ -1095,7 +1095,7 @@
         </article_item>
       </articles>
     </section>
-    <section title="第八章　雑則 " type="Sho">
+    <section title="第八章　雑則" type="Sho">
       <articles number="第四十条">
         <article_item number="第四十条">
           削除
@@ -1310,7 +1310,7 @@
         </article_item>
       </articles>
     </section>
-    <section title="第九章　罰則 " type="Sho">
+    <section title="第九章　罰則" type="Sho">
       <articles number="第五十四条">
         <article_item number="第五十四条">
           第七条第一項又は第八条の規定による製造免許を受けないで、酒類、酒母又はもろみを製造した者は、十年以下の懲役又は百万円以下の罰金に処する。

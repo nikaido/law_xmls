@@ -11,7 +11,7 @@
         内閣は、酒税法（昭和二十八年法律第六号）の規定に基づき、及び同法を実施するため、酒税法施行令（昭和二十八年政令第二十七号）の全部を改正するこの政令を制定する。
       </p>
     </preamble>
-    <section title="第一章　総則 " type="Sho">
+    <section title="第一章　総則" type="Sho">
       <articles number="第一条" title="（定義）">
         <article_item number="第一条">
           この政令において「酒類」とは、酒税法（昭和二十八年法律第六号。以下「法」という。）第二条第一項に規定する酒類をいい、その種類及び品目は、同法の規定によるものとする。
@@ -186,7 +186,7 @@
         </article_item>
       </articles>
     </section>
-    <section title="第二章　酒類の製造免許及び酒類の販売業免許等 " type="Sho">
+    <section title="第二章　酒類の製造免許及び酒類の販売業免許等" type="Sho">
       <articles number="第十二条" title="（酒類の製造免許の申請）">
         <article_item number="第十二条">
           法第七条第一項の規定により酒類の製造免許（同項に規定する製造免許をいう。以下同じ。）を受けようとする者は、次に掲げる事項を記載した申請書を当該税務署長に提出しなければならない。
@@ -419,7 +419,7 @@
         </article_item>
       </articles>
     </section>
-    <section title="第三章　課税標準及び税率 " type="Sho">
+    <section title="第三章　課税標準及び税率" type="Sho">
       <articles number="第十八条の二" title="（粉末酒の数量の計算）">
         <article_item number="第十八条の二">
           法第二十二条第二項に規定する政令で定める方法は、次の各号に掲げる場合の区分に応じ、当該各号に定める方法とする。
@@ -561,7 +561,7 @@
         </article_item>
       </articles>
     </section>
-    <section title="第四章　免税及び税額控除等 " type="Sho">
+    <section title="第四章　免税及び税額控除等" type="Sho">
       <articles number="第二十九条" title="（蔵置場の設置許可の申請等）">
         <article_item number="第二十九条">
           法第二十八条第一項の規定により蔵置場の設置について許可を受けようとする者は、次に掲げる事項を記載した申請書を当該税務署長に提出しなければならない。
@@ -1054,7 +1054,7 @@
         </article_item>
       </articles>
     </section>
-    <section title="第五章　申告及び納付等 " type="Sho">
+    <section title="第五章　申告及び納付等" type="Sho">
       <articles number="第三十九条" title="（移出に係る酒類についての課税標準及び税額の申告等）">
         <article_item number="第三十九条">
           法第三十条の二第一項に規定する申告書には、同項第一号から第七号までに規定する事項のほか、次に掲げる事項を記載しなければならない。
@@ -1161,7 +1161,7 @@
         </article_item>
       </articles>
     </section>
-    <section title="第六章　納税の担保 " type="Sho">
+    <section title="第六章　納税の担保" type="Sho">
       <articles number="第四十三条" title="（担保の提供の期限等）">
         <article_item number="第四十三条">
           国税庁長官、国税局長又は税務署長は、法第三十一条第一項の規定により酒類製造者に対し担保の提供又は納税の担保として酒類の保存を命ずる場合には、期限を指定しなければならない。
@@ -1206,7 +1206,7 @@
         </article_item>
       </articles>
     </section>
-    <section title="第八章　雑則 " type="Sho">
+    <section title="第八章　雑則" type="Sho">
       <articles number="第五十条" title="（みなし製造の規定の適用除外等）">
         <article_item number="第五十条">
           法第四十三条第一項第一号の規定により清酒に加えることができる物品は、しようちゆうとする。

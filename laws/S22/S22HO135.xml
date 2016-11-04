@@ -6,7 +6,7 @@
     <updated>平成二六年六月一三日法律第七〇号</updated>
   </head>
   <body>
-    <section title="第一章　総則 " type="Sho">
+    <section title="第一章　総則" type="Sho">
       <articles number="第一条" title="（目的）">
         <article_item number="第一条">
           この法律は、職務上の故意又は過失によつて海難を発生させた海技士若しくは小型船舶操縦士又は水先人に対する懲戒を行うため、国土交通省に設置する海難審判所における審判の手続等を定め、もつて海難の発生の防止に寄与することを目的とする。
@@ -49,7 +49,7 @@
           </go>
         </article_item>
         <article_item number="２">
-          業務の停止の期間は、一箇月以上三年以下とする。 
+          業務の停止の期間は、一箇月以上三年以下とする。
         </article_item>
       </articles>
       <articles number="第五条" title="（懲戒免除）">
@@ -63,7 +63,7 @@
         </article_item>
       </articles>
     </section>
-    <section title="第二章　海難審判所の組織及び管轄 " type="Sho">
+    <section title="第二章　海難審判所の組織及び管轄" type="Sho">
       <section title="第一節　組織" type="Setsu">
         <articles number="第七条" title="（設置）">
           <article_item number="第七条">
@@ -110,7 +110,7 @@
             地方海難審判所の名称、位置、管轄区域及び内部組織は、国土交通省令で定める。
           </article_item>
         </articles>
-        <articles number="第十二条" title="（審判官及び理事官） ">
+        <articles number="第十二条" title="（審判官及び理事官）">
           <article_item number="第十二条">
             海難審判所に審判官及び理事官を置く。
           </article_item>
@@ -179,7 +179,7 @@
         </articles>
       </section>
     </section>
-    <section title="第三章　補佐人 " type="Sho">
+    <section title="第三章　補佐人" type="Sho">
       <articles number="第十九条" title="（補佐人の選任）">
         <article_item number="第十九条">
           受審人は、国土交通省令の定めるところにより、補佐人を選任することができる。
@@ -190,12 +190,12 @@
           補佐人は、この法律に定めるもののほか、国土交通省令の定める行為に限り、独立してこれをすることができる。
         </article_item>
       </articles>
-      <articles number="第二十一条" title="（補佐人の要件等） ">
+      <articles number="第二十一条" title="（補佐人の要件等）">
         <article_item number="第二十一条">
           補佐人は、海難審判所に海事補佐人として登録した者の中からこれを選任しなければならない。ただし、海難審判所の許可を受けたときは、この限りでない。
         </article_item>
         <article_item number="２">
-          海事補佐人の資格及び登録に関する事項は、国土交通省令でこれを定める。 
+          海事補佐人の資格及び登録に関する事項は、国土交通省令でこれを定める。
         </article_item>
       </articles>
       <articles number="第二十二条" title="（海事補佐人の義務）">
@@ -203,16 +203,16 @@
           海事補佐人は、誠実にその職務を行わなければならない。
         </article_item>
         <article_item number="２">
-          海事補佐人は、職務上知り得た秘密を守らなければならない。 
+          海事補佐人は、職務上知り得た秘密を守らなければならない。
         </article_item>
       </articles>
-      <articles number="第二十三条" title="（海事補佐人に対する監督） ">
+      <articles number="第二十三条" title="（海事補佐人に対する監督）">
         <article_item number="第二十三条">
           海事補佐人は、海難審判所長の監督を受ける。
         </article_item>
       </articles>
     </section>
-    <section title="第四章　審判前の手続 " type="Sho">
+    <section title="第四章　審判前の手続" type="Sho">
       <articles number="第二十四条" title="（海難の発生の通報）">
         <article_item number="第二十四条">
           国土交通大臣（船員法（昭和二十二年法律第百号）第百三条第一項の規定により国土交通大臣の行うべき事務を日本の領事官が行う場合にあつては、当該領事官）は、同法第十九条の規定により海難について報告があつたとき、又は海難が発生したことを知つたときは、直ちに管轄する海難審判所の理事官にその旨を通報しなければならない。
@@ -221,12 +221,12 @@
           海上保安官、警察官及び市町村長は、海難が発生したことを知つたときは、直ちに管轄する海難審判所の理事官にその旨を通報しなければならない。
         </article_item>
       </articles>
-      <articles number="第二十五条" title="（理事官による調査） ">
+      <articles number="第二十五条" title="（理事官による調査）">
         <article_item number="第二十五条">
           理事官は、この法律によつて審判を行わなければならない事実があつたことを認知したときは、直ちに、事実を調査し、かつ、証拠を集取しなければならない。
         </article_item>
       </articles>
-      <articles number="第二十六条" title="（理事官の義務） ">
+      <articles number="第二十六条" title="（理事官の義務）">
         <article_item number="第二十六条">
           理事官は、事実の調査及び証拠の集取については、秘密を守り、関係人の名誉を傷つけないように注意しなければならない。
         </article_item>
@@ -253,12 +253,12 @@
           </go>
         </article_item>
         <article_item number="２">
-          理事官は、前項第二号の処分をするには、その身分を示す証票を携帯しなければならない。 
+          理事官は、前項第二号の処分をするには、その身分を示す証票を携帯しなければならない。
         </article_item>
       </articles>
-      <articles number="第二十八条" title="（審判開始の申立て）  ">
+      <articles number="第二十八条" title="（審判開始の申立て）">
         <article_item number="第二十八条">
-          理事官は、海難が海技士若しくは小型船舶操縦士又は水先人の職務上の故意又は過失によつて発生したものであると認めたときは、海難審判所に対して、その者を受審人とする審判開始の申立てをしなければならない。ただし、理事官は、事実発生の後五年を経過した海難については、審判開始の申立てをすることはできない。 
+          理事官は、海難が海技士若しくは小型船舶操縦士又は水先人の職務上の故意又は過失によつて発生したものであると認めたときは、海難審判所に対して、その者を受審人とする審判開始の申立てをしなければならない。ただし、理事官は、事実発生の後五年を経過した海難については、審判開始の申立てをすることはできない。
         </article_item>
         <article_item number="２">
           前項の申立ては、海難の事実及び受審人に係る職務上の故意又は過失の内容を示して、書面でこれをしなければならない。
@@ -270,7 +270,7 @@
         </article_item>
       </articles>
     </section>
-    <section title="第五章　審判 " type="Sho">
+    <section title="第五章　審判" type="Sho">
       <articles number="第三十条" title="（審判の開始）">
         <article_item number="第三十条">
           海難審判所は、理事官の審判開始の申立てによつて、審判を開始する。
@@ -299,7 +299,7 @@
           裁決は、口頭弁論に基づいてこれをしなければならない。ただし、受審人が正当の理由なく審判期日に出頭しないときは、その陳述を聴かないで裁決をすることができる。
         </article_item>
       </articles>
-      <articles number="第三十五条" title="（証拠の取調べ） ">
+      <articles number="第三十五条" title="（証拠の取調べ）">
         <article_item number="第三十五条">
           海難審判所は、申立てにより又は職権で、必要な証拠を取り調べることができる。
         </article_item>
@@ -321,7 +321,7 @@
           海難審判所は、勾引、押収、捜索その他人の身体、物若しくは場所についての強制の処分をし、若しくはさせ、又は過料の決定をすることができない。
         </article_item>
       </articles>
-      <articles number="第三十六条" title="（宣誓） ">
+      <articles number="第三十六条" title="（宣誓）">
         <article_item number="第三十六条">
           海難審判所は、前条第一項の証拠の取調べとして証人に証言をさせ、鑑定人に鑑定をさせ、通訳人に通訳をさせ、又は翻訳人に翻訳をさせる場合には、これらの者に国土交通省令で定める方法により宣誓をさせなければならない。ただし、国土交通省令で定める者には、宣誓をさせないことができる。
         </article_item>
@@ -374,7 +374,7 @@
       </articles>
     </section>
     <section title="第六章　裁決の取消しの訴え" type="Sho">
-      <articles number="第四十四条" title="（裁決の取消しの訴え） ">
+      <articles number="第四十四条" title="（裁決の取消しの訴え）">
         <article_item number="第四十四条">
           裁決の取消しの訴えは、東京高等裁判所の管轄に専属する。
         </article_item>
@@ -382,7 +382,7 @@
           前項の訴えは、裁決の言渡しの日から三十日以内に、これを提起しなければならない。
         </article_item>
         <article_item number="３">
-          前項の期間は、これを不変期間とする。 
+          前項の期間は、これを不変期間とする。
         </article_item>
       </articles>
       <articles number="第四十五条" title="（被告適格）">
@@ -390,9 +390,9 @@
           前条第一項の訴えにおいては、海難審判所長を被告とする。
         </article_item>
       </articles>
-      <articles number="第四十六条" title="（裁決の取消し） ">
+      <articles number="第四十六条" title="（裁決の取消し）">
         <article_item number="第四十六条">
-          裁判所は、請求が理由があると認めるときは、裁決を取り消さなければならない。 
+          裁判所は、請求が理由があると認めるときは、裁決を取り消さなければならない。
         </article_item>
         <article_item number="２">
           前項の場合には、海難審判所は、更に審判を行わなければならない。
@@ -402,7 +402,7 @@
         </article_item>
       </articles>
     </section>
-    <section title="第七章　裁決の執行 " type="Sho">
+    <section title="第七章　裁決の執行" type="Sho">
       <articles number="第四十七条" title="（裁決の執行時期）">
         <article_item number="第四十七条">
           裁決は、確定の後これを執行する。
@@ -413,12 +413,12 @@
           海難審判所の裁決は、理事官が、これを執行する。
         </article_item>
       </articles>
-      <articles number="第四十九条" title="（免許取消しの裁決の執行） ">
+      <articles number="第四十九条" title="（免許取消しの裁決の執行）">
         <article_item number="第四十九条">
           免許の取消しの裁決があつたときは、理事官は、海技免状（船舶職員及び小型船舶操縦者法第二十三条第七項において読み替えて準用する同法第七条第一項の承認証を含む。次条及び第五十一条において同じ。）若しくは小型船舶操縦免許証又は水先免状を取り上げ、これを国土交通大臣に送付しなければならない。
         </article_item>
       </articles>
-      <articles number="第五十条" title="（業務停止の裁決の執行） ">
+      <articles number="第五十条" title="（業務停止の裁決の執行）">
         <article_item number="第五十条">
           業務の停止の裁決があつたときは、理事官は、海技免状若しくは小型船舶操縦免許証又は水先免状を取り上げ、期間満了の後これを本人に還付しなければならない。
         </article_item>
@@ -435,10 +435,10 @@
           この法律の規定により出頭した証人、鑑定人、通訳人及び翻訳人には、国土交通省令の定めるところにより、旅費、日当及び宿泊料を支給する。
         </article_item>
         <article_item number="２">
-          鑑定人、通訳人又は翻訳人は、それぞれ政令で定めるところにより鑑定料、通訳料又は翻訳料を請求することができる。 
+          鑑定人、通訳人又は翻訳人は、それぞれ政令で定めるところにより鑑定料、通訳料又は翻訳料を請求することができる。
         </article_item>
       </articles>
-      <articles number="第五十三条" title="（行政手続法の適用除外） ">
+      <articles number="第五十三条" title="（行政手続法の適用除外）">
         <article_item number="第五十三条">
           この法律に基づいてされる処分及び行政指導については、行政手続法（平成五年法律第八十八号）第二章から第四章の二までの規定は、適用しない。
         </article_item>

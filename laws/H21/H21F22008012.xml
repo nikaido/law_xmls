@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <law xmlns="http://law.2nx.info/xml_law">
   <head>
-    <title>人事院規則八－一二（職員の任免） </title>
+    <title>人事院規則八－一二（職員の任免）</title>
     <defined>平成二十一年三月十八日人事院規則八－一二</defined>
   </head>
   <body>
@@ -109,8 +109,8 @@
           </article_item>
         </articles>
       </section>
-      <section title="第二節　採用 " type="Setsu">
-        <section title="第一款　試験採用 " type="Kan">
+      <section title="第二節　採用" type="Setsu">
+        <section title="第一款　試験採用" type="Kan">
           <articles number="第七条の二" title="（標準的な官職が係員である職制上の段階に属する官職に準ずる官職）">
             <article_item number="第七条の二">
               法第三十六条の標準的な官職が係員である職制上の段階に属する官職に準ずる官職として人事院規則で定める官職は、次に掲げる官職とする。
