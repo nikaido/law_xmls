@@ -3,7 +3,7 @@
   <head>
     <title>行政執行法人の役員の退職管理に関する政令</title>
     <defined>平成二十年十二月二十五日政令第三百九十号</defined>
-    <updated>平成二七年一二月二八日政令第四四四号</updated>
+    <updated>平成二九年一月二〇日政令第四号</updated>
   </head>
   <body>
     <preamble>
@@ -420,6 +420,9 @@
           </go_item>
           <go_item number="十五">
             株式会社海外通信・放送・郵便事業支援機構
+          </go_item>
+          <go_item number="十六">
+            外国人技能実習機構
           </go_item>
         </go>
       </article_item>

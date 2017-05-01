@@ -3,7 +3,7 @@
   <head>
     <title>国家公務員共済組合法施行令</title>
     <defined>昭和三十三年六月三十日政令第二百七号</defined>
-    <updated>平成二八年九月三〇日政令第三一九号</updated>
+    <updated>平成二九年一月二〇日政令第四号</updated>
   </head>
   <body>
     <preamble>
@@ -2066,6 +2066,9 @@
             <go_item number="百三十五">
               使用済燃料再処理機構
             </go_item>
+            <go_item number="百三十六">
+              外国人技能実習機構
+            </go_item>
           </go>
         </article_item>
         <article_item number="２">
@@ -2430,6 +2433,9 @@
             </go_item>
             <go_item number="百二十">
               使用済燃料再処理機構
+            </go_item>
+            <go_item number="百二十一">
+              外国人技能実習機構
             </go_item>
           </go>
         </article_item>

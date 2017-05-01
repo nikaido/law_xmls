@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>雇用保険法等の一部を改正する法律の施行に伴う関係政令の整備等及び経過措置に関する政令</title>
+    <defined>平成二十八年十二月二十六日政令第三百九十九号</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、雇用保険法等の一部を改正する法律（平成二十八年法律第十七号）の施行に伴い、並びに同法附則第三十三条、国家公務員退職手当法（昭和二十八年法律第百八十二号）第十条第十項、厚生年金保険法（昭和二十九年法律第百十五号）第二十三条の二第一項及び第百条の十三、行政手続法（平成五年法律第八十八号）第三十九条第四項第四号並びに青少年の雇用の促進等に関する法律（昭和四十五年法律第九十八号）第十一条（同法第三十三条の規定により読み替えて適用する場合を含む。）の規定に基づき、この政令を制定する。
+      </p>
+    </preamble>
+    <section title="第一章　関係政令の整備等" type="Sho">
+      <articles number="第一条" title="（雇用保険法施行令の一部改正）">
+        <article_item number="第一条">
+          略
+        </article_item>
+      </articles>
+      <articles number="第二条" title="（国家公務員退職手当法施行令の一部改正）">
+        <article_item number="第二条">
+          略
+        </article_item>
+      </articles>
+      <articles number="第三条" title="（厚生年金保険法施行令の一部改正）">
+        <article_item number="第三条">
+          略
+        </article_item>
+      </articles>
+      <articles number="第四条" title="（行政手続法施行令の一部改正）">
+        <article_item number="第四条">
+          略
+        </article_item>
+      </articles>
+      <articles number="第五条" title="（青少年の雇用の促進等に関する法律第十一条の労働に関する法律の規定等を定める政令の一部改正）">
+        <article_item number="第五条">
+          略
+        </article_item>
+      </articles>
+    </section>
+    <section title="第二章　経過措置" type="Sho">
+      <articles number="第六条">
+        <article_item number="第六条">
+          平成二十九年一月一日前に雇用保険法等の一部を改正する法律第八条の規定による改正後の育児休業、介護休業等育児又は家族介護を行う労働者の福祉に関する法律（平成三年法律第七十六号）第二条第一号に規定する子に該当する者（雇用保険法等の一部を改正する法律第八条の規定による改正前の育児休業、介護休業等育児又は家族介護を行う労働者の福祉に関する法律第二条第一号に規定する子を除く。）の養育を開始し、同日以後も引き続き当該者を養育し、又は養育していた厚生年金保険の被保険者又は被保険者であった者について厚生年金保険法第二十六条第一項の規定を適用する場合には、同項中「当該子を養育することとなつた日（」とあるのは「平成二十九年一月一日（」と、「当該子を養育することとなつた日の属する月の前月」とあるのは「平成二十八年十二月」と、「当該月」とあるのは「同月」とする。
+        </article_item>
+      </articles>
+    </section>
+  </body>
+</law>

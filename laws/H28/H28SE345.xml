@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law xmlns="http://law.2nx.info/xml_law">
+  <head>
+    <title>平成二十八年熊本地震による災害についての災害対策基本法第百二条第一項の政令で定める年度等を定める政令</title>
+    <defined>平成二十八年十一月七日政令第三百四十五号</defined>
+  </head>
+  <body>
+    <preamble>
+      <p>
+        内閣は、災害対策基本法（昭和三十六年法律第二百二十三号）第百二条第一項及び第三項の規定に基づき、この政令を制定する。
+      </p>
+    </preamble>
+    <articles number="第一条" title="（災害対策基本法第百二条第一項の政令で定める年度）">
+      <article_item number="第一条">
+        平成二十八年熊本地震による災害についての災害対策基本法第百二条第一項の政令で定める年度は、平成二十九年度とする。
+      </article_item>
+    </articles>
+    <articles number="第二条" title="（災害対策基本法施行令第四十三条第六項の規定の適用の特例）">
+      <article_item number="第二条">
+        平成二十八年熊本地震による災害についての災害対策基本法施行令（昭和三十七年政令第二百八十八号）第四十三条第六項の規定の適用については、同項中「四年」とあるのは「十五年」と、「一年」とあるのは「三年」とする。
+      </article_item>
+    </articles>
+  </body>
+</law>

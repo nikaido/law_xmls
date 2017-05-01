@@ -284,12 +284,18 @@
             数次再入国の許可　六千円
           </go_item>
           <go_item number="六">
-            就労資格証明書の交付　九百円
+            特定登録者カードの交付（再交付を除く。）　二千二百円
           </go_item>
           <go_item number="七">
-            在留カードの交付　千三百円
+            特定登録者カードの再交付　千百円
           </go_item>
           <go_item number="八">
+            就労資格証明書の交付　九百円
+          </go_item>
+          <go_item number="九">
+            在留カードの交付　千三百円
+          </go_item>
+          <go_item number="十">
             難民旅行証明書の交付　五千円
           </go_item>
         </go>

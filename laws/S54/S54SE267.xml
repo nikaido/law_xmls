@@ -3,7 +3,7 @@
   <head>
     <title>エネルギーの使用の合理化等に関する法律施行令</title>
     <defined>昭和五十四年九月二十九日政令第二百六十七号</defined>
-    <updated>平成二八年三月三一日政令第一〇三号</updated>
+    <updated>平成二九年二月二四日政令第二七号</updated>
   </head>
   <body>
     <preamble>
@@ -760,6 +760,9 @@
           <go_item number="二十八">
             エル・イー・ディー・ランプ（定格電圧が五〇ボルト以下のものその他経済産業省令で定めるものを除く。）
           </go_item>
+          <go_item number="二十九">
+            ショーケース（冷蔵又は冷凍の機能を有しないものその他経済産業省令で定めるものを除く。）
+          </go_item>
         </go>
       </article_item>
     </articles>
@@ -989,6 +992,14 @@
             </td>
             <td>
               二万五千個
+            </td>
+          </tr>
+          <tr>
+            <td>
+              二十九　ショーケース
+            </td>
+            <td>
+              百台
             </td>
           </tr>
         </table>

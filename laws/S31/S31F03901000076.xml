@@ -3,7 +3,7 @@
   <head>
     <title>船舶復原性規則</title>
     <defined>昭和三十一年十二月二十八日運輸省令第七十六号</defined>
-    <updated>平成二〇年一〇月二九日国土交通省令第八八号</updated>
+    <updated>平成二八年一二月二六日国土交通省令第八四号</updated>
   </head>
   <body>
     <preamble>
@@ -41,6 +41,11 @@
         </article_item>
         <article_item number="８">
           この省令において「復原力曲線」とは、直角座標において、横軸に船舶の横傾斜角を、縦軸に船舶の復原てこをとり、船舶が排水量を変化することなく横傾斜したときの復原てこを標示した曲線をいう。
+        </article_item>
+      </articles>
+      <articles number="第二条の二" title="（適用の特例）">
+        <article_item number="第二条の二">
+          極海域航行船（船舶設備規程第二条第六項に規定する極海域航行船をいう。以下この条及び第十条の二において同じ。）であつて公用に供するものについては、管海官庁が差し支えないと認める場合に限り、この省令の規定のうち極海域航行船に関する規定は、適用しない。
         </article_item>
       </articles>
     </section>
@@ -134,6 +139,11 @@
       <articles number="第十条" title="（液体の自由表面の影響）">
         <article_item number="第十条">
           復原性に関する事項の計算においては、船内における液体の自由表面による影響を考慮しなければならない。
+        </article_item>
+      </articles>
+      <articles number="第十条の二" title="（着氷の影響）">
+        <article_item number="第十条の二">
+          極海域航行船の復原性に関する事項の計算においては、着氷による影響を考慮しなければならない。ただし、管海官庁が当該船舶の航海の態様等を考慮して差し支えないと認める場合には、この限りでない。
         </article_item>
       </articles>
     </section>
